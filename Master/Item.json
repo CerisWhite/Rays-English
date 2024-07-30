@@ -1,0 +1,45 @@
+{
+  "xhash": "",
+  "mst_battle_items": [
+    {
+      "id": 1,
+      "name": "アップルグミ",
+      "explanation": "対象キャラのHPを30%回復する",
+      "mst_arte_subefffect_id": 1002,
+      "mst_effect_system_id": 203,
+      "se": "SEL_TO13_BTL_ATK_HEAL_01"
+    },
+    {
+      "id": 2,
+      "name": "蘇生",
+      "explanation": "",
+      "mst_arte_subefffect_id": 1067,
+      "mst_effect_system_id": 203,
+      "se": "SEL_TO13_BTL_ATK_HEAL_01"
+    },
+    {
+      "id": 3,
+      "name": "クイックネス",
+      "explanation": "",
+      "mst_arte_subefffect_id": 1045,
+      "mst_effect_system_id": 203,
+      "se": "SEL_TO13_BTL_ATK_HEAL_01"
+    },
+    {
+      "id": 4,
+      "name": "バリア",
+      "explanation": "",
+      "mst_arte_subefffect_id": 1014,
+      "mst_effect_system_id": 203,
+      "se": "SEL_TO13_BTL_ATK_HEAL_01"
+    },
+    {
+      "id": 5,
+      "name": "シャープネス",
+      "explanation": "",
+      "mst_arte_subefffect_id": 1047,
+      "mst_effect_system_id": 203,
+      "se": "SEL_TO13_BTL_ATK_HEAL_01"
+    }
+  ]
+}

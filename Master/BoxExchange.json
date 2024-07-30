@@ -1,0 +1,3475 @@
+{
+  "xhash": "",
+  "mst_box_exchange_events": [
+    {
+      "id": 18122501,
+      "mst_chapter_id": 411,
+      "mst_box_exchange_id": 191201
+    },
+    {
+      "id": 19032201,
+      "mst_chapter_id": 1331,
+      "mst_box_exchange_id": 190301
+    },
+    {
+      "id": 19071201,
+      "mst_chapter_id": 438,
+      "mst_box_exchange_id": 190701
+    },
+    {
+      "id": 19092502,
+      "mst_chapter_id": 449,
+      "mst_box_exchange_id": 190902
+    },
+    {
+      "id": 19092503,
+      "mst_chapter_id": 449,
+      "mst_box_exchange_id": 190903
+    },
+    {
+      "id": 19092504,
+      "mst_chapter_id": 449,
+      "mst_box_exchange_id": 190904
+    },
+    {
+      "id": 1911141,
+      "mst_chapter_id": 456,
+      "mst_box_exchange_id": 191101
+    },
+    {
+      "id": 1911142,
+      "mst_chapter_id": 456,
+      "mst_box_exchange_id": 191102
+    },
+    {
+      "id": 1911143,
+      "mst_chapter_id": 456,
+      "mst_box_exchange_id": 191103
+    },
+    {
+      "id": 20012401,
+      "mst_chapter_id": 466,
+      "mst_box_exchange_id": 200135
+    },
+    {
+      "id": 20012402,
+      "mst_chapter_id": 466,
+      "mst_box_exchange_id": 200136
+    },
+    {
+      "id": 20012403,
+      "mst_chapter_id": 466,
+      "mst_box_exchange_id": 200137
+    },
+    {
+      "id": 20031301,
+      "mst_chapter_id": 475,
+      "mst_box_exchange_id": 200308
+    },
+    {
+      "id": 20031302,
+      "mst_chapter_id": 475,
+      "mst_box_exchange_id": 200309
+    },
+    {
+      "id": 20031303,
+      "mst_chapter_id": 475,
+      "mst_box_exchange_id": 200310
+    },
+    {
+      "id": 20053101,
+      "mst_chapter_id": 483,
+      "mst_box_exchange_id": 200530
+    },
+    {
+      "id": 20053102,
+      "mst_chapter_id": 483,
+      "mst_box_exchange_id": 200531
+    },
+    {
+      "id": 20053103,
+      "mst_chapter_id": 483,
+      "mst_box_exchange_id": 200532
+    },
+    {
+      "id": 20083101,
+      "mst_chapter_id": 494,
+      "mst_box_exchange_id": 200830
+    },
+    {
+      "id": 20083102,
+      "mst_chapter_id": 494,
+      "mst_box_exchange_id": 200831
+    },
+    {
+      "id": 20083103,
+      "mst_chapter_id": 494,
+      "mst_box_exchange_id": 200832
+    },
+    {
+      "id": 20103101,
+      "mst_chapter_id": 505,
+      "mst_box_exchange_id": 201030
+    },
+    {
+      "id": 20103102,
+      "mst_chapter_id": 505,
+      "mst_box_exchange_id": 201031
+    },
+    {
+      "id": 20103103,
+      "mst_chapter_id": 505,
+      "mst_box_exchange_id": 201032
+    },
+    {
+      "id": 20123101,
+      "mst_chapter_id": 520,
+      "mst_box_exchange_id": 201230
+    },
+    {
+      "id": 20123102,
+      "mst_chapter_id": 520,
+      "mst_box_exchange_id": 201231
+    },
+    {
+      "id": 20123103,
+      "mst_chapter_id": 520,
+      "mst_box_exchange_id": 201232
+    },
+    {
+      "id": 21021301,
+      "mst_chapter_id": 527,
+      "mst_box_exchange_id": 210210
+    },
+    {
+      "id": 21021302,
+      "mst_chapter_id": 527,
+      "mst_box_exchange_id": 210211
+    },
+    {
+      "id": 21021303,
+      "mst_chapter_id": 527,
+      "mst_box_exchange_id": 210212
+    },
+    {
+      "id": 21041901,
+      "mst_chapter_id": 537,
+      "mst_box_exchange_id": 210419
+    },
+    {
+      "id": 21041902,
+      "mst_chapter_id": 537,
+      "mst_box_exchange_id": 210420
+    },
+    {
+      "id": 21041903,
+      "mst_chapter_id": 537,
+      "mst_box_exchange_id": 210421
+    },
+    {
+      "id": 21061401,
+      "mst_chapter_id": 542,
+      "mst_box_exchange_id": 210614
+    },
+    {
+      "id": 21061402,
+      "mst_chapter_id": 542,
+      "mst_box_exchange_id": 210615
+    },
+    {
+      "id": 21061403,
+      "mst_chapter_id": 542,
+      "mst_box_exchange_id": 210616
+    },
+    {
+      "id": 21082001,
+      "mst_chapter_id": 551,
+      "mst_box_exchange_id": 210820
+    },
+    {
+      "id": 21082002,
+      "mst_chapter_id": 551,
+      "mst_box_exchange_id": 210821
+    },
+    {
+      "id": 21082003,
+      "mst_chapter_id": 551,
+      "mst_box_exchange_id": 210822
+    },
+    {
+      "id": 21101001,
+      "mst_chapter_id": 556,
+      "mst_box_exchange_id": 211010
+    },
+    {
+      "id": 21101002,
+      "mst_chapter_id": 556,
+      "mst_box_exchange_id": 211011
+    },
+    {
+      "id": 21101003,
+      "mst_chapter_id": 556,
+      "mst_box_exchange_id": 211012
+    },
+    {
+      "id": 21121001,
+      "mst_chapter_id": 562,
+      "mst_box_exchange_id": 211210
+    },
+    {
+      "id": 21121002,
+      "mst_chapter_id": 562,
+      "mst_box_exchange_id": 211211
+    },
+    {
+      "id": 21121003,
+      "mst_chapter_id": 562,
+      "mst_box_exchange_id": 211212
+    },
+    {
+      "id": 22022801,
+      "mst_chapter_id": 568,
+      "mst_box_exchange_id": 220228
+    },
+    {
+      "id": 22022802,
+      "mst_chapter_id": 5681,
+      "mst_box_exchange_id": 220229
+    },
+    {
+      "id": 22042101,
+      "mst_chapter_id": 577,
+      "mst_box_exchange_id": 220421
+    },
+    {
+      "id": 22042102,
+      "mst_chapter_id": 5771,
+      "mst_box_exchange_id": 220422
+    },
+    {
+      "id": 22051301,
+      "mst_chapter_id": 580,
+      "mst_box_exchange_id": 220513
+    },
+    {
+      "id": 22051302,
+      "mst_chapter_id": 5801,
+      "mst_box_exchange_id": 220514
+    },
+    {
+      "id": 22052201,
+      "mst_chapter_id": 581,
+      "mst_box_exchange_id": 220521
+    },
+    {
+      "id": 22052202,
+      "mst_chapter_id": 581,
+      "mst_box_exchange_id": 220522
+    },
+    {
+      "id": 22052203,
+      "mst_chapter_id": 581,
+      "mst_box_exchange_id": 220523
+    },
+    {
+      "id": 22062001,
+      "mst_chapter_id": 584,
+      "mst_box_exchange_id": 220620
+    },
+    {
+      "id": 22062002,
+      "mst_chapter_id": 5841,
+      "mst_box_exchange_id": 220621
+    },
+    {
+      "id": 22073101,
+      "mst_chapter_id": 589,
+      "mst_box_exchange_id": 220731
+    },
+    {
+      "id": 22073102,
+      "mst_chapter_id": 5892,
+      "mst_box_exchange_id": 220732
+    },
+    {
+      "id": 22081201,
+      "mst_chapter_id": 592,
+      "mst_box_exchange_id": 220812
+    },
+    {
+      "id": 22081202,
+      "mst_chapter_id": 592,
+      "mst_box_exchange_id": 220813
+    },
+    {
+      "id": 22081203,
+      "mst_chapter_id": 592,
+      "mst_box_exchange_id": 220814
+    },
+    {
+      "id": 22092101,
+      "mst_chapter_id": 596,
+      "mst_box_exchange_id": 220921
+    },
+    {
+      "id": 22092102,
+      "mst_chapter_id": 5961,
+      "mst_box_exchange_id": 220922
+    },
+    {
+      "id": 22102101,
+      "mst_chapter_id": 650,
+      "mst_box_exchange_id": 221021
+    },
+    {
+      "id": 22102102,
+      "mst_chapter_id": 6501,
+      "mst_box_exchange_id": 221022
+    },
+    {
+      "id": 22112101,
+      "mst_chapter_id": 654,
+      "mst_box_exchange_id": 221121
+    },
+    {
+      "id": 22112102,
+      "mst_chapter_id": 654,
+      "mst_box_exchange_id": 221122
+    },
+    {
+      "id": 22112103,
+      "mst_chapter_id": 654,
+      "mst_box_exchange_id": 221123
+    },
+    {
+      "id": 22120901,
+      "mst_chapter_id": 656,
+      "mst_box_exchange_id": 221209
+    },
+    {
+      "id": 22120902,
+      "mst_chapter_id": 6561,
+      "mst_box_exchange_id": 221210
+    },
+    {
+      "id": 23051501,
+      "mst_chapter_id": 675,
+      "mst_box_exchange_id": 230515
+    },
+    {
+      "id": 23051502,
+      "mst_chapter_id": 6751,
+      "mst_box_exchange_id": 230516
+    },
+    {
+      "id": 23061501,
+      "mst_chapter_id": 679,
+      "mst_box_exchange_id": 230615
+    },
+    {
+      "id": 23061502,
+      "mst_chapter_id": 6791,
+      "mst_box_exchange_id": 230616
+    },
+    {
+      "id": 23083101,
+      "mst_chapter_id": 687,
+      "mst_box_exchange_id": 230831
+    },
+    {
+      "id": 23083102,
+      "mst_chapter_id": 6871,
+      "mst_box_exchange_id": 230832
+    },
+    {
+      "id": 23092001,
+      "mst_chapter_id": 690,
+      "mst_box_exchange_id": 230920
+    },
+    {
+      "id": 23092002,
+      "mst_chapter_id": 6901,
+      "mst_box_exchange_id": 230921
+    },
+    {
+      "id": 23102001,
+      "mst_chapter_id": 694,
+      "mst_box_exchange_id": 231020
+    },
+    {
+      "id": 23102002,
+      "mst_chapter_id": 694,
+      "mst_box_exchange_id": 231021
+    },
+    {
+      "id": 23102003,
+      "mst_chapter_id": 694,
+      "mst_box_exchange_id": 231022
+    },
+    {
+      "id": 23103101,
+      "mst_chapter_id": 695,
+      "mst_box_exchange_id": 231031
+    },
+    {
+      "id": 23103102,
+      "mst_chapter_id": 6951,
+      "mst_box_exchange_id": 231032
+    },
+    {
+      "id": 23112001,
+      "mst_chapter_id": 698,
+      "mst_box_exchange_id": 231120
+    },
+    {
+      "id": 23112002,
+      "mst_chapter_id": 6981,
+      "mst_box_exchange_id": 231121
+    },
+    {
+      "id": 23122001,
+      "mst_chapter_id": 702,
+      "mst_box_exchange_id": 231220
+    },
+    {
+      "id": 23122002,
+      "mst_chapter_id": 7021,
+      "mst_box_exchange_id": 231221
+    },
+    {
+      "id": 24022801,
+      "mst_chapter_id": 711,
+      "mst_box_exchange_id": 240228
+    },
+    {
+      "id": 24022802,
+      "mst_chapter_id": 7111,
+      "mst_box_exchange_id": 240229
+    },
+    {
+      "id": 24032101,
+      "mst_chapter_id": 714,
+      "mst_box_exchange_id": 240321
+    },
+    {
+      "id": 24032102,
+      "mst_chapter_id": 7141,
+      "mst_box_exchange_id": 240322
+    },
+    {
+      "id": 24043001,
+      "mst_chapter_id": 720,
+      "mst_box_exchange_id": 240430
+    },
+    {
+      "id": 24043002,
+      "mst_chapter_id": 720,
+      "mst_box_exchange_id": 240431
+    },
+    {
+      "id": 24043003,
+      "mst_chapter_id": 720,
+      "mst_box_exchange_id": 240432
+    },
+    {
+      "id": 24061001,
+      "mst_chapter_id": 724,
+      "mst_box_exchange_id": 240610
+    }
+  ],
+  "mst_box_exchanges": [
+    {
+      "id": 191201,
+      "last_step": 4,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 18122513,
+      "start_date": "2018-12-25T05:00:00.0000000Z",
+      "end_date": "2019-01-04T14:59:59.0000000Z"
+    },
+    {
+      "id": 190301,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19032213,
+      "start_date": "2019-03-22T03:00:00.0000000Z",
+      "end_date": "2019-04-22T04:59:59.0000000Z"
+    },
+    {
+      "id": 190701,
+      "last_step": 4,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19071213,
+      "start_date": "2019-07-12T03:00:00.0000000Z",
+      "end_date": "2019-08-07T04:59:59.0000000Z"
+    },
+    {
+      "id": 190902,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19092513,
+      "start_date": "2019-09-25T05:00:00.0000000Z",
+      "end_date": "2019-10-15T04:59:59.0000000Z"
+    },
+    {
+      "id": 190903,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19092513,
+      "start_date": "2019-09-25T05:00:00.0000000Z",
+      "end_date": "2019-10-15T04:59:59.0000000Z"
+    },
+    {
+      "id": 190904,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19092513,
+      "start_date": "2019-09-25T05:00:00.0000000Z",
+      "end_date": "2019-10-15T04:59:59.0000000Z"
+    },
+    {
+      "id": 191101,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19111413,
+      "start_date": "2019-11-14T05:00:00.0000000Z",
+      "end_date": "2019-12-08T04:59:59.0000000Z"
+    },
+    {
+      "id": 191102,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19111413,
+      "start_date": "2019-11-14T05:00:00.0000000Z",
+      "end_date": "2019-12-08T04:59:59.0000000Z"
+    },
+    {
+      "id": 191103,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 19111413,
+      "start_date": "2019-11-14T05:00:00.0000000Z",
+      "end_date": "2019-12-08T04:59:59.0000000Z"
+    },
+    {
+      "id": 200135,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031217,
+      "start_date": "2020-01-24T05:00:00.0000000Z",
+      "end_date": "2020-02-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 200136,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031217,
+      "start_date": "2020-01-24T05:00:00.0000000Z",
+      "end_date": "2020-02-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 200137,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031217,
+      "start_date": "2020-01-24T05:00:00.0000000Z",
+      "end_date": "2020-02-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 200308,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031341,
+      "start_date": "2020-03-13T05:00:00.0000000Z",
+      "end_date": "2020-03-31T04:59:59.0000000Z"
+    },
+    {
+      "id": 200309,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031341,
+      "start_date": "2020-03-13T05:00:00.0000000Z",
+      "end_date": "2020-03-31T04:59:59.0000000Z"
+    },
+    {
+      "id": 200310,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20031341,
+      "start_date": "2020-03-13T05:00:00.0000000Z",
+      "end_date": "2020-03-31T04:59:59.0000000Z"
+    },
+    {
+      "id": 200530,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20053141,
+      "start_date": "2020-05-31T05:00:00.0000000Z",
+      "end_date": "2020-06-20T04:59:59.0000000Z"
+    },
+    {
+      "id": 200531,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20053141,
+      "start_date": "2020-05-31T05:00:00.0000000Z",
+      "end_date": "2020-06-20T04:59:59.0000000Z"
+    },
+    {
+      "id": 200532,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20053141,
+      "start_date": "2020-05-31T05:00:00.0000000Z",
+      "end_date": "2020-06-20T04:59:59.0000000Z"
+    },
+    {
+      "id": 200830,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20083141,
+      "start_date": "2020-08-31T05:00:00.0000000Z",
+      "end_date": "2020-09-22T01:59:59.0000000Z"
+    },
+    {
+      "id": 200831,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20083141,
+      "start_date": "2020-08-31T05:00:00.0000000Z",
+      "end_date": "2020-09-22T01:59:59.0000000Z"
+    },
+    {
+      "id": 200832,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20083141,
+      "start_date": "2020-08-31T05:00:00.0000000Z",
+      "end_date": "2020-09-22T01:59:59.0000000Z"
+    },
+    {
+      "id": 201030,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20103115,
+      "start_date": "2020-10-31T05:00:00.0000000Z",
+      "end_date": "2020-11-18T01:59:59.0000000Z"
+    },
+    {
+      "id": 201031,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20103115,
+      "start_date": "2020-10-31T05:00:00.0000000Z",
+      "end_date": "2020-11-18T01:59:59.0000000Z"
+    },
+    {
+      "id": 201032,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20103115,
+      "start_date": "2020-10-31T05:00:00.0000000Z",
+      "end_date": "2020-11-18T01:59:59.0000000Z"
+    },
+    {
+      "id": 201230,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20123115,
+      "start_date": "2020-12-31T05:00:00.0000000Z",
+      "end_date": "2021-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 201231,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20123115,
+      "start_date": "2020-12-31T05:00:00.0000000Z",
+      "end_date": "2021-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 201232,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 20123115,
+      "start_date": "2020-12-31T05:00:00.0000000Z",
+      "end_date": "2021-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 210210,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21021315,
+      "start_date": "2021-02-13T05:00:00.0000000Z",
+      "end_date": "2021-03-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 210211,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21021315,
+      "start_date": "2021-02-13T05:00:00.0000000Z",
+      "end_date": "2021-03-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 210212,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21021315,
+      "start_date": "2021-02-13T05:00:00.0000000Z",
+      "end_date": "2021-03-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 210419,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21041932,
+      "start_date": "2021-04-19T05:00:00.0000000Z",
+      "end_date": "2021-05-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210420,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21041932,
+      "start_date": "2021-04-19T05:00:00.0000000Z",
+      "end_date": "2021-05-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210421,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21041932,
+      "start_date": "2021-04-19T05:00:00.0000000Z",
+      "end_date": "2021-05-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210614,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21061531,
+      "start_date": "2021-06-15T05:00:00.0000000Z",
+      "end_date": "2021-07-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210615,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21061531,
+      "start_date": "2021-06-15T05:00:00.0000000Z",
+      "end_date": "2021-07-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210616,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21061531,
+      "start_date": "2021-06-15T05:00:00.0000000Z",
+      "end_date": "2021-07-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210820,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21082030,
+      "start_date": "2021-08-20T05:00:00.0000000Z",
+      "end_date": "2021-09-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210821,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21082030,
+      "start_date": "2021-08-20T05:00:00.0000000Z",
+      "end_date": "2021-09-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 210822,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21082030,
+      "start_date": "2021-08-20T05:00:00.0000000Z",
+      "end_date": "2021-09-08T01:59:59.0000000Z"
+    },
+    {
+      "id": 211010,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21101132,
+      "start_date": "2021-10-11T05:00:00.0000000Z",
+      "end_date": "2021-10-29T01:59:59.0000000Z"
+    },
+    {
+      "id": 211011,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21101132,
+      "start_date": "2021-10-11T05:00:00.0000000Z",
+      "end_date": "2021-10-29T01:59:59.0000000Z"
+    },
+    {
+      "id": 211012,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21101132,
+      "start_date": "2021-10-11T05:00:00.0000000Z",
+      "end_date": "2021-10-29T01:59:59.0000000Z"
+    },
+    {
+      "id": 211210,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21121330,
+      "start_date": "2021-12-11T05:00:00.0000000Z",
+      "end_date": "2022-01-01T01:59:59.0000000Z"
+    },
+    {
+      "id": 211211,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21121330,
+      "start_date": "2021-12-11T05:00:00.0000000Z",
+      "end_date": "2022-01-01T01:59:59.0000000Z"
+    },
+    {
+      "id": 211212,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 21121330,
+      "start_date": "2021-12-11T05:00:00.0000000Z",
+      "end_date": "2022-01-01T01:59:59.0000000Z"
+    },
+    {
+      "id": 220228,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22022818,
+      "start_date": "2022-02-28T03:00:00.0000000Z",
+      "end_date": "2022-03-18T01:59:59.0000000Z"
+    },
+    {
+      "id": 220229,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22022819,
+      "start_date": "2022-02-28T03:00:00.0000000Z",
+      "end_date": "2022-03-18T01:59:59.0000000Z"
+    },
+    {
+      "id": 220421,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22042118,
+      "start_date": "2022-04-21T05:00:00.0000000Z",
+      "end_date": "2022-05-07T01:59:59.0000000Z"
+    },
+    {
+      "id": 220422,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22042119,
+      "start_date": "2022-04-21T05:00:00.0000000Z",
+      "end_date": "2022-05-07T01:59:59.0000000Z"
+    },
+    {
+      "id": 220513,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22051316,
+      "start_date": "2022-05-13T05:00:00.0000000Z",
+      "end_date": "2022-06-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 220514,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22051317,
+      "start_date": "2022-05-13T05:00:00.0000000Z",
+      "end_date": "2022-06-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 220521,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22052230,
+      "start_date": "2022-05-22T05:00:00.0000000Z",
+      "end_date": "2022-06-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220522,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22052230,
+      "start_date": "2022-05-22T05:00:00.0000000Z",
+      "end_date": "2022-06-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220523,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22052230,
+      "start_date": "2022-05-22T05:00:00.0000000Z",
+      "end_date": "2022-06-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220620,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22062016,
+      "start_date": "2022-06-20T05:00:00.0000000Z",
+      "end_date": "2022-07-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220621,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22062017,
+      "start_date": "2022-06-20T05:00:00.0000000Z",
+      "end_date": "2022-07-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220731,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22072130,
+      "start_date": "2022-07-21T05:00:00.0000000Z",
+      "end_date": "2022-08-14T14:59:59.0000000Z"
+    },
+    {
+      "id": 220732,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22072131,
+      "start_date": "2022-07-21T05:00:00.0000000Z",
+      "end_date": "2022-08-14T14:59:59.0000000Z"
+    },
+    {
+      "id": 220812,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22081230,
+      "start_date": "2022-08-12T05:00:00.0000000Z",
+      "end_date": "2022-09-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 220813,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22081230,
+      "start_date": "2022-08-12T05:00:00.0000000Z",
+      "end_date": "2022-09-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 220814,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22081230,
+      "start_date": "2022-08-12T05:00:00.0000000Z",
+      "end_date": "2022-09-05T01:59:59.0000000Z"
+    },
+    {
+      "id": 220921,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22092115,
+      "start_date": "2022-09-21T05:00:00.0000000Z",
+      "end_date": "2022-10-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 220922,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22092116,
+      "start_date": "2022-09-21T05:00:00.0000000Z",
+      "end_date": "2022-10-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221021,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22102132,
+      "start_date": "2022-10-21T05:00:00.0000000Z",
+      "end_date": "2022-11-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221022,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22102133,
+      "start_date": "2022-10-21T05:00:00.0000000Z",
+      "end_date": "2022-11-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221121,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22112130,
+      "start_date": "2022-11-21T05:00:00.0000000Z",
+      "end_date": "2022-12-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221122,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22112130,
+      "start_date": "2022-11-21T05:00:00.0000000Z",
+      "end_date": "2022-12-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221123,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22112130,
+      "start_date": "2022-11-21T05:00:00.0000000Z",
+      "end_date": "2022-12-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 221209,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22120916,
+      "start_date": "2022-12-09T05:00:00.0000000Z",
+      "end_date": "2023-01-03T01:59:59.0000000Z"
+    },
+    {
+      "id": 221210,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 22120917,
+      "start_date": "2022-12-09T05:00:00.0000000Z",
+      "end_date": "2023-01-03T01:59:59.0000000Z"
+    },
+    {
+      "id": 230515,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23051516,
+      "start_date": "2023-05-15T05:00:00.0000000Z",
+      "end_date": "2023-06-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 230516,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23051517,
+      "start_date": "2023-05-15T05:00:00.0000000Z",
+      "end_date": "2023-06-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 230615,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23061516,
+      "start_date": "2023-06-15T05:00:00.0000000Z",
+      "end_date": "2023-07-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 230616,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23061517,
+      "start_date": "2023-06-15T05:00:00.0000000Z",
+      "end_date": "2023-07-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 230831,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23083117,
+      "start_date": "2023-08-31T05:00:00.0000000Z",
+      "end_date": "2023-09-25T01:59:59.0000000Z"
+    },
+    {
+      "id": 230832,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23083118,
+      "start_date": "2023-08-31T05:00:00.0000000Z",
+      "end_date": "2023-09-25T01:59:59.0000000Z"
+    },
+    {
+      "id": 230920,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23092015,
+      "start_date": "2023-09-20T05:00:00.0000000Z",
+      "end_date": "2023-10-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 230921,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23092016,
+      "start_date": "2023-09-20T05:00:00.0000000Z",
+      "end_date": "2023-10-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231020,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23102040,
+      "start_date": "2023-10-20T05:00:00.0000000Z",
+      "end_date": "2023-11-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231021,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23102040,
+      "start_date": "2023-10-20T05:00:00.0000000Z",
+      "end_date": "2023-11-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231022,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23102040,
+      "start_date": "2023-10-20T05:00:00.0000000Z",
+      "end_date": "2023-11-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231031,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23103116,
+      "start_date": "2023-10-31T05:00:00.0000000Z",
+      "end_date": "2023-11-24T01:59:59.0000000Z"
+    },
+    {
+      "id": 231032,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23103117,
+      "start_date": "2023-10-31T05:00:00.0000000Z",
+      "end_date": "2023-11-24T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23112016,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231121,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23112017,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231220,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23122016,
+      "start_date": "2023-12-20T05:00:00.0000000Z",
+      "end_date": "2024-01-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 231221,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 23122017,
+      "start_date": "2023-12-20T05:00:00.0000000Z",
+      "end_date": "2024-01-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 240228,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24022825,
+      "start_date": "2024-02-28T05:00:00.0000000Z",
+      "end_date": "2024-03-25T01:59:59.0000000Z"
+    },
+    {
+      "id": 240229,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24022826,
+      "start_date": "2024-02-28T05:00:00.0000000Z",
+      "end_date": "2024-03-25T01:59:59.0000000Z"
+    },
+    {
+      "id": 240321,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24032115,
+      "start_date": "2024-03-21T05:00:00.0000000Z",
+      "end_date": "2024-04-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 240322,
+      "last_step": 3,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24032116,
+      "start_date": "2024-03-21T05:00:00.0000000Z",
+      "end_date": "2024-04-14T01:59:59.0000000Z"
+    },
+    {
+      "id": 240430,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24043032,
+      "start_date": "2024-04-30T05:00:00.0000000Z",
+      "end_date": "2024-05-24T01:59:59.0000000Z"
+    },
+    {
+      "id": 240431,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24043032,
+      "start_date": "2024-04-30T05:00:00.0000000Z",
+      "end_date": "2024-05-24T01:59:59.0000000Z"
+    },
+    {
+      "id": 240432,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24043032,
+      "start_date": "2024-04-30T05:00:00.0000000Z",
+      "end_date": "2024-05-24T01:59:59.0000000Z"
+    },
+    {
+      "id": 240610,
+      "last_step": 5,
+      "loop_flag": true,
+      "view_end_date": 1,
+      "announce_id": 24061010,
+      "start_date": "2024-06-10T05:00:00.0000000Z",
+      "end_date": "2024-07-04T01:59:59.0000000Z"
+    }
+  ],
+  "mst_box_exchange_precaution_statements": [
+    {
+      "mst_box_exchange_id": 181001,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181002,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 180701,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181101,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181102,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181103,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181104,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 181105,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 999901,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 191201,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 190301,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップは変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 190701,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から3回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・4回目以降はラインナップを入れ替えるたび4回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 190902,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 190903,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 190904,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 191101,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 191102,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 191103,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200135,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200136,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200137,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200308,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200309,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200310,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200530,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200531,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200532,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200830,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200831,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 200832,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201030,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201031,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201032,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201230,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201231,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 201232,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210210,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210211,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210212,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210419,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210420,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210421,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で最大50回引き換えることができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210614,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210615,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210616,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210820,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210821,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 210822,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211010,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211011,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211012,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211210,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211211,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 211212,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220228,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220229,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220421,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220422,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220513,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220514,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220521,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220522,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220523,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220620,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220621,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220731,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220732,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220812,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220813,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220814,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220921,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 220922,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221021,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221022,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221121,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221122,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221123,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221209,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 221210,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230515,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230516,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230615,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230616,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230831,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230832,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230920,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 230921,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231020,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231021,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231022,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231031,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231032,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231120,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231121,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231220,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 231221,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240228,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240229,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240321,
+      "precaution_statement": "・交易品引換所は、交易品30個を使用して\n　1回の引換が可能となります。\n・交易品を複数回分の引換数所持している場合、\n　一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は300回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240322,
+      "precaution_statement": "・特別交易品引換所は「交易品SP」を使用して引換可能となります。\n・「交易品SP」を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から2回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・3回目以降はラインナップを入れ替えるたび3回目の報酬と同様の\n　ラインナップが報酬となります。\n・3回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は50回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品SP」は現在の特別交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240430,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240431,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240432,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は600回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    },
+    {
+      "mst_box_exchange_id": 240610,
+      "precaution_statement": "・交易品引換所は、交易品を使用して引換可能となります。\n・交易品を複数個所持している場合、一度で複数回引き換えることができます。\n　最大引換回数は「引換所設定」で変更する事ができます。\n・現在のラインナップのうち、目玉報酬を獲得するか、\n　全ての報酬を獲得することで次のラインナップに入れ替えることができます。\n・目玉報酬を獲得した場合でも、「閉じる」「もう一度」を選択した場合、\n　現在のラインナップを維持することができます。\n・ラインナップを維持した後に入れ替えをする場合は、\n　「現在のラインナップ」ボタン内の「入れ替える」ボタンにて\n　ラインナップを入れ替えることができます。\n・1回目から4回目のラインナップを変更した場合、\n　未獲得の報酬は獲得できなくなりますのでご注意ください。\n・5回目以降はラインナップを入れ替えるたび5回目の報酬と同様の\n　ラインナップが報酬となります。\n・5回目以降のラインナップは入れ替え時のみ「コンプリート引換」を行えます。\n　「コンプリート引換」は630回まとめて引換を行います。\n・1回引換と複数回引換のいずれの手段でも提供割合は変わりません。\n・「交易品」は現在の交易品引換所の開催期間が終了すると\n　消失しますのでご注意ください。"
+    }
+  ],
+  "mst_box_exchange_slide_shows": [
+    {
+      "id": 18122501,
+      "mst_box_exchange_id": 191201,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19032201,
+      "mst_box_exchange_id": 190301,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19032202,
+      "mst_box_exchange_id": 190301,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19071201,
+      "mst_box_exchange_id": 190701,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19071202,
+      "mst_box_exchange_id": 190701,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092021,
+      "mst_box_exchange_id": 190902,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092022,
+      "mst_box_exchange_id": 190902,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092031,
+      "mst_box_exchange_id": 190903,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092032,
+      "mst_box_exchange_id": 190903,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092041,
+      "mst_box_exchange_id": 190904,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19092042,
+      "mst_box_exchange_id": 190904,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111401,
+      "mst_box_exchange_id": 191101,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111402,
+      "mst_box_exchange_id": 191101,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111403,
+      "mst_box_exchange_id": 191102,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111404,
+      "mst_box_exchange_id": 191102,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111405,
+      "mst_box_exchange_id": 191103,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 19111406,
+      "mst_box_exchange_id": 191103,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001351,
+      "mst_box_exchange_id": 200135,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001352,
+      "mst_box_exchange_id": 200135,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001361,
+      "mst_box_exchange_id": 200136,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001362,
+      "mst_box_exchange_id": 200136,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001371,
+      "mst_box_exchange_id": 200137,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2001372,
+      "mst_box_exchange_id": 200137,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003081,
+      "mst_box_exchange_id": 200308,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003082,
+      "mst_box_exchange_id": 200308,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003091,
+      "mst_box_exchange_id": 200309,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003092,
+      "mst_box_exchange_id": 200309,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003101,
+      "mst_box_exchange_id": 200310,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2003102,
+      "mst_box_exchange_id": 200310,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005301,
+      "mst_box_exchange_id": 200530,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005302,
+      "mst_box_exchange_id": 200530,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005311,
+      "mst_box_exchange_id": 200531,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005312,
+      "mst_box_exchange_id": 200531,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005321,
+      "mst_box_exchange_id": 200532,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2005322,
+      "mst_box_exchange_id": 200532,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008301,
+      "mst_box_exchange_id": 200830,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008302,
+      "mst_box_exchange_id": 200830,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008311,
+      "mst_box_exchange_id": 200831,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008312,
+      "mst_box_exchange_id": 200831,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008321,
+      "mst_box_exchange_id": 200832,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2008322,
+      "mst_box_exchange_id": 200832,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010301,
+      "mst_box_exchange_id": 201030,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010302,
+      "mst_box_exchange_id": 201030,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010311,
+      "mst_box_exchange_id": 201031,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010312,
+      "mst_box_exchange_id": 201031,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010321,
+      "mst_box_exchange_id": 201032,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2010322,
+      "mst_box_exchange_id": 201032,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012301,
+      "mst_box_exchange_id": 201230,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012302,
+      "mst_box_exchange_id": 201230,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012311,
+      "mst_box_exchange_id": 201231,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012312,
+      "mst_box_exchange_id": 201231,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012321,
+      "mst_box_exchange_id": 201232,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2012322,
+      "mst_box_exchange_id": 201232,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102101,
+      "mst_box_exchange_id": 210210,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102102,
+      "mst_box_exchange_id": 210210,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102111,
+      "mst_box_exchange_id": 210211,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102112,
+      "mst_box_exchange_id": 210211,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102121,
+      "mst_box_exchange_id": 210212,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2102122,
+      "mst_box_exchange_id": 210212,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104191,
+      "mst_box_exchange_id": 210419,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104192,
+      "mst_box_exchange_id": 210419,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104201,
+      "mst_box_exchange_id": 210420,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104202,
+      "mst_box_exchange_id": 210420,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104211,
+      "mst_box_exchange_id": 210421,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2104212,
+      "mst_box_exchange_id": 210421,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106141,
+      "mst_box_exchange_id": 210614,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106142,
+      "mst_box_exchange_id": 210614,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106151,
+      "mst_box_exchange_id": 210615,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106152,
+      "mst_box_exchange_id": 210615,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106161,
+      "mst_box_exchange_id": 210616,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2106162,
+      "mst_box_exchange_id": 210616,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108201,
+      "mst_box_exchange_id": 210820,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108202,
+      "mst_box_exchange_id": 210820,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108211,
+      "mst_box_exchange_id": 210821,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108212,
+      "mst_box_exchange_id": 210821,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108221,
+      "mst_box_exchange_id": 210822,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2108222,
+      "mst_box_exchange_id": 210822,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110101,
+      "mst_box_exchange_id": 211010,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110102,
+      "mst_box_exchange_id": 211010,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110111,
+      "mst_box_exchange_id": 211011,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110112,
+      "mst_box_exchange_id": 211011,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110121,
+      "mst_box_exchange_id": 211012,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2110122,
+      "mst_box_exchange_id": 211012,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112101,
+      "mst_box_exchange_id": 211210,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112102,
+      "mst_box_exchange_id": 211210,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112111,
+      "mst_box_exchange_id": 211211,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112112,
+      "mst_box_exchange_id": 211211,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112121,
+      "mst_box_exchange_id": 211212,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2112122,
+      "mst_box_exchange_id": 211212,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2202281,
+      "mst_box_exchange_id": 220228,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2202282,
+      "mst_box_exchange_id": 220228,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2202291,
+      "mst_box_exchange_id": 220229,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2202292,
+      "mst_box_exchange_id": 220229,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2204211,
+      "mst_box_exchange_id": 220421,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2204212,
+      "mst_box_exchange_id": 220421,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2204221,
+      "mst_box_exchange_id": 220422,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2204222,
+      "mst_box_exchange_id": 220422,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205131,
+      "mst_box_exchange_id": 220513,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205132,
+      "mst_box_exchange_id": 220513,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205141,
+      "mst_box_exchange_id": 220514,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205142,
+      "mst_box_exchange_id": 220514,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205211,
+      "mst_box_exchange_id": 220521,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205212,
+      "mst_box_exchange_id": 220521,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205221,
+      "mst_box_exchange_id": 220522,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205222,
+      "mst_box_exchange_id": 220522,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205231,
+      "mst_box_exchange_id": 220523,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2205232,
+      "mst_box_exchange_id": 220523,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2206201,
+      "mst_box_exchange_id": 220620,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2206202,
+      "mst_box_exchange_id": 220620,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2206211,
+      "mst_box_exchange_id": 220621,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2206212,
+      "mst_box_exchange_id": 220621,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2207311,
+      "mst_box_exchange_id": 220731,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2207312,
+      "mst_box_exchange_id": 220731,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2207321,
+      "mst_box_exchange_id": 220732,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2207322,
+      "mst_box_exchange_id": 220732,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208121,
+      "mst_box_exchange_id": 220812,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208122,
+      "mst_box_exchange_id": 220812,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208131,
+      "mst_box_exchange_id": 220813,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208132,
+      "mst_box_exchange_id": 220813,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208141,
+      "mst_box_exchange_id": 220814,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2208142,
+      "mst_box_exchange_id": 220814,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2209211,
+      "mst_box_exchange_id": 220921,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2209212,
+      "mst_box_exchange_id": 220921,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2209221,
+      "mst_box_exchange_id": 220922,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2209222,
+      "mst_box_exchange_id": 220922,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2210211,
+      "mst_box_exchange_id": 221021,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2210212,
+      "mst_box_exchange_id": 221021,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2210221,
+      "mst_box_exchange_id": 221022,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2210222,
+      "mst_box_exchange_id": 221022,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211211,
+      "mst_box_exchange_id": 221121,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211212,
+      "mst_box_exchange_id": 221121,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211221,
+      "mst_box_exchange_id": 221122,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211222,
+      "mst_box_exchange_id": 221122,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211231,
+      "mst_box_exchange_id": 221123,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2211232,
+      "mst_box_exchange_id": 221123,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2212091,
+      "mst_box_exchange_id": 221209,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2212092,
+      "mst_box_exchange_id": 221209,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2212101,
+      "mst_box_exchange_id": 221210,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2212102,
+      "mst_box_exchange_id": 221210,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2305151,
+      "mst_box_exchange_id": 230515,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2305152,
+      "mst_box_exchange_id": 230515,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2305161,
+      "mst_box_exchange_id": 230516,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2305162,
+      "mst_box_exchange_id": 230516,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2306151,
+      "mst_box_exchange_id": 230615,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2306152,
+      "mst_box_exchange_id": 230615,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2306161,
+      "mst_box_exchange_id": 230616,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2306162,
+      "mst_box_exchange_id": 230616,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2308311,
+      "mst_box_exchange_id": 230831,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2308312,
+      "mst_box_exchange_id": 230831,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2308321,
+      "mst_box_exchange_id": 230832,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2308322,
+      "mst_box_exchange_id": 230832,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2309201,
+      "mst_box_exchange_id": 230920,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2309202,
+      "mst_box_exchange_id": 230920,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2309211,
+      "mst_box_exchange_id": 230921,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2309212,
+      "mst_box_exchange_id": 230921,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310201,
+      "mst_box_exchange_id": 231020,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310202,
+      "mst_box_exchange_id": 231020,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310211,
+      "mst_box_exchange_id": 231021,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310212,
+      "mst_box_exchange_id": 231021,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310221,
+      "mst_box_exchange_id": 231022,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310222,
+      "mst_box_exchange_id": 231022,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310311,
+      "mst_box_exchange_id": 231031,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310312,
+      "mst_box_exchange_id": 231031,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310321,
+      "mst_box_exchange_id": 231032,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2310322,
+      "mst_box_exchange_id": 231032,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2311201,
+      "mst_box_exchange_id": 231120,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2311202,
+      "mst_box_exchange_id": 231120,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2311211,
+      "mst_box_exchange_id": 231121,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2311212,
+      "mst_box_exchange_id": 231121,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2312201,
+      "mst_box_exchange_id": 231220,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2312202,
+      "mst_box_exchange_id": 231220,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2312211,
+      "mst_box_exchange_id": 231221,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2312212,
+      "mst_box_exchange_id": 231221,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2402281,
+      "mst_box_exchange_id": 240228,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2402282,
+      "mst_box_exchange_id": 240228,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2402291,
+      "mst_box_exchange_id": 240229,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2402292,
+      "mst_box_exchange_id": 240229,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2403211,
+      "mst_box_exchange_id": 240321,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2403212,
+      "mst_box_exchange_id": 240321,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2403221,
+      "mst_box_exchange_id": 240322,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2403222,
+      "mst_box_exchange_id": 240322,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404301,
+      "mst_box_exchange_id": 240430,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404302,
+      "mst_box_exchange_id": 240430,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404311,
+      "mst_box_exchange_id": 240431,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404312,
+      "mst_box_exchange_id": 240431,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404321,
+      "mst_box_exchange_id": 240432,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2404322,
+      "mst_box_exchange_id": 240432,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2406101,
+      "mst_box_exchange_id": 240610,
+      "sort": 999,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    },
+    {
+      "id": 2406102,
+      "mst_box_exchange_id": 240610,
+      "sort": 998,
+      "slide_type": 3,
+      "mst_equip_id": 0,
+      "show_step": 0,
+      "movie_url": ""
+    }
+  ],
+  "mst_box_exchange_execute_count": [
+    {
+      "id": 1,
+      "execute_count": 10,
+      "first_select_flag": false
+    },
+    {
+      "id": 2,
+      "execute_count": 50,
+      "first_select_flag": true
+    },
+    {
+      "id": 3,
+      "execute_count": 100,
+      "first_select_flag": false
+    }
+  ]
+}

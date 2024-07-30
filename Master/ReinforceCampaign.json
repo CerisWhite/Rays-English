@@ -1,0 +1,86 @@
+{
+  "xhash": "",
+  "mst_reinforce_campaigns": [
+    {
+      "id": 4,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 5,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 6,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 10,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 11,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 12,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 13,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 14,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 15,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 16,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 17,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 18,
+      "weapon_comment_id": "2,2",
+      "magical_mirror_comment_id": 1
+    },
+    {
+      "id": 7,
+      "weapon_comment_id": "1",
+      "magical_mirror_comment_id": 2
+    }
+  ],
+  "mst_reinforce_campaign_comments": [
+    {
+      "id": 1,
+      "chara_comment": "今日は機材共の調子が良いな。\nきっと良い仕事するぜ？",
+      "voice_cue": "Garows_kyoka_006",
+      "image_path": "1",
+      "chara_image_path": ""
+    },
+    {
+      "id": 2,
+      "chara_comment": "ぶるる…！\n今なら色々上手く行く気がしますよ！",
+      "voice_cue": "Karya_kyoka_007",
+      "image_path": "1",
+      "chara_image_path": "image/tutorial/chara/campaign_karya.png"
+    }
+  ]
+}

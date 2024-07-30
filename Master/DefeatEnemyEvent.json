@@ -1,0 +1,117 @@
+{
+  "xhash": "",
+  "mst_defeat_enemies": [
+    {
+      "id": 1,
+      "mst_defeat_enemy_event_id": 1,
+      "name": "アンデッドドラゴン"
+    },
+    {
+      "id": 4171,
+      "mst_defeat_enemy_event_id": 417,
+      "name": "オウガテイルシャドウ"
+    },
+    {
+      "id": 4172,
+      "mst_defeat_enemy_event_id": 417,
+      "name": "ヴァジュラシャドウ"
+    },
+    {
+      "id": 4173,
+      "mst_defeat_enemy_event_id": 417,
+      "name": "ネルガルシャドウ"
+    },
+    {
+      "id": 4701,
+      "mst_defeat_enemy_event_id": 470,
+      "name": "オウガテイルシャドウ"
+    },
+    {
+      "id": 4702,
+      "mst_defeat_enemy_event_id": 470,
+      "name": "ヴァジュラシャドウ"
+    },
+    {
+      "id": 4703,
+      "mst_defeat_enemy_event_id": 470,
+      "name": "ネルガルシャドウ"
+    },
+    {
+      "id": 5291,
+      "mst_defeat_enemy_event_id": 529,
+      "name": "オウガテイルシャドウ"
+    },
+    {
+      "id": 5292,
+      "mst_defeat_enemy_event_id": 529,
+      "name": "ヴァジュラシャドウ"
+    },
+    {
+      "id": 5293,
+      "mst_defeat_enemy_event_id": 529,
+      "name": "ネルガルシャドウ"
+    }
+  ],
+  "mst_defeat_enemy_points": [
+    {
+      "id": 1,
+      "mst_defeat_enemy_id": 1,
+      "mst_enemy_id": 1,
+      "point": 1
+    },
+    {
+      "id": 4171,
+      "mst_defeat_enemy_id": 4171,
+      "mst_enemy_id": 40011007,
+      "point": 5
+    },
+    {
+      "id": 4172,
+      "mst_defeat_enemy_id": 4172,
+      "mst_enemy_id": 40011008,
+      "point": 150
+    },
+    {
+      "id": 4173,
+      "mst_defeat_enemy_id": 4173,
+      "mst_enemy_id": 40011009,
+      "point": 500
+    },
+    {
+      "id": 4701,
+      "mst_defeat_enemy_id": 4701,
+      "mst_enemy_id": 40017707,
+      "point": 5
+    },
+    {
+      "id": 4702,
+      "mst_defeat_enemy_id": 4702,
+      "mst_enemy_id": 40017708,
+      "point": 150
+    },
+    {
+      "id": 4703,
+      "mst_defeat_enemy_id": 4703,
+      "mst_enemy_id": 40017709,
+      "point": 500
+    },
+    {
+      "id": 5291,
+      "mst_defeat_enemy_id": 5291,
+      "mst_enemy_id": 40017707,
+      "point": 5
+    },
+    {
+      "id": 5292,
+      "mst_defeat_enemy_id": 5292,
+      "mst_enemy_id": 40017708,
+      "point": 150
+    },
+    {
+      "id": 5293,
+      "mst_defeat_enemy_id": 5293,
+      "mst_enemy_id": 40017709,
+      "point": 500
+    }
+  ]
+}

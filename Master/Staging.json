@@ -1,0 +1,98 @@
+{
+  "xhash": "",
+  "mst_staging_gasha_setting": [
+    {
+      "id": 1,
+      "value": 60
+    },
+    {
+      "id": 2,
+      "value": 30
+    },
+    {
+      "id": 3,
+      "value": 10
+    },
+    {
+      "id": 4,
+      "value": 70
+    },
+    {
+      "id": 5,
+      "value": 30
+    }
+  ],
+  "mst_staging_gasha": [
+    {
+      "id": 1,
+      "value": "Staging/Gasha/prefab/gasha_blue_scene.prefab",
+      "type": "0"
+    },
+    {
+      "id": 2,
+      "value": "Staging/Gasha/prefab/gasha_gold_scene.prefab",
+      "type": "1"
+    },
+    {
+      "id": 3,
+      "value": "Staging/Gasha/prefab/gasha_rainbow_scene.prefab",
+      "type": "2"
+    },
+    {
+      "id": 1001,
+      "value": "Staging/Gasha/prefab/gasha_orb.prefab",
+      "type": "0,1,2"
+    }
+  ],
+  "mst_staging_gasha_effect": [
+    {
+      "id": 10001,
+      "value": "Effect/Gacha/eff_gasha_blue01.prefab",
+      "type": "0,3"
+    },
+    {
+      "id": 10002,
+      "value": "Effect/Gacha/eff_gasha_dome_break.prefab",
+      "type": "1,2,3"
+    },
+    {
+      "id": 10003,
+      "value": "Effect/Gacha/eff_gasha_gold01.prefab",
+      "type": "1"
+    },
+    {
+      "id": 10004,
+      "value": "Effect/Gacha/eff_gasha_orb.prefab",
+      "type": "0,1,2,3"
+    },
+    {
+      "id": 10005,
+      "value": "Effect/Gacha/eff_gasha_rainbow.prefab",
+      "type": "2"
+    },
+    {
+      "id": 10006,
+      "value": "Effect/Gacha/eff_gasha_tube.prefab",
+      "type": "0,1,2,3"
+    },
+    {
+      "id": 10007,
+      "value": "Effect/Gacha/eff_orb_flash.prefab",
+      "type": "0,1,2,3"
+    }
+  ],
+  "mst_staging_weapon": [
+    {
+      "id": 1,
+      "value": "",
+      "type": ""
+    }
+  ],
+  "mst_staging_mirrorge": [
+    {
+      "id": 1,
+      "value": "",
+      "type": ""
+    }
+  ]
+}

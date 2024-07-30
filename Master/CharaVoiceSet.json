@@ -1,0 +1,33 @@
+{
+  "xhash": "",
+  "mst_chara_voice_set_notes": [
+    {
+      "id": 1,
+      "notes": "本機能は以下の箇所でボイスの切替が行われます。\n　・バトル中の全てのボイス\n　・ホーム画面\n　・ルーム画面\n※設定ボイスによってセリフが再生されない場合があります。\n※設定ボイスによってセリフが異なる場合があります。",
+      "start_date": "2014-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    }
+  ],
+  "mst_chara_voice_sets": [
+    {
+      "id": 1,
+      "mst_chara_id": 5,
+      "description": "CV：今井由香",
+      "extend": "",
+      "start_date": "2019-06-14T05:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z",
+      "voice_pack": false,
+      "use_default_created_at": "2014-12-31T15:00:00.0000000Z"
+    },
+    {
+      "id": 2,
+      "mst_chara_id": 5,
+      "description": "CV：小松由佳",
+      "extend": "_999",
+      "start_date": "2019-06-14T05:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z",
+      "voice_pack": true,
+      "use_default_created_at": "2022-12-20T03:00:00.0000000Z"
+    }
+  ]
+}

@@ -1,0 +1,5508 @@
+{
+  "xhash": "",
+  "mst_gasha_inductions": [
+    {
+      "reward_type": 7,
+      "reward_value": 1,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 2,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 3,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 4,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 5,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 6,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 7,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 8,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 9,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 10,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 11,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 12,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 13,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 14,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 15,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 16,
+      "mst_gasha_ids": [
+        39001201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 17,
+      "mst_gasha_ids": [
+        39001401,
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 18,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 19,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 20,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 21,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 22,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 23,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 24,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 25,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 26,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 27,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 28,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 29,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 30,
+      "mst_gasha_ids": [
+        39002101,
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 31,
+      "mst_gasha_ids": [
+        39002201,
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 32,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 33,
+      "mst_gasha_ids": [
+        39002401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 34,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 35,
+      "mst_gasha_ids": [
+        39001201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 36,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 37,
+      "mst_gasha_ids": [
+        39002301,
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 38,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 39,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 40,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 41,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 42,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 43,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 44,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 45,
+      "mst_gasha_ids": [
+        39001201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 46,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 47,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 48,
+      "mst_gasha_ids": [
+        39002501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 49,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 50,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 51,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 52,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 53,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 54,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 55,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 56,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 57,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 58,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 59,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 60,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 61,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 62,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 63,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 64,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 65,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 66,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 67,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 68,
+      "mst_gasha_ids": [
+        39001501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 69,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 70,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 71,
+      "mst_gasha_ids": [
+        39001501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 72,
+      "mst_gasha_ids": [
+        39001501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 73,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 74,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 75,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 76,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 77,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 78,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 79,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 80,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 81,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 82,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 83,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 85,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 86,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 87,
+      "mst_gasha_ids": [
+        181203
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 89,
+      "mst_gasha_ids": [
+        39002401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 90,
+      "mst_gasha_ids": [
+        39002401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 91,
+      "mst_gasha_ids": [
+        39002401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 93,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 94,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 95,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 96,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 97,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 98,
+      "mst_gasha_ids": [
+        39002501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 99,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 100,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 102,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 103,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 104,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 105,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 106,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 107,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 108,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 109,
+      "mst_gasha_ids": [
+        220801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 110,
+      "mst_gasha_ids": [
+        220801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 111,
+      "mst_gasha_ids": [
+        39002501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 112,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 113,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 114,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 115,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 116,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 117,
+      "mst_gasha_ids": [
+        39002001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 118,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 121,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 126,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 128,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 129,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 132,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 133,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 134,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 135,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 136,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 137,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 138,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 139,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 141,
+      "mst_gasha_ids": [
+        200203
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 142,
+      "mst_gasha_ids": [
+        200203
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 143,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 145,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 149,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 152,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 153,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 154,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 155,
+      "mst_gasha_ids": [
+        39001501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 156,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 157,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 158,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 159,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 160,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 162,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 163,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 165,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 166,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 167,
+      "mst_gasha_ids": [
+        39002501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 168,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 169,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 170,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 171,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 172,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 175,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 176,
+      "mst_gasha_ids": [
+        39001201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 178,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 179,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 180,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 181,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 182,
+      "mst_gasha_ids": [
+        39001501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 183,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 184,
+      "mst_gasha_ids": [
+        39001901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 187,
+      "mst_gasha_ids": [
+        220405
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 188,
+      "mst_gasha_ids": [
+        220405
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 189,
+      "mst_gasha_ids": [
+        220405
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 190,
+      "mst_gasha_ids": [
+        220405
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 191,
+      "mst_gasha_ids": [
+        200203
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 193,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 194,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 195,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 197,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 198,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 199,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 200,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 201,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 202,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 204,
+      "mst_gasha_ids": [
+        200604
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 205,
+      "mst_gasha_ids": [
+        200604
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 206,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 207,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 208,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 209,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 210,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 211,
+      "mst_gasha_ids": [
+        39000401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 212,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 213,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 214,
+      "mst_gasha_ids": [
+        201105
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 215,
+      "mst_gasha_ids": [
+        201105
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 216,
+      "mst_gasha_ids": [
+        201105
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 217,
+      "mst_gasha_ids": [
+        201105
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 218,
+      "mst_gasha_ids": [
+        221201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 220,
+      "mst_gasha_ids": [
+        200903
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 221,
+      "mst_gasha_ids": [
+        200903
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 222,
+      "mst_gasha_ids": [
+        39001001
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 224,
+      "mst_gasha_ids": [
+        39001301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 225,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 226,
+      "mst_gasha_ids": [
+        39000301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 227,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 228,
+      "mst_gasha_ids": [
+        210120
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 229,
+      "mst_gasha_ids": [
+        210120
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 230,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 233,
+      "mst_gasha_ids": [
+        39002301
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 235,
+      "mst_gasha_ids": [
+        210403
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 236,
+      "mst_gasha_ids": [
+        210403
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 237,
+      "mst_gasha_ids": [
+        210409
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 238,
+      "mst_gasha_ids": [
+        210409
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 239,
+      "mst_gasha_ids": [
+        39001201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 241,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 242,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 243,
+      "mst_gasha_ids": [
+        39001701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 248,
+      "mst_gasha_ids": [
+        39001101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 250,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 251,
+      "mst_gasha_ids": [
+        210805,
+        230408,
+        230412,
+        230418,
+        230422
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 252,
+      "mst_gasha_ids": [
+        210903,
+        230418,
+        230422
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 253,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 254,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 255,
+      "mst_gasha_ids": [
+        39002201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 257,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 258,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 259,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 260,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 264,
+      "mst_gasha_ids": [
+        211214
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 265,
+      "mst_gasha_ids": [
+        211214
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 269,
+      "mst_gasha_ids": [
+        220205
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 270,
+      "mst_gasha_ids": [
+        220205
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 271,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 272,
+      "mst_gasha_ids": [
+        39001401
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 275,
+      "mst_gasha_ids": [
+        220419
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 276,
+      "mst_gasha_ids": [
+        220419
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 288,
+      "mst_gasha_ids": [
+        220801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 289,
+      "mst_gasha_ids": [
+        220801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 294,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 296,
+      "mst_gasha_ids": [
+        221201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 299,
+      "mst_gasha_ids": [
+        39000801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 297,
+      "mst_gasha_ids": [
+        39000501
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 125,
+      "mst_gasha_ids": [
+        39000601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 300,
+      "mst_gasha_ids": [
+        230203
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 301,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 302,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 306,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 304,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 310,
+      "mst_gasha_ids": [
+        230408,
+        230412
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 311,
+      "mst_gasha_ids": [
+        230408,
+        230412
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 303,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 305,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 313,
+      "mst_gasha_ids": [
+        230603,
+        230604,
+        230607
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 314,
+      "mst_gasha_ids": [
+        230603,
+        230604,
+        230607
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 312,
+      "mst_gasha_ids": [
+        39000901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 146,
+      "mst_gasha_ids": [
+        231012,
+        231014
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 147,
+      "mst_gasha_ids": [
+        231012,
+        231014
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 318,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 319,
+      "mst_gasha_ids": [
+        231213,
+        231217
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 295,
+      "mst_gasha_ids": [
+        39000101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 315,
+      "mst_gasha_ids": [
+        39002601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 321,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 307,
+      "mst_gasha_ids": [
+        39002701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 262,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 273,
+      "mst_gasha_ids": [
+        39000201
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 192,
+      "mst_gasha_ids": [
+        39000701
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 244,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 279,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 231,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 245,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 290,
+      "mst_gasha_ids": [
+        39001601
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 240,
+      "mst_gasha_ids": [
+        39001801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 280,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 246,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 267,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 293,
+      "mst_gasha_ids": [
+        39002101
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 281,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 247,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 282,
+      "mst_gasha_ids": [
+        39002801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 283,
+      "mst_gasha_ids": [
+        39002801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 284,
+      "mst_gasha_ids": [
+        39002801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 285,
+      "mst_gasha_ids": [
+        39002801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 286,
+      "mst_gasha_ids": [
+        39002801
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 277,
+      "mst_gasha_ids": [
+        39002901
+      ]
+    }
+  ],
+  "mst_scenaio_inductions": [
+    {
+      "reward_type": 7,
+      "reward_value": 3,
+      "place_names": "1部 11-3　モリスン街道３\nOrigin2　食卓を囲んで\n物語1　引き受けた依頼",
+      "mst_chapter_ids": [
+        113,
+        671,
+        702
+      ],
+      "chapter_types": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 4,
+      "place_names": "1部 11-12　怪しげな古城　隠し部屋\nOrigin2　食卓を囲んで\n物語2　突然の訪問",
+      "mst_chapter_ids": [
+        113,
+        671,
+        702
+      ],
+      "chapter_types": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 5,
+      "place_names": "1部 6-1   雪山の村\n挙式9　英雄として\n天上の暴君1　緊急招集\n試練1　精霊片を求めて\n祝宴1　パーティーの誘い",
+      "mst_chapter_ids": [
+        106,
+        496,
+        5732,
+        654,
+        7251
+      ],
+      "chapter_types": [
+        1,
+        8,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 6,
+      "place_names": "1部 8-16 ロベルト洞窟\n天上の暴君1　緊急招集",
+      "mst_chapter_ids": [
+        109,
+        5732
+      ],
+      "chapter_types": [
+        1,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 7,
+      "place_names": "1部 7-1  レグルス街道 1",
+      "mst_chapter_ids": [
+        107
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 8,
+      "place_names": "1部 7-3  レグルス街道 3",
+      "mst_chapter_ids": [
+        107
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 9,
+      "place_names": "1部 9-2　ダイク街道　1\nVSユアン\n交響曲1　抱えた不安",
+      "mst_chapter_ids": [
+        110,
+        585,
+        687
+      ],
+      "chapter_types": [
+        1,
+        7,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 10,
+      "place_names": "記憶２　明鏡四水の在り処\nリゾート3　複雑な胸中\nVSユアン\nリゾート3　複雑な胸中\n1斤　パンのお祭り",
+      "mst_chapter_ids": [
+        387,
+        546,
+        585,
+        652,
+        719
+      ],
+      "chapter_types": [
+        8,
+        5,
+        7,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 11,
+      "place_names": "1部 13-2　最北端の島",
+      "mst_chapter_ids": [
+        115
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 12,
+      "place_names": "1部 14-1　外れにある砂浜",
+      "mst_chapter_ids": [
+        116
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 14,
+      "place_names": "1部 3-1   ディン森林地帯 西部\n3部 7-1　閑散とした街道\n試練1　光の宿命を解き放つ者\nヒーロー1　元領主の提案",
+      "mst_chapter_ids": [
+        103,
+        137,
+        556,
+        684
+      ],
+      "chapter_types": [
+        1,
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 15,
+      "place_names": "大冒険7 狙われたミュウ",
+      "mst_chapter_ids": [
+        324
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 16,
+      "place_names": "贈り物10　バレンタイン\n旋律2　森の調査",
+      "mst_chapter_ids": [
+        413,
+        598
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 17,
+      "place_names": "2部 2-1　イ・ラプセル　戦士の館\n試練1　火の宿望を果たす者\nVS白き獅子\n4部 19-1　分史世界1\n魂1　夢の中で\nVS白き獅子",
+      "mst_chapter_ids": [
+        119,
+        551,
+        583,
+        166,
+        656,
+        6762
+      ],
+      "chapter_types": [
+        1,
+        5,
+        7,
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 19,
+      "place_names": "1部 1-2   デデッキ森林 中央部\nVSミクトラン\n明星2　飛ばせ試作品",
+      "mst_chapter_ids": [
+        101,
+        597,
+        6832
+      ],
+      "chapter_types": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 20,
+      "place_names": "1部 1-2   デデッキ森林 中央部\nVSミクトラン\n明星2　飛ばせ試作品",
+      "mst_chapter_ids": [
+        101,
+        597,
+        6832
+      ],
+      "chapter_types": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 21,
+      "place_names": "協同1　カレイドスコープの異変\n試練1　炎の壁を壊す者\n明星4　飛ばせバウルボート",
+      "mst_chapter_ids": [
+        377,
+        581,
+        6832
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 24,
+      "place_names": "怪談１０　一世一代の大舞台！？\n2部 11-15　ひとけのない街道2\n4部 17-2　アジト2",
+      "mst_chapter_ids": [
+        393,
+        128,
+        164
+      ],
+      "chapter_types": [
+        8,
+        1,
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 25,
+      "place_names": "1部 2-1   ポアソン街道 1\nLife3　魔物撃退",
+      "mst_chapter_ids": [
+        102,
+        7132
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 27,
+      "place_names": "1部 5-1   果樹園\n試練1　氷の情念に応える者\n挑戦1　呼び出し\nVSアグリア\n挑戦1　呼び出し",
+      "mst_chapter_ids": [
+        105,
+        537,
+        565,
+        691,
+        7251
+      ],
+      "chapter_types": [
+        1,
+        5,
+        2,
+        7,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 28,
+      "place_names": "活動10　魚釣り\n3部 4-15　ファントムの仮想鏡界\n試練1　氷の情念に応える者\nVSアグリア",
+      "mst_chapter_ids": [
+        347,
+        134,
+        537,
+        691
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 29,
+      "place_names": "活動2　趣味をさがして\n試練1　地の活力に漲る者",
+      "mst_chapter_ids": [
+        347,
+        592
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 30,
+      "place_names": "聖夜9　脱出\n2部 狙われる青年と幼き少女\n試練1　光の極致を超えし者\nVS白き獅子\n4部 18-9　ケリュケイオン2\nVS白き獅子",
+      "mst_chapter_ids": [
+        404,
+        120,
+        562,
+        583,
+        165,
+        6762
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5,
+        7,
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 31,
+      "place_names": "1部 4-1   バルトロ密林 奥地\nVS白き獅子\n行先1　悩める二人\nVS白き獅子\n軌跡1　天遺見聞録",
+      "mst_chapter_ids": [
+        104,
+        583,
+        661,
+        6762,
+        714
+      ],
+      "chapter_types": [
+        1,
+        7,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 32,
+      "place_names": "レシピ5 甘い香りに誘われて\n行先1　悩める二人",
+      "mst_chapter_ids": [
+        343,
+        661
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 33,
+      "place_names": "学園祭9　Mr. Right\nBEAT1　光の先に\nBEAT1　光の先に\nBEAT1　光の先に\nLife1　特別な日",
+      "mst_chapter_ids": [
+        398,
+        531,
+        6672,
+        7122,
+        7132
+      ],
+      "chapter_types": [
+        8,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 35,
+      "place_names": "大冒険16 ライガの母子\n旋律2　森の調査\n思い出2　結婚式の準備\n試練1　光の彼方を詠う者\nティア＆ライフィセット＆ロンドリーネ編",
+      "mst_chapter_ids": [
+        324,
+        598,
+        677,
+        694,
+        724
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 36,
+      "place_names": "レシピ17 乙女の秘密\n行先1　悩める二人\n軌跡1　天遺見聞録",
+      "mst_chapter_ids": [
+        343,
+        661,
+        714
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 37,
+      "place_names": "1部 10-5　クロガネの森　奥地\n4部 11-11　ミッドガンド領　森2\nVS白き獅子\nVSエレノア\nVS白き獅子",
+      "mst_chapter_ids": [
+        112,
+        158,
+        583,
+        670,
+        6762
+      ],
+      "chapter_types": [
+        1,
+        1,
+        7,
+        7,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 38,
+      "place_names": "邂逅12　不死鳥の加護\nファイル1　オスカーとの出会い\n試練1　光の彼方を詠う者\nファイル1　オスカーとの出会い\nティア＆ライフィセット＆ロンドリーネ編",
+      "mst_chapter_ids": [
+        380,
+        584,
+        694,
+        718,
+        724
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 39,
+      "place_names": "怪談１０　一世一代の大舞台！？\n思い出2　結婚式の準備\nLife3　魔物撃退",
+      "mst_chapter_ids": [
+        393,
+        677,
+        7132
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 40,
+      "place_names": "捜査3　奇怪な現象\n試練1　光の極致を超えし者",
+      "mst_chapter_ids": [
+        359,
+        562
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 41,
+      "place_names": "捜査3　奇怪な現象\n試練1　地の活力に漲る者\n思い出1　新しい生活",
+      "mst_chapter_ids": [
+        359,
+        592,
+        677
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 42,
+      "place_names": "協同1　カレイドスコープの異変\n白鴉編5　すすめ！凛々の明星\n明星3　浜辺でのひととき",
+      "mst_chapter_ids": [
+        377,
+        4552,
+        6832
+      ],
+      "chapter_types": [
+        8,
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 43,
+      "place_names": "1部 8-1  バーンハルト街道 1\n天上の暴君1　緊急招集",
+      "mst_chapter_ids": [
+        108,
+        5732
+      ],
+      "chapter_types": [
+        1,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 44,
+      "place_names": "2部 6-15　海鳴りの神殿　3",
+      "mst_chapter_ids": [
+        123
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 45,
+      "place_names": "<size=18>決勝戦？「テイルズオブステージ」開幕！</size>\nヒーロー1　元領主の提案",
+      "mst_chapter_ids": [
+        433,
+        684
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 46,
+      "place_names": "試錬2 英雄たちとの合流\n行先1　外出の理由1\n探検隊1　宝の地図\nOrigin1　村の復興",
+      "mst_chapter_ids": [
+        371,
+        580,
+        596,
+        671
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 47,
+      "place_names": "試錬2 英雄たちとの合流\n行先1　外出の理由1\nOrigin1　村の復興\n祝宴1　パーティーの誘い",
+      "mst_chapter_ids": [
+        371,
+        580,
+        671,
+        7251
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 48,
+      "place_names": "1部 13-15　北の監獄3\nLife2　食材を求めて",
+      "mst_chapter_ids": [
+        115,
+        7132
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 49,
+      "place_names": "<size=22>恩義10　薔薇のホワイトデー計画</size>",
+      "mst_chapter_ids": [
+        416
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 50,
+      "place_names": "アンデッドドラゴンを駆逐せよ！\n聖夜3　アリーシャの頼み\n軌跡2　食事会",
+      "mst_chapter_ids": [
+        392,
+        655,
+        714
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 51,
+      "place_names": "2部 2-11　セールンドへ4\n試練1　火の宿望を果たす者\n4部 19-1　分史世界1\n祝宴2　街の仕立て屋へ",
+      "mst_chapter_ids": [
+        119,
+        551,
+        166,
+        7251
+      ],
+      "chapter_types": [
+        1,
+        5,
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 52,
+      "place_names": "新年10　凜々の明星\n新年10　凜々の明星\nVSガベージイーター\n明星4　飛ばせバウルボート",
+      "mst_chapter_ids": [
+        409,
+        518,
+        594,
+        6832
+      ],
+      "chapter_types": [
+        8,
+        2,
+        7,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 53,
+      "place_names": "3部 8-15　リチャード",
+      "mst_chapter_ids": [
+        138
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 54,
+      "place_names": "<size=18>決勝戦？「テイルズオブステージ」開幕！</size>\n3部 7-1　閑散とした街道\n試練1　光の宿命を解き放つ者",
+      "mst_chapter_ids": [
+        433,
+        137,
+        556
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 55,
+      "place_names": "1部 14-1　外れにある砂浜\n試練1　風の猛威を求める者\n4部 17-2　アジト2\n世界5　お使いの三人\n行先1　買い出しの最中",
+      "mst_chapter_ids": [
+        116,
+        542,
+        164,
+        650,
+        675
+      ],
+      "chapter_types": [
+        1,
+        5,
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 56,
+      "place_names": "記憶２　明鏡四水の在り処\n世界5　訪ねてきたのは",
+      "mst_chapter_ids": [
+        387,
+        599
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 57,
+      "place_names": "おばけドーナツ９個　仲間\n行先1　外出の理由1\n試練1　精霊片を求めて",
+      "mst_chapter_ids": [
+        401,
+        580,
+        654
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 58,
+      "place_names": "2部 8-15　スピルメイズ2\nVSヒスイ",
+      "mst_chapter_ids": [
+        125,
+        590
+      ],
+      "chapter_types": [
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 59,
+      "place_names": "聖夜9　脱出\n試練1　光の極致を超えし者\n4部 18-9　ケリュケイオン2",
+      "mst_chapter_ids": [
+        404,
+        562,
+        165
+      ],
+      "chapter_types": [
+        8,
+        5,
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 60,
+      "place_names": "邂逅12　不死鳥の加護",
+      "mst_chapter_ids": [
+        380
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 62,
+      "place_names": "2部 8-15　スピルメイズ2\n試練1　風の猛威を求める者\n行先1　行先は何処",
+      "mst_chapter_ids": [
+        125,
+        542,
+        695
+      ],
+      "chapter_types": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 63,
+      "place_names": "チョコ10　ルビアのバレンタイン\n行先1　行先は何処",
+      "mst_chapter_ids": [
+        4691,
+        695
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 67,
+      "place_names": "2部 7-13　森の奥の草原\nミトス　MANIA\n交響曲5　二つの影\n試練1　闇の宿望を響かす者",
+      "mst_chapter_ids": [
+        124,
+        461,
+        687,
+        720
+      ],
+      "chapter_types": [
+        1,
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 70,
+      "place_names": "おばけドーナツ９個　仲間\n魂3　奇怪な島",
+      "mst_chapter_ids": [
+        401,
+        656
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 71,
+      "place_names": "VSチャンピオン\n3部 2-15　静かな街道\nリゾート2　ビーチでの出会い\n世界7　首謀者は？\nリゾート2　ビーチでの出会い\n騎士1　救世軍の依頼",
+      "mst_chapter_ids": [
+        381,
+        132,
+        546,
+        650,
+        652,
+        679
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 72,
+      "place_names": "VSチャンピオン\n騎士1　救世軍の依頼\n試練1　闇の宿望を響かす者",
+      "mst_chapter_ids": [
+        381,
+        679,
+        720
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 73,
+      "place_names": "VSイフリート\n物語1　引き受けた依頼",
+      "mst_chapter_ids": [
+        374,
+        702
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 74,
+      "place_names": "VSイフリート\n物語2　突然の訪問",
+      "mst_chapter_ids": [
+        374,
+        702
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 75,
+      "place_names": "2部 12-15　カレイドスコープの間\nVSミクトラン",
+      "mst_chapter_ids": [
+        129,
+        597
+      ],
+      "chapter_types": [
+        1,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 77,
+      "place_names": "戦略10　任務完了！\n4部 12-2　グリンウッド領　森2",
+      "mst_chapter_ids": [
+        420,
+        159
+      ],
+      "chapter_types": [
+        8,
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 78,
+      "place_names": "戦略10　任務完了！\n4部 12-2　グリンウッド領　森2",
+      "mst_chapter_ids": [
+        420,
+        159
+      ],
+      "chapter_types": [
+        8,
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 80,
+      "place_names": "2部 4-1　ひとけのない草原\n試練1　光の宿命を解き放つ者",
+      "mst_chapter_ids": [
+        121,
+        556
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 82,
+      "place_names": "10枚　最高の一枚を",
+      "mst_chapter_ids": [
+        432
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 83,
+      "place_names": "理と秩序10　真相\n挙式8　当て馬たち",
+      "mst_chapter_ids": [
+        410,
+        496
+      ],
+      "chapter_types": [
+        8,
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 86,
+      "place_names": "<size=19>幸運の青い薔薇7輪 アイドル！</size>\n試練1　氷の情念に応える者\n挑戦1　呼び出し\n挑戦1　呼び出し",
+      "mst_chapter_ids": [
+        4071,
+        537,
+        565,
+        7251
+      ],
+      "chapter_types": [
+        8,
+        5,
+        2,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 87,
+      "place_names": "みんなと、いっしょに！",
+      "mst_chapter_ids": [
+        4072
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 89,
+      "place_names": "任務10　これから\nBEAT2　学園祭の出し物\nBEAT2　学園祭の出し物\nBEAT2　学園祭の出し物\nLife1　特別な日",
+      "mst_chapter_ids": [
+        426,
+        531,
+        6672,
+        7122,
+        7132
+      ],
+      "chapter_types": [
+        8,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 93,
+      "place_names": "2部 6-15　海鳴りの神殿　3\nVSユアン\n交響曲5　二つの影",
+      "mst_chapter_ids": [
+        123,
+        585,
+        687
+      ],
+      "chapter_types": [
+        1,
+        7,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 94,
+      "place_names": "新年10　凜々の明星\n新年10　凜々の明星\n探検隊1　宝の地図",
+      "mst_chapter_ids": [
+        409,
+        518,
+        596
+      ],
+      "chapter_types": [
+        8,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 97,
+      "place_names": "プラン10　キールのお返し\n世界1　本を返しに",
+      "mst_chapter_ids": [
+        4692,
+        599
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 98,
+      "place_names": "任務10　これから\nLife2　食材を求めて",
+      "mst_chapter_ids": [
+        426,
+        7132
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 99,
+      "place_names": "花見9　明鏡四水の輝き",
+      "mst_chapter_ids": [
+        424
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 102,
+      "place_names": "夏の思い出10 一件落着",
+      "mst_chapter_ids": [
+        437
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 103,
+      "place_names": "夏の思い出10 一件落着",
+      "mst_chapter_ids": [
+        437
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 105,
+      "place_names": "納涼9 VSウンディーネ\n4部 16-6　アジト5\n試練1　地の活力に漲る者",
+      "mst_chapter_ids": [
+        435,
+        163,
+        592
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 106,
+      "place_names": "2部 10-15　ひとけのない街道4\n魂1　夢の中で",
+      "mst_chapter_ids": [
+        127,
+        656
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 115,
+      "place_names": "3部 10-15　ミラ\nハプニング2　式当日\nハプニング2　式当日\n1斤　パンのお祭り",
+      "mst_chapter_ids": [
+        140,
+        569,
+        672,
+        719
+      ],
+      "chapter_types": [
+        1,
+        8,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 118,
+      "place_names": "納涼9 VSウンディーネ\nハプニング2　式当日\n世界9　無事確保\nハプニング2　式当日\n2斤　困りごと",
+      "mst_chapter_ids": [
+        435,
+        569,
+        599,
+        672,
+        719
+      ],
+      "chapter_types": [
+        8,
+        8,
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 125,
+      "place_names": "3部 11-6　アトワイト",
+      "mst_chapter_ids": [
+        141
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 134,
+      "place_names": "3部 6-4　ダリルシェイドへ続く道 1",
+      "mst_chapter_ids": [
+        136
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 135,
+      "place_names": "3部 6-6　ダリルシェイド 1",
+      "mst_chapter_ids": [
+        136
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 136,
+      "place_names": "決勝戦\n決勝戦",
+      "mst_chapter_ids": [
+        467,
+        517
+      ],
+      "chapter_types": [
+        5,
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 138,
+      "place_names": "3部 1-15　静かな街道3\n宿命2　もう一人のエル",
+      "mst_chapter_ids": [
+        131,
+        716
+      ],
+      "chapter_types": [
+        1,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 141,
+      "place_names": "【20pt】ランク10ミッション 共闘\n【20pt】ランク10ミッション 共闘",
+      "mst_chapter_ids": [
+        470,
+        529
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 142,
+      "place_names": "【20pt】ランク10ミッション 共闘\n【20pt】ランク10ミッション 共闘",
+      "mst_chapter_ids": [
+        470,
+        529
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 145,
+      "place_names": "3部 8-3　テセアラ領の森2",
+      "mst_chapter_ids": [
+        138
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 153,
+      "place_names": "3部 9-10　テセアラ領の森6\n聖夜1　クリスマス間近",
+      "mst_chapter_ids": [
+        139,
+        655
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 154,
+      "place_names": "3部 9-14　閑散とした街道",
+      "mst_chapter_ids": [
+        139
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 156,
+      "place_names": "3部 5-10　セールンド\n4部 3-1　仮想鏡界1\n試練1　風の猛威を求める者\n宴2　頑張る妹\n鏡士3　呼び出し\n宴2　頑張る妹",
+      "mst_chapter_ids": [
+        135,
+        150,
+        542,
+        577,
+        711,
+        715
+      ],
+      "chapter_types": [
+        1,
+        1,
+        5,
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 175,
+      "place_names": "3部 11-15　ケリュケイオン2\n4部 4-4　アジト4\nリゾート3　複雑な胸中\nリゾート3　複雑な胸中\n鏡士3　呼び出し",
+      "mst_chapter_ids": [
+        141,
+        151,
+        546,
+        652,
+        711
+      ],
+      "chapter_types": [
+        1,
+        1,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 179,
+      "place_names": "決勝戦\n決勝戦",
+      "mst_chapter_ids": [
+        467,
+        517
+      ],
+      "chapter_types": [
+        5,
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 191,
+      "place_names": "<size=20>【60pt】ランク15ミッション　勝負の行方</size>\n<size=20>【60pt】ランク15ミッション　勝負の行方</size>",
+      "mst_chapter_ids": [
+        470,
+        529
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 112,
+      "place_names": "3部 12-15　ハロルド\n夏祭り6　ひとまずの決着\n夏祭り6　ひとまずの決着",
+      "mst_chapter_ids": [
+        142,
+        550,
+        663
+      ],
+      "chapter_types": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 183,
+      "place_names": "3部 13-15　イオン",
+      "mst_chapter_ids": [
+        143
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 68,
+      "place_names": "3部 14-15　リヒター\nリゾート2　ビーチでの出会い\n世界7　首謀者は？\nリゾート2　ビーチでの出会い",
+      "mst_chapter_ids": [
+        144,
+        546,
+        650,
+        652
+      ],
+      "chapter_types": [
+        1,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 206,
+      "place_names": "異邦にて10　いるべき場所\n試練1　火の宿望を果たす者",
+      "mst_chapter_ids": [
+        539,
+        551
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 197,
+      "place_names": "異邦にて10　いるべき場所\n魂3　奇怪な島",
+      "mst_chapter_ids": [
+        539,
+        656
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 95,
+      "place_names": "3部 15-15　ジョニー",
+      "mst_chapter_ids": [
+        145
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 204,
+      "place_names": "ハピハピ10　LIVEスタート！\nハピハピ10　LIVEスタート！",
+      "mst_chapter_ids": [
+        485,
+        558
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 205,
+      "place_names": "ハピハピ10　LIVEスタート！\nハピハピ10　LIVEスタート！",
+      "mst_chapter_ids": [
+        485,
+        558
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 108,
+      "place_names": "3部 16-10　ナーザ\n4部 2-9　仮想鏡界1\n宴1　忙しい兄\n宴1　忙しい兄",
+      "mst_chapter_ids": [
+        146,
+        149,
+        577,
+        715
+      ],
+      "chapter_types": [
+        1,
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 69,
+      "place_names": "【高難易度】vsネビリム CHAOS\nVSネビリム UNKNOWN",
+      "mst_chapter_ids": [
+        486,
+        7251
+      ],
+      "chapter_types": [
+        5,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 168,
+      "place_names": "物語10　本当にやりたいこと\n世界1　大陸巡り",
+      "mst_chapter_ids": [
+        544,
+        7212
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 117,
+      "place_names": "Mirage10　消えゆく陽炎\nMirage10　消えゆく陽炎",
+      "mst_chapter_ids": [
+        491,
+        545
+      ],
+      "chapter_types": [
+        5,
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 207,
+      "place_names": "Mirage10　消えゆく陽炎\nMirage10　消えゆく陽炎\n4部 12-1　グリンウッド領　森1",
+      "mst_chapter_ids": [
+        491,
+        545,
+        159
+      ],
+      "chapter_types": [
+        5,
+        8,
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 139,
+      "place_names": "3部 16-30　メルクリア\n宴2　頑張る妹\n宴2　頑張る妹",
+      "mst_chapter_ids": [
+        147,
+        577,
+        715
+      ],
+      "chapter_types": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1003,
+      "place_names": "3部 16-30　メルクリア",
+      "mst_chapter_ids": [
+        147
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 198,
+      "place_names": "ナイトプール10　繋がる心\nナイトプール10　繋がる心\n聖夜1　クリスマス間近",
+      "mst_chapter_ids": [
+        492,
+        549,
+        655
+      ],
+      "chapter_types": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 208,
+      "place_names": "願い10　森の秘宝\n願い10　森の秘宝",
+      "mst_chapter_ids": [
+        493,
+        554
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 220,
+      "place_names": "Vol.1　Awakening\nVol.1　Awakening",
+      "mst_chapter_ids": [
+        495,
+        548
+      ],
+      "chapter_types": [
+        7,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 221,
+      "place_names": "Resurrection\nResurrection",
+      "mst_chapter_ids": [
+        495,
+        5481
+      ],
+      "chapter_types": [
+        7,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 64,
+      "place_names": "狩猟対決10　誠心誠意\n嗜虐の嵐1　嵐の噂\n狩猟対決10　誠心誠意\n嗜虐の嵐1　嵐の噂",
+      "mst_chapter_ids": [
+        502,
+        540,
+        570,
+        7251
+      ],
+      "chapter_types": [
+        5,
+        5,
+        2,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 209,
+      "place_names": "狩猟対決10　誠心誠意\n狩猟対決10　誠心誠意",
+      "mst_chapter_ids": [
+        502,
+        570
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 195,
+      "place_names": "4部 1-6　ジェイ\n探検隊2　地図の秘密",
+      "mst_chapter_ids": [
+        148,
+        596
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 194,
+      "place_names": "4部 1-13　モーゼス\n行先2　蚤の市",
+      "mst_chapter_ids": [
+        148,
+        675
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1093,
+      "place_names": "4部 1-13　モーゼス",
+      "mst_chapter_ids": [
+        148
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 210,
+      "place_names": "救出作戦10　光の試練\n救出作戦10　光の試練",
+      "mst_chapter_ids": [
+        507,
+        571
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 211,
+      "place_names": "救出作戦10　光の試練\n夏祭り1　開催に向けて\n救出作戦10　光の試練\n夏祭り1　開催に向けて",
+      "mst_chapter_ids": [
+        507,
+        550,
+        571,
+        663
+      ],
+      "chapter_types": [
+        5,
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 214,
+      "place_names": "二、　いきなりの出会い\n二、　いきなりの出会い",
+      "mst_chapter_ids": [
+        508,
+        6571
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 215,
+      "place_names": "三、　類を見ぬ対決\n三、　類を見ぬ対決",
+      "mst_chapter_ids": [
+        508,
+        6571
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 216,
+      "place_names": "五、　陥る窮地\n五、　陥る窮地",
+      "mst_chapter_ids": [
+        508,
+        6571
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 217,
+      "place_names": "六、　武闘派正義\n六、　武闘派正義",
+      "mst_chapter_ids": [
+        508,
+        6571
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 170,
+      "place_names": "10話【聖夜の贈り物10　聖なる夜に】",
+      "mst_chapter_ids": [
+        513
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 172,
+      "place_names": "10話【聖夜の贈り物10　聖なる夜に】\nハプニング1　結婚前夜\nハプニング1　結婚前夜",
+      "mst_chapter_ids": [
+        513,
+        569,
+        672
+      ],
+      "chapter_types": [
+        8,
+        8,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 213,
+      "place_names": "任務10　任務完了、そして明日へ……\n挑戦2　コロセウムにて\n任務10　任務完了、そして明日へ……\n挑戦2　コロセウムにて",
+      "mst_chapter_ids": [
+        515,
+        565,
+        574,
+        7251
+      ],
+      "chapter_types": [
+        5,
+        2,
+        2,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 81,
+      "place_names": "恩10　怪亥の主\nVSエレノア",
+      "mst_chapter_ids": [
+        519,
+        670
+      ],
+      "chapter_types": [
+        2,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 96,
+      "place_names": "救出作戦10　祈り\n救出作戦10　祈り",
+      "mst_chapter_ids": [
+        522,
+        586
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 224,
+      "place_names": "救出作戦10　今とこれから\n救出作戦10　今とこれから",
+      "mst_chapter_ids": [
+        524,
+        588
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 225,
+      "place_names": "救出作戦10　今とこれから\n救出作戦10　今とこれから\n探検隊2　地図の秘密",
+      "mst_chapter_ids": [
+        524,
+        588,
+        596
+      ],
+      "chapter_types": [
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 199,
+      "place_names": "救出作戦4　村の騒動\n救出作戦4　村の騒動",
+      "mst_chapter_ids": [
+        524,
+        588
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 212,
+      "place_names": "救出作戦10　今とこれから\n救出作戦10　今とこれから",
+      "mst_chapter_ids": [
+        524,
+        588
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 182,
+      "place_names": "チョコ作り10　伝えたい思い\n騎士10　二人三脚",
+      "mst_chapter_ids": [
+        525,
+        679
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 155,
+      "place_names": "チョコ作り10　伝えたい思い\n騎士10　二人三脚",
+      "mst_chapter_ids": [
+        525,
+        679
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 228,
+      "place_names": "2階層　出会い",
+      "mst_chapter_ids": [
+        526
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 229,
+      "place_names": "2階層　出会い",
+      "mst_chapter_ids": [
+        526
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1097,
+      "place_names": "vs幻影アステリオス",
+      "mst_chapter_ids": [
+        5261
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 181,
+      "place_names": "大樹の精霊10　精霊マーテル\n交響曲7　力を合わせて",
+      "mst_chapter_ids": [
+        528,
+        687
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 180,
+      "place_names": "大樹の精霊10　精霊マーテル\nハプニング2　式当日\nハプニング2　式当日\n交響曲7　力を合わせて",
+      "mst_chapter_ids": [
+        528,
+        569,
+        672,
+        687
+      ],
+      "chapter_types": [
+        8,
+        8,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 230,
+      "place_names": "4部 5-15　ファンダリア領　研究施設5\n宴1　忙しい兄\n宴1　忙しい兄",
+      "mst_chapter_ids": [
+        152,
+        577,
+        715
+      ],
+      "chapter_types": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 90,
+      "place_names": "BEAT1　光の先に\nBEAT1　光の先に\nBEAT1　光の先に\n記念日３　みんなの願い事",
+      "mst_chapter_ids": [
+        531,
+        6672,
+        7122,
+        7123
+      ],
+      "chapter_types": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 91,
+      "place_names": "BEAT2　学園祭の出し物\nBEAT2　学園祭の出し物\nBEAT2　学園祭の出し物\n記念日３　みんなの願い事",
+      "mst_chapter_ids": [
+        531,
+        6672,
+        7122,
+        7123
+      ],
+      "chapter_types": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 227,
+      "place_names": "矮星10　別離\n矮星10　別離",
+      "mst_chapter_ids": [
+        533,
+        591
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 137,
+      "place_names": "4部 6-15　ファンダリア領　森5\nVSデューク　UNKNOWN",
+      "mst_chapter_ids": [
+        153,
+        7221
+      ],
+      "chapter_types": [
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 193,
+      "place_names": "イースター10　ここからはじまる\n思い出1　新しい生活",
+      "mst_chapter_ids": [
+        534,
+        677
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 178,
+      "place_names": "イースター10　ここからはじまる",
+      "mst_chapter_ids": [
+        534
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 235,
+      "place_names": "ページ10　不和",
+      "mst_chapter_ids": [
+        535
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 236,
+      "place_names": "ページ10　不和",
+      "mst_chapter_ids": [
+        535
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 237,
+      "place_names": "VSオウルベア",
+      "mst_chapter_ids": [
+        536
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 238,
+      "place_names": "VSオウルベア",
+      "mst_chapter_ids": [
+        536
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 143,
+      "place_names": "4部 7-14　ファンダリア領　帝国軍基地2\nVSエルレイン　UNKNOWN",
+      "mst_chapter_ids": [
+        154,
+        7221
+      ],
+      "chapter_types": [
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 176,
+      "place_names": "旋律10　思い出の歌\n旋律10　思い出の歌",
+      "mst_chapter_ids": [
+        538,
+        598
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 239,
+      "place_names": "旋律10　思い出の歌\n4部 14-2　雪原1\n旋律10　思い出の歌",
+      "mst_chapter_ids": [
+        538,
+        161,
+        598
+      ],
+      "chapter_types": [
+        5,
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 114,
+      "place_names": "vsサレ\n【高難易度】vsサレ CHAOS",
+      "mst_chapter_ids": [
+        5401,
+        7251
+      ],
+      "chapter_types": [
+        7,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 166,
+      "place_names": "嗜虐の嵐1　嵐の噂\n音楽祭10　共に生きるということ\n4部 16-6　アジト5\n嗜虐の嵐1　嵐の噂",
+      "mst_chapter_ids": [
+        540,
+        509,
+        163,
+        7251
+      ],
+      "chapter_types": [
+        2,
+        8,
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 165,
+      "place_names": "嗜虐の嵐1　嵐の噂\n音楽祭10　共に生きるということ\n嗜虐の嵐1　嵐の噂",
+      "mst_chapter_ids": [
+        540,
+        509,
+        7251
+      ],
+      "chapter_types": [
+        2,
+        8,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 222,
+      "place_names": "4部 8-13　ウェルテス領　海岸2\n世界5　お使いの三人",
+      "mst_chapter_ids": [
+        155,
+        650
+      ],
+      "chapter_types": [
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 121,
+      "place_names": "vsハロウィントレント君 MANIA",
+      "mst_chapter_ids": [
+        446
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 26,
+      "place_names": "香り10 暴走したロボ\nヒーロー2　困窮の一団",
+      "mst_chapter_ids": [
+        439,
+        684
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 76,
+      "place_names": "香り10 暴走したロボ\nヒーロー2　困窮の一団",
+      "mst_chapter_ids": [
+        439,
+        684
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 107,
+      "place_names": "夏祭り10 導師として\n軌跡2　食事会",
+      "mst_chapter_ids": [
+        441,
+        714
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 22,
+      "place_names": "異変9　VSシルフ\n挙式5　宣誓\nVSヒスイ\n祝宴2　街の仕立て屋へ",
+      "mst_chapter_ids": [
+        442,
+        496,
+        590,
+        7251
+      ],
+      "chapter_types": [
+        8,
+        8,
+        7,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 23,
+      "place_names": "異変9　VSシルフ\nVSヒスイ",
+      "mst_chapter_ids": [
+        442,
+        590
+      ],
+      "chapter_types": [
+        8,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 111,
+      "place_names": "お月見10　ライブ開始！\n世界4　それぞれの理由",
+      "mst_chapter_ids": [
+        444,
+        7212
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 128,
+      "place_names": "決勝戦\n交響曲1　抱えた不安",
+      "mst_chapter_ids": [
+        448,
+        687
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 129,
+      "place_names": "決勝戦",
+      "mst_chapter_ids": [
+        448
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 85,
+      "place_names": "温泉10　アンデッドドラゴンの討伐",
+      "mst_chapter_ids": [
+        452
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 133,
+      "place_names": "忍び10　決着\n世界2　頼もしい助っ人",
+      "mst_chapter_ids": [
+        462,
+        650
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 116,
+      "place_names": "忍び10　決着\n世界2　頼もしい助っ人",
+      "mst_chapter_ids": [
+        462,
+        650
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 61,
+      "place_names": "花見10　仲間\n4部12-2　グリンウッド領　森2\n聖夜4　意外な来客",
+      "mst_chapter_ids": [
+        479,
+        159,
+        655
+      ],
+      "chapter_types": [
+        8,
+        1,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 34,
+      "place_names": "カジノ10　新生救世軍\nカジノ10　新生救世軍\n鏡士5　夜の一幕",
+      "mst_chapter_ids": [
+        484,
+        576,
+        711
+      ],
+      "chapter_types": [
+        8,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 66,
+      "place_names": "バルバトス　MANIA\n夏祭り6　ひとまずの決着\n夏祭り6　ひとまずの決着",
+      "mst_chapter_ids": [
+        461,
+        550,
+        663
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 104,
+      "place_names": "月下編7　おかえり\n明星3　浜辺でのひととき",
+      "mst_chapter_ids": [
+        4551,
+        6832
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 169,
+      "place_names": "物語10　本当にやりたいこと\n世界1　大陸巡り",
+      "mst_chapter_ids": [
+        544,
+        7212
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 241,
+      "place_names": "4部 9-12　テルカ・リュミレース領　森",
+      "mst_chapter_ids": [
+        156
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 242,
+      "place_names": "4部 9-12　テルカ・リュミレース領　森",
+      "mst_chapter_ids": [
+        156
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 243,
+      "place_names": "4部 9-12　テルカ・リュミレース領　森",
+      "mst_chapter_ids": [
+        156
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 113,
+      "place_names": "苦難8　シャルティエの苦難",
+      "mst_chapter_ids": [
+        487
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 126,
+      "place_names": "苦難3　シャルティエの悩み",
+      "mst_chapter_ids": [
+        487
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 152,
+      "place_names": "挙式10　制作秘話",
+      "mst_chapter_ids": [
+        496
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 158,
+      "place_names": "宝探し10　アイフリードの宝\n夏祭り1　開催に向けて\n夏祭り1　開催に向けて",
+      "mst_chapter_ids": [
+        497,
+        550,
+        663
+      ],
+      "chapter_types": [
+        8,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 159,
+      "place_names": "宝探し10　アイフリードの宝",
+      "mst_chapter_ids": [
+        497
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 65,
+      "place_names": "4部 10-10　オールドラント領　浜辺3",
+      "mst_chapter_ids": [
+        157
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 248,
+      "place_names": "4部 10-10　オールドラント領　浜辺3",
+      "mst_chapter_ids": [
+        157
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 251,
+      "place_names": "Chapter 01　Lost\nChapter 01　Lost",
+      "mst_chapter_ids": [
+        552,
+        6741
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 252,
+      "place_names": "VS慈悲なき啓示の徒\nVS慈悲なき啓示の徒",
+      "mst_chapter_ids": [
+        553,
+        6742
+      ],
+      "chapter_types": [
+        7,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 163,
+      "place_names": "花火10　秘めた想い\n試練2　街の困り事",
+      "mst_chapter_ids": [
+        4961,
+        654
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 162,
+      "place_names": "花火10　秘めた想い",
+      "mst_chapter_ids": [
+        4961
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 149,
+      "place_names": "学園祭10　後夜祭",
+      "mst_chapter_ids": [
+        500
+      ],
+      "chapter_types": [
+        8
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 18,
+      "place_names": "学園祭10　後夜祭\n世界1　本を返しに",
+      "mst_chapter_ids": [
+        500,
+        599
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 253,
+      "place_names": "ハロウィン10　ハッピーハロウィン\nハロウィン10　ハッピーハロウィン\nお正月1　新たな情報\n試練1　炎の壁を壊す者\n猛獣1　怪しい情報\nハロウィン10　ハッピーハロウィン\nお正月1　新たな情報",
+      "mst_chapter_ids": [
+        555,
+        5591,
+        564,
+        581,
+        595,
+        681,
+        701
+      ],
+      "chapter_types": [
+        5,
+        2,
+        5,
+        5,
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 254,
+      "place_names": "ハロウィン10　ハッピーハロウィン\nハロウィン10　ハッピーハロウィン\nお正月1　新たな情報\n試練1　炎の壁を壊す者\n猛獣1　怪しい情報\nハロウィン10　ハッピーハロウィン\nお正月1　新たな情報",
+      "mst_chapter_ids": [
+        555,
+        5591,
+        564,
+        581,
+        595,
+        681,
+        701
+      ],
+      "chapter_types": [
+        5,
+        2,
+        5,
+        5,
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 132,
+      "place_names": "曲目10　堂々たる演奏\n曲目10　堂々たる演奏",
+      "mst_chapter_ids": [
+        557,
+        685
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 233,
+      "place_names": "4部 13-15　ミッドガンド領　聖主の御座12",
+      "mst_chapter_ids": [
+        160
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 255,
+      "place_names": "4部 13-15　ミッドガンド領　聖主の御座12",
+      "mst_chapter_ids": [
+        160
+      ],
+      "chapter_types": [
+        1
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 257,
+      "place_names": "配達10　ハッピークリスマス\nお正月2　合流\nVSガベージイーター\n配達10　ハッピークリスマス\nお正月2　合流\n試練1　闇の宿望を響かす者",
+      "mst_chapter_ids": [
+        559,
+        564,
+        594,
+        688,
+        701,
+        720
+      ],
+      "chapter_types": [
+        5,
+        5,
+        7,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 258,
+      "place_names": "配達10　ハッピークリスマス\nお正月2　合流\nVSガベージイーター\n世界9　無事確保\n配達10　ハッピークリスマス\nお正月2　合流",
+      "mst_chapter_ids": [
+        559,
+        564,
+        594,
+        599,
+        688,
+        701
+      ],
+      "chapter_types": [
+        5,
+        5,
+        7,
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 250,
+      "place_names": "魔術10　冥府の主\n魔術10　冥府の主",
+      "mst_chapter_ids": [
+        561,
+        692
+      ],
+      "chapter_types": [
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 264,
+      "place_names": "＃1　ヒーロー参上！",
+      "mst_chapter_ids": [
+        563
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 265,
+      "place_names": "＃1　ヒーロー参上！",
+      "mst_chapter_ids": [
+        563
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 259,
+      "place_names": "お正月10　謹賀新年\n猛獣3　火山の支配者\n世界5　訪ねてきたのは\nお正月10　謹賀新年",
+      "mst_chapter_ids": [
+        564,
+        595,
+        599,
+        701
+      ],
+      "chapter_types": [
+        5,
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 260,
+      "place_names": "お正月10　謹賀新年\n猛獣3　火山の支配者\nお正月10　謹賀新年",
+      "mst_chapter_ids": [
+        564,
+        595,
+        701
+      ],
+      "chapter_types": [
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 202,
+      "place_names": "タイトル10　弟の心配\nファイル2　少年の依頼\nVSエレノア\nタイトル10　弟の心配\nファイル2　少年の依頼",
+      "mst_chapter_ids": [
+        566,
+        584,
+        670,
+        705,
+        718
+      ],
+      "chapter_types": [
+        5,
+        5,
+        7,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 200,
+      "place_names": "4部 15-4　ミッドガンド領　聖主の御座1\nVSシグレ UNKNOWN",
+      "mst_chapter_ids": [
+        162,
+        7251
+      ],
+      "chapter_types": [
+        1,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 269,
+      "place_names": "第2章　異世界の勇者",
+      "mst_chapter_ids": [
+        567
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 270,
+      "place_names": "第2章　異世界の勇者",
+      "mst_chapter_ids": [
+        567
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 271,
+      "place_names": "記念日10　感謝を込めて\nファイル1　オスカーとの出会い\n4部 20-10　イクスの心3\n記念日10　感謝を込めて\n鏡士5　夜の一幕\nファイル1　オスカーとの出会い",
+      "mst_chapter_ids": [
+        568,
+        584,
+        167,
+        709,
+        711,
+        718
+      ],
+      "chapter_types": [
+        5,
+        5,
+        1,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 226,
+      "place_names": "VSミクトラン",
+      "mst_chapter_ids": [
+        5733
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 13,
+      "place_names": "ハロウィン10　呪いを解け！\n行先2　蚤の市",
+      "mst_chapter_ids": [
+        503,
+        675
+      ],
+      "chapter_types": [
+        8,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 187,
+      "place_names": "オブる ザ レイズ10　どんでん返し",
+      "mst_chapter_ids": [
+        5781
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 188,
+      "place_names": "オブる ザ レイズ10　どんでん返し",
+      "mst_chapter_ids": [
+        5781
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 189,
+      "place_names": "オブる ザ レイズ20　お別れ……？",
+      "mst_chapter_ids": [
+        5782
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 190,
+      "place_names": "オブる ザ レイズ20　お別れ……？",
+      "mst_chapter_ids": [
+        5782
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 275,
+      "place_names": "第4話　桂を捜して",
+      "mst_chapter_ids": [
+        579
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 276,
+      "place_names": "VS高杉",
+      "mst_chapter_ids": [
+        5791
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 277,
+      "place_names": "エリア10　戦う案内人\nエリア10　戦う案内人\n第1話　ワクワク！　ティルグランド\n宿命1　ティルグランド再び\n世界4　それぞれの理由",
+      "mst_chapter_ids": [
+        582,
+        6761,
+        6763,
+        716,
+        7212
+      ],
+      "chapter_types": [
+        5,
+        5,
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 201,
+      "place_names": "ファイル10　小さな約束\nVSエレノア\nファイル10　小さな約束",
+      "mst_chapter_ids": [
+        584,
+        670,
+        718
+      ],
+      "chapter_types": [
+        5,
+        7,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 282,
+      "place_names": "波間10　新しい未来\n世界2　港の逃走劇",
+      "mst_chapter_ids": [
+        587,
+        7212
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 283,
+      "place_names": "波間10　新しい未来\n世界3　ディオの推理",
+      "mst_chapter_ids": [
+        587,
+        7212
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 284,
+      "place_names": "出航10　正義の海賊",
+      "mst_chapter_ids": [
+        682
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 285,
+      "place_names": "出航10　正義の海賊",
+      "mst_chapter_ids": [
+        682
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 109,
+      "place_names": "vsザ・グリームアイズ",
+      "mst_chapter_ids": [
+        5931
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 110,
+      "place_names": "vsグザファン",
+      "mst_chapter_ids": [
+        5931
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 289,
+      "place_names": "＃03　旅立ちと出会い",
+      "mst_chapter_ids": [
+        593
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 288,
+      "place_names": "＃01　納涼の祭り",
+      "mst_chapter_ids": [
+        593
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 160,
+      "place_names": "VSガベージイーター\n行先1　買い出しの最中\nVS【高難易度】シュヴァルツ　CHAOS",
+      "mst_chapter_ids": [
+        594,
+        675,
+        7221
+      ],
+      "chapter_types": [
+        7,
+        5,
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 294,
+      "place_names": "黒歪10　決着",
+      "mst_chapter_ids": [
+        653
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 272,
+      "place_names": "魂10　新たな絆",
+      "mst_chapter_ids": [
+        656
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 218,
+      "place_names": "四、　つれない魔族",
+      "mst_chapter_ids": [
+        658
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 296,
+      "place_names": "十、　麗しき教祖",
+      "mst_chapter_ids": [
+        658
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 299,
+      "place_names": "想い10　向き合う心",
+      "mst_chapter_ids": [
+        662
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 297,
+      "place_names": "VS偽ミクトラン",
+      "mst_chapter_ids": [
+        6641
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 300,
+      "place_names": "フェイズ2　祭りの始まり",
+      "mst_chapter_ids": [
+        665
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 295,
+      "place_names": "呼び声10　オリジンの召喚",
+      "mst_chapter_ids": [
+        669
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 310,
+      "place_names": "VSカイ",
+      "mst_chapter_ids": [
+        6731
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 311,
+      "place_names": "Chapter 01　Hunter",
+      "mst_chapter_ids": [
+        673
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 313,
+      "place_names": "第4話　ケロロ　異世界をかける　",
+      "mst_chapter_ids": [
+        680
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 314,
+      "place_names": "VSあの頃の軍曹",
+      "mst_chapter_ids": [
+        6801
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1141,
+      "place_names": "VSパワード夏美TOR UNKNOWN",
+      "mst_chapter_ids": [
+        6801
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1140,
+      "place_names": "VSあの頃の軍曹 UNKNOWN",
+      "mst_chapter_ids": [
+        6801
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1142,
+      "place_names": "ケロロ軍曹　異世界侵略大作戦であります！　個人討伐報酬",
+      "mst_chapter_ids": [
+        6801
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1143,
+      "place_names": "ケロロ軍曹　異世界侵略大作戦であります！　クエストミッション",
+      "mst_chapter_ids": [
+        6801
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 312,
+      "place_names": "VSサレの幻",
+      "mst_chapter_ids": [
+        6862
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 315,
+      "place_names": "双拳10　大きな背中",
+      "mst_chapter_ids": [
+        690
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 100,
+      "place_names": "試練1　光の彼方を詠う者\nティア＆ライフィセット＆ロンドリーネ編",
+      "mst_chapter_ids": [
+        694,
+        724
+      ],
+      "chapter_types": [
+        5,
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 146,
+      "place_names": "vsルシフェル？",
+      "mst_chapter_ids": [
+        696
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 147,
+      "place_names": "vsベルベット？",
+      "mst_chapter_ids": [
+        696
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 301,
+      "place_names": "メモリー1　過去での生活",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 306,
+      "place_names": "メモリー1　過去での生活",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 303,
+      "place_names": "メモリー1　過去での生活",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 305,
+      "place_names": "メモリー2　明日の予定",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 304,
+      "place_names": "メモリー2　明日の予定",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 302,
+      "place_names": "メモリー2　明日の予定",
+      "mst_chapter_ids": [
+        698
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 318,
+      "place_names": "VSナザミル",
+      "mst_chapter_ids": [
+        6991
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 319,
+      "place_names": "EPISODE2　機械",
+      "mst_chapter_ids": [
+        703
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 240,
+      "place_names": "忘却10　新たな使命",
+      "mst_chapter_ids": [
+        707
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 286,
+      "place_names": "真実10　ジャーナリストの使命",
+      "mst_chapter_ids": [
+        710
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 321,
+      "place_names": "VSルドガー",
+      "mst_chapter_ids": [
+        7161
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 79,
+      "place_names": "VSダオス　UNKNOWN",
+      "mst_chapter_ids": [
+        7221
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 167,
+      "place_names": "VS【高難易度】ラザリス　CHAOS",
+      "mst_chapter_ids": [
+        7221
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 157,
+      "place_names": "VS【高難易度】クリード　CHAOS",
+      "mst_chapter_ids": [
+        7221
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 184,
+      "place_names": "VSリトルクイーン UNKNOWN",
+      "mst_chapter_ids": [
+        7251
+      ],
+      "chapter_types": [
+        7
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 161,
+      "place_names": "VSシュヴァルツ",
+      "mst_chapter_ids": [
+        7262
+      ],
+      "chapter_types": [
+        5
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1045,
+      "place_names": "",
+      "mst_chapter_ids": [
+        732
+      ],
+      "chapter_types": [
+        2
+      ]
+    },
+    {
+      "reward_type": 7,
+      "reward_value": 1158,
+      "place_names": "",
+      "mst_chapter_ids": [
+        732
+      ],
+      "chapter_types": [
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "xhash": "",
+  "mst_weapon_surfaces": [
+    {
+      "id": 10001,
+      "name": "[2000万本突破記念]イクス",
+      "mst_chara_id": 1
+    },
+    {
+      "id": 20001,
+      "name": "[2000万本突破記念]ミリーナ",
+      "mst_chara_id": 2
+    },
+    {
+      "id": 30001,
+      "name": "[2000万本突破記念]クレス",
+      "mst_chara_id": 3
+    },
+    {
+      "id": 90001,
+      "name": "[2000万本突破記念]ロイド",
+      "mst_chara_id": 9
+    },
+    {
+      "id": 90002,
+      "name": "[水着でも二刀流]ロイド",
+      "mst_chara_id": 9
+    },
+    {
+      "id": 100001,
+      "name": "[天に捧げる祈り]コレット",
+      "mst_chara_id": 10
+    },
+    {
+      "id": 100002,
+      "name": "[みんなでハロウィン]コレット",
+      "mst_chara_id": 10
+    },
+    {
+      "id": 100003,
+      "name": "[夢でも一緒]コレット",
+      "mst_chara_id": 10
+    },
+    {
+      "id": 100004,
+      "name": "[渚の天使]コレット",
+      "mst_chara_id": 10
+    },
+    {
+      "id": 120001,
+      "name": "[氷原の剣聖]ヴェイグ",
+      "mst_chara_id": 12
+    },
+    {
+      "id": 120002,
+      "name": "[2000万本突破記念]ヴェイグ",
+      "mst_chara_id": 12
+    },
+    {
+      "id": 140001,
+      "name": "[閉庭の剣錬]ルーク",
+      "mst_chara_id": 14
+    },
+    {
+      "id": 140002,
+      "name": "[大海原の鉤爪]ルーク",
+      "mst_chara_id": 14
+    },
+    {
+      "id": 140003,
+      "name": "[2000万本突破記念]ルーク",
+      "mst_chara_id": 14
+    },
+    {
+      "id": 140004,
+      "name": "[夜涼の散歩]ルーク",
+      "mst_chara_id": 14
+    },
+    {
+      "id": 160001,
+      "name": "[最強人形師]アニス",
+      "mst_chara_id": 16
+    },
+    {
+      "id": 160002,
+      "name": "[スイーツハロウィン♥]アニス",
+      "mst_chara_id": 16
+    },
+    {
+      "id": 160003,
+      "name": "[月の兎娘]アニス",
+      "mst_chara_id": 16
+    },
+    {
+      "id": 170001,
+      "name": "[灼炎の剛剣]ルカ",
+      "mst_chara_id": 17
+    },
+    {
+      "id": 170002,
+      "name": "[2000万本突破記念]ルカ",
+      "mst_chara_id": 17
+    },
+    {
+      "id": 190001,
+      "name": "[闇の仕事師]ユーリ",
+      "mst_chara_id": 19
+    },
+    {
+      "id": 190002,
+      "name": "[夜霧に彷徨う仮面]ユーリ",
+      "mst_chara_id": 19
+    },
+    {
+      "id": 190003,
+      "name": "[聖夜の仕事人]ユーリ",
+      "mst_chara_id": 19
+    },
+    {
+      "id": 190004,
+      "name": "[REMASTER記念]ユーリ",
+      "mst_chara_id": 19
+    },
+    {
+      "id": 200001,
+      "name": "[REMASTER記念]ラピード",
+      "mst_chara_id": 20
+    },
+    {
+      "id": 210001,
+      "name": "[皇女様の親友]リタ",
+      "mst_chara_id": 21
+    },
+    {
+      "id": 210002,
+      "name": "[異界の魔女]リタ",
+      "mst_chara_id": 21
+    },
+    {
+      "id": 210003,
+      "name": "[REMASTER記念]リタ",
+      "mst_chara_id": 21
+    },
+    {
+      "id": 240001,
+      "name": "[瞬閃の剣煌]アスベル",
+      "mst_chara_id": 24
+    },
+    {
+      "id": 240002,
+      "name": "[2000万本突破記念]アスベル",
+      "mst_chara_id": 24
+    },
+    {
+      "id": 270001,
+      "name": "[覇王を退けし者]ジュード",
+      "mst_chara_id": 27
+    },
+    {
+      "id": 270002,
+      "name": "[魂の管理者]ジュード",
+      "mst_chara_id": 27
+    },
+    {
+      "id": 270003,
+      "name": "[丘での休息]ジュード",
+      "mst_chara_id": 27
+    },
+    {
+      "id": 270004,
+      "name": "[2000万本突破記念]ジュード",
+      "mst_chara_id": 27
+    },
+    {
+      "id": 280001,
+      "name": "[新春のおみくじ]ミラ",
+      "mst_chara_id": 28
+    },
+    {
+      "id": 280002,
+      "name": "[祭太鼓の響き]ミラ",
+      "mst_chara_id": 28
+    },
+    {
+      "id": 280003,
+      "name": "[2000万本突破記念]ミラ",
+      "mst_chara_id": 28
+    },
+    {
+      "id": 290001,
+      "name": "[踏み出す勇気]エリーゼ",
+      "mst_chara_id": 29
+    },
+    {
+      "id": 290002,
+      "name": "[夜に咲く大輪]エリーゼ",
+      "mst_chara_id": 29
+    },
+    {
+      "id": 290003,
+      "name": "[ティポマスター]エリーゼ",
+      "mst_chara_id": 29
+    },
+    {
+      "id": 300001,
+      "name": "[決意の覚醒者]ルドガー",
+      "mst_chara_id": 30
+    },
+    {
+      "id": 300002,
+      "name": "[真夏の休息]ルドガー",
+      "mst_chara_id": 30
+    },
+    {
+      "id": 300003,
+      "name": "[車窓からの桜模様]ルドガー",
+      "mst_chara_id": 30
+    },
+    {
+      "id": 300004,
+      "name": "[2000万本突破記念]ルドガー",
+      "mst_chara_id": 30
+    },
+    {
+      "id": 310001,
+      "name": "[ハッピーハプニング]スレイ",
+      "mst_chara_id": 31
+    },
+    {
+      "id": 310002,
+      "name": "[2000万本突破記念]スレイ",
+      "mst_chara_id": 31
+    },
+    {
+      "id": 310003,
+      "name": "[かがやきの瞳]スレイ",
+      "mst_chara_id": 31
+    },
+    {
+      "id": 330001,
+      "name": "[兄を超えた少女]サラ",
+      "mst_chara_id": 33
+    },
+    {
+      "id": 330002,
+      "name": "[祝福された門出]サラ",
+      "mst_chara_id": 33
+    },
+    {
+      "id": 330003,
+      "name": "[月夜に照らされて]サラ",
+      "mst_chara_id": 33
+    },
+    {
+      "id": 330004,
+      "name": "[未来キセキ]サラ",
+      "mst_chara_id": 33
+    },
+    {
+      "id": 350001,
+      "name": "[癒しの譜歌を詠いし者]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 350002,
+      "name": "[音奏の調律者]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 350003,
+      "name": "[門限は深夜0時]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 350004,
+      "name": "[正義の執行者]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 350005,
+      "name": "[清めの作法]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 350006,
+      "name": "[水泳代表]ティア",
+      "mst_chara_id": 35
+    },
+    {
+      "id": 370001,
+      "name": "[復讐の旅立ち]ベルベット",
+      "mst_chara_id": 37
+    },
+    {
+      "id": 370002,
+      "name": "[ブラッドキッカー]ベルベット",
+      "mst_chara_id": 37
+    },
+    {
+      "id": 370003,
+      "name": "[夜風を感じて]ベルベット",
+      "mst_chara_id": 37
+    },
+    {
+      "id": 370004,
+      "name": "[湯浴みを満喫]ベルベット",
+      "mst_chara_id": 37
+    },
+    {
+      "id": 370005,
+      "name": "[2000万本突破記念]ベルベット",
+      "mst_chara_id": 37
+    },
+    {
+      "id": 390001,
+      "name": "[お宝いっぱい]シェリア",
+      "mst_chara_id": 39
+    },
+    {
+      "id": 390002,
+      "name": "[放課後の教室]シェリア",
+      "mst_chara_id": 39
+    },
+    {
+      "id": 390003,
+      "name": "[ベッドでまったり]シェリア",
+      "mst_chara_id": 39
+    },
+    {
+      "id": 400001,
+      "name": "[赤煌の剣士]リッド",
+      "mst_chara_id": 40
+    },
+    {
+      "id": 400002,
+      "name": "[真の極光術士]リッド",
+      "mst_chara_id": 40
+    },
+    {
+      "id": 400003,
+      "name": "[極光の輝き]リッド",
+      "mst_chara_id": 40
+    },
+    {
+      "id": 400004,
+      "name": "[2000万本突破記念]リッド",
+      "mst_chara_id": 40
+    },
+    {
+      "id": 420001,
+      "name": "[流浪の弓狼]レイヴン",
+      "mst_chara_id": 42
+    },
+    {
+      "id": 420002,
+      "name": "[酒に花火に]レイヴン",
+      "mst_chara_id": 42
+    },
+    {
+      "id": 420003,
+      "name": "[REMASTER記念]レイヴン",
+      "mst_chara_id": 42
+    },
+    {
+      "id": 430001,
+      "name": "[2000万本突破記念]スタン",
+      "mst_chara_id": 43
+    },
+    {
+      "id": 440001,
+      "name": "[導かれし未来]ゼロス",
+      "mst_chara_id": 44
+    },
+    {
+      "id": 440002,
+      "name": "[王女奪還]ゼロス",
+      "mst_chara_id": 44
+    },
+    {
+      "id": 440003,
+      "name": "[夕凪のビートファスト]ゼロス",
+      "mst_chara_id": 44
+    },
+    {
+      "id": 440004,
+      "name": "[紅髪の剣士]ゼロス",
+      "mst_chara_id": 44
+    },
+    {
+      "id": 460001,
+      "name": "[2000万本突破記念]カイル",
+      "mst_chara_id": 46
+    },
+    {
+      "id": 490001,
+      "name": "[さすらいの傭兵]アルヴィン",
+      "mst_chara_id": 49
+    },
+    {
+      "id": 490002,
+      "name": "[強すぎる商人]アルヴィン",
+      "mst_chara_id": 49
+    },
+    {
+      "id": 500001,
+      "name": "[長槍戦姫]アリーシャ",
+      "mst_chara_id": 50
+    },
+    {
+      "id": 500002,
+      "name": "[恍惚の姫君]アリーシャ",
+      "mst_chara_id": 50
+    },
+    {
+      "id": 500003,
+      "name": "[誓想のリング]アリーシャ",
+      "mst_chara_id": 50
+    },
+    {
+      "id": 500004,
+      "name": "[ビューティガール]アリーシャ",
+      "mst_chara_id": 50
+    },
+    {
+      "id": 520001,
+      "name": "[戦場巡る癒しの姫君]エステル",
+      "mst_chara_id": 52
+    },
+    {
+      "id": 520002,
+      "name": "[パレードの先導者]エステル",
+      "mst_chara_id": 52
+    },
+    {
+      "id": 520003,
+      "name": "[たゆまぬ探究]エステル",
+      "mst_chara_id": 52
+    },
+    {
+      "id": 520004,
+      "name": "[REMASTER記念]エステル",
+      "mst_chara_id": 52
+    },
+    {
+      "id": 550001,
+      "name": "[真の格闘家]セネル",
+      "mst_chara_id": 55
+    },
+    {
+      "id": 550002,
+      "name": "[2000万本突破記念]セネル",
+      "mst_chara_id": 55
+    },
+    {
+      "id": 580001,
+      "name": "[2000万本突破記念]シング",
+      "mst_chara_id": 58
+    },
+    {
+      "id": 600001,
+      "name": "[死神と呼ばれし者]アイゼン",
+      "mst_chara_id": 60
+    },
+    {
+      "id": 620001,
+      "name": "[2000万本突破記念]カイウス",
+      "mst_chara_id": 62
+    },
+    {
+      "id": 710001,
+      "name": "[2000万本突破記念]エミル",
+      "mst_chara_id": 71
+    },
+    {
+      "id": 720001,
+      "name": "[手を出しなさい！]マルタ",
+      "mst_chara_id": 72
+    },
+    {
+      "id": 750001,
+      "name": "[白き革命の騎士]フレン",
+      "mst_chara_id": 75
+    },
+    {
+      "id": 750002,
+      "name": "[雪舞う聖夜の贈物]フレン",
+      "mst_chara_id": 75
+    },
+    {
+      "id": 750003,
+      "name": "[映りし月影]フレン",
+      "mst_chara_id": 75
+    },
+    {
+      "id": 750004,
+      "name": "[REMASTER記念]フレン",
+      "mst_chara_id": 75
+    },
+    {
+      "id": 770001,
+      "name": "[裂華の旋風]ロゼ",
+      "mst_chara_id": 77
+    },
+    {
+      "id": 770002,
+      "name": "[祝福に包まれて]ロゼ",
+      "mst_chara_id": 77
+    },
+    {
+      "id": 780001,
+      "name": "[ウィンドリベンジャー]デゼル",
+      "mst_chara_id": 78
+    },
+    {
+      "id": 830001,
+      "name": "[魅惑のスイーツ？]エレノア",
+      "mst_chara_id": 83
+    },
+    {
+      "id": 830002,
+      "name": "[ウルフガール]エレノア",
+      "mst_chara_id": 83
+    },
+    {
+      "id": 860001,
+      "name": "[棍風輪舞]レイア",
+      "mst_chara_id": 86
+    },
+    {
+      "id": 860002,
+      "name": "[秘密の女子トーク♥]レイア",
+      "mst_chara_id": 86
+    },
+    {
+      "id": 860003,
+      "name": "[ミステリアスアイドル]レイア",
+      "mst_chara_id": 86
+    },
+    {
+      "id": 890001,
+      "name": "[幸せのブライダル]カナ",
+      "mst_chara_id": 89
+    },
+    {
+      "id": 890002,
+      "name": "[ふわふわおふとん]カナ",
+      "mst_chara_id": 89
+    },
+    {
+      "id": 890003,
+      "name": "[未来キセキ]カナ",
+      "mst_chara_id": 89
+    },
+    {
+      "id": 940001,
+      "name": "[REMASTER記念]カロル",
+      "mst_chara_id": 94
+    },
+    {
+      "id": 980001,
+      "name": "[悲しい記憶]Ｐ・カノンノ",
+      "mst_chara_id": 98
+    },
+    {
+      "id": 980002,
+      "name": "[はじめての景色]Ｐ・カノンノ",
+      "mst_chara_id": 98
+    },
+    {
+      "id": 980003,
+      "name": "[弾奏十五夜]Ｐ・カノンノ",
+      "mst_chara_id": 98
+    },
+    {
+      "id": 1040001,
+      "name": "[REMASTER記念]ジュディス",
+      "mst_chara_id": 104
+    },
+    {
+      "id": 560001,
+      "name": "[笑顔の水兵]ガイ",
+      "mst_chara_id": 56
+    },
+    {
+      "id": 150001,
+      "name": "[軍人の休日]ジェイド",
+      "mst_chara_id": 15
+    },
+    {
+      "id": 320001,
+      "name": "[真夏のバカンス]ミクリオ",
+      "mst_chara_id": 32
+    },
+    {
+      "id": 360001,
+      "name": "[納涼の少女]エドナ",
+      "mst_chara_id": 36
+    }
+  ],
+  "mst_weapon_surface_relation": [
+    {
+      "id": 10001,
+      "weapon_surface_name": "[2000万本突破記念]イクス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 20001,
+      "weapon_surface_name": "[2000万本突破記念]ミリーナ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 30001,
+      "weapon_surface_name": "[2000万本突破記念]クレス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 90001,
+      "weapon_surface_name": "[2000万本突破記念]ロイド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 90002,
+      "weapon_surface_name": "[水着でも二刀流]ロイド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 100001,
+      "weapon_surface_name": "[天に捧げる祈り]コレット",
+      "weapon_name": "ドジっ娘エンジェル コレット",
+      "description": ""
+    },
+    {
+      "id": 100002,
+      "weapon_surface_name": "[みんなでハロウィン]コレット",
+      "weapon_name": "ドジっ娘エンジェル コレット",
+      "description": ""
+    },
+    {
+      "id": 100003,
+      "weapon_surface_name": "[夢でも一緒]コレット",
+      "weapon_name": "ドジっ娘エンジェル コレット",
+      "description": ""
+    },
+    {
+      "id": 100004,
+      "weapon_surface_name": "[渚の天使]コレット",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 120001,
+      "weapon_surface_name": "[氷原の剣聖]ヴェイグ",
+      "weapon_name": "寡黙な剣士 ヴェイグ",
+      "description": ""
+    },
+    {
+      "id": 120002,
+      "weapon_surface_name": "[2000万本突破記念]ヴェイグ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 140001,
+      "weapon_surface_name": "[閉庭の剣錬]ルーク",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 140002,
+      "weapon_surface_name": "[大海原の鉤爪]ルーク",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 140003,
+      "weapon_surface_name": "[2000万本突破記念]ルーク",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 140004,
+      "weapon_surface_name": "[夜涼の散歩]ルーク",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 160001,
+      "weapon_surface_name": "[最強人形師]アニス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 160002,
+      "weapon_surface_name": "[スイーツハロウィン♥]アニス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 160003,
+      "weapon_surface_name": "[月の兎娘]アニス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 170001,
+      "weapon_surface_name": "[灼炎の剛剣]ルカ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 170002,
+      "weapon_surface_name": "[2000万本突破記念]ルカ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 190001,
+      "weapon_surface_name": "[闇の仕事師]ユーリ",
+      "weapon_name": "頼れる兄貴　ユーリ",
+      "description": ""
+    },
+    {
+      "id": 190002,
+      "weapon_surface_name": "[夜霧に彷徨う仮面]ユーリ",
+      "weapon_name": "頼れる兄貴　ユーリ",
+      "description": ""
+    },
+    {
+      "id": 190003,
+      "weapon_surface_name": "[聖夜の仕事人]ユーリ",
+      "weapon_name": "頼れる兄貴　ユーリ",
+      "description": ""
+    },
+    {
+      "id": 190004,
+      "weapon_surface_name": "[REMASTER記念]ユーリ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 200001,
+      "weapon_surface_name": "[REMASTER記念]ラピード",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 210001,
+      "weapon_surface_name": "[皇女様の親友]リタ",
+      "weapon_name": "偏屈な天才少女 リタ",
+      "description": ""
+    },
+    {
+      "id": 210002,
+      "weapon_surface_name": "[異界の魔女]リタ",
+      "weapon_name": "偏屈な天才少女 リタ",
+      "description": ""
+    },
+    {
+      "id": 210003,
+      "weapon_surface_name": "[REMASTER記念]リタ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 240001,
+      "weapon_surface_name": "[瞬閃の剣煌]アスベル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 240002,
+      "weapon_surface_name": "[2000万本突破記念]アスベル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 270001,
+      "weapon_surface_name": "[覇王を退けし者]ジュード",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 270002,
+      "weapon_surface_name": "[魂の管理者]ジュード",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 270003,
+      "weapon_surface_name": "[丘での休息]ジュード",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 270004,
+      "weapon_surface_name": "[2000万本突破記念]ジュード",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 280001,
+      "weapon_surface_name": "[新春のおみくじ]ミラ=マクスウェル",
+      "weapon_name": "精霊術マスター ミラ=マクスウェル",
+      "description": ""
+    },
+    {
+      "id": 280002,
+      "weapon_surface_name": "[祭太鼓の響き]ミラ=マクスウェル",
+      "weapon_name": "精霊術マスター ミラ=マクスウェル",
+      "description": ""
+    },
+    {
+      "id": 280003,
+      "weapon_surface_name": "[2000万本突破記念]ミラ=マクスウェル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 290001,
+      "weapon_surface_name": "[踏み出す勇気]エリーゼ",
+      "weapon_name": "ティポマスター エリーゼ",
+      "description": ""
+    },
+    {
+      "id": 290002,
+      "weapon_surface_name": "[夜に咲く大輪]エリーゼ",
+      "weapon_name": "ティポマスター エリーゼ",
+      "description": ""
+    },
+    {
+      "id": 290003,
+      "weapon_surface_name": "[ティポマスター]エリーゼ",
+      "weapon_name": "ティポマスター エリーゼ",
+      "description": ""
+    },
+    {
+      "id": 300001,
+      "weapon_surface_name": "[決意の覚醒者]ルドガー",
+      "weapon_name": "術技スペシャリスト ルドガー",
+      "description": ""
+    },
+    {
+      "id": 300002,
+      "weapon_surface_name": "[真夏の休息]ルドガー",
+      "weapon_name": "術技スペシャリスト ルドガー",
+      "description": ""
+    },
+    {
+      "id": 300003,
+      "weapon_surface_name": "[車窓からの桜模様]ルドガー",
+      "weapon_name": "術技スペシャリスト ルドガー",
+      "description": ""
+    },
+    {
+      "id": 300004,
+      "weapon_surface_name": "[2000万本突破記念]ルドガー",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 310001,
+      "weapon_surface_name": "[ハッピーハプニング]スレイ",
+      "weapon_name": "穢れなき指揮者 スレイ",
+      "description": ""
+    },
+    {
+      "id": 310002,
+      "weapon_surface_name": "[2000万本突破記念]スレイ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 310003,
+      "weapon_surface_name": "[かがやきの瞳]スレイ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 330001,
+      "weapon_surface_name": "[兄を超えた少女]サラ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 330002,
+      "weapon_surface_name": "[祝福された門出]サラ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 330003,
+      "weapon_surface_name": "[月夜に照らされて]サラ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 330004,
+      "weapon_surface_name": "[未来キセキ]サラ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350001,
+      "weapon_surface_name": "[癒しの譜歌を詠いし者]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350002,
+      "weapon_surface_name": "[音奏の調律者]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350003,
+      "weapon_surface_name": "[門限は深夜0時]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350004,
+      "weapon_surface_name": "[正義の執行者]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350005,
+      "weapon_surface_name": "[清めの作法]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 350006,
+      "weapon_surface_name": "[水泳代表]ティア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 370001,
+      "weapon_surface_name": "[復讐の旅立ち]ベルベット",
+      "weapon_name": "残酷な魔爪剣士 ベルベット",
+      "description": ""
+    },
+    {
+      "id": 370002,
+      "weapon_surface_name": "[ブラッドキッカー]ベルベット",
+      "weapon_name": "残酷な魔爪剣士 ベルベット",
+      "description": ""
+    },
+    {
+      "id": 370003,
+      "weapon_surface_name": "[夜風を感じて]ベルベット",
+      "weapon_name": "残酷な魔爪剣士 ベルベット",
+      "description": ""
+    },
+    {
+      "id": 370004,
+      "weapon_surface_name": "[湯浴みを満喫]ベルベット",
+      "weapon_name": "残酷な魔爪剣士 ベルベット",
+      "description": ""
+    },
+    {
+      "id": 370005,
+      "weapon_surface_name": "[2000万本突破記念]ベルベット",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 390001,
+      "weapon_surface_name": "[お宝いっぱい]シェリア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 390002,
+      "weapon_surface_name": "[放課後の教室]シェリア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 390003,
+      "weapon_surface_name": "[ベッドでまったり]シェリア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 400001,
+      "weapon_surface_name": "[赤煌の剣士]リッド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 400002,
+      "weapon_surface_name": "[真の極光術士]リッド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 400003,
+      "weapon_surface_name": "[極光の輝き]リッド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 400004,
+      "weapon_surface_name": "[2000万本突破記念]リッド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 420001,
+      "weapon_surface_name": "[流浪の弓狼]レイヴン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 420002,
+      "weapon_surface_name": "[酒に花火に]レイヴン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 420003,
+      "weapon_surface_name": "[REMASTER記念]レイヴン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 430001,
+      "weapon_surface_name": "[2000万本突破記念]スタン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 440001,
+      "weapon_surface_name": "[導かれし未来]ゼロス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 440002,
+      "weapon_surface_name": "[王女奪還]ゼロス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 440003,
+      "weapon_surface_name": "[夕凪のビートファスト]ゼロス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 440004,
+      "weapon_surface_name": "[紅髪の剣士]ゼロス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 460001,
+      "weapon_surface_name": "[2000万本突破記念]カイル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 490001,
+      "weapon_surface_name": "[さすらいの傭兵]アルヴィン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 490002,
+      "weapon_surface_name": "[強すぎる商人]アルヴィン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 500001,
+      "weapon_surface_name": "[長槍戦姫]アリーシャ",
+      "weapon_name": "憂国の姫君 アリーシャ",
+      "description": ""
+    },
+    {
+      "id": 500002,
+      "weapon_surface_name": "[恍惚の姫君]アリーシャ",
+      "weapon_name": "憂国の姫君 アリーシャ",
+      "description": ""
+    },
+    {
+      "id": 500003,
+      "weapon_surface_name": "[誓想のリング]アリーシャ",
+      "weapon_name": "憂国の姫君 アリーシャ",
+      "description": ""
+    },
+    {
+      "id": 500004,
+      "weapon_surface_name": "[ビューティガール]アリーシャ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 520001,
+      "weapon_surface_name": "[戦場巡る癒しの姫君]エステル",
+      "weapon_name": "献身的な姫君 エステル",
+      "description": ""
+    },
+    {
+      "id": 520002,
+      "weapon_surface_name": "[パレードの先導者]エステル",
+      "weapon_name": "献身的な姫君 エステル",
+      "description": ""
+    },
+    {
+      "id": 520003,
+      "weapon_surface_name": "[たゆまぬ探究]エステル",
+      "weapon_name": "献身的な姫君 エステル",
+      "description": ""
+    },
+    {
+      "id": 520004,
+      "weapon_surface_name": "[REMASTER記念]エステル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 550001,
+      "weapon_surface_name": "[真の格闘家]セネル",
+      "weapon_name": "音速の戦士 セネル",
+      "description": ""
+    },
+    {
+      "id": 550002,
+      "weapon_surface_name": "[2000万本突破記念]セネル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 580001,
+      "weapon_surface_name": "[2000万本突破記念]シング",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 600001,
+      "weapon_surface_name": "[死神と呼ばれし者]アイゼン",
+      "weapon_name": "クールな地風術士 アイゼン",
+      "description": ""
+    },
+    {
+      "id": 620001,
+      "weapon_surface_name": "[2000万本突破記念]カイウス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 710001,
+      "weapon_surface_name": "[2000万本突破記念]エミル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 720001,
+      "weapon_surface_name": "[手を出しなさい！]マルタ",
+      "weapon_name": "勝気なスピナー使い マルタ",
+      "description": ""
+    },
+    {
+      "id": 750001,
+      "weapon_surface_name": "[白き革命の騎士]フレン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 750002,
+      "weapon_surface_name": "[雪舞う聖夜の贈物]フレン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 750003,
+      "weapon_surface_name": "[映りし月影]フレン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 750004,
+      "weapon_surface_name": "[REMASTER記念]フレン",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 770001,
+      "weapon_surface_name": "[裂華の旋風]ロゼ",
+      "weapon_name": "自由奔放なフルーティスト ロゼ",
+      "description": ""
+    },
+    {
+      "id": 770002,
+      "weapon_surface_name": "[祝福に包まれて]ロゼ",
+      "weapon_name": "自由奔放なフルーティスト ロゼ",
+      "description": ""
+    },
+    {
+      "id": 780001,
+      "weapon_surface_name": "[ウィンドリベンジャー]デゼル",
+      "weapon_name": "一見クールなトランペッター デゼル",
+      "description": ""
+    },
+    {
+      "id": 830001,
+      "weapon_surface_name": "[魅惑のスイーツ？]エレノア",
+      "weapon_name": "真面目な霊槍術士 エレノア",
+      "description": ""
+    },
+    {
+      "id": 830002,
+      "weapon_surface_name": "[ウルフガール]エレノア",
+      "weapon_name": "真面目な霊槍術士 エレノア",
+      "description": ""
+    },
+    {
+      "id": 860001,
+      "weapon_surface_name": "[棍風輪舞]レイア",
+      "weapon_name": "活伸棍術マスター レイア",
+      "description": ""
+    },
+    {
+      "id": 860002,
+      "weapon_surface_name": "[秘密の女子トーク♥]レイア",
+      "weapon_name": "活伸棍術マスター レイア",
+      "description": ""
+    },
+    {
+      "id": 860003,
+      "weapon_surface_name": "[ミステリアスアイドル]レイア",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 890001,
+      "weapon_surface_name": "[幸せのブライダル]カナ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 890002,
+      "weapon_surface_name": "[ふわふわおふとん]カナ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 890003,
+      "weapon_surface_name": "[未来キセキ]カナ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 940001,
+      "weapon_surface_name": "[REMASTER記念]カロル",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 980001,
+      "weapon_surface_name": "[悲しい記憶]Ｐ・カノンノ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 980002,
+      "weapon_surface_name": "[はじめての景色]Ｐ・カノンノ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 980003,
+      "weapon_surface_name": "[弾奏十五夜]Ｐ・カノンノ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 1040001,
+      "weapon_surface_name": "[REMASTER記念]ジュディス",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 560001,
+      "weapon_surface_name": "[笑顔の水兵]ガイ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 150001,
+      "weapon_surface_name": "[軍人の休日]ジェイド",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 320001,
+      "weapon_surface_name": "[真夏のバカンス]ミクリオ",
+      "weapon_name": "",
+      "description": ""
+    },
+    {
+      "id": 360001,
+      "weapon_surface_name": "[納涼の少女]エドナ",
+      "weapon_name": "",
+      "description": ""
+    }
+  ],
+  "mst_weapon_surface_button": [
+    {
+      "id": 1,
+      "start_date": "2018-03-31T05:00:00.0000000Z",
+      "end_date": "2099-03-31T04:59:59.0000000Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "xhash": "",
+  "mst_script_datas": [
+    {
+      "id": 0,
+      "text": "",
+      "speed": 1,
+      "str1": "",
+      "withNext": true,
+      "charaID": -1,
+      "charaType": 0,
+      "charaFace": 0,
+      "voice": -1,
+      "command": -1,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0
+    }
+  ]
+}

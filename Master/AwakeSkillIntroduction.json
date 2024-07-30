@@ -1,0 +1,12 @@
+{
+  "xhash": "",
+  "mst_awake_skill_introduction": [
+    {
+      "id": 1,
+      "banner_name": "awake_skill_banner_0001",
+      "movie_key": "AWAKE_SKILL_INTRODUCTION_0001",
+      "start_date": "2019-06-28T03:00:00.0000000Z",
+      "end_date": "2099-03-31T15:00:00.0000000Z"
+    }
+  ]
+}

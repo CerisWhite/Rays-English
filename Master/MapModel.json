@@ -1,0 +1,2014 @@
+{
+  "xhash": "",
+  "mst_map_models": [
+    {
+      "id": 101,
+      "mapName": "山岳1",
+      "folder": "BattleMap/d01b01.u3d",
+      "path": "prefab/d01b01_v03.prefab",
+      "effectId": 101
+    },
+    {
+      "id": 102,
+      "mapName": "山岳2",
+      "folder": "BattleMap/d01b02.u3d",
+      "path": "d01b02_v01.prefab",
+      "effectId": 102
+    },
+    {
+      "id": 103,
+      "mapName": "山岳2_結晶",
+      "folder": "BattleMap/d01b02cr.u3d",
+      "path": "prefab/d01b02cr_v01.prefab",
+      "effectId": 103
+    },
+    {
+      "id": 201,
+      "mapName": "森林1",
+      "folder": "BattleMap/d02b01.u3d",
+      "path": "prefab/d02b01_v01.prefab",
+      "effectId": 201
+    },
+    {
+      "id": 202,
+      "mapName": "森林1_結晶",
+      "folder": "BattleMap/d02b01cr.u3d",
+      "path": "prefab/d02b01cr_v01.prefab",
+      "effectId": 202
+    },
+    {
+      "id": 203,
+      "mapName": "森林紅葉",
+      "folder": "BattleMap/d02b_fall01.u3d",
+      "path": "prefab/d02b_fall01_v01.prefab",
+      "effectId": 203
+    },
+    {
+      "id": 204,
+      "mapName": "森林紅葉_結晶",
+      "folder": "BattleMap/d02b_fall01cr.u3d",
+      "path": "prefab/d02b_fall01cr_v01.prefab",
+      "effectId": 204
+    },
+    {
+      "id": 301,
+      "mapName": "洞窟1",
+      "folder": "BattleMap/d03b01.u3d",
+      "path": "d03b01_v03.prefab",
+      "effectId": 301
+    },
+    {
+      "id": 302,
+      "mapName": "洞窟1_結晶",
+      "folder": "BattleMap/d03b01cr.u3d",
+      "path": "prefab/d03b01cr_v03.prefab",
+      "effectId": 302
+    },
+    {
+      "id": 401,
+      "mapName": "火山1",
+      "folder": "BattleMap/d04b01.u3d",
+      "path": "d04b01_v06.prefab",
+      "effectId": 401
+    },
+    {
+      "id": 402,
+      "mapName": "火山2",
+      "folder": "BattleMap/d04b02.u3d",
+      "path": "d04b02_v01.prefab",
+      "effectId": 402
+    },
+    {
+      "id": 403,
+      "mapName": "火山1_結晶",
+      "folder": "BattleMap/d04b01cr.u3d",
+      "path": "prefab/d04b01cr_v06.prefab",
+      "effectId": 403
+    },
+    {
+      "id": 501,
+      "mapName": "砂漠1",
+      "folder": "BattleMap/d05b01.u3d",
+      "path": "d05b01_v01.prefab",
+      "effectId": 501
+    },
+    {
+      "id": 502,
+      "mapName": "砂漠2",
+      "folder": "BattleMap/d05b02.u3d",
+      "path": "prefab/d05b02_v01.prefab",
+      "effectId": 502
+    },
+    {
+      "id": 503,
+      "mapName": "砂漠1_結晶",
+      "folder": "BattleMap/d05b01cr.u3d",
+      "path": "prefab/d05b01cr_v01.prefab",
+      "effectId": 503
+    },
+    {
+      "id": 504,
+      "mapName": "砂漠2_夜",
+      "folder": "BattleMap/d05b_night02.u3d",
+      "path": "prefab/d05b_night02_v01.prefab",
+      "effectId": 504
+    },
+    {
+      "id": 505,
+      "mapName": "砂漠2_夜_結晶",
+      "folder": "BattleMap/d05b_night02cr.u3d",
+      "path": "prefab/d05b_night02cr_v01.prefab",
+      "effectId": 505
+    },
+    {
+      "id": 506,
+      "mapName": "砂漠2_結晶",
+      "folder": "BattleMap/d05b02cr.u3d",
+      "path": "prefab/d05b02cr_v01.prefab",
+      "effectId": 506
+    },
+    {
+      "id": 601,
+      "mapName": "遺跡1",
+      "folder": "BattleMap/d06b01.u3d",
+      "path": "prefab/d06b01_v01.prefab",
+      "effectId": 601
+    },
+    {
+      "id": 602,
+      "mapName": "遺跡2",
+      "folder": "BattleMap/d06b02.u3d",
+      "path": "prefab/d06b02_01.prefab",
+      "effectId": 602
+    },
+    {
+      "id": 603,
+      "mapName": "遺跡1_結晶",
+      "folder": "BattleMap/d06b01cr.u3d",
+      "path": "prefab/d06b01cr_v01.prefab",
+      "effectId": 603
+    },
+    {
+      "id": 701,
+      "mapName": "雪山1",
+      "folder": "BattleMap/d07b01.u3d",
+      "path": "prefab/d07b01_v01.prefab",
+      "effectId": 701
+    },
+    {
+      "id": 702,
+      "mapName": "雪原1",
+      "folder": "BattleMap/d07b11.u3d",
+      "path": "prefab/d07b11_v01.prefab",
+      "effectId": 702
+    },
+    {
+      "id": 703,
+      "mapName": "雪山1_結晶",
+      "folder": "BattleMap/d07b01cr.u3d",
+      "path": "prefab/d07b01cr_v01.prefab",
+      "effectId": 703
+    },
+    {
+      "id": 801,
+      "mapName": "神殿1",
+      "folder": "BattleMap/d08b01.u3d",
+      "path": "prefab/d08b01_01.prefab",
+      "effectId": 801
+    },
+    {
+      "id": 802,
+      "mapName": "神殿2",
+      "folder": "BattleMap/d08b02.u3d",
+      "path": "prefab/d08a02_v01.prefab",
+      "effectId": 802
+    },
+    {
+      "id": 803,
+      "mapName": "スイートピア遺跡1",
+      "folder": "BattleMap/d08b11.u3d",
+      "path": "prefab/d08b11_01.prefab",
+      "effectId": 801
+    },
+    {
+      "id": 804,
+      "mapName": "神殿1_結晶",
+      "folder": "BattleMap/d08b01cr.u3d",
+      "path": "prefab/d08b01cr_01.prefab",
+      "effectId": 804
+    },
+    {
+      "id": 901,
+      "mapName": "水洞1",
+      "folder": "BattleMap/d09b01.u3d",
+      "path": "prefab/d09b01_01.prefab",
+      "effectId": 901
+    },
+    {
+      "id": 902,
+      "mapName": "水洞2",
+      "folder": "BattleMap/d09b02.u3d",
+      "path": "prefab/d09b02_01.prefab",
+      "effectId": 902
+    },
+    {
+      "id": 903,
+      "mapName": "水洞1_結晶",
+      "folder": "BattleMap/d09b01cr.u3d",
+      "path": "prefab/d09b01cr_01.prefab",
+      "effectId": 903
+    },
+    {
+      "id": 1001,
+      "mapName": "闘技場",
+      "folder": "BattleMap/d10b01.u3d",
+      "path": "prefab/d10b01_v01.prefab",
+      "effectId": 1001
+    },
+    {
+      "id": 1002,
+      "mapName": "闘技場_結晶",
+      "folder": "BattleMap/d10b01cr.u3d",
+      "path": "prefab/d10b01cr_v01.prefab",
+      "effectId": 1002
+    },
+    {
+      "id": 1003,
+      "mapName": "闘技場雪",
+      "folder": "BattleMap/d10b11.u3d",
+      "path": "prefab/d10b11_v01.prefab",
+      "effectId": 1003
+    },
+    {
+      "id": 1004,
+      "mapName": "闘技場雪_結晶",
+      "folder": "BattleMap/d10b11cr.u3d",
+      "path": "prefab/d10b11cr_v01.prefab",
+      "effectId": 1004
+    },
+    {
+      "id": 1005,
+      "mapName": "闘技場_イースター",
+      "folder": "BattleMap/d10b02cr.u3d",
+      "path": "prefab/d10b02_v01.prefab",
+      "effectId": 1005
+    },
+    {
+      "id": 1101,
+      "mapName": "街道1",
+      "folder": "BattleMap/d11b01.u3d",
+      "path": "prefab/d11b01_v01.prefab",
+      "effectId": 1101
+    },
+    {
+      "id": 1102,
+      "mapName": "街道2",
+      "folder": "BattleMap/d11b02.u3d",
+      "path": "prefab/d11a02_v01.prefab",
+      "effectId": 1101
+    },
+    {
+      "id": 1103,
+      "mapName": "街道_結晶",
+      "folder": "BattleMap/d11b01cr.u3d",
+      "path": "prefab/d11b01cr_v01.prefab",
+      "effectId": 1103
+    },
+    {
+      "id": 1104,
+      "mapName": "新街道1",
+      "folder": "BattleMap/d11b11.u3d",
+      "path": "prefab/d11b11_v03.prefab",
+      "effectId": 1104
+    },
+    {
+      "id": 1105,
+      "mapName": "新街道1_結晶",
+      "folder": "BattleMap/d11b11cr.u3d",
+      "path": "prefab/d11b11cr_v03.prefab",
+      "effectId": 1105
+    },
+    {
+      "id": 1106,
+      "mapName": "新街道_夜",
+      "folder": "BattleMap/d11b_night01.u3d",
+      "path": "prefab/d11b_night01_v01.prefab",
+      "effectId": 1106
+    },
+    {
+      "id": 1107,
+      "mapName": "新街道_夜_結晶",
+      "folder": "BattleMap/d11b_night01cr.u3d",
+      "path": "prefab/d11b_night01cr_v01.prefab",
+      "effectId": 1107
+    },
+    {
+      "id": 1201,
+      "mapName": "村1",
+      "folder": "BattleMap/d12b01.u3d",
+      "path": "prefab/d12b01_v01.prefab",
+      "effectId": 1201
+    },
+    {
+      "id": 1202,
+      "mapName": "村2",
+      "folder": "BattleMap/d12b02.u3d",
+      "path": "prefab/d12b02_v01.prefab",
+      "effectId": 1202
+    },
+    {
+      "id": 1203,
+      "mapName": "村2_結晶",
+      "folder": "BattleMap/d12b02cr.u3d",
+      "path": "prefab/d12b02cr_v01.prefab",
+      "effectId": 1203
+    },
+    {
+      "id": 1204,
+      "mapName": "新村1",
+      "folder": "BattleMap/d12b11.u3d",
+      "path": "prefab/d12b11_v01.prefab",
+      "effectId": 1204
+    },
+    {
+      "id": 1205,
+      "mapName": "新村1_結晶",
+      "folder": "BattleMap/d12b11cr.u3d",
+      "path": "prefab/d12b11cr_v01.prefab",
+      "effectId": 1205
+    },
+    {
+      "id": 1206,
+      "mapName": "村2_雪",
+      "folder": "BattleMap/d12b02.u3d",
+      "path": "prefab/d12b02A_v01.prefab",
+      "effectId": 1206
+    },
+    {
+      "id": 1207,
+      "mapName": "コロニー",
+      "folder": "BattleMap/d12b11_b.u3d",
+      "path": "prefab/d12b11_b_v01.prefab",
+      "effectId": 1207
+    },
+    {
+      "id": 1301,
+      "mapName": "街1",
+      "folder": "BattleMap/d13b01.u3d",
+      "path": "prefab/d13b01_v01.prefab",
+      "effectId": 1301
+    },
+    {
+      "id": 1302,
+      "mapName": "街2",
+      "folder": "BattleMap/d13b02.u3d",
+      "path": "prefab/d13b02_v01.prefab",
+      "effectId": 1302
+    },
+    {
+      "id": 1303,
+      "mapName": "街夜",
+      "folder": "BattleMap/d13b31.u3d",
+      "path": "prefab/d13b31_v03.prefab",
+      "effectId": 1303
+    },
+    {
+      "id": 1304,
+      "mapName": "街ハロウィン",
+      "folder": "BattleMap/d13b11.u3d",
+      "path": "prefab/d13b11_v03.prefab",
+      "effectId": 1304
+    },
+    {
+      "id": 1305,
+      "mapName": "街リファイン",
+      "folder": "BattleMap/d13b41.u3d",
+      "path": "prefab/d13b41_v01.prefab",
+      "effectId": 1305
+    },
+    {
+      "id": 1306,
+      "mapName": "街クリスマス",
+      "folder": "BattleMap/d13b21.u3d",
+      "path": "prefab/d13b21_v03.prefab",
+      "effectId": 1306
+    },
+    {
+      "id": 1307,
+      "mapName": "街_結晶",
+      "folder": "BattleMap/d13b41cr.u3d",
+      "path": "prefab/d13b41cr_v01.prefab",
+      "effectId": 1307
+    },
+    {
+      "id": 1308,
+      "mapName": "街感謝祭",
+      "folder": "BattleMap/d13b61.u3d",
+      "path": "prefab/d13b61_v01.prefab",
+      "effectId": 1308
+    },
+    {
+      "id": 1309,
+      "mapName": "街感謝祭夜",
+      "folder": "BattleMap/d13b71.u3d",
+      "path": "prefab/d13b71_V01.prefab",
+      "effectId": 1309
+    },
+    {
+      "id": 1310,
+      "mapName": "街夏祭り",
+      "folder": "BattleMap/d13b81.u3d",
+      "path": "prefab/d13b81_v01.prefab",
+      "effectId": 1310
+    },
+    {
+      "id": 1311,
+      "mapName": "街夏祭り_結晶",
+      "folder": "BattleMap/d13b81cr.u3d",
+      "path": "prefab/d13b81cr_v01.prefab",
+      "effectId": 1311
+    },
+    {
+      "id": 1312,
+      "mapName": "街ハロウィン_結晶",
+      "folder": "BattleMap/d13b11cr.u3d",
+      "path": "prefab/d13b11cr_V01.prefab",
+      "effectId": 1312
+    },
+    {
+      "id": 1313,
+      "mapName": "街クリスマス_結晶",
+      "folder": "BattleMap/d13b21cr.u3d",
+      "path": "prefab/d13b21cr_V01.prefab",
+      "effectId": 1313
+    },
+    {
+      "id": 1314,
+      "mapName": "街夜_結晶",
+      "folder": "BattleMap/d13b31cr.u3d",
+      "path": "prefab/d13b31cr_v03.prefab",
+      "effectId": 1314
+    },
+    {
+      "id": 1315,
+      "mapName": "別街",
+      "folder": "BattleMap/d13b_bcity01.u3d",
+      "path": "prefab/d13b_bcity01_v01.prefab",
+      "effectId": 1315
+    },
+    {
+      "id": 1316,
+      "mapName": "別街_結晶",
+      "folder": "BattleMap/d13b_bcity01cr.u3d",
+      "path": "prefab/d13b_bcity01cr_v01.prefab",
+      "effectId": 1316
+    },
+    {
+      "id": 1317,
+      "mapName": "街感謝祭_結晶",
+      "folder": "BattleMap/d13b61cr.u3d",
+      "path": "prefab/d13b61cr_v01.prefab",
+      "effectId": 1317
+    },
+    {
+      "id": 1318,
+      "mapName": "街感謝祭夜_結晶",
+      "folder": "BattleMap/d13b71cr.u3d",
+      "path": "prefab/d13b71cr_V01.prefab",
+      "effectId": 1318
+    },
+    {
+      "id": 1319,
+      "mapName": "別街夜",
+      "folder": "BattleMap/d13b_bcity_n01.u3d",
+      "path": "prefab/d13b_bcity_n01_v01.prefab",
+      "effectId": 1319
+    },
+    {
+      "id": 1320,
+      "mapName": "別街夜_結晶",
+      "folder": "BattleMap/d13b_bcity_n01cr.u3d",
+      "path": "prefab/d13b_bcity_n01cr_v01.prefab",
+      "effectId": 1320
+    },
+    {
+      "id": 1321,
+      "mapName": "別街雪夜",
+      "folder": "BattleMap/d13b_bcity_ns01.u3d",
+      "path": "prefab/d13b_bcity_ns01_v01.prefab",
+      "effectId": 1321
+    },
+    {
+      "id": 1322,
+      "mapName": "別街雪夜_結晶",
+      "folder": "BattleMap/d13b_bcity_ns01cr.u3d",
+      "path": "prefab/d13b_bcity_ns01cr_v01.prefab",
+      "effectId": 1322
+    },
+    {
+      "id": 1323,
+      "mapName": "別街雪夜（降雪OFF）",
+      "folder": "BattleMap/d13b_bcity_ns01.u3d",
+      "path": "prefab/d13b_bcity_ns_off01_v01.prefab",
+      "effectId": 1323
+    },
+    {
+      "id": 1324,
+      "mapName": "別街雪夜_結晶（降雪OFF）",
+      "folder": "BattleMap/d13b_bcity_ns01cr.u3d",
+      "path": "prefab/d13b_bcity_ns_off01cr_v01.prefab",
+      "effectId": 1324
+    },
+    {
+      "id": 1325,
+      "mapName": "未来のイデアの街",
+      "folder": "BattleMap/d13b01_b.u3d",
+      "path": "prefab/d13b01_b_v01.prefab",
+      "effectId": 1325
+    },
+    {
+      "id": 1401,
+      "mapName": "海岸1",
+      "folder": "BattleMap/d14b01.u3d",
+      "path": "prefab/d14b01_v03.prefab",
+      "effectId": 1401
+    },
+    {
+      "id": 1402,
+      "mapName": "海岸2",
+      "folder": "BattleMap/d14b02.u3d",
+      "path": "prefab/d14b02_v03.prefab",
+      "effectId": 1402
+    },
+    {
+      "id": 1403,
+      "mapName": "海岸1_結晶",
+      "folder": "BattleMap/d14b01cr.u3d",
+      "path": "prefab/d14b01cr_v03.prefab",
+      "effectId": 1403
+    },
+    {
+      "id": 1404,
+      "mapName": "海岸リゾート",
+      "folder": "BattleMap/d14b_resort01.u3d",
+      "path": "prefab/d14b_resort01_v01.prefab",
+      "effectId": 1404
+    },
+    {
+      "id": 1405,
+      "mapName": "海岸リゾート_結晶",
+      "folder": "BattleMap/d14b_resort01cr.u3d",
+      "path": "prefab/d14b_resort01cr_v01.prefab",
+      "effectId": 1405
+    },
+    {
+      "id": 1406,
+      "mapName": "海岸1_夜",
+      "folder": "BattleMap/d14b_night01.u3d",
+      "path": "prefab/d14b_night01_v01.prefab",
+      "effectId": 1406
+    },
+    {
+      "id": 1407,
+      "mapName": "海岸1_夜_結晶",
+      "folder": "BattleMap/d14b_night01cr.u3d",
+      "path": "prefab/d14b_night01cr_v01.prefab",
+      "effectId": 1407
+    },
+    {
+      "id": 1501,
+      "mapName": "監獄島",
+      "folder": "BattleMap/d15b01.u3d",
+      "path": "prefab/d15b01_v01.prefab",
+      "effectId": 1501
+    },
+    {
+      "id": 1502,
+      "mapName": "監獄島_結晶",
+      "folder": "BattleMap/d15b01cr.u3d",
+      "path": "prefab/d15b01cr_v01.prefab",
+      "effectId": 1502
+    },
+    {
+      "id": 1601,
+      "mapName": "光魔の鏡の中",
+      "folder": "BattleMap/d16b01.u3d",
+      "path": "prefab/d16b01_v03.prefab",
+      "effectId": 1601
+    },
+    {
+      "id": 1701,
+      "mapName": "ダオス城",
+      "folder": "BattleMap/d17b01.u3d",
+      "path": "prefab/d17b01_v03.prefab",
+      "effectId": 1701
+    },
+    {
+      "id": 1702,
+      "mapName": "ダオス城ボスマップ",
+      "folder": "BattleMap/d17b02.u3d",
+      "path": "prefab/d17b02_v01.prefab",
+      "effectId": 1702
+    },
+    {
+      "id": 1801,
+      "mapName": "セールンド城1",
+      "folder": "BattleMap/d18b01.u3d",
+      "path": "prefab/d18b01_v03.prefab",
+      "effectId": 1801
+    },
+    {
+      "id": 1802,
+      "mapName": "セールンド城2",
+      "folder": "BattleMap/d18b02.u3d",
+      "path": "prefab/d18b02_v03.prefab",
+      "effectId": 1802
+    },
+    {
+      "id": 1803,
+      "mapName": "イラプセル城",
+      "folder": "BattleMap/d18b11.u3d",
+      "path": "prefab/d18b11_v03.prefab",
+      "effectId": 1803
+    },
+    {
+      "id": 1804,
+      "mapName": "朽ちたセールンド城",
+      "folder": "BattleMap/d18b03.u3d",
+      "path": "prefab/d18b03_v03.prefab",
+      "effectId": 1804
+    },
+    {
+      "id": 1805,
+      "mapName": "セールンド城2終章",
+      "folder": "BattleMap/d18b04.u3d",
+      "path": "prefab/d18b04_v03.prefab",
+      "effectId": 1805
+    },
+    {
+      "id": 1901,
+      "mapName": "試練の塔1",
+      "folder": "BattleMap/d19b01.u3d",
+      "path": "prefab/d19b01_v03.prefab",
+      "effectId": 1901
+    },
+    {
+      "id": 1902,
+      "mapName": "試練の塔2",
+      "folder": "BattleMap/d19b02.u3d",
+      "path": "prefab/d19b02_v03.prefab",
+      "effectId": 1902
+    },
+    {
+      "id": 1903,
+      "mapName": "試練の塔3",
+      "folder": "BattleMap/d19b03.u3d",
+      "path": "prefab/d19b03_v03.prefab",
+      "effectId": 1903
+    },
+    {
+      "id": 1904,
+      "mapName": "試練の塔4",
+      "folder": "BattleMap/d19b04.u3d",
+      "path": "prefab/d19b04_v03.prefab",
+      "effectId": 1904
+    },
+    {
+      "id": 1905,
+      "mapName": "ハードモード１",
+      "folder": "BattleMap/d19b04.u3d",
+      "path": "prefab/d19b04_v04.prefab",
+      "effectId": 1905
+    },
+    {
+      "id": 1906,
+      "mapName": "ハードモード２",
+      "folder": "BattleMap/d19b05.u3d",
+      "path": "prefab/d19b05_v01.prefab",
+      "effectId": 1906
+    },
+    {
+      "id": 1907,
+      "mapName": "ハードモード３",
+      "folder": "BattleMap/d19b06.u3d",
+      "path": "prefab/d19b06_v01.prefab",
+      "effectId": 1907
+    },
+    {
+      "id": 1908,
+      "mapName": "ハードモード４",
+      "folder": "BattleMap/d19b07.u3d",
+      "path": "prefab/d19b07_v01.prefab",
+      "effectId": 1908
+    },
+    {
+      "id": 1909,
+      "mapName": "ハードモード１ ボス",
+      "folder": "BattleMap/d19b08.u3d",
+      "path": "prefab/d19b08_v01.prefab",
+      "effectId": 1909
+    },
+    {
+      "id": 1910,
+      "mapName": "ハードモード２ ボス",
+      "folder": "BattleMap/d19b08.u3d",
+      "path": "prefab/d19b08_v02.prefab",
+      "effectId": 1910
+    },
+    {
+      "id": 2001,
+      "mapName": "アイマスステージ",
+      "folder": "BattleMap/d20b01.u3d",
+      "path": "prefab/d20b01_v03.prefab",
+      "effectId": 2001
+    },
+    {
+      "id": 2102,
+      "mapName": "学園_講堂",
+      "folder": "BattleMap/d21b_sch02.u3d",
+      "path": "prefab/d21b_sch02_V01.prefab",
+      "effectId": 2102
+    },
+    {
+      "id": 2103,
+      "mapName": "学園 校庭",
+      "folder": "BattleMap/d21b_sch03.u3d",
+      "path": "prefab/d21b_sch03_v01.prefab",
+      "effectId": 2103
+    },
+    {
+      "id": 2104,
+      "mapName": "学園_学園祭",
+      "folder": "BattleMap/d21b_sch04.u3d",
+      "path": "prefab/d21b_sch04_v01.prefab",
+      "effectId": 2104
+    },
+    {
+      "id": 2105,
+      "mapName": "学園 校庭_結晶",
+      "folder": "BattleMap/d21b_sch03cr.u3d",
+      "path": "prefab/d21b_sch03cr_v01.prefab",
+      "effectId": 2105
+    },
+    {
+      "id": 2106,
+      "mapName": "学園_学園祭_結晶",
+      "folder": "BattleMap/d21b_sch04cr.u3d",
+      "path": "prefab/d21b_sch04cr_v01.prefab",
+      "effectId": 2106
+    },
+    {
+      "id": 2107,
+      "mapName": "学園 校庭（噴水）",
+      "folder": "BattleMap/d21b_sch03.u3d",
+      "path": "prefab/d21b_sch03funsui_V01.prefab",
+      "effectId": 2107
+    },
+    {
+      "id": 2108,
+      "mapName": "学園 校庭_結晶（噴水）",
+      "folder": "BattleMap/d21b_sch03cr.u3d",
+      "path": "prefab/d21b_sch03funsuicr_V01.prefab",
+      "effectId": 2108
+    },
+    {
+      "id": 2109,
+      "mapName": "学園_学園祭（噴水）",
+      "folder": "BattleMap/d21b_sch04.u3d",
+      "path": "prefab/d21b_sch04funsui_V01.prefab",
+      "effectId": 2109
+    },
+    {
+      "id": 2110,
+      "mapName": "学園_学園祭_結晶（噴水）",
+      "folder": "BattleMap/d21b_sch04cr.u3d",
+      "path": "prefab/d21b_sch04funsuicr_V01.prefab",
+      "effectId": 2110
+    },
+    {
+      "id": 2201,
+      "mapName": "レザードの塔1",
+      "folder": "BattleMap/d22b_ltwr01.u3d",
+      "path": "prefab/d22b_ltwr01_v01.prefab",
+      "effectId": 2201
+    },
+    {
+      "id": 2301,
+      "mapName": "異空間",
+      "folder": "BattleMap/d23b_ikuu01.u3d",
+      "path": "prefab/d23b_ikuu01_v01.prefab",
+      "effectId": 2301
+    },
+    {
+      "id": 2401,
+      "mapName": "スピルメイズ",
+      "folder": "BattleMap/d24b_smaze01.u3d",
+      "path": "prefab/d24b_smaze01_V01.prefab",
+      "effectId": 2401
+    },
+    {
+      "id": 2402,
+      "mapName": "新スピルメイズ",
+      "folder": "BattleMap/d24b_smaze11.u3d",
+      "path": "prefab/d24b_smaze11_V01.prefab",
+      "effectId": 2402
+    },
+    {
+      "id": 2501,
+      "mapName": "地下道",
+      "folder": "BattleMap/d25b_chika01.u3d",
+      "path": "prefab/d25b_chika01_v01.prefab",
+      "effectId": 2501
+    },
+    {
+      "id": 2502,
+      "mapName": "地下道_結晶",
+      "folder": "BattleMap/d25b_chika01cr.u3d",
+      "path": "prefab/d25b_chika01cr_v01.prefab",
+      "effectId": 2502
+    },
+    {
+      "id": 2601,
+      "mapName": "正月山岳",
+      "folder": "BattleMap/d26b_gasho01.u3d",
+      "path": "prefab/d26b_gasho01_V01.prefab",
+      "effectId": 2601
+    },
+    {
+      "id": 2602,
+      "mapName": "正月山岳_結晶",
+      "folder": "BattleMap/d26b_gasho01cr.u3d",
+      "path": "prefab/d26b_gasho01cr_V01.prefab",
+      "effectId": 2602
+    },
+    {
+      "id": 2701,
+      "mapName": "芙蓉離宮",
+      "folder": "BattleMap/d27b_rikyu01.u3d",
+      "path": "prefab/d27b_rikyu01_v01.prefab",
+      "effectId": 2701
+    },
+    {
+      "id": 2702,
+      "mapName": "芙蓉離宮_結晶",
+      "folder": "BattleMap/d27b_rikyu01cr.u3d",
+      "path": "prefab/d27b_rikyu01cr_v01.prefab",
+      "effectId": 2702
+    },
+    {
+      "id": 2801,
+      "mapName": "モバマスステージ",
+      "folder": "BattleMap/d28b_mbmas01.u3d",
+      "path": "prefab/d28b_mbmas01_v01.prefab",
+      "effectId": 2801
+    },
+    {
+      "id": 2802,
+      "mapName": "モバマスステージ２",
+      "folder": "BattleMap/d28b_mbmas02.u3d",
+      "path": "prefab/d28b_mbmas02_v01.prefab",
+      "effectId": 2802
+    },
+    {
+      "id": 2803,
+      "mapName": "モバマスステージ３",
+      "folder": "BattleMap/d28b_mbmas03.u3d",
+      "path": "prefab/d28b_mbmas03_v01.prefab",
+      "effectId": 2803
+    },
+    {
+      "id": 2901,
+      "mapName": "封印の精霊地",
+      "folder": "BattleMap/d29b_spir01.u3d",
+      "path": "prefab/d29b_spir01_v01.prefab",
+      "effectId": 2901
+    },
+    {
+      "id": 2903,
+      "mapName": "新森",
+      "folder": "BattleMap/d29b_spir02.u3d",
+      "path": "prefab/d29b_spir02_v01.prefab",
+      "effectId": 2903
+    },
+    {
+      "id": 2904,
+      "mapName": "新森_結晶",
+      "folder": "BattleMap/d29b_spir02cr.u3d",
+      "path": "prefab/d29b_spir02cr_v01.prefab",
+      "effectId": 2904
+    },
+    {
+      "id": 3001,
+      "mapName": "忍者村",
+      "folder": "BattleMap/d30b_ninja01.u3d",
+      "path": "prefab/d30b_ninja01_v01.prefab",
+      "effectId": 3001
+    },
+    {
+      "id": 3002,
+      "mapName": "忍者村_結晶",
+      "folder": "BattleMap/d30b_ninja01cr.u3d",
+      "path": "prefab/d30b_ninja01cr_v01.prefab",
+      "effectId": 3002
+    },
+    {
+      "id": 3101,
+      "mapName": "GE",
+      "folder": "BattleMap/d31b_gereo01.u3d",
+      "path": "prefab/d31b_gereo01_V01.prefab",
+      "effectId": 3101
+    },
+    {
+      "id": 3201,
+      "mapName": "桜並木",
+      "folder": "BattleMap/d32b_skr01.u3d",
+      "path": "prefab/d32b_skr01_v01.prefab",
+      "effectId": 3201
+    },
+    {
+      "id": 3202,
+      "mapName": "桜並木_結晶",
+      "folder": "BattleMap/d32b_skr01cr.u3d",
+      "path": "prefab/d32b_skr01cr_v01.prefab",
+      "effectId": 3202
+    },
+    {
+      "id": 3301,
+      "mapName": "屋敷",
+      "folder": "BattleMap/d33b_mans01.u3d",
+      "path": "prefab/d33b_mans01_v01.prefab",
+      "effectId": 3301
+    },
+    {
+      "id": 3302,
+      "mapName": "カジノ",
+      "folder": "BattleMap/d33b_casino01.u3d",
+      "path": "prefab/d33b_casino01_v01.prefab",
+      "effectId": 3302
+    },
+    {
+      "id": 3303,
+      "mapName": "大正ロマン",
+      "folder": "BattleMap/d33b_kissa01.u3d",
+      "path": "prefab/d33b_kissa01_v01.prefab",
+      "effectId": 3303
+    },
+    {
+      "id": 3304,
+      "mapName": "ウエディング",
+      "folder": "BattleMap/d33b_wdng01.u3d",
+      "path": "prefab/d33b_wdng01_v01.prefab",
+      "effectId": 3304
+    },
+    {
+      "id": 3401,
+      "mapName": "SOAステージ",
+      "folder": "BattleMap/d34b_soa01.u3d",
+      "path": "prefab/d34b_soa01_v01.prefab",
+      "effectId": 3401
+    },
+    {
+      "id": 3501,
+      "mapName": "浮遊島",
+      "folder": "BattleMap/d35b_float01.u3d",
+      "path": "prefab/d35b_float01_v01.prefab",
+      "effectId": 3501
+    },
+    {
+      "id": 3601,
+      "mapName": "シゼル城",
+      "folder": "BattleMap/d36b_shizel01.u3d",
+      "path": "prefab/d36b_shizel01_v01.prefab",
+      "effectId": 3601
+    },
+    {
+      "id": 3701,
+      "mapName": "ジルディア街道",
+      "folder": "BattleMap/d37b_jild01.u3d",
+      "path": "prefab/d37b_jild01_v01.prefab",
+      "effectId": 3701
+    },
+    {
+      "id": 3801,
+      "mapName": "銀魂マップ",
+      "folder": "BattleMap/d38b_gin01.u3d",
+      "path": "prefab/d38b_gin01_v01.prefab",
+      "effectId": 3801
+    },
+    {
+      "id": 3901,
+      "mapName": "ビフレスト",
+      "folder": "BattleMap/d39b_bifr01.u3d",
+      "path": "prefab/d39b_bifr01_v01.prefab",
+      "effectId": 3901
+    },
+    {
+      "id": 4001,
+      "mapName": "トレーニングルーム",
+      "folder": "BattleMap/d40b_tr01.u3d",
+      "path": "prefab/d40b_tr01_v01.prefab",
+      "effectId": 4001
+    },
+    {
+      "id": 4101,
+      "mapName": "マルチ フラット",
+      "folder": "BattleMap/d41b_colos01.u3d",
+      "path": "prefab/d41b_colos01_v01.prefab",
+      "effectId": 4101
+    },
+    {
+      "id": 4102,
+      "mapName": "マルチ ステージ",
+      "folder": "BattleMap/d41b_colos02.u3d",
+      "path": "prefab/d41b_colos02_v01.prefab",
+      "effectId": 4102
+    },
+    {
+      "id": 4103,
+      "mapName": "マルチ 奈落",
+      "folder": "BattleMap/d41b_colos03.u3d",
+      "path": "prefab/d41b_colos03_v01.prefab",
+      "effectId": 4103
+    },
+    {
+      "id": 4201,
+      "mapName": "ビフレスト都内",
+      "folder": "BattleMap/d42b_bfcity01.u3d",
+      "path": "prefab/d42b_bfcity01.prefab",
+      "effectId": 4201
+    },
+    {
+      "id": 4301,
+      "mapName": "ビフレスト城内",
+      "folder": "BattleMap/d43b_bfindr01.u3d",
+      "path": "prefab/d43b_bfindr01_v01.prefab",
+      "effectId": 4301
+    },
+    {
+      "id": 4401,
+      "mapName": "プール_夜",
+      "folder": "BattleMap/d44b_npool01.u3d",
+      "path": "prefab/d44b_npool01_v01.prefab",
+      "effectId": 4401
+    },
+    {
+      "id": 4402,
+      "mapName": "プール_夜_結晶",
+      "folder": "BattleMap/d44b_npool01cr.u3d",
+      "path": "prefab/d44b_npool01cr_v01.prefab",
+      "effectId": 4402
+    },
+    {
+      "id": 4501,
+      "mapName": "投票イベント",
+      "folder": "BattleMap/d45b_fes01.u3d",
+      "path": "prefab/d45b_fes01_v01.prefab",
+      "effectId": 4501
+    },
+    {
+      "id": 4601,
+      "mapName": ".hackマップ",
+      "folder": "BattleMap/d46b_hack01.u3b",
+      "path": "prefab/d46b_hack01_v01.prefab",
+      "effectId": 4601
+    },
+    {
+      "id": 4701,
+      "mapName": "庭園",
+      "folder": "BattleMap/d47b_wdngf01.u3d",
+      "path": "prefab/d47b_wdngf01_v01.prefab",
+      "effectId": 4701
+    },
+    {
+      "id": 4702,
+      "mapName": "庭園_結晶",
+      "folder": "BattleMap/d47b_wdngf01cr.u3d",
+      "path": "prefab/d47b_wdngf01cr_v01.prefab",
+      "effectId": 4702
+    },
+    {
+      "id": 4801,
+      "mapName": "汎用精神世界",
+      "folder": "BattleMap/d48b_spirit01.u3d",
+      "path": "prefab/d48b_spirit01_v01.prefab",
+      "effectId": 4801
+    },
+    {
+      "id": 4901,
+      "mapName": "大樹の迷宮",
+      "folder": "BattleMap/d49b_dnmc01.u3d",
+      "path": "prefab/d49b_dnmc01_v01.prefab",
+      "effectId": 4901
+    },
+    {
+      "id": 5001,
+      "mapName": "世界樹",
+      "folder": "BattleMap/d50b_ygg01.u3d",
+      "path": "prefab/d50b_ygg01_v01.prefab",
+      "effectId": 5001
+    },
+    {
+      "id": 5002,
+      "mapName": "世界樹_結晶",
+      "folder": "BattleMap/d50b_ygg01cr.u3d",
+      "path": "prefab/d50b_ygg01cr_v01.prefab",
+      "effectId": 5002
+    },
+    {
+      "id": 5101,
+      "mapName": "新山岳",
+      "folder": "BattleMap/d51b_mount01.u3d",
+      "path": "prefab/d51b_mount01_v01.prefab",
+      "effectId": 5101
+    },
+    {
+      "id": 5102,
+      "mapName": "新山岳_結晶",
+      "folder": "BattleMap/d51b_mount01cr.u3d",
+      "path": "prefab/d51b_mount01cr_v01.prefab",
+      "effectId": 5102
+    },
+    {
+      "id": 5201,
+      "mapName": "新海",
+      "folder": "BattleMap/d52b_sea01.u3d",
+      "path": "prefab/d52b_sea01_v01.prefab",
+      "effectId": 5201
+    },
+    {
+      "id": 5202,
+      "mapName": "新海_結晶",
+      "folder": "BattleMap/d52b_sea01cr.u3d",
+      "path": "prefab/d52b_sea01cr_v01.prefab",
+      "effectId": 5202
+    },
+    {
+      "id": 5203,
+      "mapName": "ギルティギアマップ",
+      "folder": "BattleMap/d53b_glga01.u3d",
+      "path": "prefab/d53b_glga01_v01.prefab",
+      "effectId": 5203
+    },
+    {
+      "id": 5401,
+      "mapName": "シスロデンの広場",
+      "folder": "BattleMap/d54b_sis01.u3d",
+      "path": "prefab/d54b_sis01_v01.prefab",
+      "effectId": 5401
+    },
+    {
+      "id": 5402,
+      "mapName": "シスロデンの広場_ハロゥイン",
+      "folder": "BattleMap/d54b_sis02.u3d",
+      "path": "prefab/d54b_sis02_v01.prefab",
+      "effectId": 5402
+    },
+    {
+      "id": 5403,
+      "mapName": "シスロデンの広場_クリスマス",
+      "folder": "BattleMap/d54b_sis03.u3d",
+      "path": "prefab/d54b_sis03_v01.prefab",
+      "effectId": 5403
+    },
+    {
+      "id": 5501,
+      "mapName": "タイバニマップ",
+      "folder": "BattleMap/d55b_taibny01.u3d",
+      "path": "prefab/d55b_taibny01_v01.prefab",
+      "effectId": 5501
+    },
+    {
+      "id": 5601,
+      "mapName": "ラスボスマップ",
+      "folder": "BattleMap/d56b_lsdn01.u3d",
+      "path": "prefab/d56b_lsdn01_v01.prefab",
+      "effectId": 5601
+    },
+    {
+      "id": 5701,
+      "mapName": "リコレク新砂漠（塔あり）",
+      "folder": "BattleMap/d57b_desert01re.u3d",
+      "path": "prefab/d57b_desert01re_v01.prefab",
+      "effectId": 5701
+    },
+    {
+      "id": 5702,
+      "mapName": "リコレク新砂漠（塔なし）",
+      "folder": "BattleMap/d57b_desert01.u3d",
+      "path": "prefab/d57b_desert01_v01.prefab",
+      "effectId": 5701
+    },
+    {
+      "id": 5801,
+      "mapName": "キクチバ",
+      "folder": "BattleMap/d58b_kkcb.u3d",
+      "path": "prefab/d58b_kkcb01_v01.prefab",
+      "effectId": 5801
+    },
+    {
+      "id": 5901,
+      "mapName": "ギムレイ",
+      "folder": "BattleMap/d59b_wind01.u3d",
+      "path": "prefab/d59b_wind01_v01.prefab",
+      "effectId": 5901
+    },
+    {
+      "id": 6001,
+      "mapName": "虹の夜",
+      "folder": "BattleMap/d60b_niji01.u3d",
+      "path": "prefab/d60b_niji01_v01.prefab",
+      "effectId": 6001
+    },
+    {
+      "id": 8001,
+      "mapName": "ガルディアシャフト（ボスマップ）",
+      "folder": "BattleMap/d80b_tog01.u3d",
+      "path": "prefab/d80b_tog01_v01.prefab",
+      "effectId": 8001
+    },
+    {
+      "id": 8002,
+      "mapName": "アクアラビリンス",
+      "folder": "BattleMap/d80b_tod201.u3d",
+      "path": "prefab/d80b_tod201_v01.prefab",
+      "effectId": 8002
+    },
+    {
+      "id": 8003,
+      "mapName": "エルドラント",
+      "folder": "BattleMap/d80b_toa01.u3d",
+      "path": "prefab/d80b_toa01_v01.prefab",
+      "effectId": 8003
+    },
+    {
+      "id": 8004,
+      "mapName": "モーリア坑道",
+      "folder": "BattleMap/d80b_top01.u3d",
+      "path": "prefab/d80b_top01_v01.prefab",
+      "effectId": 8004
+    },
+    {
+      "id": 8005,
+      "mapName": "八頭竜カノヌシ",
+      "folder": "BattleMap/d80b_tob01.u3d",
+      "path": "prefab/d80b_tob01_v01.prefab",
+      "effectId": 8005
+    },
+    {
+      "id": 8006,
+      "mapName": "タルカロン",
+      "folder": "BattleMap/d80b_tov01.u3d",
+      "path": "prefab/d80b_tov01_v01.prefab",
+      "effectId": 8006
+    },
+    {
+      "id": 8007,
+      "mapName": "カナンの地",
+      "folder": "BattleMap/d80b_tox201.u3d",
+      "path": "prefab/d80b_tox201_v01.prefab",
+      "effectId": 8007
+    },
+    {
+      "id": 8008,
+      "mapName": "黎明の塔",
+      "folder": "BattleMap/d80b_toi01.u3d",
+      "path": "prefab/d80b_toi01_v01.prefab",
+      "effectId": 8008
+    },
+    {
+      "id": 8009,
+      "mapName": "ヴェントヘイム",
+      "folder": "BattleMap/d80b_tos01.u3d",
+      "path": "prefab/d80b_tos01_v01.prefab",
+      "effectId": 8009
+    },
+    {
+      "id": 8010,
+      "mapName": "アルトリウスの玉座",
+      "folder": "BattleMap/d80b_toz01.u3d",
+      "path": "prefab/d80b_toz01_v01.prefab",
+      "effectId": 8010
+    },
+    {
+      "id": 8011,
+      "mapName": "ダイクロフト",
+      "folder": "BattleMap/d80b_tod01.u3d",
+      "path": "prefab/d80b_tod01_v01.prefab",
+      "effectId": 8011
+    },
+    {
+      "id": 8012,
+      "mapName": "ギンヌンガ・ガップ",
+      "folder": "BattleMap/d80b_tosr01.u3d",
+      "path": "prefab/d80b_tosr01_v01.prefab",
+      "effectId": 8012
+    },
+    {
+      "id": 8013,
+      "mapName": "王家の聖所",
+      "folder": "BattleMap/d80b_tor01.u3d",
+      "path": "prefab/d80b_tor01_v01.prefab",
+      "effectId": 8013
+    },
+    {
+      "id": 8014,
+      "mapName": "アライズ最終決戦マップ",
+      "folder": "BattleMap/d80b_toarise01.u3d",
+      "path": "prefab/d80b_toarise01_v01.prefab",
+      "effectId": 8014
+    },
+    {
+      "id": 8015,
+      "mapName": "光跡翼最深部",
+      "folder": "BattleMap/d80b_tol01.u3d",
+      "path": "prefab/d80b_tol01_v01.prefab",
+      "effectId": 8015
+    },
+    {
+      "id": 8016,
+      "mapName": "アール山",
+      "folder": "BattleMap/d80b_tot01.u3d",
+      "path": "prefab/d80b_tot01_v01.prefab",
+      "effectId": 8016
+    },
+    {
+      "id": 8017,
+      "mapName": "ウルスカーラ",
+      "folder": "BattleMap/d80b_tox01.u3d",
+      "path": "prefab/d80b_tox01_v01.prefab",
+      "effectId": 8017
+    },
+    {
+      "id": 99901,
+      "mapName": "サンプルステージ",
+      "folder": "BattleMap/d00b_sample.u3d",
+      "path": "prefab/d00b_sample_stage.prefab",
+      "effectId": 99901
+    },
+    {
+      "id": 99902,
+      "mapName": "スポットライト",
+      "folder": "BattleMap/d00b_sample.u3d",
+      "path": "prefab/d00b_sample_stage_02.prefab",
+      "effectId": 99902
+    },
+    {
+      "id": 100001,
+      "mapName": "ブリッジ",
+      "folder": "EventMap/ev01a01_01",
+      "path": "prefab/ev01a01.prefab",
+      "effectId": 100001
+    },
+    {
+      "id": 100002,
+      "mapName": "カレイドスコープ",
+      "folder": "EventMap/ev01a02",
+      "path": "prefab/ev01a02.prefab",
+      "effectId": 100002
+    },
+    {
+      "id": 100003,
+      "mapName": "イクス部屋 朝",
+      "folder": "EventMap/ev01a03",
+      "path": "prefab/ev01a03_morning.prefab",
+      "effectId": 100003
+    },
+    {
+      "id": 100004,
+      "mapName": "イクス部屋 夕",
+      "folder": "EventMap/ev01a03",
+      "path": "prefab/ev01a03_evening.prefab",
+      "effectId": 100004
+    },
+    {
+      "id": 100005,
+      "mapName": "イクス部屋 夜",
+      "folder": "EventMap/ev01a03",
+      "path": "prefab/ev01a03_night.prefab",
+      "effectId": 100005
+    },
+    {
+      "id": 100006,
+      "mapName": "玉座の間",
+      "folder": "EventMap/ev01a04",
+      "path": "prefab/ev01a04.prefab",
+      "effectId": 100006
+    },
+    {
+      "id": 100007,
+      "mapName": "部屋 夜",
+      "folder": "EventMap/ev01a05",
+      "path": "prefab/ev01a05.prefab",
+      "effectId": 100007
+    },
+    {
+      "id": 100008,
+      "mapName": "広場",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 100008
+    },
+    {
+      "id": 100009,
+      "mapName": "港 夜",
+      "folder": "EventMap/ev01a07",
+      "path": "prefab/ev01a07.prefab",
+      "effectId": 100009
+    },
+    {
+      "id": 100010,
+      "mapName": "書庫",
+      "folder": "EventMap/ev01a08",
+      "path": "prefab/ev01a08.prefab",
+      "effectId": 100010
+    },
+    {
+      "id": 100011,
+      "mapName": "花畑",
+      "folder": "EventMap/ev01a09",
+      "path": "prefab/ev01a09.prefab",
+      "effectId": 100011
+    },
+    {
+      "id": 101001,
+      "mapName": "汎用 昼",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 101001
+    },
+    {
+      "id": 101002,
+      "mapName": "汎用 夕",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 101002
+    },
+    {
+      "id": 101003,
+      "mapName": "汎用 夜",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 101003
+    },
+    {
+      "id": 101004,
+      "mapName": "セピア調",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 101004
+    },
+    {
+      "id": 101005,
+      "mapName": "未来（チュートリアル）",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 101005
+    },
+    {
+      "id": 101006,
+      "mapName": "アジト",
+      "folder": "EventMap/ev02a01_01",
+      "path": "prefab/ev02a01_01.prefab",
+      "effectId": 101006
+    },
+    {
+      "id": 101007,
+      "mapName": "アジトサブ",
+      "folder": "EventMap/ev02a01_02",
+      "path": "prefab/ev02a01_02.prefab",
+      "effectId": 101007
+    },
+    {
+      "id": 101008,
+      "mapName": "ルーム（アジト）",
+      "folder": "Eventmap/ev03a01/ev03a01_01",
+      "path": "prefab/ev03a01_01.prefab",
+      "effectId": 101008
+    },
+    {
+      "id": 101009,
+      "mapName": "ルームサブ（アジト）",
+      "folder": "Eventmap/ev03a01/ev03a01_02",
+      "path": "prefab/ev03a01_02.prefab",
+      "effectId": 101009
+    },
+    {
+      "id": 101010,
+      "mapName": "ルーム（ケリュケイオン）",
+      "folder": "Eventmap/ev03a02/ev03a02_01",
+      "path": "prefab/ev03a02_01.prefab",
+      "effectId": 101010
+    },
+    {
+      "id": 101011,
+      "mapName": "ルームサブ（ケリュケイオン）",
+      "folder": "Eventmap/ev03a02/ev03a02_02",
+      "path": "prefab/ev03a02_02.prefab",
+      "effectId": 101011
+    },
+    {
+      "id": 101012,
+      "mapName": "温泉",
+      "folder": "Eventmap/ev04onsen01/ev04onsen01_01",
+      "path": "prefab/ev04onsen01_01.prefab",
+      "effectId": 101012
+    },
+    {
+      "id": 101013,
+      "mapName": "お月見ステージ",
+      "folder": "Eventmap/ev05moon_st01/ev05moon_st01_01",
+      "path": "prefab/ev05moon_st01.prefab",
+      "effectId": 101013
+    },
+    {
+      "id": 101014,
+      "mapName": "ルーム（イクス）",
+      "folder": "Eventmap/ev03a03/ev03a03_01",
+      "path": "prefab/ev03a03_01.prefab",
+      "effectId": 101014
+    },
+    {
+      "id": 101015,
+      "mapName": "ルームサブ（イクス）",
+      "folder": "Eventmap/ev03a03/ev03a03_02",
+      "path": "prefab/ev03a03_02.prefab",
+      "effectId": 101015
+    },
+    {
+      "id": 101016,
+      "mapName": "イベント用ルーム（ケリュケイオン）",
+      "folder": "EventMap/ev02a02_01",
+      "path": "prefab/ev02a02_01.prefab",
+      "effectId": 101016
+    },
+    {
+      "id": 101017,
+      "mapName": "イベント用ルームサブ（ケリュケイオン）",
+      "folder": "EventMap/ev02a02_02",
+      "path": "prefab/ev02a02_02.prefab",
+      "effectId": 101017
+    },
+    {
+      "id": 101018,
+      "mapName": "イベント用ルーム（イクス）",
+      "folder": "EventMap/ev02a03_01",
+      "path": "prefab/ev02a03_01.prefab",
+      "effectId": 101018
+    },
+    {
+      "id": 101019,
+      "mapName": "イベント用ルームサブ（イクス）",
+      "folder": "EventMap/ev02a03_02",
+      "path": "prefab/ev02a03_02.prefab",
+      "effectId": 101019
+    },
+    {
+      "id": 101021,
+      "mapName": "浮遊島_桟橋",
+      "folder": "Eventmap/ev06floatbg01/ev06floatbg01_01",
+      "path": "prefab/ev06floatbg01_01.prefab",
+      "effectId": 101021
+    },
+    {
+      "id": 101022,
+      "mapName": "枯れ桜並木",
+      "folder": "Eventmap/ev07skr01/ev07skr01_01",
+      "path": "prefab/ev07skr01_01.prefab",
+      "effectId": 101022
+    },
+    {
+      "id": 101023,
+      "mapName": "ウエディング",
+      "folder": "Eventmap/ev08wdng01/ev08wdng01_01",
+      "path": "prefab/ev08wdng01_01.prefab",
+      "effectId": 101023
+    },
+    {
+      "id": 101024,
+      "mapName": "ジェイドの街",
+      "folder": "Eventmap/ev09jcity01/ev09jcity01_01",
+      "path": "prefab/ev09jcity01_01.prefab",
+      "effectId": 101024
+    },
+    {
+      "id": 101025,
+      "mapName": "雨の街道",
+      "folder": "Eventmap/ev10rainway01/ev10rainway01_01",
+      "path": "prefab/ev10rainway01_01.prefab",
+      "effectId": 101025
+    },
+    {
+      "id": 101026,
+      "mapName": "花火の夏祭り",
+      "folder": "Eventmap/ev11hanabi01/ev11hanabi01_01",
+      "path": "prefab/ev11hanabi01_01.prefab",
+      "effectId": 101026
+    },
+    {
+      "id": 101027,
+      "mapName": "洋室",
+      "folder": "Eventmap/ev12mansroom01/ev12mansroom01_01",
+      "path": "prefab/ev12mansroom01_01.prefab",
+      "effectId": 101027
+    },
+    {
+      "id": 101028,
+      "mapName": "後夜祭",
+      "folder": "Eventmap/ev13schnight01/ev13schnight01_01",
+      "path": "prefab/ev13shcnight01_01.prefab",
+      "effectId": 101028
+    },
+    {
+      "id": 101029,
+      "mapName": "シゼル城",
+      "folder": "Eventmap/ev14shizel01/ev14shizel01_01",
+      "path": "prefab/ev14shizel01_v01.prefab",
+      "effectId": 101029
+    },
+    {
+      "id": 101030,
+      "mapName": "監獄島_結晶",
+      "folder": "Eventmap/ev16kangcr01/ev16kangcr01_01",
+      "path": "prefab/ev16kangcr01_v01.prefab",
+      "effectId": 101030
+    },
+    {
+      "id": 101031,
+      "mapName": "ビフレスト",
+      "folder": "Eventmap/ev15bifr01/ev15bifr01_v01",
+      "path": "prefab/ev15bifr01_v01.prefab",
+      "effectId": 101031
+    },
+    {
+      "id": 101032,
+      "mapName": "銀魂イベントマップ",
+      "folder": "Eventmap/ev17gin01/ev17gin01_01",
+      "path": "prefab/ev17gin01_01.prefab",
+      "effectId": 101032
+    },
+    {
+      "id": 101033,
+      "mapName": "港 昼",
+      "folder": "Eventmap/ev01a07day",
+      "path": "prefab/ev01a07day.prefab",
+      "effectId": 101033
+    },
+    {
+      "id": 101034,
+      "mapName": "ルーム（ビフレスト）",
+      "folder": "Eventmap/ev03a04/ev03a04_01",
+      "path": "prefab/ev03a04_01.prefab",
+      "effectId": 101034
+    },
+    {
+      "id": 101035,
+      "mapName": "ルームサブ（ビフレスト）",
+      "folder": "Eventmap/ev03a04/ev03a04_02",
+      "path": "prefab/ev03a04_02.prefab",
+      "effectId": 101035
+    },
+    {
+      "id": 101036,
+      "mapName": ".hackイベントマップ",
+      "folder": "Eventmap/ev18hack01/ev18hack01_01",
+      "path": "prefab/ev18hack01_01.prefab",
+      "effectId": 101036
+    },
+    {
+      "id": 101037,
+      "mapName": "イベント用ルーム（ビフレスト）",
+      "folder": "Eventmap/ev02a04_01",
+      "path": "prefab/ev02a04_01.prefab",
+      "effectId": 101037
+    },
+    {
+      "id": 101038,
+      "mapName": "イベント用ルームサブ（ビフレスト）",
+      "folder": "Eventmap/ev02a04_02",
+      "path": "prefab/ev02a04_02.prefab",
+      "effectId": 101038
+    },
+    {
+      "id": 101039,
+      "mapName": "祭壇",
+      "folder": "Eventmap/ev19saidan01/ev19saidan01_01",
+      "path": "prefab/ev19saidan01_01.prefab",
+      "effectId": 101039
+    },
+    {
+      "id": 101040,
+      "mapName": "雨の街道（雨なし）",
+      "folder": "Eventmap/ev10rainway01/ev10rainway01_02",
+      "path": "prefab/ev10rainway01_02.prefab",
+      "effectId": 101025
+    },
+    {
+      "id": 101041,
+      "mapName": "ギムレイ（砦）",
+      "folder": "Eventmap/ev20gimu01/ev20gimu01_01",
+      "path": "prefab/ev20gimu01_01.prefab",
+      "effectId": 101041
+    },
+    {
+      "id": 101042,
+      "mapName": "浮遊島（夜）",
+      "folder": "Eventmap/ev21floatbgnight01/ev21floatbgnight01_01",
+      "path": "prefab/ev21floatbgnight01_01.prefab",
+      "effectId": 101042
+    },
+    {
+      "id": 101043,
+      "mapName": "浮遊島（虹の柱）",
+      "folder": "Eventmap/ev06floatbg01/ev06floatbg01_02",
+      "path": "prefab/ev06floatbg01_02.prefab",
+      "effectId": 101043
+    },
+    {
+      "id": 101044,
+      "mapName": "浮遊島（夜・虹の柱）",
+      "folder": "Eventmap/ev21floatbgnight01/ev21floatbgnight01_02",
+      "path": "prefab/ev21floatbgnight01_02.prefab",
+      "effectId": 101044
+    },
+    {
+      "id": 105000,
+      "mapName": "特殊ワールドマップ",
+      "folder": "ScriptMap/sc01worldmap01",
+      "path": "WorldMap.prefab",
+      "effectId": 105000
+    },
+    {
+      "id": 105001,
+      "mapName": "特殊ワールドマップ",
+      "folder": "ScriptMap/sc01worldmap01",
+      "path": "sc01worldmap01.prefab",
+      "effectId": 105001
+    },
+    {
+      "id": 200001,
+      "mapName": "クエスト画面",
+      "folder": "",
+      "path": "",
+      "effectId": 200001
+    },
+    {
+      "id": 200002,
+      "mapName": "キャラカスタム画面",
+      "folder": "",
+      "path": "",
+      "effectId": 200002
+    },
+    {
+      "id": 200003,
+      "mapName": "ガシャ",
+      "folder": "",
+      "path": "",
+      "effectId": 200003
+    },
+    {
+      "id": 300001,
+      "mapName": "モノクローム",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 300001
+    },
+    {
+      "id": 300002,
+      "mapName": "色反転",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 300002
+    },
+    {
+      "id": 300003,
+      "mapName": "なし",
+      "folder": "",
+      "path": "",
+      "effectId": 300003
+    },
+    {
+      "id": 300004,
+      "mapName": "真・セピア",
+      "folder": "",
+      "path": "",
+      "effectId": 300004
+    },
+    {
+      "id": 300005,
+      "mapName": "ダブルトーン",
+      "folder": "",
+      "path": "",
+      "effectId": 300005
+    },
+    {
+      "id": 310001,
+      "mapName": "プリセット1",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310001
+    },
+    {
+      "id": 310002,
+      "mapName": "プリセット2",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310002
+    },
+    {
+      "id": 310003,
+      "mapName": "プリセット3",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310003
+    },
+    {
+      "id": 310004,
+      "mapName": "プリセット4",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310004
+    },
+    {
+      "id": 310005,
+      "mapName": "プリセット5",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310005
+    },
+    {
+      "id": 310006,
+      "mapName": "プリセット6",
+      "folder": "EventMap/ev01a06",
+      "path": "prefab/ev01a06.prefab",
+      "effectId": 310006
+    },
+    {
+      "id": 320001,
+      "mapName": "２Dキャプチャ用",
+      "folder": "",
+      "path": "",
+      "effectId": 320001
+    },
+    {
+      "id": 905601,
+      "mapName": "テイルズ オブ ザ レイズ　　最終決戦",
+      "folder": "BattleMap/d56b_lsdn01.u3d",
+      "path": "prefab/d56b_lsdn01_v01.prefab",
+      "effectId": 5601
+    },
+    {
+      "id": 901702,
+      "mapName": "テイルズ オブ ファンタジア　　ダオス城",
+      "folder": "BattleMap/d17b02.u3d",
+      "path": "prefab/d17b02_v01.prefab",
+      "effectId": 1702
+    },
+    {
+      "id": 908011,
+      "mapName": "テイルズ オブ デスティニー　　ダイクロフト",
+      "folder": "BattleMap/d80b_tod01.u3d",
+      "path": "prefab/d80b_tod01_v01.prefab",
+      "effectId": 8011
+    },
+    {
+      "id": 903601,
+      "mapName": "テイルズ オブ エターニア　　シゼル城",
+      "folder": "BattleMap/d36b_shizel01.u3d",
+      "path": "prefab/d36b_shizel01_v01.prefab",
+      "effectId": 3601
+    },
+    {
+      "id": 908002,
+      "mapName": "テイルズ オブ デスティニー2　　アクアラビリンス",
+      "folder": "BattleMap/d80b_tod201.u3d",
+      "path": "prefab/d80b_tod201_v01.prefab",
+      "effectId": 8002
+    },
+    {
+      "id": 908009,
+      "mapName": "テイルズ オブ シンフォニア　　ヴェントヘイム",
+      "folder": "BattleMap/d80b_tos01.u3d",
+      "path": "prefab/d80b_tos01_v01.prefab",
+      "effectId": 8009
+    },
+    {
+      "id": 908013,
+      "mapName": "テイルズ オブ リバース　　王家の聖所",
+      "folder": "BattleMap/d80b_tor01.u3d",
+      "path": "prefab/d80b_tor01_v01.prefab",
+      "effectId": 8013
+    },
+    {
+      "id": 908015,
+      "mapName": "テイルズ オブ レジェンディア　　光跡翼最深部",
+      "folder": "BattleMap/d80b_tol01.u3d",
+      "path": "prefab/d80b_tol01_v01.prefab",
+      "effectId": 8015
+    },
+    {
+      "id": 908003,
+      "mapName": "テイルズ オブ ジ アビス　　エルドラント",
+      "folder": "BattleMap/d80b_toa01.u3d",
+      "path": "prefab/d80b_toa01_v01.prefab",
+      "effectId": 8003
+    },
+    {
+      "id": 908016,
+      "mapName": "テイルズ オブ ザ テンペスト　　アール山",
+      "folder": "BattleMap/d80b_tot01.u3d",
+      "path": "prefab/d80b_tot01_v01.prefab",
+      "effectId": 8016
+    },
+    {
+      "id": 908008,
+      "mapName": "テイルズ オブ イノセンス R　　黎明の塔",
+      "folder": "BattleMap/d80b_toi01.u3d",
+      "path": "prefab/d80b_toi01_v01.prefab",
+      "effectId": 8008
+    },
+    {
+      "id": 908012,
+      "mapName": "テイルズ オブ シンフォニア - ラタトスクの騎士 -　　ギンヌンガ・ガップ",
+      "folder": "BattleMap/d80b_tosr01.u3d",
+      "path": "prefab/d80b_tosr01_v01.prefab",
+      "effectId": 8012
+    },
+    {
+      "id": 908006,
+      "mapName": "テイルズ オブ ヴェスペリア　　タルカロン",
+      "folder": "BattleMap/d80b_tov01.u3d",
+      "path": "prefab/d80b_tov01_v01.prefab",
+      "effectId": 8006
+    },
+    {
+      "id": 902402,
+      "mapName": "テイルズ オブ ハーツ R　　スピルメイズ",
+      "folder": "BattleMap/d24b_smaze11.u3d",
+      "path": "prefab/d24b_smaze11_V01.prefab",
+      "effectId": 2402
+    },
+    {
+      "id": 908001,
+      "mapName": "テイルズ オブ グレイセス エフ　　ガルディアシャフト",
+      "folder": "BattleMap/d80b_tog01.u3d",
+      "path": "prefab/d80b_tog01_v01.prefab",
+      "effectId": 8001
+    },
+    {
+      "id": 908017,
+      "mapName": "テイルズ オブ エクシリア　　ウルスカーラ",
+      "folder": "BattleMap/d80b_tox01.u3d",
+      "path": "prefab/d80b_tox01_v01.prefab",
+      "effectId": 8017
+    },
+    {
+      "id": 908007,
+      "mapName": "テイルズ オブ エクシリア2　　カナンの地",
+      "folder": "BattleMap/d80b_tox201.u3d",
+      "path": "prefab/d80b_tox201_v01.prefab",
+      "effectId": 8007
+    },
+    {
+      "id": 908010,
+      "mapName": "テイルズ オブ ゼスティリア　　アルトリウスの玉座",
+      "folder": "BattleMap/d80b_toz01.u3d",
+      "path": "prefab/d80b_toz01_v01.prefab",
+      "effectId": 8010
+    },
+    {
+      "id": 908005,
+      "mapName": "テイルズ オブ ベルセリア　　八頭竜カノヌシ",
+      "folder": "BattleMap/d80b_tob01.u3d",
+      "path": "prefab/d80b_tob01_v01.prefab",
+      "effectId": 8005
+    },
+    {
+      "id": 908014,
+      "mapName": "テイルズ オブ アライズ　　最終決戦",
+      "folder": "BattleMap/d80b_toarise01.u3d",
+      "path": "prefab/d80b_toarise01_v01.prefab",
+      "effectId": 8014
+    },
+    {
+      "id": 905701,
+      "mapName": "テイルズ オブ ザ レイズ リコレクション　　砂漠",
+      "folder": "BattleMap/d57b_desert01re.u3d",
+      "path": "prefab/d57b_desert01re_v01.prefab",
+      "effectId": 5701
+    },
+    {
+      "id": 906001,
+      "mapName": "テイルズ オブ ザ レイズ リコレクション　　虹の夜",
+      "folder": "BattleMap/d60b_niji01.u3d",
+      "path": "prefab/d60b_niji01_v01.prefab",
+      "effectId": 6001
+    },
+    {
+      "id": 901001,
+      "mapName": "闘技場",
+      "folder": "BattleMap/d10b01.u3d",
+      "path": "prefab/d10b01_v01.prefab",
+      "effectId": 1001
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "xhash": "",
+  "mst_enemy_special_effect": [
+    {
+      "id": 2201,
+      "effect_type": 0,
+      "effect_value": 2201
+    },
+    {
+      "id": 2202,
+      "effect_type": 0,
+      "effect_value": 2202
+    },
+    {
+      "id": 2203,
+      "effect_type": 0,
+      "effect_value": 2203
+    },
+    {
+      "id": 2204,
+      "effect_type": 0,
+      "effect_value": 2204
+    },
+    {
+      "id": 2205,
+      "effect_type": 0,
+      "effect_value": 2205
+    },
+    {
+      "id": 3001,
+      "effect_type": 0,
+      "effect_value": 3001
+    },
+    {
+      "id": 10001,
+      "effect_type": 1,
+      "effect_value": 10
+    },
+    {
+      "id": 10002,
+      "effect_type": 1,
+      "effect_value": 20
+    },
+    {
+      "id": 10003,
+      "effect_type": 1,
+      "effect_value": 30
+    },
+    {
+      "id": 10004,
+      "effect_type": 1,
+      "effect_value": 40
+    },
+    {
+      "id": 10005,
+      "effect_type": 1,
+      "effect_value": 50
+    },
+    {
+      "id": 10006,
+      "effect_type": 1,
+      "effect_value": 60
+    },
+    {
+      "id": 10007,
+      "effect_type": 1,
+      "effect_value": 70
+    },
+    {
+      "id": 10008,
+      "effect_type": 1,
+      "effect_value": 80
+    },
+    {
+      "id": 10009,
+      "effect_type": 1,
+      "effect_value": 90
+    },
+    {
+      "id": 10010,
+      "effect_type": 1,
+      "effect_value": 100
+    },
+    {
+      "id": 10011,
+      "effect_type": 1,
+      "effect_value": 200
+    },
+    {
+      "id": 10012,
+      "effect_type": 1,
+      "effect_value": 300
+    },
+    {
+      "id": 10013,
+      "effect_type": 1,
+      "effect_value": 400
+    },
+    {
+      "id": 10014,
+      "effect_type": 1,
+      "effect_value": 500
+    },
+    {
+      "id": 10015,
+      "effect_type": 1,
+      "effect_value": 600
+    },
+    {
+      "id": 10016,
+      "effect_type": 1,
+      "effect_value": 700
+    },
+    {
+      "id": 10017,
+      "effect_type": 1,
+      "effect_value": 800
+    },
+    {
+      "id": 10018,
+      "effect_type": 1,
+      "effect_value": 900
+    },
+    {
+      "id": 10019,
+      "effect_type": 1,
+      "effect_value": 1000
+    },
+    {
+      "id": 10020,
+      "effect_type": 1,
+      "effect_value": 2000
+    },
+    {
+      "id": 10021,
+      "effect_type": 1,
+      "effect_value": 3000
+    },
+    {
+      "id": 10022,
+      "effect_type": 1,
+      "effect_value": 4000
+    },
+    {
+      "id": 10023,
+      "effect_type": 1,
+      "effect_value": 5000
+    },
+    {
+      "id": 10024,
+      "effect_type": 1,
+      "effect_value": 6000
+    },
+    {
+      "id": 10025,
+      "effect_type": 1,
+      "effect_value": 7000
+    },
+    {
+      "id": 10026,
+      "effect_type": 1,
+      "effect_value": 8000
+    },
+    {
+      "id": 10027,
+      "effect_type": 1,
+      "effect_value": 9000
+    },
+    {
+      "id": 10028,
+      "effect_type": 1,
+      "effect_value": 10000
+    },
+    {
+      "id": 10029,
+      "effect_type": 1,
+      "effect_value": 1000000
+    },
+    {
+      "id": 10030,
+      "effect_type": 1,
+      "effect_value": 20000
+    },
+    {
+      "id": 10031,
+      "effect_type": 3,
+      "effect_value": 0
+    },
+    {
+      "id": 10031,
+      "effect_type": 4,
+      "effect_value": 0
+    },
+    {
+      "id": 10032,
+      "effect_type": 2,
+      "effect_value": 1
+    },
+    {
+      "id": 10033,
+      "effect_type": 1,
+      "effect_value": 506
+    },
+    {
+      "id": 10034,
+      "effect_type": 5,
+      "effect_value": 0
+    },
+    {
+      "id": 10000001,
+      "effect_type": 0,
+      "effect_value": 3001
+    }
+  ]
+}

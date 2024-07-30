@@ -1,0 +1,842 @@
+{
+  "xhash": "",
+  "mst_recollection_enemy_waves": [
+    {
+      "id": 1,
+      "wave_id": 1,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 2,
+      "wave_id": 1,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 3,
+      "wave_id": 1,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 4,
+      "wave_id": 1,
+      "cost": 1.5,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 5,
+      "wave_id": 1,
+      "cost": 1.75,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 6,
+      "wave_id": 1,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 7,
+      "wave_id": 2,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 8,
+      "wave_id": 2,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 9,
+      "wave_id": 2,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 10,
+      "wave_id": 2,
+      "cost": 1.5,
+      "enemy_order": "0,1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 11,
+      "wave_id": 2,
+      "cost": 1.75,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 12,
+      "wave_id": 2,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 13,
+      "wave_id": 3,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 14,
+      "wave_id": 3,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 15,
+      "wave_id": 3,
+      "cost": 1.25,
+      "enemy_order": "2,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 16,
+      "wave_id": 3,
+      "cost": 1.5,
+      "enemy_order": "0,1,2",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 17,
+      "wave_id": 3,
+      "cost": 1.75,
+      "enemy_order": "2,1,0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 18,
+      "wave_id": 3,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 19,
+      "wave_id": 4,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 50,
+      "level_adjust": 2
+    },
+    {
+      "id": 20,
+      "wave_id": 99999,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 15,
+      "level_adjust": 0
+    },
+    {
+      "id": 21,
+      "wave_id": 99999,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 22,
+      "wave_id": 99999,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 23,
+      "wave_id": 99999,
+      "cost": 1.5,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 0
+    },
+    {
+      "id": 24,
+      "wave_id": 99999,
+      "cost": 1.75,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 25,
+      "wave_id": 51,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 26,
+      "wave_id": 51,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 27,
+      "wave_id": 51,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 28,
+      "wave_id": 51,
+      "cost": 1.5,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 29,
+      "wave_id": 51,
+      "cost": 1.75,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 30,
+      "wave_id": 51,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 31,
+      "wave_id": 52,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 32,
+      "wave_id": 52,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 33,
+      "wave_id": 52,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 34,
+      "wave_id": 52,
+      "cost": 1.5,
+      "enemy_order": "0,1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 35,
+      "wave_id": 52,
+      "cost": 1.75,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 36,
+      "wave_id": 52,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 37,
+      "wave_id": 53,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 38,
+      "wave_id": 53,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 39,
+      "wave_id": 53,
+      "cost": 1.25,
+      "enemy_order": "2,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 40,
+      "wave_id": 53,
+      "cost": 1.5,
+      "enemy_order": "0,1,2",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 41,
+      "wave_id": 53,
+      "cost": 1.75,
+      "enemy_order": "2,1,0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 42,
+      "wave_id": 53,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 43,
+      "wave_id": 41,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 44,
+      "wave_id": 41,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 45,
+      "wave_id": 41,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 46,
+      "wave_id": 41,
+      "cost": 1.5,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 47,
+      "wave_id": 41,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 48,
+      "wave_id": 42,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 49,
+      "wave_id": 42,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 50,
+      "wave_id": 42,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 51,
+      "wave_id": 42,
+      "cost": 1.5,
+      "enemy_order": "0,1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 52,
+      "wave_id": 42,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 53,
+      "wave_id": 43,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "id": 54,
+      "wave_id": 43,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 55,
+      "wave_id": 43,
+      "cost": 1.25,
+      "enemy_order": "2,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 56,
+      "wave_id": 43,
+      "cost": 1.5,
+      "enemy_order": "0,1,2",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 57,
+      "wave_id": 43,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 58,
+      "wave_id": 31,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 59,
+      "wave_id": 31,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 60,
+      "wave_id": 31,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 61,
+      "wave_id": 31,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 62,
+      "wave_id": 32,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 63,
+      "wave_id": 32,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 64,
+      "wave_id": 32,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 65,
+      "wave_id": 32,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 66,
+      "wave_id": 33,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 67,
+      "wave_id": 33,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 68,
+      "wave_id": 33,
+      "cost": 1.25,
+      "enemy_order": "2,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 69,
+      "wave_id": 33,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 70,
+      "wave_id": 1033,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -1
+    },
+    {
+      "id": 71,
+      "wave_id": 1033,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 72,
+      "wave_id": 1033,
+      "cost": 1.25,
+      "enemy_order": "2,1",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "id": 73,
+      "wave_id": 1033,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,2,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 74,
+      "wave_id": 131,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 75,
+      "wave_id": 131,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 76,
+      "wave_id": 131,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 77,
+      "wave_id": 131,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 78,
+      "wave_id": 132,
+      "cost": 0.800000011920929,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 79,
+      "wave_id": 132,
+      "cost": 1,
+      "enemy_order": "1,1,0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 80,
+      "wave_id": 132,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 81,
+      "wave_id": 132,
+      "cost": 0.800000011920929,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 82,
+      "wave_id": 232,
+      "cost": 0.699999988079071,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 83,
+      "wave_id": 232,
+      "cost": 1,
+      "enemy_order": "1,0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 84,
+      "wave_id": 232,
+      "cost": 1.25,
+      "enemy_order": "1,1",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 85,
+      "wave_id": 232,
+      "cost": 0,
+      "enemy_order": "0,1,1",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "id": 86,
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 87,
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 88,
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": 2
+    },
+    {
+      "id": 89,
+      "wave_id": 331,
+      "cost": 0,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "id": 90,
+      "wave_id": 231,
+      "cost": 0.699999988079071,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "id": 91,
+      "wave_id": 231,
+      "cost": 1,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "id": 92,
+      "wave_id": 231,
+      "cost": 1.25,
+      "enemy_order": "0",
+      "boss_num": 0,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "id": 93,
+      "wave_id": 231,
+      "cost": 0,
+      "enemy_order": "0",
+      "boss_num": 1,
+      "base_time": 35,
+      "level_adjust": 0
+    }
+  ]
+}

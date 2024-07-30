@@ -1,0 +1,63 @@
+{
+  "xhash": "",
+  "mst_school_lvs": [
+    {
+      "id": 1,
+      "lv": 0,
+      "exp": 0,
+      "eff_text": "なし",
+      "eff_cond_hp": 0,
+      "eff_buff_cc": 0
+    },
+    {
+      "id": 2,
+      "lv": 1,
+      "exp": 200,
+      "eff_text": "師匠のHP%{eff_cond_hp}％以下中　最大CC+%{eff_buff_cc}",
+      "eff_cond_hp": 25,
+      "eff_buff_cc": 1
+    },
+    {
+      "id": 3,
+      "lv": 2,
+      "exp": 600,
+      "eff_text": "師匠のHP%{eff_cond_hp}％以下中　最大CC+%{eff_buff_cc}",
+      "eff_cond_hp": 25,
+      "eff_buff_cc": 2
+    },
+    {
+      "id": 4,
+      "lv": 3,
+      "exp": 1200,
+      "eff_text": "師匠のHP%{eff_cond_hp}％以下中　最大CC+%{eff_buff_cc}",
+      "eff_cond_hp": 25,
+      "eff_buff_cc": 4
+    }
+  ],
+  "mst_student_lvs": [
+    {
+      "id": 1,
+      "lv": 0,
+      "lv_name": "入門生",
+      "exp": 0
+    },
+    {
+      "id": 2,
+      "lv": 1,
+      "lv_name": "門下生",
+      "exp": 50
+    },
+    {
+      "id": 3,
+      "lv": 2,
+      "lv_name": "高弟",
+      "exp": 150
+    },
+    {
+      "id": 4,
+      "lv": 3,
+      "lv_name": "免許皆伝",
+      "exp": 300
+    }
+  ]
+}

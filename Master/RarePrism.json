@@ -1,0 +1,54 @@
+{
+  "xhash": "",
+  "mst_rare_prism_exchange_items": [
+    {
+      "id": 8001,
+      "reward_type": 8,
+      "reward_value": 181114,
+      "max_count": 0,
+      "start_date": "2016-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 21001,
+      "reward_type": 21,
+      "reward_value": 1811301,
+      "max_count": 0,
+      "start_date": "2016-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 8002,
+      "reward_type": 8,
+      "reward_value": 200303,
+      "max_count": 0,
+      "start_date": "2020-03-13T05:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 21002,
+      "reward_type": 21,
+      "reward_value": 200304,
+      "max_count": 0,
+      "start_date": "2020-03-13T05:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 8003,
+      "reward_type": 8,
+      "reward_value": 230232,
+      "max_count": 0,
+      "start_date": "2023-02-28T03:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 21003,
+      "reward_type": 21,
+      "reward_value": 2302288,
+      "max_count": 0,
+      "start_date": "2023-02-28T03:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    }
+  ],
+  "mst_rare_prism_exchange_voices": []
+}

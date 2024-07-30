@@ -1,0 +1,5968 @@
+{
+  "xhash": "",
+  "mst_tutorial_scripts": [
+    {
+      "id": 1010,
+      "label": "GOTO_TUTORIAL_BATTLE1",
+      "command": 12,
+      "param": "1",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1020,
+      "label": "BATTLE_TUTORIAL1_INTRODUCTION01",
+      "command": 7,
+      "param": "31030",
+      "text": "<title>通常攻撃</title>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1030,
+      "label": "BATTLE_TUTORIAL1_BASIC01",
+      "command": 2,
+      "param": "null",
+      "text": "<title>通常攻撃</title>画面右側をタップして通常攻撃！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1040,
+      "label": "BATTLE_TUTORIAL1_ARTE01",
+      "command": 7,
+      "param": "31040",
+      "text": "<title>術技</title><page>1/2</page>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1041,
+      "label": "BATTLE_TUTORIAL1_ARTE02",
+      "command": 7,
+      "param": "31041",
+      "text": "<title>術技</title><page>2/2</page><mask=0>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1050,
+      "label": "BATTLE_TUTORIAL1_ARTE_TRY",
+      "command": 2,
+      "param": "null",
+      "text": "<title>術技</title>画面右側をナナメにフリックして術技発動！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1055,
+      "label": "BATTLE_TUTORIAL1_SUPERIOR",
+      "command": 7,
+      "param": "31050",
+      "text": "<title>秘技</title>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1060,
+      "label": "BATTLE_TUTORIAL1_GUARD01",
+      "command": 7,
+      "param": "31060",
+      "text": "<title>ガード</title>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1061,
+      "label": "BATTLE_TUTORIAL1_GUARD_TRY",
+      "command": 2,
+      "param": "null",
+      "text": "<title>ガード</title>立ち止まると敵の攻撃をオートガード！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1070,
+      "label": "BATTLE_TUTORIAL1_FREERUN01",
+      "command": 7,
+      "param": "31070",
+      "text": "<title>フリーラン</title>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1071,
+      "label": "BATTLE_TUTORIAL1_FREERUN_TRY",
+      "command": 2,
+      "param": "null",
+      "text": "<title>フリーラン</title>左画面をスライドしてフィールドを移動!",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1090,
+      "label": "BATTLE_TUTORIAL1_FREEBATTLE",
+      "command": 7,
+      "param": "31080",
+      "text": "<title>フリーバトル</title>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1100,
+      "label": "WAIT_BATTLE_TUTORIAL1_END",
+      "command": 22,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1200,
+      "label": "GOTO_TUTORIAL_SCENARIO1",
+      "command": 11,
+      "param": "101",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1210,
+      "label": "GOTO_TUTORIAL_BATTLE2",
+      "command": 12,
+      "param": "2",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1220,
+      "label": "BATTLE_TUTORIAL2_MG01",
+      "command": 7,
+      "param": "31090",
+      "text": "<title>魔鏡技</title><page>1/2</page><mask=0>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1221,
+      "label": "BATTLE_TUTORIAL2_MG02",
+      "command": 7,
+      "param": "31091",
+      "text": "<title>魔鏡技</title><page>2/2</page><mask=0>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1230,
+      "label": "BATTLE_TUTORIAL2_MIRRORGE01",
+      "command": 2,
+      "param": "null",
+      "text": "<title>魔鏡技</title>キャラアイコンを上方向にフリックで魔鏡技発動！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1240,
+      "label": "BATTLE_TUTORIAL2_MIRRORGE_RATIO",
+      "command": 7,
+      "param": "31100",
+      "text": "<title>ミラージュレシオ</title><mask=0>",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1241,
+      "label": "BATTLE_TUTORIAL2_MIRRORGE_EQUIP",
+      "command": 7,
+      "param": "31110",
+      "text": "<title>魔鏡技セット</title>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1250,
+      "label": "WAIT_BATTLE_TUTORIAL2_END",
+      "command": 22,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 1500,
+      "label": "GOTO_TUTORIAL_SCENARIO2",
+      "command": 11,
+      "param": "201",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": true
+    },
+    {
+      "id": 1600,
+      "label": "NAME_ENTRY",
+      "command": 18,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 1610,
+      "label": "SAVE_AFTER_NAMEENTRY",
+      "command": 96,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2005,
+      "label": "GOTO_TUTORIAL_SCENARIO3",
+      "command": 11,
+      "param": "301",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2006,
+      "label": "GOTO_MOVIE",
+      "command": 15,
+      "param": "interlude1",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2010,
+      "label": "SAVE_BEFORE_DL",
+      "command": 99,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2020,
+      "label": "ASSETS_DOWNLOAD",
+      "command": 20,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2030,
+      "label": "SAVE_AFTER_DL",
+      "command": 99,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2035,
+      "label": "GOTO_FAV_CHARA_SELECT",
+      "command": 19,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2036,
+      "label": "SAVE_AFTER_FAV_CHARA",
+      "command": 99,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2037,
+      "label": "WAIT_BEFORE_SCENARIO4",
+      "command": 25,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2040,
+      "label": "GOTO_TUTORIAL_SCENARIO4",
+      "command": 11,
+      "param": "401",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2050,
+      "label": "SAVE_BEFORE_BRIDGE1",
+      "command": 97,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2151,
+      "label": "EQUIP_SUBMIT_WEAPON_SAVEPOINT",
+      "command": 98,
+      "param": "NO_SAVE",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2152,
+      "label": "GOTO_BRIDGE1",
+      "command": 14,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2153,
+      "label": "WAIT_BEFORE_EQUIP_INTRODUCTION1",
+      "command": 23,
+      "param": "2.5",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2154,
+      "label": "EQUIP_INTRODUCTION1",
+      "command": 3,
+      "param": "mileena",
+      "text": "<voice>Mileena_tutorial_001</voice>魔物がでるらしいからセールンドに行く前に\nしっかり準備しようね！\nイクスの準備が終わるの待ってるね。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2155,
+      "label": "EQUIP_PARTY_INTRODUCTION",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title>バトルで使用する術技を変更しにいきましょう。\n<color=red>「パーティ」</color>をタップしてください。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2156,
+      "label": "EQUIP_GOTO_EQUIP",
+      "command": 5,
+      "param": "CommonUI/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Party",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2157,
+      "label": "WAIT_BEFORE_EQUIP_INSTRUCTION2",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2158,
+      "label": "EQUIP_INTRODUCTION2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title>パーティ編成では、\nメンバーと使用する術技を変更することができます。\nイクスの<color=red>「術技変更」</color>をタップしてください。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2159,
+      "label": "EQUIP_TAP_CHANGE",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/PartySelect(Clone)/SafeAreaKeeper/PartyTopPanel/Parties/PagingFrame/DLScroll/ScrollGroup/ItemGroup/party1/member_leader/MaskImage/Button_Root/Button_Normal",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2160,
+      "label": "WAIT_BEFORE_EQUIP_INSTRUCTION3",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2161,
+      "label": "EQUIP_INTRODUCTION3",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title><page>1/2</page>装備にはそれぞれ異なる<color=red>術技</color>が付いています。\nキャラクターに術技をセットすると、\n設定した術技をバトル中に使用することができます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2162,
+      "label": "EQUIP_INTRODUCTION4",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title><page>2/2</page>術技の設定位置は、<color=red>術技を放つ際の「フリック方向」</color>に対応しています。\n今回は右上方向に術技をセットしてみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2163,
+      "label": "EQUIP_TAP_WEAPON_SLOT",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/CharacterEquips(Clone)/SafeAreaKeeper/MainPanel/EquipsAndStatus/ParameterArea/DataWindow/Equip/EquipLayout/Weapon2/WeaponChangeButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2164,
+      "label": "WAIT_BEFORE_EQUIP_SELECT_WEAPON",
+      "command": 23,
+      "param": "0.3",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2165,
+      "label": "EQUIP_SELECT_WEAPON",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/CharacterEquipChangeView(Clone)/SafeAreaKeeper/Panel/ItemScrollList/ScrollView_02/ScrollView_Weapon/DLScroll/ScrollGroup/ItemGroup/Group1/Item1_0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2166,
+      "label": "EQUIP_SUMMARY1A",
+      "command": 4,
+      "param": "2210",
+      "text": "<title>術技変更</title><page>1/2</page>専用装備を装備すると術技が使えるようになる！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2167,
+      "label": "EQUIP_SUMMARY2",
+      "command": 4,
+      "param": "32150",
+      "text": "<title>秘技</title><page>2/2</page>★5装備は条件達成で術技が昇華！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2168,
+      "label": "EQUIP_DIALOG1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title>術技のセットが完了しました。\nこれでイクスの術技<color=red>「洸牙衝」</color>が放てるようになります。\n次は、術技よりも強力な技である、\n<color=red>「魔鏡技」</color>をセットしてみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2170,
+      "label": "EQUIP_TAP_MIRRORGE_SLOT",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/CharacterEquipChangeView(Clone)/SafeAreaKeeper/Panel/EquipUI/Equip/AutoMirrorLayout/ManualMasterArteArea/MagicMirror1/MirrorChangeButton",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2180,
+      "label": "EQUIP_SELECT_MIRRORGE",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/CharacterEquipChangeView(Clone)/SafeAreaKeeper/Panel/ItemScrollList/ScrollView_02/ScrollView_Mirror/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2181,
+      "label": "EQUIP_SUMMARY1B",
+      "command": 4,
+      "param": "32220",
+      "text": "<title>術技変更</title><page>1/1</page>専用魔鏡を装備する事で、強力な魔鏡技が使えるようになって、イラストも変化する！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2182,
+      "label": "EQUIP_DIALOG2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title>魔鏡技のセットが完了しました。\nここで、セットした内容を保存しましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2190,
+      "label": "EQUIP_SUBMIT_MIRRORGE",
+      "command": 5,
+      "param": "OutGameManager/PartyScene/CharacterEquipChangeView(Clone)/SafeAreaKeeper/Panel/Buttons_Right/DecideButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2193,
+      "label": "EQUIP_SUBMIT_MIRRORGE_SAVEPOINT",
+      "command": 98,
+      "param": "NO_SAVE",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2225,
+      "label": "WAIT_BEFORE_EQUIP_SUMMARY2",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2230,
+      "label": "EQUIP_SUMMARY2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技変更</title>これで術技・魔鏡技の変更が完了しました。\nセールンドへ向かいましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2240,
+      "label": "EQUIP_GOTO_QUEST",
+      "command": 5,
+      "param": "CommonUI/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Quest",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2244,
+      "label": "WAIT_GOTO_QUEST",
+      "command": 24,
+      "param": "Quest",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2245,
+      "label": "SAVE_BEFORE_QUEST",
+      "command": 96,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2247,
+      "label": "GOTO_QUEST",
+      "command": 14,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2250,
+      "label": "QUEST_INTRODUCTION1",
+      "command": 3,
+      "param": "mileena",
+      "text": "<voice>Mileena_tutorial_002</voice>準備完了だね。\nそれじゃ、セールンドへ向かいましょう。\nイクス。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2260,
+      "label": "QUEST_INTRODUCTION2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>クエスト選択</title>冒険したい<color=red>「クエスト」</color>を選択してください。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2270,
+      "label": "QUEST_SELECT",
+      "command": 5,
+      "param": "OutGameManager/QuestScene/Canvas_1/SafeAreaKeeper/QuestSelect2/QuestScroll_200/Base/View/1",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2279,
+      "label": "WAIT_BEFORE_EQUIP_PARTY_INTRODUCTION",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2280,
+      "label": "EQUIP_PARTY_SUPPORT1",
+      "command": 4,
+      "param": "2280",
+      "text": "<title>フレンド選択</title><page>1/2</page>あなたのクエストをサポートしてくれるユーザーのキャラクターを選択してください。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2281,
+      "label": "EQUIP_PARTY_SUPPORT2",
+      "command": 4,
+      "param": "2281",
+      "text": "<title>フレンド選択</title><page>2/2</page>サポートに選択したユーザーのキャラクターは\n戦闘中に一度だけ魔境技を使うことができます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2290,
+      "label": "QUEST_SELECT_SUPPORT",
+      "command": 5,
+      "param": "OutGameManager/QuestScene/Canvas_1/SafeAreaKeeper/SupportSelect/Frame/VScrollGroup/DLScroll",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2300,
+      "label": "QUEST_SUBMIT_SUPPORT",
+      "command": 5,
+      "param": "OutGameManager/QuestScene/Canvas_1/SafeAreaKeeper/SupportSelect/Frame/OK",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2304,
+      "label": "QUEST_RESONANCE_WAIT",
+      "command": 23,
+      "param": "3.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2305,
+      "label": "QUEST_SUMMARY1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ選択</title>クエスト開始前にパーティ編成を確認してください。\nクエストとキャラクターにはそれぞれ<color=red>アニマタイプ</color>があり、\nアニマが一致すると、キャラクターの<color=red>ステータスが大幅に上昇</color>します。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2306,
+      "label": "QUEST_SUMMARY2",
+      "command": 4,
+      "param": "3010",
+      "text": "<title>アニマ共鳴</title>「アニマ」が一致しているキャラクターはアイコンが光ります。\nパーティ編成の参考にしましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 2309,
+      "label": "QUEST_GOTO_MAP",
+      "command": 5,
+      "param": "OutGameManager/QuestScene/QuestPartySelect/QuestPartySelect(Clone)/SafeAreaKeeper/Locater/OK",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 2310,
+      "label": "SAVE_AFTER_EQUIP",
+      "command": 98,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 3000,
+      "label": "GOTO_MAP",
+      "command": 16,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 3030,
+      "label": "MAP_INTRODUCTION1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>クエスト開始</title>ダンジョンを移動してください。\n道中は<color=red>魔物</color>や<color=red>宝箱</color>が出現するので注意して進みましょう。",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3040,
+      "label": "MAP_INTRODUCTION2",
+      "command": 4,
+      "param": "3040",
+      "text": "<title>移動操作</title>画面に触れると「パッド」が出現します。\nパッドを操作することにより、自由に移動することができます。",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3060,
+      "label": "BATTLE_ZAKO_INTRODUCTION1",
+      "command": 4,
+      "param": "33061",
+      "text": "<title>バックステップ</title><page>1/2</page>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3070,
+      "label": "BATTLE_ZAKO_INTRODUCTION2",
+      "command": 4,
+      "param": "3070",
+      "text": "<title>ターゲット切り替え</title><page>2/2</page><b>右上のターゲットアイコン</b>をタップするとターゲットを変更する事が出来ます。\nガードと合わせて活用してみましょう。",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3080,
+      "label": "BATTLE_ZAKO_RESULT",
+      "command": 4,
+      "param": "3080",
+      "text": "<title>ミラージュレシオ</title>戦闘勝利時、魔鏡が残留したアニマを吸収する事で<b>ミラージュレシオ</b>が増加します。\n増加量は<b>戦闘が早く終わる</b>ほど、多くなります。",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3090,
+      "label": "BATTLE_BOSS_INTRODUCTION",
+      "command": 4,
+      "param": "3090",
+      "text": "<title>BOSSバトル</title>クエストの最後には<b>強力なBOSS</b>が待ち受けています。\n勝利できればセールンドは目の前です！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3099,
+      "label": "SAVE_AFTER_QUEST",
+      "command": 96,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 3500,
+      "label": "GOTO_TUTORIAL_SCENARIO5",
+      "command": 11,
+      "param": "100011401",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 3510,
+      "label": "GOTO_TUTORIAL_SCENARIO6",
+      "command": 11,
+      "param": "100011402",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 3520,
+      "label": "GOTO_TUTORIAL_SCENARIO7",
+      "command": 11,
+      "param": "100011403",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4000,
+      "label": "SAVE_BEFORE_GASHA",
+      "command": 99,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4010,
+      "label": "GOTO_BRIDGE_TO_GASHA",
+      "command": 13,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4019,
+      "label": "WAIT_BEFORE_GASHA_INTRODUCTION1",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4021,
+      "label": "GASHA_INTRODUCTION1B",
+      "command": 3,
+      "param": "garows",
+      "text": "<voice>Garows_tutorial_002</voice>俺はガロウズ。\n飛空艇ケリュケイオンの面倒を見てる\n機械技師だ。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 4022,
+      "label": "GASHA_INTRODUCTION1C",
+      "command": 3,
+      "param": "garows",
+      "text": "<voice>Garows_tutorial_003</voice>よろしくな、お前たち。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 4030,
+      "label": "GASHA_INTRODUCTION2",
+      "command": 3,
+      "param": "garows",
+      "text": "<voice>Garows_tutorial_004</voice>出発前にその貧弱な装備を\n何とかした方がいいな。\nついてきな。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 4040,
+      "label": "GASHA_GOTO_GASHA",
+      "command": 5,
+      "param": "CommonUI/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Gasha",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4049,
+      "label": "WAIT_BEFORE_GASHA_INTRODUCTION3",
+      "command": 23,
+      "param": "0.7",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4050,
+      "label": "GASHA_INTRODUCTION3",
+      "command": 3,
+      "param": "garows",
+      "text": "<voice>Garows_tutorial_005</voice>ここでは、キラル分子で\n武器や魔鏡を作る事が出来る。\n今回は特別に俺のダイヤをやるから\n使ってみな。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 4060,
+      "label": "GASHA_DRAW1",
+      "command": 5,
+      "param": "OutGameManager/GashaScene/GashaTop/MainCanvas/SafeAreaKeeper/GashaRunButtonArea/GashaRunButtonOnlyRoot/GashaRunButtonCurrency(Clone)",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4070,
+      "label": "GASHA_DRAW2",
+      "command": 5,
+      "param": "GeneralDialogCanvas/CommonDialogRoot/SafeAreaKeeper/GeneralDialogWithTitle/FrameBG/Frame/ContentRoot/GashaUseCurrencyDialog/RunDiamondArea/DiamondButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": false,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4071,
+      "label": "GASHA_DRAW2_SAVEPOINT",
+      "command": 98,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4080,
+      "label": "GASHA_DRAW_END",
+      "command": 5,
+      "param": "OutGameManager/GashaScene/GashaResult/MainCanvas/SafeAreaKeeper/GashaResultArea/GashaResultDialog/Buttons/CloseAgainButton/Button_Close",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4085,
+      "label": "GOTO_GASHA_END",
+      "command": 17,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4089,
+      "label": "WAIT_BEFORE_GASHA_SUMMARY1",
+      "command": 23,
+      "param": "1.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4090,
+      "label": "GASHA_SUMMARY1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>チュートリアル完了</title>基本的な遊び方は以上です。\n<color=red>「ホーム」</color>をタップして、冒険を始めましょう！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": false,
+      "fadecolor": false
+    },
+    {
+      "id": 4100,
+      "label": "GASHA_GOTO_BRIDGE",
+      "command": 5,
+      "param": "CommonUI/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Bridge",
+      "text": "NO_WAIT",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    },
+    {
+      "id": 4111,
+      "label": "TUTORIAL_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "backkey": true,
+      "fadecolor": false
+    }
+  ],
+  "mst_tutorial_single_scripts": [
+    {
+      "id": 8000,
+      "label": "WEAPON_PAGE1",
+      "command": 4,
+      "param": "33040",
+      "text": "<title>術技強化</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8099,
+      "label": "WEAPON_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8100,
+      "label": "MIRRORGE_PAGE1",
+      "command": 4,
+      "param": "210",
+      "text": "<title>魔鏡技強化</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8199,
+      "label": "MIRRORGE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8200,
+      "label": "PARTY_PAGE1",
+      "command": 4,
+      "param": "34000",
+      "text": "<title>パーティ編成</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8299,
+      "label": "PARTY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8300,
+      "label": "CHARACUSTOM_PAGE1",
+      "command": 4,
+      "param": "240",
+      "text": "<title>キャラカスタム</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8399,
+      "label": "CHARACUSTOM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8400,
+      "label": "MISSION_PAGE1",
+      "command": 4,
+      "param": "250",
+      "text": "<title>ミッション</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8499,
+      "label": "MISSION_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8500,
+      "label": "BRIDGE_PAGE1",
+      "command": 4,
+      "param": "6000",
+      "text": "<title>仲間加入まで</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8510,
+      "label": "BRIDGE_PAGE2",
+      "command": 4,
+      "param": "6010",
+      "text": "<title>おすすめ装備</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8520,
+      "label": "BRIDGE_PAGE3",
+      "command": 5,
+      "param": "CommonUI(Clone)/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Quest",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 8599,
+      "label": "BRIDGE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8600,
+      "label": "PASSPORT_PAGE1",
+      "command": 4,
+      "param": "8600",
+      "text": "<title>パスポート機能</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8610,
+      "label": "PASSPORT_PAGE2",
+      "command": 3,
+      "param": "Karya",
+      "text": "<voice></voice>パスポートを買えば冒険を\n有利に進められますよー！\n今回はお試し用に無料で\n買えるようにしておいたので、\nよかったら試してみてくださいね～♪",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 8699,
+      "label": "PASSPORT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 9000,
+      "label": "BATTLE_OVERLAY_PAGE1",
+      "command": 4,
+      "param": "1060",
+      "text": "<title>オーバーレイ解放</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 9099,
+      "label": "BATTLE_OVERLAY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 9100,
+      "label": "BATTLE_FREERUN_PAGE1",
+      "command": 4,
+      "param": "3050",
+      "text": "<title>オート移動</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 9120,
+      "label": "BATTLE_FREERUN_PAGE2",
+      "command": 4,
+      "param": "1020",
+      "text": "<title>オートプレイ</title><page>2/2</page>説明3",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 9199,
+      "label": "BATTLE_FREERUN_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11000,
+      "label": "NG_CHARA_PAGE1",
+      "command": 33,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11010,
+      "label": "NG_CHARA_PAGE2",
+      "command": 23,
+      "param": "2.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11020,
+      "label": "NG_CHARA_PAGE3",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ編成</title><page>1/1</page>ミリーナがパーティから外れて\nユーリとラピードがパーティに加入しました。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11099,
+      "label": "NG_CHARA__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11100,
+      "label": "PARTY_SET_PAGE1",
+      "command": 33,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11110,
+      "label": "PARTY_SET_PAGE2",
+      "command": 23,
+      "param": "2.0",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11120,
+      "label": "PARTY_SET_PAGE3",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ編成</title><page>1/1</page>ミリーナと合流し、再びパーティへの編成が可能になりました。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11199,
+      "label": "PARTY_SET__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11200,
+      "label": "PARTY_CHANGE_PAGE1",
+      "command": 4,
+      "param": "5020",
+      "text": "<title>パーティ編成</title><page>1/1</page>説明1",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11299,
+      "label": "PARTY_CHANGE__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11300,
+      "label": "NG_CHARA2_PAGE1",
+      "command": 4,
+      "param": "260",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11399,
+      "label": "NG_CHARA2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 11400,
+      "label": "PARTY_SET2_PAGE1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ編成</title><page>1/1</page>ミリーナと合流し、再びパーティへの編成が可能になりました。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 11499,
+      "label": "PARTY_SET2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 12000,
+      "label": "QUEST_SUGGEST_PAGE1",
+      "command": 4,
+      "param": "8700",
+      "text": "<title>おまかせクエスト</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 12010,
+      "label": "QUEST_SUGGEST_PAGE2",
+      "command": 4,
+      "param": "8710",
+      "text": "<title>おまかせクエスト</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 12099,
+      "label": "QUEST_SUGGEST_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 12100,
+      "label": "SURP_TICKET_PAGE1",
+      "command": 4,
+      "param": "8800",
+      "text": "<title>セレクトチケット</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 12199,
+      "label": "SURP_TICKET_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13000,
+      "label": "TOWER_INIT_PAGE1",
+      "command": 4,
+      "param": "13000",
+      "text": "<title>始祖久遠の塔</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13010,
+      "label": "TOWER_INIT_PAGE2",
+      "command": 4,
+      "param": "13010",
+      "text": "<title>始祖久遠の塔</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13099,
+      "label": "TOWER_INIT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13100,
+      "label": "TOWER_PARTY_PAGE1",
+      "command": 4,
+      "param": "13100",
+      "text": "<title>チーム編成</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13110,
+      "label": "TOWER_PARTY_PAGE2",
+      "command": 4,
+      "param": "13110",
+      "text": "<title>チーム編成</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13199,
+      "label": "TOWER_PARTY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13200,
+      "label": "TOWER_ANIMA_PAGE1",
+      "command": 4,
+      "param": "13200",
+      "text": "<title>アニマスフィア</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13299,
+      "label": "TOWER_ANIMA_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13300,
+      "label": "TOWER_REWARD_PAGE1",
+      "command": 4,
+      "param": "13300",
+      "text": "<title>報酬選択</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13399,
+      "label": "TOWER_REWARD_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13400,
+      "label": "TOWER_SKILL_PAGE1",
+      "command": 4,
+      "param": "13400",
+      "text": "<title>覚醒スキル</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13410,
+      "label": "TOWER_SKILL_PAGE2",
+      "command": 4,
+      "param": "13410",
+      "text": "<title>覚醒スキル</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13499,
+      "label": "TOWER_SKILL_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13500,
+      "label": "PART_TWO_BRIDGE_PAGE1",
+      "command": 4,
+      "param": "14000",
+      "text": "<title>部切り替え機能</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13599,
+      "label": "PART_TWO_BRIDGE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13600,
+      "label": "PART_TWO_QUEST_PAGE1",
+      "command": 4,
+      "param": "14100",
+      "text": "<title>部切替変更点</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13610,
+      "label": "PART_TWO_QUEST_PAGE2",
+      "command": 4,
+      "param": "14110",
+      "text": "<title>部切替変更点</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13699,
+      "label": "PART_TWO_QUEST_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13700,
+      "label": "AGENCY_PAGE1",
+      "command": 4,
+      "param": "13700",
+      "text": "<title>オーダー</title><page>1/4</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13710,
+      "label": "AGENCY_PAGE2",
+      "command": 4,
+      "param": "13710",
+      "text": "<title>オーダー</title><page>2/4</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13720,
+      "label": "AGENCY_PAGE4",
+      "command": 4,
+      "param": "13720",
+      "text": "<title>オーダー</title><page>3/4</page>説明4",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13730,
+      "label": "AGENCY_PAGE5",
+      "command": 4,
+      "param": "13730",
+      "text": "<title>オーダー</title><page>4/4</page>説明5",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13799,
+      "label": "AGENCY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13800,
+      "label": "AWAKE_PAGE1",
+      "command": 4,
+      "param": "13800",
+      "text": "<title>スキルクエスト</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13810,
+      "label": "AWAKE_PAGE2",
+      "command": 4,
+      "param": "13810",
+      "text": "<title>スキルクエスト</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13899,
+      "label": "AWAKE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 13900,
+      "label": "COLLECTION_ROOM_PAGE1",
+      "command": 4,
+      "param": "13900",
+      "text": "<title>コレクションルーム</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13910,
+      "label": "COLLECTION_ROOM_PAGE2",
+      "command": 4,
+      "param": "13910",
+      "text": "<title>コレクションルーム</title><page>2/3</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13920,
+      "label": "COLLECTION_ROOM_PAGE3",
+      "command": 4,
+      "param": "13920",
+      "text": "<title>コレクションルーム</title><page>3/3</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 13999,
+      "label": "COLLECTION_ROOM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 33005,
+      "label": "REINFORCE_V4_PAGE1",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/CharacterSelect(Clone)/SafeAreaKeeper/ListPanel/ScrollView_02/ScrollView_01/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_1",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33006,
+      "label": "REINFORCE_V4_PAGE2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>装備Lv強化チュートリアル</title><page>1/1</page>まずは<color=red>「装備Lv」</color>の強化をしてみましょう!\n剣アイコンのボタンをタップしてください。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33010,
+      "label": "REINFORCE_V4_PAGE3",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/LeftViews/Chara/CharaEquipReinforce/Button",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33015,
+      "label": "REINFORCE_V4_PAGE4",
+      "command": 1,
+      "param": "null",
+      "text": "<title>装備Lv強化チュートリアル</title><page>1/1</page>装備Lvの強化には「キラル粒子」が必要です。\n「MAX」を押してセットして、\n実際に装備Lvの強化をしてみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33020,
+      "label": "REINFORCE_V4_PAGE5",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/EquipLvReinforcePanel(Clone)/ParameterArea/Buttons/RecommendButton",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33040,
+      "label": "REINFORCE_V4_PAGE6",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/EquipLvReinforcePanel(Clone)/ParameterArea/Buttons/GrowupButton",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33050,
+      "label": "REINFORCE_V4_PAGE7",
+      "command": 5,
+      "param": "CommonUI(Clone)/DialogBase/MaterialUseChackDialog(Clone)/SafeAreaKeeper/MaterialUseChack/SubmitButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 33060,
+      "label": "REINFORCE_V4_PAGE8",
+      "command": 5,
+      "param": "CommonUI(Clone)/DialogBase/EquipLvReinforceResultDialog(Clone)/SafeAreaKeeper/UpgradeEffectDialog/Submit",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33070,
+      "label": "REINFORCE_V4_PAGE9",
+      "command": 4,
+      "param": "33020",
+      "text": "<title>装備Lv強化メリット</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33075,
+      "label": "REINFORCE_V4_PAGE10",
+      "command": 1,
+      "param": "null",
+      "text": "<title>装備Lv強化チュートリアル</title><page>1/1</page>これで装備Lv強化は完了です。\nつぎに、術技強化の流れを見てみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33080,
+      "label": "REINFORCE_V4_PAGE11",
+      "command": 5,
+      "param": "CommonUI(Clone)/CanvasBase/SafeAreaKeeper/BackButton/HitAreaImage",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33090,
+      "label": "REINFORCE_V4_PAGE12",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/EquipReinforceMenu/ArteReinforce/ArteReinforceButton",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33100,
+      "label": "REINFORCE_V4_PAGE13",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/WeaponArteReinforcePanel(Clone)/ArteReinforceSelectView/EquipList/ScrollView_02/ScrollView_01/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_1/WeaponIcon_02",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33105,
+      "label": "REINFORCE_V4_PAGE14",
+      "command": 5,
+      "param": "OutGameManager/ReinforceScene/ReinforceMenu(Clone)/Canvas/SafeAreaKeeper/Panel/WeaponArteReinforcePanel(Clone)/ArteReinforceSelectView/SubmitButton",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33110,
+      "label": "REINFORCE_V4_PAGE15",
+      "command": 5,
+      "param": "CommonUI(Clone)/DialogBase/Weapon_ArteUpgradeDialog(Clone)/SafeAreaKeeper/Dialog/SubmitButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 33130,
+      "label": "REINFORCE_V4_PAGE16",
+      "command": 4,
+      "param": "33040",
+      "text": "<title>術技強化メリット</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33135,
+      "label": "REINFORCE_V4_PAGE17",
+      "command": 1,
+      "param": "null",
+      "text": "<title>術技強化チュートリアル</title><page>1/1</page>これで術技強化が完了です。\n術技強化に必要なアイテムは、\n強化クエストの「キラル修練場」や\nイベント交換所などで手に入れることができます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33140,
+      "label": "REINFORCE_V4_PAGE18",
+      "command": 5,
+      "param": "CommonUI/CanvasBase/SafeAreaKeeper/GroundMenu/Layout/Button_Reinforce",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 33300,
+      "label": "REINFORCE_V4_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34100,
+      "label": "EQUIP_PAGE1",
+      "command": 4,
+      "param": "34100",
+      "text": "<title>秘技・鏡装について</title><page>1/5</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34110,
+      "label": "EQUIP_PAGE2",
+      "command": 4,
+      "param": "34110",
+      "text": "<title>覚醒スキル</title><page>2/5</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34120,
+      "label": "EQUIP_PAGE3",
+      "command": 4,
+      "param": "34120",
+      "text": "<title>潜在スキル</title><page>3/5</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34130,
+      "label": "EQUIP_PAGE4",
+      "command": 4,
+      "param": "34130",
+      "text": "<title>信頼度</title><page>4/5</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34140,
+      "label": "EQUIP_PAGE5",
+      "command": 4,
+      "param": "34140",
+      "text": "<title>信頼度</title><page>5/5</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 34150,
+      "label": "EQUIP_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 35010,
+      "label": "PART_THREE_QUEST_PAGE1",
+      "command": 4,
+      "param": "35100",
+      "text": "<title>章選択</title>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 35200,
+      "label": "PART_THREE_QUEST_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 36000,
+      "label": "CHAPTER6_RELEASED_PAGE1",
+      "command": 4,
+      "param": "36000",
+      "text": "<title>６章解放</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 36010,
+      "label": "CHAPTER6_RELEASED_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 37010,
+      "label": "CHARACUSTOM2_PAGE1",
+      "command": 4,
+      "param": "8310",
+      "text": "<title>キャラカスタム2</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 37020,
+      "label": "CHARACUSTOM2_PAGE2",
+      "command": 4,
+      "param": "8320",
+      "text": "<title>キャラカスタム2</title><page>2/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 37099,
+      "label": "CHARACUSTOM2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 38000,
+      "label": "FAIRYS_DRESS_PAGE1",
+      "command": 4,
+      "param": "311",
+      "text": "<title>霊装魔鏡技強化</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 38099,
+      "label": "FAIRYS_DRESS_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 39000,
+      "label": "TOWER_INIT2_PAGE1",
+      "command": 4,
+      "param": "13020",
+      "text": "<title>スキップ機能</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 39010,
+      "label": "TOWER_INIT2_PAGE2",
+      "command": 4,
+      "param": "13030",
+      "text": "<title>覚醒スキル選択画面</title><page>2/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 39020,
+      "label": "TOWER_INIT2_PAGE3",
+      "command": 4,
+      "param": "13040",
+      "text": "<title>久遠の書について</title><page>3/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 39099,
+      "label": "TOWER_INIT2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 40010,
+      "label": "TOWER_TEAM_PAGE1",
+      "command": 4,
+      "param": "15000",
+      "text": "<title>隊列セット機能</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 40099,
+      "label": "TOWER_TEAM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 41000,
+      "label": "PROFILE_PAGE1",
+      "command": 4,
+      "param": "41000",
+      "text": "<title>称号機能</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 41010,
+      "label": "PROFILE_PAGE2",
+      "command": 4,
+      "param": "41010",
+      "text": "<title>称号機能</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 41020,
+      "label": "PROFILE_END",
+      "command": 999,
+      "param": "null",
+      "text": "",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 42000,
+      "label": "GALLERY_PAGE1",
+      "command": 4,
+      "param": "42000",
+      "text": "<title>図鑑機能</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 42010,
+      "label": "GALLERY_PAGE2",
+      "command": 4,
+      "param": "42010",
+      "text": "<title>図鑑機能</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 42020,
+      "label": "GALLERY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 43000,
+      "label": "TRAINING_ROOM_PAGE1",
+      "command": 4,
+      "param": "43000",
+      "text": "<title>クレス道場機能</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 43010,
+      "label": "TRAINING_ROOM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 44000,
+      "label": "KNOCKOUT_TOWER_INIT_PAGE1",
+      "command": 4,
+      "param": "44000",
+      "text": "<title>総力戦</title><page>1/4</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 44010,
+      "label": "KNOCKOUT_TOWER_INIT_PAGE2",
+      "command": 4,
+      "param": "44010",
+      "text": "<title>総力戦</title><page>2/4</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 44020,
+      "label": "KNOCKOUT_TOWER_INIT_PAGE3",
+      "command": 4,
+      "param": "44020",
+      "text": "<title>総力戦</title><page>3/4</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 44030,
+      "label": "KNOCKOUT_TOWER_INIT_PAGE4",
+      "command": 4,
+      "param": "44030",
+      "text": "<title>総力戦</title><page>4/4</page>説明4",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 44040,
+      "label": "KNOCKOUT_TOWER_INIT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 45000,
+      "label": "ROOM_INIT_PAGE1",
+      "command": 4,
+      "param": "45000",
+      "text": "<title>ルーム</title><page>1/4</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 45010,
+      "label": "ROOM_INIT_PAGE2",
+      "command": 4,
+      "param": "45010",
+      "text": "<title>コミュニケーションボード</title><page>2/4</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 45020,
+      "label": "ROOM_INIT_PAGE3",
+      "command": 4,
+      "param": "45020",
+      "text": "<title>クレス道場</title><page>3/4</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 45030,
+      "label": "ROOM_INIT_PAGE4",
+      "command": 4,
+      "param": "45030",
+      "text": "<title>クレス道場</title><page>4/4</page>説明4",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 45040,
+      "label": "ROOM_INIT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 46000,
+      "label": "TRAINING_BATTLE_PAGE1",
+      "command": 4,
+      "param": "46000",
+      "text": "<title>クレス道場機能</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 46010,
+      "label": "TRAINING_BATTLE_PAGE2",
+      "command": 4,
+      "param": "46010",
+      "text": "<title>クレス道場機能</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 46020,
+      "label": "TRAINING_BATTLE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 46100,
+      "label": "ROOM_SETTINGS_PAGE1",
+      "command": 4,
+      "param": "46100",
+      "text": "<title>ルーム設定</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 46101,
+      "label": "ROOM_SETTINGS__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 47000,
+      "label": "KNOCKOUT_TEAM_PAGE1",
+      "command": 4,
+      "param": "47000",
+      "text": "<title>チーム編成</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 47010,
+      "label": "KNOCKOUT_TEAM_PAGE2",
+      "command": 4,
+      "param": "47010",
+      "text": "<title>チーム編成</title><page>2/3</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 47020,
+      "label": "KNOCKOUT_TEAM_PAGE3",
+      "command": 4,
+      "param": "47020",
+      "text": "<title>チーム編成</title><page>3/3</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 47099,
+      "label": "KNOCKOUT_TEAM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 48000,
+      "label": "KNOCKOUT_ARRANGE_PAGE1",
+      "command": 4,
+      "param": "48000",
+      "text": "<title>順番入れ替え機能</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 48099,
+      "label": "KNOCKOUT_ARRANGE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 49000,
+      "label": "MULTI_GAME_TOP_PAGE1",
+      "command": 4,
+      "param": "49000",
+      "text": "<title>ユニゾン・アタック</title><page>1/6</page>説明1:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49010,
+      "label": "MULTI_GAME_TOP_PAGE2",
+      "command": 4,
+      "param": "49010",
+      "text": "<title>ユニゾン・アタック</title><page>2/6</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49020,
+      "label": "MULTI_GAME_TOP_PAGE3",
+      "command": 4,
+      "param": "49020",
+      "text": "<title>ユニゾン・アタック</title><page>3/6</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49030,
+      "label": "MULTI_GAME_TOP_PAGE4",
+      "command": 4,
+      "param": "49030",
+      "text": "<title>ユニゾン・アタック</title><page>4/6</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49040,
+      "label": "MULTI_GAME_TOP_PAGE5",
+      "command": 4,
+      "param": "49040",
+      "text": "<title>ユニゾン・アタック</title><page>5/6</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49050,
+      "label": "MULTI_GAME_TOP_PAGE6",
+      "command": 4,
+      "param": "49050",
+      "text": "<title>ユニゾン・アタック</title><page>6/6</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 49060,
+      "label": "MULTI_GAME_TOP_END",
+      "command": 999,
+      "param": "49060",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50000,
+      "label": "MULTI_GAME_MENU_PAGE1",
+      "command": 4,
+      "param": "50000",
+      "text": "<title>ユニゾン・アタックメニュー</title><page>1/3</page>説明1:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50010,
+      "label": "MULTI_GAME_MENU_PAGE2",
+      "command": 4,
+      "param": "50010",
+      "text": "<title>ユニゾン・アタックメニュー</title><page>2/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50020,
+      "label": "MULTI_GAME_MENU_PAGE3",
+      "command": 4,
+      "param": "50020",
+      "text": "<title>ユニゾン・アタックメニュー</title><page>3/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50030,
+      "label": "MULTI_GAME_MENU_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50100,
+      "label": "STAMP_TRADE_TOP_PAGE1",
+      "command": 4,
+      "param": "50100",
+      "text": "<title>トレード</title><page>1/3</page>説明1:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50110,
+      "label": "STAMP_TRADE_TOP__PAGE2",
+      "command": 4,
+      "param": "50110",
+      "text": "<title>トレード</title><page>2/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50120,
+      "label": "STAMP_TRADE_TOP_PAGE3",
+      "command": 4,
+      "param": "50120",
+      "text": "<title>トレード</title><page>3/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50130,
+      "label": "STAMP_TRADE_TOP__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50200,
+      "label": "VOTES_QUEST_TOP_3_PAGE1",
+      "command": 4,
+      "param": "50200",
+      "text": "<title>ザ レイズ オブ フェスティバル</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50210,
+      "label": "VOTES_QUEST_TOP_3_PAGE2",
+      "command": 4,
+      "param": "50210",
+      "text": "<title>ザ レイズ オブ フェスティバル</title><page>2/3</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50211,
+      "label": "VOTES_QUEST_TOP_3_PAGE3",
+      "command": 4,
+      "param": "50211",
+      "text": "<title>ザ レイズ オブ フェスティバル</title><page>3/3</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50220,
+      "label": "VOTES_QUEST_TOP_3_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50300,
+      "label": "VOTES_QUEST_PARTY_2_PAGE1",
+      "command": 4,
+      "param": "50300",
+      "text": "<title>ザ レイズ オブ フェスティバル（バトル）</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50310,
+      "label": "VOTES_QUEST_PARTY_2_PAGE2",
+      "command": 4,
+      "param": "50310",
+      "text": "<title>ザ レイズ オブ フェスティバル（バトル）</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50320,
+      "label": "VOTES_QUEST_PARTY_2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50400,
+      "label": "EQUIP_2_PAGE1",
+      "command": 4,
+      "param": "50400",
+      "text": "<title>オートモードの使用術技設定</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50410,
+      "label": "EQUIP_2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50500,
+      "label": "REINFORCE_MENU_PAGE1",
+      "command": 4,
+      "param": "51000",
+      "text": "<title>強化メニュー</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50510,
+      "label": "REINFORCE_MENU_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50600,
+      "label": "CHARA_LV_REINFORCE_PAGE1",
+      "command": 4,
+      "param": "51100",
+      "text": "<title>キャラLv強化</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50610,
+      "label": "CHARA_LV_REINFORCE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50700,
+      "label": "EQUIP_LV_REINFORCE_PAGE1",
+      "command": 4,
+      "param": "51200",
+      "text": "<title>装備Lv強化</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50710,
+      "label": "EQUIP_LV_REINFORCE_PAGE2",
+      "command": 4,
+      "param": "51210",
+      "text": "<title>最大装備Lv</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50720,
+      "label": "EQUIP_LV_REINFORCE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50800,
+      "label": "FAIRYS_DRESS_REINFORCE_PAGE1",
+      "command": 4,
+      "param": "310",
+      "text": "<title>精霊装強化</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50810,
+      "label": "FAIRYS_DRESS_REINFORCE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 50900,
+      "label": "SCHOOL_TOP_PAGE1",
+      "command": 4,
+      "param": "50900",
+      "text": "<title>師弟システム</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50910,
+      "label": "SCHOOL_TOP_PAGE2",
+      "command": 4,
+      "param": "50910",
+      "text": "<title>流派システム</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 50920,
+      "label": "SCHOOL_TOP_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 51000,
+      "label": "LOCK_LIBERATION_EVENT_PAGE1",
+      "command": 4,
+      "param": "51001",
+      "text": "<title>イベントクエスト</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 51010,
+      "label": "LOCK_LIBERATION_EVENT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 51100,
+      "label": "LOCK_LIBERATION_DAY_PAGE1",
+      "command": 4,
+      "param": "51002",
+      "text": "<title>強化クエスト</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 51110,
+      "label": "LOCK_LIBERATION_DAY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 51200,
+      "label": "LOCK_LIBERATION_TOWER_PAGE1",
+      "command": 4,
+      "param": "51003",
+      "text": "<title>始祖久遠の塔</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 51210,
+      "label": "LOCK_LIBERATION_TOWER_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 51300,
+      "label": "LOCK_LIBERATION_MEMORIAL_PAGE1",
+      "command": 4,
+      "param": "13520",
+      "text": "<title>任意復刻クエスト</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 51310,
+      "label": "LOCK_LIBERATION_MEMORIAL_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 51400,
+      "label": "LOCK_LIBERATION_FAIRY_PAGE1",
+      "command": 4,
+      "param": "51004",
+      "text": "<title>精霊片クエスト</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 51410,
+      "label": "LOCK_LIBERATION_FAIRY_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 52000,
+      "label": "STARTDASH_GASHA_PAGE1",
+      "command": 4,
+      "param": "52000",
+      "text": "<title>スタートダッシュガシャ</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 52010,
+      "label": "STARTDASH_GASHA_PAGE2",
+      "command": 4,
+      "param": "52010",
+      "text": "<title>スタートダッシュガシャ</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 52020,
+      "label": "STARTDASH_GASHA_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 53010,
+      "label": "GET_FORM_CHARA_PAGE1",
+      "command": 4,
+      "param": "53010",
+      "text": "<title>フォームキャラクター</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 53011,
+      "label": "GET_FORM_CHARA_PAGE2",
+      "command": 4,
+      "param": "53020",
+      "text": "<title>フォームキャラクター</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 53020,
+      "label": "GET_FORM_CHARA_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 53100,
+      "label": "AUTO_MIRROR1_PAGE1",
+      "command": 4,
+      "param": "53100",
+      "text": "<title>オート魔鏡枠解放</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 53110,
+      "label": "AUTO_MIRROR1_PAGE2",
+      "command": 4,
+      "param": "53110",
+      "text": "<title>オート魔鏡枠解放</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 53120,
+      "label": "AUTO_MIRROR1_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 53200,
+      "label": "AUTO_MIRROR2_PAGE1",
+      "command": 4,
+      "param": "53200",
+      "text": "<title>オート魔鏡技の限界突破</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 53210,
+      "label": "AUTO_MIRROR2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54000,
+      "label": "TOWERHARD_INIT_PAGE1",
+      "command": 4,
+      "param": "54000",
+      "text": "<title>始祖久遠の塔 神域</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54010,
+      "label": "TOWERHARD_INIT_PAGE2",
+      "command": 4,
+      "param": "54010",
+      "text": "<title>始祖久遠の塔 神域</title><page>2/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54020,
+      "label": "TOWERHARD_INIT_PAGE3",
+      "command": 4,
+      "param": "54020",
+      "text": "<title>始祖久遠の塔 神域</title><page>3/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54030,
+      "label": "TOWERHARD_INIT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54100,
+      "label": "TOWERHARD_SP_SEL_PAGE1",
+      "command": 4,
+      "param": "54000",
+      "text": "<title>始祖久遠の塔 神域自由枠</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54110,
+      "label": "TOWERHARD_SP_SEL_PAGE2",
+      "command": 4,
+      "param": "54010",
+      "text": "<title>始祖久遠の塔 神域自由枠</title><page>2/3</page>説明1",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 54130,
+      "label": "TOWERHARD_SP_SEL_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 56000,
+      "label": "QUEST_PARTY_FORM_CHANGE_PAGE1",
+      "command": 4,
+      "param": "56000",
+      "text": "<title>バトル中のフォームチェンジ</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 56010,
+      "label": "QUEST_PARTY_FORM_CHANGE_PAGE2",
+      "command": 4,
+      "param": "56010",
+      "text": "<title>バトル中のフォームチェンジ</title><page>2/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 56020,
+      "label": "QUEST_PARTY_FORM_CHANGE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 60000,
+      "label": "WEAPON_UNLOCK1_PAGE1",
+      "command": 4,
+      "param": "60000",
+      "text": "<title>装備開放</title><page>1/3</page>説明1:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 60010,
+      "label": "WEAPON_UNLOCK1_PAGE2",
+      "command": 4,
+      "param": "60010",
+      "text": "<title>装備開放</title><page>2/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 60020,
+      "label": "WEAPON_UNLOCK1_PAGE3",
+      "command": 4,
+      "param": "60020",
+      "text": "<title>装備開放</title><page>3/3</page>説明2:TODO",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 60030,
+      "label": "WEAPON_UNLOCK1_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 60100,
+      "label": "WEAPON_UNLOCK2_PAGE1",
+      "command": 4,
+      "param": "60100",
+      "text": "<title>スキル報酬ランク</title><page>1/1</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 60110,
+      "label": "WEAPON_UNLOCK2_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 61000,
+      "label": "CHARA_LEVEL_80_BONUS_PAGE1",
+      "command": 4,
+      "param": "61000",
+      "text": "<title>キャラLv80到達能力値ボーナス</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 61010,
+      "label": "CHARA_LEVEL_80_BONUS_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62000,
+      "label": "TOWER_CHALLENGE_INIT_PAGE1",
+      "command": 4,
+      "param": "62000",
+      "text": "<title>始祖久遠の塔 ベストヒーローズ</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62010,
+      "label": "TOWER_CHALLENGE_INIT_PAGE2",
+      "command": 4,
+      "param": "62010",
+      "text": "<title>始祖久遠の塔 ベストヒーローズ</title><page>2/3</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62020,
+      "label": "TOWER_CHALLENGE_INIT_PAGE3",
+      "command": 4,
+      "param": "62020",
+      "text": "<title>始祖久遠の塔 ベストヒーローズ</title><page>3/3</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62030,
+      "label": "TOWER_CHALLENGE_INIT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62100,
+      "label": "TOWER_SKILLEXCHANGER_TOP_PAGE1",
+      "command": 4,
+      "param": "62100",
+      "text": "<title>覚醒スキル付け替え</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62110,
+      "label": "TOWER_SKILLEXCHANGER_TOP_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62200,
+      "label": "TOWER_SKILL_CHARA_SELECT_PAGE1",
+      "command": 4,
+      "param": "62200",
+      "text": "<title>覚醒スキル付け替え</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62210,
+      "label": "TOWER_SKILL_CHARA_SELECT_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62300,
+      "label": "BURST_LIMIT_UNLOCK_PAGE1",
+      "command": 4,
+      "param": "62300",
+      "text": "<title>バーストリミッツ解放</title><page>1/2</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62310,
+      "label": "BURST_LIMIT_UNLOCK_PAGE2",
+      "command": 4,
+      "param": "62310",
+      "text": "<title>バーストリミッツ解放</title><page>2/2</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62320,
+      "label": "BURST_LIMIT_UNLOCK__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62400,
+      "label": "BURST_LIMIT_GASHA_PAGE1",
+      "command": 4,
+      "param": "62400",
+      "text": "<title>バーストリミッツ</title><page>1/3</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62410,
+      "label": "BURST_LIMIT_GASHA_PAGE2",
+      "command": 4,
+      "param": "62410",
+      "text": "<title>バーストリミッツ</title><page>2/3</page>説明2",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62420,
+      "label": "BURST_LIMIT_GASHA_PAGE3",
+      "command": 4,
+      "param": "62420",
+      "text": "<title>バーストリミッツ</title><page>3/3</page>説明3",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62430,
+      "label": "BURST_LIMIT_GASHA__END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62500,
+      "label": "FAIRYS_DRESS_GENERATE_BUTTON_PAGE1",
+      "command": 4,
+      "param": "62500",
+      "text": "<title>既存魔鏡の霊装化</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62505,
+      "label": "FAIRYS_DRESS_GENERATE_BUTTON_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 62510,
+      "label": "MAGICAL_MIRROR_ACTIVATE_PAGE1",
+      "command": 4,
+      "param": "62510",
+      "text": "<title>既存魔鏡の霊装化</title><page>1/1</page>説明1",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 62515,
+      "label": "MAGICAL_MIRROR_ACTIVATE_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 70000,
+      "label": "QUEST_RECOLLECTION_PAGE1",
+      "command": 40,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 70010,
+      "label": "UPDATE_PHASE_RECOLLECTION_SCENARIO1",
+      "command": 38,
+      "param": "10",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 70011,
+      "label": "RECOLLECTION_SCENARIO1",
+      "command": 43,
+      "param": "10101",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 70020,
+      "label": "UPDATE_PHASE_SERIES_SELECT1",
+      "command": 38,
+      "param": "40",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 70021,
+      "label": "GOTO_RECOLLECTION_SCENE1",
+      "command": 35,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70022,
+      "label": "RECOLLECTION_UNLOCK_SERIES_TIPS1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>幻想灯を掲げよう</title>\n新コンテンツ リコレクションでは、幻想灯を使い\nシリーズを開放してバトルを攻略していくクエスト型コンテンツです。\n\nまずはリコレクションシリーズを開放してみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70030,
+      "label": "CLICK_TO_UNLOCK_SERIES_RAYS2",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionSeriesSelectView(Clone)/SafeAreaKeeper/WindowSlide/SeriesSelectArea/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_0",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70031,
+      "label": "CLICK_SERIES_RAYS2",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionSeriesSelectView(Clone)/SafeAreaKeeper/WindowSlide/SeriesSelectArea/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_0",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70040,
+      "label": "RECOLLECTION_QUEST_SELECT_TIPS1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>リコレクション</title>\n開放されたシリーズ別のクエストでは、シリーズに関わる\nキャラクターのみが参加可能です。\n\nパーティを編成してみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70050,
+      "label": "CLICK_MEMBER_BUTTON",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionDigestView(Clone)/SafeAreaKeeper/Root/Right/Root/InformationArea/SeriesRoot/SeriesAreaBG/SeriesArea/ReadyBattle/Party/MemberButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70060,
+      "label": "RECOLLECTION_MEMBER_TIPS1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ編成</title><page>1/2</page>\nシリーズごとに出撃パーティを編成することができます。\nキャラクターの強さやパラメータはリコレクション専用となり、\n想珠を獲得して、シリーズレベルを上げることで、\nキャラクターを強化することができます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70070,
+      "label": "RECOLLECTION_MEMBER_TIPS2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>パーティ編成</title><page>2/2</page>\nクエストに挑戦するには、必ず術技の設定が必要です。\nチュートリアル中では、コダマとヘイズの術技は設定してありますので、\nそのまま、パーティの決定をしましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70080,
+      "label": "CLICK_SUBMIT_BUTTON",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionPartyEdit(Clone)/Canvas/SafeAreaKeeper/Locator/Submit",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70090,
+      "label": "RECOLLECTION_QUEST_START_TIPS1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>クエスト挑戦</title><page>1/3</page>\n出撃パーティを編成したら、クエストを選んで出撃します。\nチュートリアルでは１種類になりますが、クエストリストには、\n現在のシリーズレベルで挑戦可能なクエストが最大5つ表示されます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70100,
+      "label": "RECOLLECTION_QUEST_START_TIPS2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>クエスト挑戦</title><page>2/3</page>\nクエスト挑戦には挑戦回数を1回分使用します。\n挑戦回数は毎日0時で一定回数分回復するほか、ダイヤなどでも回復できます。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70110,
+      "label": "RECOLLECTION_QUEST_START_TIPS3",
+      "command": 1,
+      "param": "null",
+      "text": "<title>クエスト挑戦</title><page>3/3</page>\nクエストのバトルで敗北した場合や、リタイアした場合は\n挑戦回数を消費しませんので、気軽に挑戦してみてください。\nさっそくクエストに挑戦してバトルを体験してみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70120,
+      "label": "CLICK_RECOLLECTION_QUEST_SELECT",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionDigestView(Clone)/SafeAreaKeeper/Root/Left/QuestList/DLScroll/ScrollGroup/ItemGroup/Group0/Item0_0/Quest",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70130,
+      "label": "CLICK_RECOLLECTION_QUEST_START",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionScene/QuestRecollectionDigestView(Clone)/SafeAreaKeeper/Root/Right/Root/ToBattle",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70140,
+      "label": "UPDATE_PHASE_BATTLE_RECOLLECTION1",
+      "command": 38,
+      "param": "50",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 70141,
+      "label": "READY_BATTLE_RECOLLECTION1",
+      "command": 36,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71010,
+      "label": "GOTO_BATTLE_RECOLLECTION1",
+      "command": 34,
+      "param": "1",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71020,
+      "label": "BATTLE_RECOLLECTION1_AG01",
+      "command": 7,
+      "param": "71020",
+      "text": "<title>新バトル</title>",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71025,
+      "label": "BATTLE_RECOLLECTION1_AG_TRYChain",
+      "command": 8,
+      "param": "null",
+      "text": "<title>術技の連携発動</title>\nコダマを操作して術技を4連携させよう！ ",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71030,
+      "label": "BATTLE_RECOLLECTION1_AROUNDSTEP1_01",
+      "command": 7,
+      "param": "71030",
+      "text": "<title>アラウンドステップ①</title><page>1/3</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71031,
+      "label": "BATTLE_RECOLLECTION1_AROUNDSTEP1_02",
+      "command": 7,
+      "param": "71031",
+      "text": "<title>アラウンドステップ②</title><page>2/3</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71032,
+      "label": "BATTLE_RECOLLECTION1_AROUNDSTEP1_03",
+      "command": 7,
+      "param": "71032",
+      "text": "<title>アラウンドステップ③</title><page>3/3</page>",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71033,
+      "label": "BATTLE_RECOLLECTION1_AROUDSTEP1_TRY",
+      "command": 8,
+      "param": "null",
+      "text": "<title>アラウンドステップの発動</title>\n画面左側を短く左右方向にフリックして\nアラウンドステップを発動させてみよう！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71040,
+      "label": "BATTLE_RECOLLECTION1_AROUNDSTEP2_01",
+      "command": 7,
+      "param": "71040",
+      "text": "<title>ジャスト回避</title>",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71041,
+      "label": "BATTLE_RECOLLECTION1_AROUDSTEP2_TRY",
+      "command": 8,
+      "param": "null",
+      "text": "<title>ジャスト回避の発動</title>\nアラウンドステップを使って敵の攻撃を避けてみよう！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71050,
+      "label": "BATTLE_RECOLLECTION1_FREEBATTLE",
+      "command": 7,
+      "param": "71050",
+      "text": "<title>フリーバトル</title>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71060,
+      "label": "WAIT_BATTLE_RECOLLECTION_TUTORIAL1_END",
+      "command": 22,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71200,
+      "label": "UPDATE_PHASE_RECOLLECTION_RESULT1",
+      "command": 38,
+      "param": "60",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71210,
+      "label": "GOTO_RECOLLECTION_RESULT1",
+      "command": 37,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 71230,
+      "label": "CUSTOMIZE_CHANCE1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>オートチェイン</title><page>1/3</page>\nリコレクションのクエストバトルでは、バトルで獲得した術技を\n最大４つ連携して発動できるオートチェインが使えます。\n\nバトルに勝利することで、パーティリーダーに\nオートチェイン獲得権利が手に入ります。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71231,
+      "label": "CUSTOMIZE_CHANCE2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>オートチェイン</title><page>2/3</page>\nまた、術技のセット順によってボーナスが発生することがあります。\nボーナスを確認しながら術技を設定しましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71232,
+      "label": "CUSTOMIZE_CHANCE3",
+      "command": 1,
+      "param": "null",
+      "text": "<title>オートチェイン</title><page>3/3</page>\nコダマのオートチェインの一段階目に術技を設定してみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71233,
+      "label": "CUSTOMIZE_CHANCE4",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionResultScene/Canvas_35/SafeAreaKeeper/CustomizeChanceView/Panel/ArteSelectArea/CustomizeChanceLotteryArteContent_1",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71234,
+      "label": "CUSTOMIZE_CHANCE5",
+      "command": 5,
+      "param": "OutGameManager/QuestRecollectionResultScene/Canvas_35/SafeAreaKeeper/CustomizeChanceView/Panel/SubmitButton",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71235,
+      "label": "CUSTOMIZE_CHANCE6",
+      "command": 1,
+      "param": "null",
+      "text": "<title>オートチェイン</title>\nセットしたオートチェインを早速使ってみましょう",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71240,
+      "label": "UPDATE_PHASE_BATTLE_RECOLLECTION2",
+      "command": 38,
+      "param": "70",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 71241,
+      "label": "READY_BATTLE_RECOLLECTION2",
+      "command": 36,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 72010,
+      "label": "GOTO_BATTLE_RECOLLECTION2",
+      "command": 34,
+      "param": "2",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72020,
+      "label": "BATTLE_RECOLLECTION2_AUTOCHAIN01",
+      "command": 7,
+      "param": "72020",
+      "text": "<title>オートチェイン</title><page>1/2</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 72021,
+      "label": "BATTLE_RECOLLECTION2_AUTOCHAIN02",
+      "command": 7,
+      "param": "72021",
+      "text": "<title>オートチェイン</title><page>2/2</page>",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 72022,
+      "label": "BATTLE_RECOLLECTION2_AUTOCHAIN_TRY",
+      "command": 8,
+      "param": "null",
+      "text": "<title>オートチェインの発動</title>\n画面右側を長押しして、オートチェインを発動させよう！",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72030,
+      "label": "BATTLE_RECOLLECTION2_FREEBATTLE",
+      "command": 7,
+      "param": "72030",
+      "text": "<title>フリーバトル</title>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 72040,
+      "label": "WAIT_BATTLE_RECOLLECTION_TUTORIAL2_END",
+      "command": 22,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72200,
+      "label": "UPDATE_PHASE_RECOLLECTION_RESULT2",
+      "command": 38,
+      "param": "80",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72210,
+      "label": "GOTO_RECOLLECTION_RESULT2",
+      "command": 37,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72230,
+      "label": "UNLOCK_DIGEST_SCENARIO",
+      "command": 4,
+      "param": "72230",
+      "text": "<title>サブシナリオ/歴代伝承</title>\nシリーズレベルが上がっていくとサブシナリオ/歴代伝承が開放されます。\nリコレクションシリーズはリコレクション専用スキットが開放\n歴代テイルズシリーズではシリーズごとのお話を\nコンパクトにまとめたシナリオを読むことができます。",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 72240,
+      "label": "SERIES_RANKUP_EFFECT",
+      "command": 1,
+      "param": "null",
+      "text": "<title>シリーズパーティ強化</title>\nシリーズレベルが上がると、そのシリーズのレベルアップボーナスとして、\nキャラクターを強化しバトルが有利になるシリーズパーティ強化を獲得できます。\n好きなシリーズパーティ強化を選択しましょう。\n※チュートリアル終了後も有効です",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 73000,
+      "label": "GOTO_EMPTY_SCENE2",
+      "command": 40,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 73010,
+      "label": "UPDATE_PHASE_RECOLLECTION_SCENARIO4",
+      "command": 38,
+      "param": "90",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 73011,
+      "label": "RECOLLECTION_SCENARIO4",
+      "command": 43,
+      "param": "10201",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 73100,
+      "label": "UPDATE_PHASE_PLAY_RECOLLECTION_MOVIE",
+      "command": 38,
+      "param": "100",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 73101,
+      "label": "PLAY_RECOLLECTION_MOVIE",
+      "command": 39,
+      "param": "null",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 74000,
+      "label": "UPDATE_PHASE_SERIES_SELECT2",
+      "command": 38,
+      "param": "110",
+      "text": "null",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 74001,
+      "label": "GOTO_RECOLLECTION_SCENE2",
+      "command": 35,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 74010,
+      "label": "UNLOCK_SERIES_SELECT1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>幻想灯の使い方</title><page>1/2</page>\nシリーズレベルを上げていくと幻想灯が手に入ります。\n幻想灯を使うことで新しいシリーズを開放することができます。\n幻想灯はリコレクションランクやシリーズレベルを上げることで手に入ります。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 74011,
+      "label": "UNLOCK_SERIES_SELECT2",
+      "command": 1,
+      "param": "null",
+      "text": "<title>幻想灯の使い方</title><page>2/2</page>\n今回はチュートリアル報酬としてプレゼントさせていただきます。\n好きなシリーズを開放してみましょう。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 74012,
+      "label": "RECEIVE_UNLOCK_SERIES_ITEM",
+      "command": 42,
+      "param": "49,1,1",
+      "text": "<title>チュートリアルクリア報酬獲得</title>",
+      "next": true,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 74019,
+      "label": "WAIT_UNLOCK_SERIES_SELECT",
+      "command": 6,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 74020,
+      "label": "RECOLLECTION_TUTORIAL_LAST_MESSAGE",
+      "command": 1,
+      "param": "null",
+      "text": "<title>シリーズの開放</title>\nシリーズの開放に必要な幻想灯はシリーズ開放数によって\n必要数が増えていきます。\n幻想灯を集めてシリーズを開放していきましょう。\n\n最後に、新たな仲間が加わります。",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 79999,
+      "label": "QUEST_RECOLLECTION_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 80000,
+      "label": "COMPLETE_RECOLLECTION_TUTORIAL_PAGE1",
+      "command": 1,
+      "param": "null",
+      "text": "<title>チュートリアルクリア</title>\nリコレクションモードの遊び方は以上です。\nシリーズを選択して、新たな旅を始めましょう！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 80010,
+      "label": "COMPLETE_RECOLLECTION_TUTORIAL_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 80100,
+      "label": "UNLOCK_RECOLLECTION_MAIN_SCENARIO_PAGE1",
+      "command": 4,
+      "param": "80100",
+      "text": "<title>リコレクション本編シナリオ</title>\nリコレクションランクが上がると、テイルズ オブ ザ レイズ リコレクションの\n本編シナリオが開放されます。\nコダマたちの冒険を体験しましょう！",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 80110,
+      "label": "UNLOCK_RECOLLECTION_MAIN_SCENARIO_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 82001,
+      "label": "BATTLE_RECOLLECTION_AG100OVER_PAGE1",
+      "command": 7,
+      "param": "82001",
+      "text": "<title>AGの管理</title>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 82002,
+      "label": "BATTLE_RECOLLECTION_AG100OVER_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 82100,
+      "label": "ORIGIN_GRADE_BATTLE_ITEM_PAGE1",
+      "command": 4,
+      "param": "82100",
+      "text": "<title>オリジングレード</title><page>1/3</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 82110,
+      "label": "ORIGIN_GRADE_BATTLE_ITEM_PAGE2",
+      "command": 4,
+      "param": "82110",
+      "text": "<title>オリジングレード</title><page>2/3</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 82120,
+      "label": "ORIGIN_GRADE_BATTLE_ITEM_PAGE3",
+      "command": 4,
+      "param": "82120",
+      "text": "<title>オリジングレード</title><page>3/3</page>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 82130,
+      "label": "ORIGIN_GRADE_BATTLE_ITEM_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    },
+    {
+      "id": 82200,
+      "label": "MULTIPLE_AP_PAGE1",
+      "command": 4,
+      "param": "82200",
+      "text": "<title>消費APの増量プレイ</title>",
+      "next": true,
+      "mask_before": true,
+      "mask_after": true,
+      "fadecolor": false
+    },
+    {
+      "id": 82210,
+      "label": "MULTIPLE_AP_END",
+      "command": 999,
+      "param": "null",
+      "text": "null",
+      "next": false,
+      "mask_before": false,
+      "mask_after": false,
+      "fadecolor": false
+    }
+  ],
+  "mst_tutorial_mileena_scripts": [
+    {
+      "id": 1,
+      "text": "また死の砂嵐が希望を打ち砕いてしまった。\nでも今の私には、あなたが残してくれた【力】がある。\n希望はまた生み出せるの。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_001_m"
+    },
+    {
+      "id": 2,
+      "text": "――そんな顔、しないで。わかっているの。\nあなたが真実を知ったら、きっと軽蔑されるって。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_002_m"
+    },
+    {
+      "id": 3,
+      "text": "それでも――そう、たとえ軽蔑されて\n蔑まれても、私はあなたの瞳に\n光を灯しておきたい。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_003_m"
+    },
+    {
+      "id": 4,
+      "text": "その瞳に映る私が、どれほど穢れて\n卑しい姿になったとしても、私にとっては\nあなたがここにいるという事が大事なのよ。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_004_m"
+    },
+    {
+      "id": 5,
+      "text": "きっと呆れているわね。２度目ですものね。\nでも同じ思いを３度味わうのは怖いわ。\n心が折れてくじけてしまいそうだから。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_005_m"
+    },
+    {
+      "id": 6,
+      "text": "本当は今まで通りにしていて欲しかったの。\nでももうそんな余力は無いわ。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_006_m"
+    },
+    {
+      "id": 7,
+      "text": "次に死の砂嵐が迫ってきたら、私たちは\n――間違いなく光る砂になって\n虚空へ消えていくでしょう。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_007_m"
+    },
+    {
+      "id": 8,
+      "text": "あなたにすがるしかないの。\nだから、ね。私は全力でここを護るわ。\nだからあなたはあなた自身を護って。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_008_m"
+    },
+    {
+      "id": 9,
+      "text": "今度は上手くいく。沢山の力が――\nいえ、命が、あなたを導いてくれるから。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_009_m"
+    },
+    {
+      "id": 10,
+      "text": "そして全てが終わったら、\n後は私に任せてちょうだい。\n必ずこの力で計画を遂行してみせるわ。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_010_m"
+    },
+    {
+      "id": 11,
+      "text": "何度も何度も頭の中で手順を繰り返したの。\nいつでもその準備はできている。覚悟も。\n…未練は、少しだけ残るかもしれないわね。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_01_011_m"
+    },
+    {
+      "id": 12,
+      "text": "それでも大丈夫。私は昔の私じゃない。\nあなたの知らないところで、沢山の命を\n喰らって、骨の髄まで血にまみれた悪魔よ。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_02_001_m"
+    },
+    {
+      "id": 13,
+      "text": "悪魔は悪魔らしく\n派手に散るのがふさわしい。\nだから……お願いね。",
+      "command": 2000,
+      "voicefile": "TOCO_SCEN_02_002_m"
+    },
+    {
+      "id": 14,
+      "text": "世界を――救って。",
+      "command": 3000,
+      "voicefile": "TOCO_SCEN_02_003_m"
+    }
+  ],
+  "mst_tutorial_assets": [
+    {
+      "type": 1,
+      "path": "Effect/System"
+    },
+    {
+      "type": 1,
+      "path": "sound/BGM/01_TORays.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "BattleMap/d01b02"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/ickx"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_ickx01"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/Ickx"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/cutin/1.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/face_enlighten/1.png"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_001.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/BGM/01_TORays.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Ickx"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_001.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Sozai"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/mileena"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_mileena01"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_10001.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/face/2.png"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/pixiecircle"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/ray"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Mileena"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/shellblaze"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/yuri"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_10001.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_yuri00"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/face/19.png"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Yuri"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_002.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/luke"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_luke01"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/face/14.png"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Luke"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_002.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/enemy/resistancesw"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/enemy/resistancela"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_019.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_019.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_014.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/pikohan_m"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_014.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Sophie"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Repede"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Enemy/basilisk"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/kochikochihummer"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/raven"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/tractorbeam"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/fieldbarrier"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/haruka"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Magic/00sharpness"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/chloe"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/wndine"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/alisa"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31030.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31040.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31041.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31050.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31060.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31070.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31080.png"
+    },
+    {
+      "type": 1,
+      "path": "Script/Scenario/Msc_000_001_3d"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Sorey"
+    },
+    {
+      "type": 1,
+      "path": "EventScripts/Msc_000_001_3d.asset"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptBustupList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptBustupNPCList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptEmoteList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptIllustrationList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptBackground2DList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptPrefabList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/ScriptBannerList.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Frame_Name.png"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Next.controller"
+    },
+    {
+      "type": 1,
+      "path": "Script/Scenario/ScriptChara2D.controller"
+    },
+    {
+      "type": 1,
+      "path": "Script/Bustup/BU_Ickx"
+    },
+    {
+      "type": 1,
+      "path": "Script/Bustup/BU_Mark"
+    },
+    {
+      "type": 1,
+      "path": "Script/Bustup/BU_Mileena"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/sophie"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_sophie00"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/mark"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_mark01"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/sorey"
+    },
+    {
+      "type": 1,
+      "path": "CharaModel/Weapon/wp_sorey01"
+    },
+    {
+      "type": 1,
+      "path": "sound/BGM/EV_BGM.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/BGM/EV_BGM.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/SE/EVENT_SE.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/SE/EVENT_SE.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_001_3d.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_001_3d.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/player/Mark"
+    },
+    {
+      "type": 1,
+      "path": "Image/character/cutin/34.png"
+    },
+    {
+      "type": 1,
+      "path": "Effect/Player/Mark"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_034.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/bt_Voice_034.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31090.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31091.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31100.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/31110.png"
+    },
+    {
+      "type": 1,
+      "path": "Script/Scenario/Msc_000_002_3d"
+    },
+    {
+      "type": 1,
+      "path": "EventScripts/Msc_000_002_3d.asset"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_002_3d.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_002_3d.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Script/Scenario/Msc_000_003_3d"
+    },
+    {
+      "type": 1,
+      "path": "EventScripts/Msc_000_003_3d.asset"
+    },
+    {
+      "type": 1,
+      "path": "Script/BustupNPC/BU_Karya"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Confusion.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Notice.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Note.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Flash.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Question.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Surprised.prefab"
+    },
+    {
+      "type": 1,
+      "path": "Script/Talk/Prefabs/Icon_Weather.prefab"
+    },
+    {
+      "type": 1,
+      "path": "EventMap/ev01a07/prefab/ev01a07.prefab"
+    },
+    {
+      "type": 1,
+      "path": "charamodel/npc/karya"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_003_3d.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_003_3d.awb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Movies/interlude1.usm.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/1.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/1_L.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/1_R.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/2.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/2_L.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/2_R.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/3.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/3_L.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/3_R.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/4.png"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_000_mileena.acb.bytes"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/4_L.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/4_R.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/5.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/5_L.png"
+    },
+    {
+      "type": 1,
+      "path": "Image/tutorial/img/5_R.png"
+    },
+    {
+      "type": 1,
+      "path": "sound/Voice/Msc_000_000_mileena.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Script/Scenario/Msc_000_004_3d"
+    },
+    {
+      "type": 2,
+      "path": "EventScripts/Msc_000_004_3d.asset"
+    },
+    {
+      "type": 2,
+      "path": "Script/Talk/Prefabs/Icon_Sweat.prefab"
+    },
+    {
+      "type": 2,
+      "path": "BattleMap/d12b01"
+    },
+    {
+      "type": 2,
+      "path": "EventMap/ev01a05/prefab/ev01a05.prefab"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/npc/npcresistansesw"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_004_3d.acb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_004_3d.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Image/bridge/badge/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/bridge/badge/1.png"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/QuestPositionArrow.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/QuestBG.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/ConquestBGParticle.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/detail/100.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/detail/1001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/button/100.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/button/1001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tower/button/15000.png"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/1.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/2.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/3.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/4.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/6.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/9.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/15.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/16.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/18.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/19.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13001.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13002.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13003.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13004.prefab"
+    },
+    {
+      "type": 2,
+      "path": "QuestBG/13005.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Image/PointEventExchange/bg/354_L.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/PointEventExchange/bg/354_R.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/1.png"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/tut_voice/tutorial_Voice.acb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/tut_voice/tutorial_Voice.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/chara/mileena.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/illust/1.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/illust/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/magical_mirror/detail/210001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/face_mark/1.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/icon/13001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/favorability/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/poster/icon/50001011.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/4.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/28.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/chara_reinforce_material/icon/3001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/27.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/item/icon/26.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/face/1.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/icon/15001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/face_mark/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/icon/23001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/icon/23002.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/2210.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/32150.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/magical_mirror/icon/110001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/magical_mirror/icon/210001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/32220.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/magical_mirror/detail/110001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/2280.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/2281.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/PointEventExchange/icon32/4211.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/3010.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/tips/6.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/tips/14.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/tips/12.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/tips/11.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/quest/tips/4.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/reinforce_material/icon/2001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/reinforce_material/icon/4001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/reinforce_material/icon/3001.png"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/player/Mileena"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/cutin/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Effect/Magic/firstaid"
+    },
+    {
+      "type": 2,
+      "path": "dungeonmap/map/100/10001.prefab"
+    },
+    {
+      "type": 2,
+      "path": "DungeonMap/mapchip/01_Mountain/d01a14_01_003.prefab"
+    },
+    {
+      "type": 2,
+      "path": "DungeonMap/mapchip/01_Mountain/d01a03_002.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Effect/Magic/photon"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/enemy/otaota"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/enemy/wolf"
+    },
+    {
+      "type": 2,
+      "path": "DungeonMap/mapsrc/01/d01a14/cvt/d01a14_v01_cvt.prefab"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/enemy/golem"
+    },
+    {
+      "type": 2,
+      "path": "Effect/Enemy/golem"
+    },
+    {
+      "type": 2,
+      "path": "DungeonMap/mapsrc/01/d01a03/cvt/d01a03_v01_cvt.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Effect/Event/ef05/prefab/ef05.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/3040.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/33061.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/3070.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/3080.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/img/3090.png"
+    },
+    {
+      "type": 2,
+      "path": "Script/Scenario/Msc_000_005_3d"
+    },
+    {
+      "type": 2,
+      "path": "EventScripts/Msc_000_005_3d.asset"
+    },
+    {
+      "type": 2,
+      "path": "Script/Talk/Prefabs/Icon_Impatient.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Script/Background2D/BG_totr_op.png"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/enemy/knightla"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/npc/npcknightla"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_005_3d.acb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_005_3d.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Script/Scenario/Msc_000_006_3d"
+    },
+    {
+      "type": 2,
+      "path": "EventScripts/Msc_000_006_3d.asset"
+    },
+    {
+      "type": 2,
+      "path": "Script/BustupNPC/BU_Gefion"
+    },
+    {
+      "type": 2,
+      "path": "EventMap/ev01a02/prefab/ev01a02.prefab"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/npc/gefion"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_006_3d.acb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_006_3d.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Script/Scenario/Msc_000_007_3d"
+    },
+    {
+      "type": 2,
+      "path": "EventScripts/Msc_000_007_3d.asset"
+    },
+    {
+      "type": 2,
+      "path": "Script/Talk/Prefabs/Icon_Silence.prefab"
+    },
+    {
+      "type": 2,
+      "path": "EventMap/ev01a06/prefab/ev01a06.prefab"
+    },
+    {
+      "type": 2,
+      "path": "charamodel/npc/garows"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_007_3d.acb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "sound/Voice/Msc_000_007_3d.awb.bytes"
+    },
+    {
+      "type": 2,
+      "path": "Image/tutorial/chara/garows.png"
+    },
+    {
+      "type": 2,
+      "path": "Prefabs/GashaRoot.prefab"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/0.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/15.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/16.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/17.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/18.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/19.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/76.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/message/77.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/banner/170228199.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/banner/gasya_ad_btn_tutorial.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/banner/gasya_ad_btn_tutorial_OFF.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/banner/gasya_ad_btu_Memorial.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/banner/gasya_ad_btu_Memorial_OFF.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/appeal/1702281991.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/detail/13005.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/face_mark2/1.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/icon/13005.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/magical_mirror/illust/110001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/weapon/illust/15001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/character/banner/18113001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/vivac_ticket/ticket_bridgebanner/1902282.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/login_bonus/bg/17072591_L.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/login_bonus/bg/17072591_R.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/login_bonus/illust/1.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gasha/icon/170709.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/login_bonus/bg/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/chara_reinforce_material/icon/2001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/arte_material/icon/1001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/arte_material/icon/3001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/arte_material/icon/2001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/arte_material/icon/4001.png"
+    },
+    {
+      "type": 2,
+      "path": "Image/gift/icon/2.png"
+    },
+    {
+      "type": 2,
+      "path": "Script/Talk/Frame_Talk.png"
+    },
+    {
+      "type": 2,
+      "path": "Script/Talk/Icon_Next.png"
+    }
+  ],
+  "mst_tutorial_randomname": [
+    {
+      "name": "あたま"
+    },
+    {
+      "name": "ノワール"
+    },
+    {
+      "name": "ウルシー"
+    },
+    {
+      "name": "ヨーク"
+    },
+    {
+      "name": "モリスン"
+    },
+    {
+      "name": "アイフリード"
+    },
+    {
+      "name": "ねこにん"
+    },
+    {
+      "name": "マッハ少年"
+    },
+    {
+      "name": "アルベルト"
+    },
+    {
+      "name": "マグニスサマ"
+    },
+    {
+      "name": "レンブラント"
+    },
+    {
+      "name": "ボブおじさん"
+    },
+    {
+      "name": "いしとり名人"
+    },
+    {
+      "name": "かめにん"
+    },
+    {
+      "name": "ワンダーシェフ"
+    },
+    {
+      "name": "おじめん"
+    }
+  ],
+  "mst_tutorial_version": [
+    {
+      "version": 1
+    }
+  ]
+}

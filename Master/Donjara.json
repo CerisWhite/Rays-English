@@ -1,0 +1,2898 @@
+{
+  "xhash": "",
+  "mst_donjara_charas": [
+    {
+      "id": 1,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "クレス",
+      "chara_id": 3
+    },
+    {
+      "id": 2,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "ミント",
+      "chara_id": 73
+    },
+    {
+      "id": 3,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "チェスター",
+      "chara_id": 4
+    },
+    {
+      "id": 4,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "アーチェ",
+      "chara_id": 74
+    },
+    {
+      "id": 5,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "クラース",
+      "chara_id": 85
+    },
+    {
+      "id": 6,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "すず",
+      "chara_id": 133
+    },
+    {
+      "id": 7,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "アミィ",
+      "chara_id": 0
+    },
+    {
+      "id": 8,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "ミラルド",
+      "chara_id": 0
+    },
+    {
+      "id": 9,
+      "name": "ファンタジア",
+      "category": 1,
+      "chara_name": "ブラムバルド",
+      "chara_id": 0
+    },
+    {
+      "id": 10,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "ボア",
+      "chara_id": 0
+    },
+    {
+      "id": 11,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "アルラウネ",
+      "chara_id": 0
+    },
+    {
+      "id": 12,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "クレイアイドル",
+      "chara_id": 0
+    },
+    {
+      "id": 13,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "グリーンローパー",
+      "chara_id": 0
+    },
+    {
+      "id": 14,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "チュンチュン",
+      "chara_id": 0
+    },
+    {
+      "id": 15,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "バジリスク",
+      "chara_id": 0
+    },
+    {
+      "id": 16,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "トレント",
+      "chara_id": 0
+    },
+    {
+      "id": 17,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "ビッグフット",
+      "chara_id": 0
+    },
+    {
+      "id": 18,
+      "name": "ファンタジア敵",
+      "category": 2,
+      "chara_name": "ダオス",
+      "chara_id": 79
+    },
+    {
+      "id": 19,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "ロイド",
+      "chara_id": 9
+    },
+    {
+      "id": 20,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "コレット",
+      "chara_id": 10
+    },
+    {
+      "id": 21,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "クラトス",
+      "chara_id": 93
+    },
+    {
+      "id": 22,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "ジーニアス",
+      "chara_id": 128
+    },
+    {
+      "id": 23,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "リフィル",
+      "chara_id": 11
+    },
+    {
+      "id": 24,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "しいな",
+      "chara_id": 116
+    },
+    {
+      "id": 25,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "ゼロス",
+      "chara_id": 44
+    },
+    {
+      "id": 26,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "プレセア",
+      "chara_id": 129
+    },
+    {
+      "id": 27,
+      "name": "シンフォニア",
+      "category": 3,
+      "chara_name": "リーガル",
+      "chara_id": 96
+    },
+    {
+      "id": 28,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "マグニス",
+      "chara_id": 0
+    },
+    {
+      "id": 29,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "ロディル",
+      "chara_id": 0
+    },
+    {
+      "id": 30,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "クヴァル",
+      "chara_id": 0
+    },
+    {
+      "id": 31,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "フォシテス",
+      "chara_id": 0
+    },
+    {
+      "id": 32,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "プロネーマ",
+      "chara_id": 0
+    },
+    {
+      "id": 33,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "ユアン",
+      "chara_id": 181
+    },
+    {
+      "id": 34,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "ボータ",
+      "chara_id": 0
+    },
+    {
+      "id": 35,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "マーテル",
+      "chara_id": 180
+    },
+    {
+      "id": 36,
+      "name": "シンフォニア敵",
+      "category": 4,
+      "chara_name": "ミトス",
+      "chara_id": 67
+    },
+    {
+      "id": 37,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ルーク",
+      "chara_id": 14
+    },
+    {
+      "id": 38,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ティア",
+      "chara_id": 35
+    },
+    {
+      "id": 39,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ジェイド",
+      "chara_id": 15
+    },
+    {
+      "id": 40,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "アニス",
+      "chara_id": 16
+    },
+    {
+      "id": 41,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ガイ",
+      "chara_id": 56
+    },
+    {
+      "id": 42,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ナタリア",
+      "chara_id": 45
+    },
+    {
+      "id": 43,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "イオン",
+      "chara_id": 183
+    },
+    {
+      "id": 44,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ピオニー",
+      "chara_id": 0
+    },
+    {
+      "id": 45,
+      "name": "アビス",
+      "category": 5,
+      "chara_name": "ミュウ",
+      "chara_id": 0
+    },
+    {
+      "id": 46,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "アッシュ",
+      "chara_id": 54
+    },
+    {
+      "id": 47,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "リグレット",
+      "chara_id": 0
+    },
+    {
+      "id": 48,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "アリエッタ",
+      "chara_id": 0
+    },
+    {
+      "id": 49,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "ディスト",
+      "chara_id": 69
+    },
+    {
+      "id": 50,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "シンク",
+      "chara_id": 80
+    },
+    {
+      "id": 51,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "ラルゴ",
+      "chara_id": 0
+    },
+    {
+      "id": 52,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "モース",
+      "chara_id": 0
+    },
+    {
+      "id": 53,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "ネビリム",
+      "chara_id": 0
+    },
+    {
+      "id": 54,
+      "name": "アビス敵",
+      "category": 6,
+      "chara_name": "ヴァン",
+      "chara_id": 0
+    },
+    {
+      "id": 55,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "ウンディーネ",
+      "chara_id": 0
+    },
+    {
+      "id": 56,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "ヴォルト",
+      "chara_id": 0
+    },
+    {
+      "id": 57,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "イフリート",
+      "chara_id": 0
+    },
+    {
+      "id": 58,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "セルシウス",
+      "chara_id": 0
+    },
+    {
+      "id": 59,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "シルフ",
+      "chara_id": 0
+    },
+    {
+      "id": 60,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "ノーム",
+      "chara_id": 0
+    },
+    {
+      "id": 61,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "ルナ",
+      "chara_id": 0
+    },
+    {
+      "id": 62,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "シャドウ",
+      "chara_id": 0
+    },
+    {
+      "id": 63,
+      "name": "精霊",
+      "category": 7,
+      "chara_name": "オリジン",
+      "chara_id": 0
+    },
+    {
+      "id": 64,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "アップルグミ",
+      "chara_id": 0
+    },
+    {
+      "id": 65,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "ライフボトル",
+      "chara_id": 0
+    },
+    {
+      "id": 66,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "スペクタクルズ",
+      "chara_id": 0
+    },
+    {
+      "id": 67,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "セージ",
+      "chara_id": 0
+    },
+    {
+      "id": 68,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "セボリー",
+      "chara_id": 0
+    },
+    {
+      "id": 69,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "ラベンダー",
+      "chara_id": 0
+    },
+    {
+      "id": 70,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "マスコット",
+      "chara_id": 0
+    },
+    {
+      "id": 71,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "雪ウサギ",
+      "chara_id": 0
+    },
+    {
+      "id": 72,
+      "name": "アイテム",
+      "category": 8,
+      "chara_name": "ローレライの鍵",
+      "chara_id": 0
+    },
+    {
+      "id": 73,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "チキン",
+      "chara_id": 0
+    },
+    {
+      "id": 74,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "ポーク",
+      "chara_id": 0
+    },
+    {
+      "id": 75,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "ビーフ",
+      "chara_id": 0
+    },
+    {
+      "id": 76,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "エビ",
+      "chara_id": 0
+    },
+    {
+      "id": 77,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "まぐろ",
+      "chara_id": 0
+    },
+    {
+      "id": 78,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "リンゴ",
+      "chara_id": 0
+    },
+    {
+      "id": 79,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "メロン",
+      "chara_id": 0
+    },
+    {
+      "id": 80,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "ミルク",
+      "chara_id": 0
+    },
+    {
+      "id": 81,
+      "name": "食材",
+      "category": 9,
+      "chara_name": "とうふ",
+      "chara_id": 0
+    }
+  ],
+  "mst_donjara_combinations": [
+    {
+      "id": 1,
+      "name": "ファンタジアの仲間たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ ファンタジアに登場する\nパーティーと味方キャラクターセット。\nテイルズ オブシリーズは彼らから始まった。"
+    },
+    {
+      "id": 2,
+      "name": "ファンタジアの強敵たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ ファンタジアに登場する\n敵キャラクターセット。\nシリーズおなじみの敵もちらほら。"
+    },
+    {
+      "id": 3,
+      "name": "シンフォニアの仲間たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ シンフォニアのパーティー\nキャラクターセット。村の子供から教師、貴族、\n暗殺者、きこりなど、多彩な顔ぶれである。"
+    },
+    {
+      "id": 4,
+      "name": "シンフォニアの強敵たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ シンフォニアに登場する\nディザイアン、クルシス、レネゲードのセット。\n長寿なためか、全体的に高圧的。"
+    },
+    {
+      "id": 5,
+      "name": "アビスの仲間たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ ジ アビスのパーティーと味方\nキャラクターセット。ほとんどが貴族や軍人であり\n大人な雰囲気のパーティーである。"
+    },
+    {
+      "id": 6,
+      "name": "アビスの強敵たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブ ジ アビスに登場する敵方セット。\nいたいけな少女から屈強な大男と、バラエティ\n豊かな面々である。"
+    },
+    {
+      "id": 7,
+      "name": "偉大なる精霊たち",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "ファンタジア、シンフォニアに登場した精霊セット。\n戦うことでしか力を認めてもらえないのも\nシリーズ共通。自然の掟は厳しい。"
+    },
+    {
+      "id": 8,
+      "name": "アイテムもりだくさん",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "シリーズおなじみのアイテムと、貴重品のセット。\nテイルズ オブのアイテムといったらやっぱりグミ。"
+    },
+    {
+      "id": 9,
+      "name": "食材詰め合わせ",
+      "special": 1,
+      "number_pais": 9,
+      "need_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 8000,
+      "commentary": "テイルズ オブシリーズには欠かせない、\n料理の食材セット。長旅の中、生鮮食品を\nどうやって持ち歩いているかはヒミツ。"
+    },
+    {
+      "id": 10,
+      "name": "両思い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        1,
+        2
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "お互いの気持ちはわかっているのに\nなかなか進展しないふたり。\n非常にじれったい。"
+    },
+    {
+      "id": 11,
+      "name": "親友",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        1,
+        3
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "幼い頃からの親友コンビ。\n片田舎の少年たちが世界を救う。"
+    },
+    {
+      "id": 12,
+      "name": "狩の獲物",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        1,
+        3,
+        10
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "クレスとチェスターに狙われるボア。\n狩る者と狩られる者の壮絶なバトル！"
+    },
+    {
+      "id": 13,
+      "name": "ダオスをだおす！",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        1,
+        18
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "宿敵ダオスを倒す決心を固めるクレス。\n剣技は一流だがギャグのセンスはイケてない？"
+    },
+    {
+      "id": 14,
+      "name": "ケンカするほど仲が良い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        3,
+        4
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ケンカばかりのふたり。\nついちょっかいを出してしまうのは、\n好意の表れに他ならない。"
+    },
+    {
+      "id": 15,
+      "name": "やさしいあにき",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        3,
+        7
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "アミィはチェスターの大事な妹。\nやさしいことは素晴らしいが、過保護すぎ？"
+    },
+    {
+      "id": 16,
+      "name": "尻にしかれマン",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        5,
+        8
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "魔法の研究一筋のクラースとそれを見守るミラルド。\n女性に頼りっぱなしでいいのかクラース！"
+    },
+    {
+      "id": 17,
+      "name": "淡い恋心",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        1,
+        7
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "優しいクレスはアミィの憧れ。\nはっきりと言えないところは兄と同じ？"
+    },
+    {
+      "id": 18,
+      "name": "アミィの贈り物",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        1,
+        7,
+        70
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "クレスのためにアミィが作ったマスコット人形。\nしかしこの人形をクレスが受け取ったとき……。\n運命とは残酷である。"
+    },
+    {
+      "id": 19,
+      "name": "召喚！",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        5
+      ],
+      "select_pais": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "score": 500,
+      "commentary": "クラースと精霊の牌を３枚そろえる。\n精霊と契約した者だけが使える森羅万象の力。\nクラースの努力の結晶がここに。"
+    },
+    {
+      "id": 20,
+      "name": "××料理人",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        4
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 500,
+      "commentary": "アーチェと食材の牌を３枚そろえる。\n××に入る言葉はご想像にお任せします。"
+    },
+    {
+      "id": 21,
+      "name": "スケベだいまおう",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        3,
+        2,
+        4
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "少々のスケベは、年頃の男子ならば仕方のないこと。\n欲望に忠実なる者に幸あれかし。"
+    },
+    {
+      "id": 22,
+      "name": "わたしのヒーロー",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        19,
+        20
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "コレットを守るために戦うロイドはまさにヒーロー。\nふたりともちょっぴり（かなり？）ぬけているが、\nそんなところもお似合いである。"
+    },
+    {
+      "id": 23,
+      "name": "イセリアっ子",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        19,
+        20,
+        22
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "イセリアの村の仲良し３人組。\n平和な生活を送るはずの彼らには、\n世界を揺るがすほどの運命が待っていた。"
+    },
+    {
+      "id": 24,
+      "name": "父さん",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        19,
+        21
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "世界を救うために戦う息子と、\nそれを陰ながら見守る父。\n共に過ごした時間が短くとも、立派な親子である。"
+    },
+    {
+      "id": 25,
+      "name": "凸凹コンビ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        19,
+        22
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ジーニアスが親友と呼び、心を許すロイド。\n裏表がなく、誰とでも友達になれることこそ、\nロイドの持つ魅力であり、才能と言える。"
+    },
+    {
+      "id": 26,
+      "name": "宿敵",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        19,
+        36
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "理想に絶望した者と理想を求め続ける者。\nロイドの信念がミトスの暴走に終止符を打つ。"
+    },
+    {
+      "id": 27,
+      "name": "ふたりの神子",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        20,
+        25
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ちょっぴりドジなシルヴァラントの神子と、\n遊び人のテセアラの神子。\n世界再生を託した人々の胸中やいかに。"
+    },
+    {
+      "id": 28,
+      "name": "魔剣士",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        21,
+        25
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "剣も魔法も得意なハイブリッドキャラクター。\n伝説の騎士クラトスはいわずもがな、\n遊び人ゼロスも頼れる仲間である。"
+    },
+    {
+      "id": 29,
+      "name": "姉想い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        22,
+        23
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "幼い頃から助け合ってきたハーフエルフの姉弟。\nジーニアスの料理の腕に、姉への想いと\n生きるための努力が感じられる。"
+    },
+    {
+      "id": 30,
+      "name": "片思い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        22,
+        26
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "こう見えても歳の差××歳のふたり。\nしかし、恋に歳の差は関係ない。\nがんばれジーニアス！"
+    },
+    {
+      "id": 31,
+      "name": "トモダチ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        22,
+        36
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "迫害という境遇を理解しあえる同族の友。\nしかし、残酷な現実が二人の道を分かつ……。"
+    },
+    {
+      "id": 32,
+      "name": "降霊召符！",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        24
+      ],
+      "select_pais": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "score": 500,
+      "commentary": "しいなと精霊の牌を３枚そろえる。\n契約失敗のトラウマを克服した、\nしいなの真の実力を見よ！"
+    },
+    {
+      "id": 33,
+      "name": "わけあり",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        26,
+        27
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "恋人として、家族として、共にアリシアを愛した\nふたり。リーガルは贖罪を、プレセアは断罪を胸に\nロイドの旅に同行する。"
+    },
+    {
+      "id": 34,
+      "name": "ギリギリ料理人？",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        23
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 500,
+      "commentary": "リフィルと食材の牌を３枚そろえる。\n好奇心だけで料理をするのは大変に危険である。"
+    },
+    {
+      "id": 35,
+      "name": "ザ・アイアンシェフ",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        27
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 500,
+      "commentary": "リーガルと食材の牌を３枚そろえる。\n手枷が付いても一流の腕前は衰えない。\nもちろん足は使っていない。"
+    },
+    {
+      "id": 36,
+      "name": "このアホ神子！",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        25,
+        24
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "百戦錬磨のゼロスにとって、ウブなしいなは\n格好の遊び相手？\nもしかすると彼なりの愛情表現かもしれない。"
+    },
+    {
+      "id": 37,
+      "name": "銀髪のモンコレレディ",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        23
+      ],
+      "select_pais": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "score": 500,
+      "commentary": "リフィルとモンスターの牌を３枚そろえる。\n考古学から生物学まで、リフィル先生の\n知的好奇心はとどまるところを知らない。"
+    },
+    {
+      "id": 38,
+      "name": "アイテム係",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        23,
+        64,
+        65,
+        66
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "困ったときにはすぐアイテム。\nけっして後衛がヒマというわけではない。"
+    },
+    {
+      "id": 39,
+      "name": "エクスフィア実験体",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        26,
+        29
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "実験のために心を奪われたプレセア。\n非情なるロディルに復讐の鉄槌を！"
+    },
+    {
+      "id": 40,
+      "name": "フラノールの思い出",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        19,
+        20,
+        71
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "雪がしんしんと降る夜の思い出。\nアツアツのふたりには、凍える夜風も届かない。"
+    },
+    {
+      "id": 41,
+      "name": "オリジンの封印",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        21,
+        63
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "精霊王オリジンを自身の命で封印したクラトス。\n己の過去を清算し、息子の道を切り開くため\n死を覚悟してロイドとの決闘に挑む。"
+    },
+    {
+      "id": 42,
+      "name": "伝説の四英雄",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        21,
+        33,
+        35,
+        36
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "カーラーン大戦を停戦させた四英雄。\n平等を求めて戦った彼らを待ちうけていた\n運命とは……。"
+    },
+    {
+      "id": 43,
+      "name": "哀しい姉弟",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        35,
+        36
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "迫害に耐え、平等を信じて支えあった姉弟。\nしかし、心無い人間の裏切りが優しい少年ミトスを\n変えた……。"
+    },
+    {
+      "id": 44,
+      "name": "４０００年の想い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        33,
+        35
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "４０００年前に将来を誓ったふたり。\nマーテルを失っても、ユアンの想いは指輪に\n深く刻まれている。"
+    },
+    {
+      "id": 45,
+      "name": "ディザイアン五聖刃",
+      "special": 0,
+      "number_pais": 5,
+      "need_pais": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1500,
+      "commentary": "ディザイアンを総べる５人の幹部たち。\n単純な人から狡猾な人まで、様々なメンバーが\n集まった階級である。"
+    },
+    {
+      "id": 46,
+      "name": "親子の復讐",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        19,
+        21,
+        30
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "クラトスの妻にしてロイドの母、\nアンナの仇を討つため、父と子が怨敵に挑む！"
+    },
+    {
+      "id": 47,
+      "name": "レネゲード",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        33,
+        34
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ディザイアンに対抗する組織の長と副官。\n秘密裏に作り上げた組織でありながら、巨大である\nところに英雄ユアンの威厳がうかがえる。"
+    },
+    {
+      "id": 48,
+      "name": "姉さん女房",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        38
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "しっかり者のティアから見るとルークは子供すぎ？\nルークには母性本能をくすぐる何かが\nあるとかないとか。"
+    },
+    {
+      "id": 49,
+      "name": "マブダチ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        41
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ルークの使用人にして親友であるガイ。\nガイはルークを甘やかし過ぎに見えるが、\n彼の友情なくして今日のルークはありえない。"
+    },
+    {
+      "id": 50,
+      "name": "アルバート流　二番弟子",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        54
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "自らの計画のためにルークを生み出したヴァン。\nルークの自我の目覚めが、ヴァンの野望を\n打ち砕く。"
+    },
+    {
+      "id": 51,
+      "name": "ふたりのルーク",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        46
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "アッシュから生み出されたレプリカ、ルーク。\n旅を通じて互いの存在意義をぶつけ合う\nふたりだが、果たしてその結末は……。"
+    },
+    {
+      "id": 52,
+      "name": "ブタザル！",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        45
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "踏まれても蹴飛ばされても、文句も漏らさず\n主人について行くけなげなミュウ。\nチーグルは意外と頑丈？"
+    },
+    {
+      "id": 53,
+      "name": "幼なじみ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        37,
+        42
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "何をするにも適当なルークにとって、しっかり者の\nナタリアは口うるさい幼なじみ。\n注意されるだけありがたいと思うべし。"
+    },
+    {
+      "id": 54,
+      "name": "かわいい～♪",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        38,
+        45
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "キリっとしたティアも愛らしいチーグルにはメロメロ。\nティアの貴重な”１６歳っぽい”リアクションである。"
+    },
+    {
+      "id": 55,
+      "name": "ユリアの末裔",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        38,
+        54
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "暴走する兄と、それを阻止せんとする妹。\n兄妹で命を奪い合う悲劇の根底には、\n愛という言葉が根ざしている。"
+    },
+    {
+      "id": 56,
+      "name": "教官",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        38,
+        47
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "ヴァンによって望まぬ戦いを強いられるふたり。\n信念をもって立ちはだかるリグレットに\nティアの想いは通じるか？"
+    },
+    {
+      "id": 57,
+      "name": "ケテルブルクっ子",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        39,
+        44,
+        49
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "幼いとき、雪国で出会った３人の少年たち。\nその思い出は大きく成長しても変わることなく。\n……ディストは少しかわいそう？"
+    },
+    {
+      "id": 58,
+      "name": "導師守護役",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        40,
+        43
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "イオンを守ることがアニスの使命。\n時として過剰なまでにイオンを守るのは\n任務以上の気持ちのあらわれ？"
+    },
+    {
+      "id": 59,
+      "name": "元・導師守護役",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        48,
+        43
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "アニスの前任の導師守護役、アリエッタ。\nお供するたびに巨大な獣も付いてくるのでは\n周囲もさぞ驚いたことであろう。"
+    },
+    {
+      "id": 60,
+      "name": "恋敵",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        40,
+        48
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "イオンを巡って火花を散らす少女たち。\n陰謀によって覆い隠された真実が、\nふたりに悲しい結末を呼ぶ……。"
+    },
+    {
+      "id": 61,
+      "name": "許婚",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        42,
+        46
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "ナタリアの想い人は、\n７年前に指きりを交わしたアッシュ。\n時が流れても、あの日の約束は生き続けている。"
+    },
+    {
+      "id": 62,
+      "name": "実の親子",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        42,
+        51
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "預言によって引き裂かれた本当の親子。\n真実を知りながらも互いに歩み寄らないという\n信念こそ、親子の証といえる。"
+    },
+    {
+      "id": 63,
+      "name": "イオンレプリカ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        43,
+        50
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "預言に希望を託したイオン、預言を呪ったシンク。\n世界のしくみのために生み出された、\n悲しいレプリカたち。"
+    },
+    {
+      "id": 64,
+      "name": "アビスマン",
+      "special": 0,
+      "number_pais": 7,
+      "need_pais": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        46
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 2500,
+      "commentary": "少年たちの勇気のため、正義のヒーローここに見参！\nイビルマンたちの野望は、俺たちが砕くっ！"
+    },
+    {
+      "id": 65,
+      "name": "永遠の使用人",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        41,
+        42
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "貴族になってもつい便利に使われてしまうガイ。\nしかし、それは頼れる男である証なのだ。\nたぶん。"
+    },
+    {
+      "id": 66,
+      "name": "ブウサギ世話係",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        41,
+        44
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "マルクト帝国で爵位を得て、皇帝から授かった\n任は陛下のブウサギのお世話。\n華麗なガイにはどんな仕事もお似合いである。"
+    },
+    {
+      "id": 67,
+      "name": "アニスの玉の輿料理",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        40
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 500,
+      "commentary": "アニスと食材の牌を３枚そろえる。\n料理上手は玉の輿への最短ルート。\n男心を掌握する少女アニス、恐るべし……。"
+    },
+    {
+      "id": 68,
+      "name": "お姫様のドタバタクッキング",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        42
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 500,
+      "commentary": "ナタリアと食材の牌を３枚そろえる。\n王宮の料理は最高級のシェフが手がけるもの。\nお姫様が無理に作らなくとも……。\n"
+    },
+    {
+      "id": 69,
+      "name": "見てみたガール",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        42,
+        70,
+        71,
+        72
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "珍しいもの好きなお姫様。\n退屈な王室暮らしが長いと、どんなものにも\n興味が沸いてしまうようで……。"
+    },
+    {
+      "id": 70,
+      "name": "親友？",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        39,
+        49
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "幼少の頃から共に譜術の研究に励んだふたり。\nディストは互いの絆を信じて疑わないが、\n当のジェイドは……。一途なディストに幸あれ。"
+    },
+    {
+      "id": 71,
+      "name": "ネコミミのモンコレレディ",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        38
+      ],
+      "select_pais": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "score": 500,
+      "commentary": "ティアとモンスターの牌を３枚そろえる。\nレアモンスターを網羅した者の称号。\n進呈されたネコミミ付き衣装にティアもご満悦。"
+    },
+    {
+      "id": 72,
+      "name": "説明はガイがします",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        39,
+        41
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "人にわかりやすく説明するのは、なかなか難しく\n疲れるもの。最年長のジェイドがガイに説明させる\nのも仕方のないこと……なのか？"
+    },
+    {
+      "id": 73,
+      "name": "第七音譜術士",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        37,
+        38,
+        42,
+        43,
+        46,
+        54
+      ],
+      "score": 300,
+      "commentary": "第七音素を扱うキャラクターを３枚そろえる。\n惑星の記憶を持つ第七音素。\nそれを操る天性の才能を持つ者たち。"
+    },
+    {
+      "id": 74,
+      "name": "大詠師のスパイ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        40,
+        52
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "モースに両親を人質にとられてしまうアニス。\n幼くして苦境に立たされる薄幸少女に、\n白馬の王子は現れるのか？"
+    },
+    {
+      "id": 75,
+      "name": "聖なる焔の光",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        72
+      ],
+      "select_pais": [
+        37,
+        46
+      ],
+      "score": 200,
+      "commentary": "ローレライの鍵とルークかアッシュのどちらかを\nそろえる。\n単独で超振動を扱えるのはこのふたりだけ。"
+    },
+    {
+      "id": 76,
+      "name": "神託の盾騎士団　六神将",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 2000,
+      "commentary": "３万の兵を率いる神託の盾騎士団幹部たち。\nそのそれぞれがルーク一行と因縁を持ち、\n行く手に立ちはだかる。"
+    },
+    {
+      "id": 77,
+      "name": "悲恋の片思い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        54,
+        47
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "六神将を束ねるヴァンと副官リグレット。\nひそかにヴァンを慕うリグレットだが、\n野望に燃える彼にその想いは届かない。"
+    },
+    {
+      "id": 78,
+      "name": "ネビリムの私塾",
+      "special": 0,
+      "number_pais": 4,
+      "need_pais": [
+        39,
+        44,
+        49,
+        53
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "一癖も二癖もある少年たちが慕ったネビリム先生。\nジェイドとディストの人生を大きく変えた\nその死の衝撃は、大きく、そして深い。"
+    },
+    {
+      "id": 79,
+      "name": "アルバート流　一番弟子",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        46,
+        54
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ヴァンの計画のため、フォミクリー被験者となった\nオリジナルルーク。信じた師の暴走を止めるため、\n独り世界を奔走する。"
+    },
+    {
+      "id": 80,
+      "name": "聖獣チーグル",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        43,
+        45
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "ローレライ教団で崇められている聖獣チーグル。\nしかしその祖先は実験動物扱いを受けていた。\nかわいすぎるといじめたくなる？"
+    },
+    {
+      "id": 81,
+      "name": "相反属性 水と雷",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        55,
+        56
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "生命の海を満たす水と、天空から鳴り響く雷。\nおしとやかで理性的なウンディーネに対して\nヴォルトは謎だらけ。まさに相反属性。"
+    },
+    {
+      "id": 82,
+      "name": "相反属性 炎と氷",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        57,
+        58
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "すべてを焼き尽くす炎と、すべてを静止させる氷。\n相容れないふたり（？）だが、その容貌はどちらも\n凛々しく、厳か。"
+    },
+    {
+      "id": 83,
+      "name": "相反属性 風と土",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        59,
+        60
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "流れて生命を運ぶ風と、たたずみ生命を育む土。\nノームがお気楽なためか、シルフは生真面目。\nこれが自然界のバランスか？"
+    },
+    {
+      "id": 84,
+      "name": "相反属性 光と闇",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        61,
+        62
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "大地を照らす光と深淵に満ちる闇。\nルナの美貌とシャドウの異形に表裏一体の\n関係が色濃く出ている。"
+    },
+    {
+      "id": 85,
+      "name": "女性型精霊",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        55,
+        58,
+        59,
+        61
+      ],
+      "score": 300,
+      "commentary": "女性の姿をした精霊を３枚そろえる。\n自然界の象徴であるためか、彼女たちの\n美しさは神秘的な輝きをも秘めている。"
+    },
+    {
+      "id": 86,
+      "name": "エターナルソードの契約",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        63
+      ],
+      "select_pais": [
+        1,
+        19,
+        36
+      ],
+      "score": 200,
+      "commentary": "オリジンとエターナルソードの契約者を\n１枚そろえる。\n精霊王の加護を得て、時空の剣が奇跡を起こす！"
+    },
+    {
+      "id": 87,
+      "name": "消費アイテム",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        64,
+        65,
+        66
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "シリーズを通して登場する消費アイテムたち。\nゲーム中、特に序盤ではお世話になった人も\n多いはず。"
+    },
+    {
+      "id": 88,
+      "name": "肉体改造",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        67,
+        68,
+        69
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "パラメータを増強してくれる、シリーズおなじみの\n植物たち。どれもシソ科の植物である。豆知識。"
+    },
+    {
+      "id": 89,
+      "name": "やみなべ",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "score": 600,
+      "commentary": "食材の牌を６枚そろえる。\n鍋参加者が、ひとつの鍋に思い思いの食材を\n放り込む。その先に待つのは生か、死か。"
+    },
+    {
+      "id": 90,
+      "name": "肉食",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        73,
+        74,
+        75
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 400,
+      "commentary": "したたる肉汁、ジューシーな歯ごたえ……。\n食卓を彩る３大食肉たち。\n脂肪分の摂りすぎに注意。"
+    },
+    {
+      "id": 91,
+      "name": "海の幸",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        76,
+        77
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "煮てよし、焼いてよしの海の幸。\n肉より魚が恋しくなると、大人の仲間入り……？"
+    },
+    {
+      "id": 92,
+      "name": "フルーツ",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        78,
+        79
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 200,
+      "commentary": "甘くておいしいフルーツ。食後のデザートに、ぜひ。"
+    },
+    {
+      "id": 93,
+      "name": "主人公",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        1,
+        19,
+        37
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "ファンタジア、シンフォニア、アビスの\n主人公トリオ。同じ１７歳でも性格はバラバラ。"
+    },
+    {
+      "id": 94,
+      "name": "ヒロイン",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        2,
+        20,
+        38
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 1000,
+      "commentary": "ファンタジア、シンフォニア、アビスの\nヒロイントリオ。\nちなみに、この中には仲間はずれがひとり……。"
+    },
+    {
+      "id": 95,
+      "name": "ブロンド乙女",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        2,
+        20,
+        42
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "きらきら輝くブロンドの髪。\n気のせいか３人ともおっとりしている？"
+    },
+    {
+      "id": 96,
+      "name": "赤毛男子",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        25,
+        37,
+        46
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "炎のように赤い髪の美男子たち。\n三人並ぶと目だって仕方がない。"
+    },
+    {
+      "id": 97,
+      "name": "弓使い",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        3,
+        42
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "シリーズでは小数派な弓使い。\n前衛サポートは任せろ！"
+    },
+    {
+      "id": 98,
+      "name": "ピンク色",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        4,
+        26
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "鮮やかなピンクの髪がキュートなふたり。\nしかし性格は正反対。プレセアもエクスフィア実験が\nなければあるいは……？"
+    },
+    {
+      "id": 99,
+      "name": "精霊と契約せし者",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        5,
+        24
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "あらゆる精霊と契約し、その力を行使する者。\n術は違えど、精霊の扱いはどちらも一流。"
+    },
+    {
+      "id": 100,
+      "name": "藤林さん",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        6,
+        24
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "藤林の名を持つふたり。\nすずも大人になるとしいなのように……？"
+    },
+    {
+      "id": 101,
+      "name": "お姉さん気質",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        23,
+        38
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "お姉さん気質なふたり。\nティアは妹なのにお姉さん。\n苦労して育つとみんなこうなる？"
+    },
+    {
+      "id": 102,
+      "name": "ちびっこ",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        6,
+        22,
+        40
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "パーティーの中で最年少のお子様たち。\n一癖も二癖もある彼らがどんな大人になるのか、\n将来が楽しみ。"
+    },
+    {
+      "id": 103,
+      "name": "ハーフエルフ",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        4,
+        22,
+        23
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 600,
+      "commentary": "ハーフエルフのパーティーキャラクターたち。\n術が得意な種族なだけに、全員後衛タイプ。"
+    },
+    {
+      "id": 104,
+      "name": "知性派",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        5,
+        23,
+        39
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "パーティをまとめる知性派の３人。\nちなみにジェイドが最年長。"
+    },
+    {
+      "id": 105,
+      "name": "ハーレム",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        25
+      ],
+      "select_pais": [
+        2,
+        4,
+        6,
+        7,
+        8,
+        20,
+        23,
+        24,
+        26,
+        38,
+        40,
+        42
+      ],
+      "score": 800,
+      "commentary": "ゼロスと女性の味方キャラクターを５枚\nそろえる。\nなんともうらやましい光景である！"
+    },
+    {
+      "id": 106,
+      "name": "クール娘",
+      "special": 0,
+      "number_pais": 2,
+      "need_pais": [
+        6,
+        26
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 300,
+      "commentary": "若いのに落ち着いた物腰のふたり。\nもっとはしゃいでも良いのでは？"
+    },
+    {
+      "id": 107,
+      "name": "ボインちゃん",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        2,
+        24,
+        38
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "ファンタジア、シンフォニア、アビスの\nナイスバディ代表。男の子はもうドキドキ。"
+    },
+    {
+      "id": 108,
+      "name": "ぺったんこ",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        4,
+        20,
+        40
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "ファンタジア、シンフォニア、アビスの\nぺったんこ代表。\nだがしかし、大人になるまではわからない。"
+    },
+    {
+      "id": 109,
+      "name": "金ヅル",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        40
+      ],
+      "select_pais": [
+        37,
+        41,
+        44,
+        25,
+        27
+      ],
+      "score": 400,
+      "commentary": "アニスと貴族の男性パーティーキャラクターを\n２枚そろえる。\nお金持ちは逃がさない。めざせ上流階級婦人。"
+    },
+    {
+      "id": 110,
+      "name": "女性恐怖症",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        41
+      ],
+      "select_pais": [
+        2,
+        4,
+        6,
+        7,
+        8,
+        20,
+        23,
+        24,
+        26,
+        38,
+        40,
+        42
+      ],
+      "score": 800,
+      "commentary": "ガイと女性の味方キャラクターを５枚そろえる。\nせっかくモテるのにもったいない……。"
+    },
+    {
+      "id": 111,
+      "name": "歴代スケベだいまおう",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        3,
+        19,
+        41
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "”スケベだいまおう”の称号を持つ３人。\n不本意な称号だが、ある意味男らしい。"
+    },
+    {
+      "id": 112,
+      "name": "未成年",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        19,
+        20,
+        22,
+        24,
+        37,
+        38,
+        40,
+        42
+      ],
+      "score": 600,
+      "commentary": "パーティーキャラクターから２０歳未満の\nキャラクターを６枚そろえる。\n若さは無限の可能性を秘めている。"
+    },
+    {
+      "id": 113,
+      "name": "大人",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        5,
+        21,
+        23,
+        25,
+        26,
+        27,
+        39,
+        41
+      ],
+      "score": 600,
+      "commentary": "パーティーキャラクターから２０歳以上の\nキャラクターを６枚そろえる。\n酸いも甘いも経験済みの面々である。"
+    },
+    {
+      "id": 114,
+      "name": "男の世界",
+      "special": 0,
+      "number_pais": 9,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        1,
+        3,
+        5,
+        9,
+        19,
+        21,
+        22,
+        25,
+        27,
+        37,
+        39,
+        41,
+        43,
+        44,
+        45
+      ],
+      "score": 1000,
+      "commentary": "味方キャラクターから男性を９枚そろえる。\n……むさい。"
+    },
+    {
+      "id": 115,
+      "name": "乙女の園",
+      "special": 0,
+      "number_pais": 9,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        2,
+        4,
+        6,
+        7,
+        8,
+        20,
+        23,
+        24,
+        26,
+        38,
+        40,
+        42
+      ],
+      "score": 1000,
+      "commentary": "味方キャラクターから女性を９枚そろえる。\n麗しの園へようこそ。"
+    },
+    {
+      "id": 116,
+      "name": "回復レディース",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        2,
+        23,
+        38,
+        42
+      ],
+      "score": 300,
+      "commentary": "女性パーティーキャラクターから回復の術が\n使えるキャラクターを３枚そろえる。\n彼女たちなくしてパーティーは成り立たない。"
+    },
+    {
+      "id": 117,
+      "name": "術アタッカー",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        4,
+        22,
+        39
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "攻撃の術が主力のメンバー。\n防御不能でヒット数の多い術はコンボの友。"
+    },
+    {
+      "id": 118,
+      "name": "前衛タイプ",
+      "special": 0,
+      "number_pais": 6,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        1,
+        6,
+        19,
+        21,
+        25,
+        26,
+        27,
+        37,
+        41,
+        40
+      ],
+      "score": 600,
+      "commentary": "パーティーキャラクターから技が\n主力のキャラクターを６枚そろえる。\n殴って殴って殴り倒せ！"
+    },
+    {
+      "id": 119,
+      "name": "歴代ラスボス",
+      "special": 0,
+      "number_pais": 3,
+      "need_pais": [
+        18,
+        36,
+        54
+      ],
+      "select_pais": [
+        0
+      ],
+      "score": 800,
+      "commentary": "シリーズ歴代のラスボスたち。\n己の信念をかけて立ちはだかる姿は\nときに凛々しく、ときに哀しい。"
+    },
+    {
+      "id": 120,
+      "name": "テイルズ オブ エネミー",
+      "special": 0,
+      "number_pais": 9,
+      "need_pais": [
+        0
+      ],
+      "select_pais": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        36,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "score": 1000,
+      "commentary": "敵キャラクターの牌だけで９枚そろえる。\n敵がいてこそ主役が輝くのである。"
+    }
+  ],
+  "mst_donjara_playable_charas": [
+    {
+      "id": 1,
+      "name": "イクス",
+      "pai_id": 0,
+      "chara_id": 1,
+      "series": 0,
+      "skill_id": 1,
+      "favorite_food": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ミリーナ",
+      "pai_id": 0,
+      "chara_id": 2,
+      "series": 0,
+      "skill_id": 8,
+      "favorite_food": [
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "name": "クレス",
+      "pai_id": 1,
+      "chara_id": 3,
+      "series": 1,
+      "skill_id": 1,
+      "favorite_food": [
+        74
+      ]
+    },
+    {
+      "id": 4,
+      "name": "ミント",
+      "pai_id": 2,
+      "chara_id": 73,
+      "series": 1,
+      "skill_id": 2,
+      "favorite_food": [
+        78
+      ]
+    },
+    {
+      "id": 5,
+      "name": "チェスター",
+      "pai_id": 3,
+      "chara_id": 4,
+      "series": 1,
+      "skill_id": 4,
+      "favorite_food": [
+        73,
+        76
+      ]
+    },
+    {
+      "id": 6,
+      "name": "アーチェ",
+      "pai_id": 4,
+      "chara_id": 74,
+      "series": 1,
+      "skill_id": 3,
+      "favorite_food": [
+        79
+      ]
+    },
+    {
+      "id": 7,
+      "name": "すず",
+      "pai_id": 6,
+      "chara_id": 133,
+      "series": 1,
+      "skill_id": 3,
+      "favorite_food": [
+        77
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ロイド",
+      "pai_id": 19,
+      "chara_id": 9,
+      "series": 2,
+      "skill_id": 4,
+      "favorite_food": [
+        75
+      ]
+    },
+    {
+      "id": 9,
+      "name": "コレット",
+      "pai_id": 20,
+      "chara_id": 10,
+      "series": 2,
+      "skill_id": 5,
+      "favorite_food": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": 10,
+      "name": "ゼロス",
+      "pai_id": 25,
+      "chara_id": 44,
+      "series": 2,
+      "skill_id": 9,
+      "favorite_food": [
+        77,
+        79
+      ]
+    },
+    {
+      "id": 11,
+      "name": "プレセア",
+      "pai_id": 26,
+      "chara_id": 129,
+      "series": 2,
+      "skill_id": 5,
+      "favorite_food": [
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ユアン",
+      "pai_id": 33,
+      "chara_id": 181,
+      "series": 2,
+      "skill_id": 6,
+      "favorite_food": [
+        80,
+        78
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ルーク",
+      "pai_id": 37,
+      "chara_id": 14,
+      "series": 3,
+      "skill_id": 7,
+      "favorite_food": [
+        73,
+        76
+      ]
+    },
+    {
+      "id": 14,
+      "name": "ティア",
+      "pai_id": 38,
+      "chara_id": 35,
+      "series": 3,
+      "skill_id": 8,
+      "favorite_food": [
+        80,
+        78
+      ]
+    },
+    {
+      "id": 15,
+      "name": "ガイ",
+      "pai_id": 41,
+      "chara_id": 56,
+      "series": 3,
+      "skill_id": 9,
+      "favorite_food": [
+        77
+      ]
+    },
+    {
+      "id": 16,
+      "name": "アニス",
+      "pai_id": 40,
+      "chara_id": 16,
+      "series": 3,
+      "skill_id": 10,
+      "favorite_food": [
+        75
+      ]
+    }
+  ],
+  "mst_donjara_skills": [
+    {
+      "id": 1,
+      "name": "ロン上がり強化",
+      "text": "使用後５巡以内にロンであがると得点アップ。",
+      "cc": 10
+    },
+    {
+      "id": 2,
+      "name": "特技封印",
+      "text": "使用後３巡の間相手の特技を封印する。",
+      "cc": 10
+    },
+    {
+      "id": 3,
+      "name": "手札オープン",
+      "text": "全員の手札を見ることができる",
+      "cc": 5
+    },
+    {
+      "id": 4,
+      "name": "ツモあがり強化",
+      "text": "使用後５巡以内にツモであがると得点アップ。",
+      "cc": 10
+    },
+    {
+      "id": 5,
+      "name": "予告ドンジャラ",
+      "text": "使用後３巡以内にあがると得点アップ",
+      "cc": 10
+    },
+    {
+      "id": 6,
+      "name": "ロン封印",
+      "text": "使用後３巡の間相手のロンを封印する",
+      "cc": 10
+    },
+    {
+      "id": 7,
+      "name": "ドラ強化",
+      "text": "使用後５巡以内にドラを持ってあがると得点アップ。",
+      "cc": 10
+    },
+    {
+      "id": 8,
+      "name": "得点ダウン",
+      "text": "使用後５巡以内に相手があがると得点ダウン。",
+      "cc": 10
+    },
+    {
+      "id": 9,
+      "name": "ツモ予知",
+      "text": "自分の引く牌を３手先まで見ることができる。",
+      "cc": 5
+    },
+    {
+      "id": 10,
+      "name": "TPダウン",
+      "text": "相手のTPをゼロにする。",
+      "cc": 10
+    }
+  ]
+}

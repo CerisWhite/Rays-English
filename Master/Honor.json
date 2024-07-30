@@ -1,0 +1,7205 @@
+{
+  "xhash": "",
+  "mst_honors": [
+    {
+      "id": 1,
+      "sort_order": 0,
+      "name": "ビバ！ザ・レイズ！",
+      "chara_id": 0,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10001,
+      "sort_order": 1001,
+      "name": "ティル・ナ・ノーグの見習い鏡士",
+      "chara_id": 1,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10002,
+      "sort_order": 2002,
+      "name": "ティル・ナ・ノーグの鏡士",
+      "chara_id": 2,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10003,
+      "sort_order": 34003,
+      "name": "ティル・ナ・ノーグの頼れる鏡精",
+      "chara_id": 34,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10004,
+      "sort_order": 156004,
+      "name": "ティル・ナ・ノーグの忠実な鏡精",
+      "chara_id": 156,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10005,
+      "sort_order": 1005,
+      "name": "誰より慎重派",
+      "chara_id": 1,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10006,
+      "sort_order": 2006,
+      "name": "過保護おねえさん",
+      "chara_id": 2,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10007,
+      "sort_order": 34007,
+      "name": "ケリュケイオンの兄貴",
+      "chara_id": 34,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10008,
+      "sort_order": 156008,
+      "name": "マスター大好き",
+      "chara_id": 156,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10009,
+      "sort_order": 1009,
+      "name": "陽剣の鏡士",
+      "chara_id": 1,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10010,
+      "sort_order": 2010,
+      "name": "月鏡の鏡士",
+      "chara_id": 2,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 10011,
+      "sort_order": 0,
+      "name": "真実の強さを追う者",
+      "chara_id": 0,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": ""
+    },
+    {
+      "id": 20001,
+      "sort_order": 3001,
+      "name": "ユークリッドの剣士",
+      "chara_id": 3,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20002,
+      "sort_order": 4002,
+      "name": "ユークリッドのハンター",
+      "chara_id": 4,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20003,
+      "sort_order": 73003,
+      "name": "ユークリッドの法術士",
+      "chara_id": 73,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20004,
+      "sort_order": 74004,
+      "name": "ローンヴァレイのウィッチ",
+      "chara_id": 74,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20005,
+      "sort_order": 85005,
+      "name": "ユークリッドの召喚士",
+      "chara_id": 85,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20006,
+      "sort_order": 133006,
+      "name": "ユークリッドのくノ一",
+      "chara_id": 133,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20007,
+      "sort_order": 3007,
+      "name": "マッハせいねん",
+      "chara_id": 3,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20008,
+      "sort_order": 4008,
+      "name": "スケベだいまおう",
+      "chara_id": 4,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20009,
+      "sort_order": 73009,
+      "name": "ボインちゃん",
+      "chara_id": 73,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20010,
+      "sort_order": 74010,
+      "name": "ぺったんこ",
+      "chara_id": 74,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 20011,
+      "sort_order": 0,
+      "name": "伝説の者",
+      "chara_id": 0,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 30001,
+      "sort_order": 5001,
+      "name": "セインガルドのレンズハンター",
+      "chara_id": 5,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30002,
+      "sort_order": 6002,
+      "name": "セインガルドの王国客員剣士",
+      "chara_id": 6,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30003,
+      "sort_order": 43003,
+      "name": "フィッツガルドの田舎者",
+      "chara_id": 43,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30004,
+      "sort_order": 162004,
+      "name": "セインガルドの神官",
+      "chara_id": 162,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30005,
+      "sort_order": 163005,
+      "name": "ファンダリアの王子",
+      "chara_id": 163,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30006,
+      "sort_order": 5006,
+      "name": "帰宅部",
+      "chara_id": 5,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30007,
+      "sort_order": 6007,
+      "name": "胸までタオル",
+      "chara_id": 6,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30008,
+      "sort_order": 43008,
+      "name": "ダッシュ上京少年",
+      "chara_id": 43,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30009,
+      "sort_order": 162009,
+      "name": "くもりメガネ",
+      "chara_id": 162,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30010,
+      "sort_order": 163010,
+      "name": "クイズ研究会男子部長",
+      "chara_id": 163,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 30011,
+      "sort_order": 0,
+      "name": "運命という名の者",
+      "chara_id": 0,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": ""
+    },
+    {
+      "id": 40001,
+      "sort_order": 7001,
+      "name": "セレスティアの少女",
+      "chara_id": 7,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40002,
+      "sort_order": 8002,
+      "name": "インフェリアの学士",
+      "chara_id": 8,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40003,
+      "sort_order": 40003,
+      "name": "インフェリアの猟師",
+      "chara_id": 40,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40004,
+      "sort_order": 41004,
+      "name": "インフェリアの格闘少女",
+      "chara_id": 41,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40005,
+      "sort_order": 158005,
+      "name": "セレスティアの海賊",
+      "chara_id": 158,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40006,
+      "sort_order": 7006,
+      "name": "フライングダンサー",
+      "chara_id": 7,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40007,
+      "sort_order": 8007,
+      "name": "エタモンマスター",
+      "chara_id": 8,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40008,
+      "sort_order": 40008,
+      "name": "キングあんどバルーン",
+      "chara_id": 40,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40009,
+      "sort_order": 41009,
+      "name": "ストーリーテラー",
+      "chara_id": 41,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40010,
+      "sort_order": 158010,
+      "name": "いっとうこうかいし",
+      "chara_id": 158,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 40011,
+      "sort_order": 0,
+      "name": "永遠と絆の者",
+      "chara_id": 0,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": ""
+    },
+    {
+      "id": 50001,
+      "sort_order": 46001,
+      "name": "セインガルドの剣士",
+      "chara_id": 46,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50002,
+      "sort_order": 47002,
+      "name": "巨大レンズから現われた少女",
+      "chara_id": 47,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50003,
+      "sort_order": 57003,
+      "name": "謎の仮面剣士",
+      "chara_id": 57,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50004,
+      "sort_order": 134004,
+      "name": "セインガルドの戦士",
+      "chara_id": 134,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50005,
+      "sort_order": 135005,
+      "name": "ホープタウンの弓使い",
+      "chara_id": 135,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50006,
+      "sort_order": 46006,
+      "name": "神にケンカを売った奴",
+      "chara_id": 46,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50007,
+      "sort_order": 47007,
+      "name": "ＬＩＢＥＲＴＹ",
+      "chara_id": 47,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50008,
+      "sort_order": 57008,
+      "name": "仮面ストーカー",
+      "chara_id": 57,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50009,
+      "sort_order": 134009,
+      "name": "すけべロニ",
+      "chara_id": 134,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50010,
+      "sort_order": 135010,
+      "name": "サブミッション使い",
+      "chara_id": 135,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 50011,
+      "sort_order": 0,
+      "name": "運命を解き放つ者",
+      "chara_id": 0,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 60001,
+      "sort_order": 9001,
+      "name": "シルヴァラントの剣士",
+      "chara_id": 9,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60002,
+      "sort_order": 10002,
+      "name": "シルヴァラントの神子",
+      "chara_id": 10,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60003,
+      "sort_order": 11003,
+      "name": "シルヴァラントの学者",
+      "chara_id": 11,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60004,
+      "sort_order": 44004,
+      "name": "テセアラの神子",
+      "chara_id": 44,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60005,
+      "sort_order": 93005,
+      "name": "シルヴァラントの傭兵",
+      "chara_id": 93,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60006,
+      "sort_order": 116006,
+      "name": "テセアラのくノ一",
+      "chara_id": 116,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60007,
+      "sort_order": 128007,
+      "name": "シルヴァラントの魔術士",
+      "chara_id": 128,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60008,
+      "sort_order": 129008,
+      "name": "テセアラの木こり少女",
+      "chara_id": 129,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60009,
+      "sort_order": 9009,
+      "name": "すけべ大魔王",
+      "chara_id": 9,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60010,
+      "sort_order": 10010,
+      "name": "ぺったんこ",
+      "chara_id": 10,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 60011,
+      "sort_order": 0,
+      "name": "君と響きあう者",
+      "chara_id": 0,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": ""
+    },
+    {
+      "id": 70001,
+      "sort_order": 12001,
+      "name": "カレギア王国の剣士",
+      "chara_id": 12,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70002,
+      "sort_order": 121002,
+      "name": "カレギア王国の術使い",
+      "chara_id": 121,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70003,
+      "sort_order": 152003,
+      "name": "カレギア王国の法陣師",
+      "chara_id": 152,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70004,
+      "sort_order": 165004,
+      "name": "カレギア王国の槍使い",
+      "chara_id": 165,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70005,
+      "sort_order": 166005,
+      "name": "カレギア王国の導術師",
+      "chara_id": 166,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70006,
+      "sort_order": 12006,
+      "name": "恋のキューピット",
+      "chara_id": 12,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70007,
+      "sort_order": 121007,
+      "name": "ミス・パーフェクト",
+      "chara_id": 121,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70008,
+      "sort_order": 152008,
+      "name": "世界仰天不思議発見",
+      "chara_id": 152,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70009,
+      "sort_order": 165009,
+      "name": "やさしいおじちゃん",
+      "chara_id": 165,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70010,
+      "sort_order": 166010,
+      "name": "脱走兵",
+      "chara_id": 166,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 70011,
+      "sort_order": 0,
+      "name": "君が生まれ変わる者",
+      "chara_id": 0,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": ""
+    },
+    {
+      "id": 80001,
+      "sort_order": 13001,
+      "name": "遺跡船のトレジャーハンター",
+      "chara_id": 13,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80002,
+      "sort_order": 55002,
+      "name": "遺跡船の闘士",
+      "chara_id": 55,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80003,
+      "sort_order": 105003,
+      "name": "遺跡船の少女",
+      "chara_id": 105,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80004,
+      "sort_order": 118004,
+      "name": "遺跡船の騎士",
+      "chara_id": 118,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80005,
+      "sort_order": 160005,
+      "name": "遺跡船の女性",
+      "chara_id": 160,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80006,
+      "sort_order": 13006,
+      "name": "進んだら一直線",
+      "chara_id": 13,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80007,
+      "sort_order": 55007,
+      "name": "パン屋",
+      "chara_id": 55,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80008,
+      "sort_order": 105008,
+      "name": "看板娘",
+      "chara_id": 105,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80009,
+      "sort_order": 118009,
+      "name": "ツッコミ",
+      "chara_id": 118,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80010,
+      "sort_order": 160010,
+      "name": "無気力症候群",
+      "chara_id": 160,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 80011,
+      "sort_order": 0,
+      "name": "絆が伝説を紡ぎだす者",
+      "chara_id": 0,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": ""
+    },
+    {
+      "id": 90001,
+      "sort_order": 14001,
+      "name": "オールドラントの剣士",
+      "chara_id": 14,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90002,
+      "sort_order": 15002,
+      "name": "オールドラントの譜術士",
+      "chara_id": 15,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90003,
+      "sort_order": 16003,
+      "name": "オールドラントの人形士",
+      "chara_id": 16,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90004,
+      "sort_order": 35004,
+      "name": "オールドラントの音律士",
+      "chara_id": 35,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90005,
+      "sort_order": 45005,
+      "name": "オールドラントの弓使い",
+      "chara_id": 45,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90006,
+      "sort_order": 54006,
+      "name": "六神将 鮮血のアッシュ",
+      "chara_id": 54,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90007,
+      "sort_order": 56007,
+      "name": "オールドラントの護衛剣士",
+      "chara_id": 56,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90008,
+      "sort_order": 14008,
+      "name": "アビスレッド",
+      "chara_id": 14,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90009,
+      "sort_order": 15009,
+      "name": "アビスブルー",
+      "chara_id": 15,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90010,
+      "sort_order": 16010,
+      "name": "アビスピンク",
+      "chara_id": 16,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 90011,
+      "sort_order": 0,
+      "name": "生まれた意味を知る者",
+      "chara_id": 0,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": ""
+    },
+    {
+      "id": 100001,
+      "sort_order": 62001,
+      "name": "アレウーラの少年",
+      "chara_id": 62,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": ""
+    },
+    {
+      "id": 100002,
+      "sort_order": 63002,
+      "name": "アレウーラの教会の娘",
+      "chara_id": 63,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": ""
+    },
+    {
+      "id": 100003,
+      "sort_order": 62003,
+      "name": "ちょっとカッコイイ",
+      "chara_id": 62,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": ""
+    },
+    {
+      "id": 100004,
+      "sort_order": 63004,
+      "name": "ザ・妹",
+      "chara_id": 63,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": ""
+    },
+    {
+      "id": 100011,
+      "sort_order": 0,
+      "name": "魂を呼び覚ます者",
+      "chara_id": 0,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": ""
+    },
+    {
+      "id": 110001,
+      "sort_order": 17001,
+      "name": "レグヌムの少年",
+      "chara_id": 17,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110002,
+      "sort_order": 18002,
+      "name": "ナーオスの聖女",
+      "chara_id": 18,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110003,
+      "sort_order": 51003,
+      "name": "サニアの少女",
+      "chara_id": 51,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110004,
+      "sort_order": 70004,
+      "name": "トライバースの魔術師",
+      "chara_id": 70,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110005,
+      "sort_order": 106005,
+      "name": "レグヌムの若き騎士",
+      "chara_id": 106,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110006,
+      "sort_order": 17006,
+      "name": "恋に悩める少年",
+      "chara_id": 17,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110007,
+      "sort_order": 18007,
+      "name": "すべてを見透かす女性 ",
+      "chara_id": 18,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110008,
+      "sort_order": 51008,
+      "name": "ロマンスブレイカー",
+      "chara_id": 51,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110009,
+      "sort_order": 70009,
+      "name": "静観する者",
+      "chara_id": 70,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110010,
+      "sort_order": 106010,
+      "name": "恋の行く先心配人",
+      "chara_id": 106,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 110011,
+      "sort_order": 0,
+      "name": "想いを繋ぐ者",
+      "chara_id": 0,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": ""
+    },
+    {
+      "id": 120001,
+      "sort_order": 71001,
+      "name": "ルインの少年",
+      "chara_id": 71,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120002,
+      "sort_order": 72002,
+      "name": "パルマコスタの少女",
+      "chara_id": 72,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120003,
+      "sort_order": 71003,
+      "name": "マルタだけの騎士",
+      "chara_id": 71,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120004,
+      "sort_order": 72004,
+      "name": "信じる少女",
+      "chara_id": 72,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120005,
+      "sort_order": 71005,
+      "name": "ラタトスクの騎士",
+      "chara_id": 71,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120006,
+      "sort_order": 72006,
+      "name": "元・ヴァンガード",
+      "chara_id": 72,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120007,
+      "sort_order": 71007,
+      "name": "すけべ大魔王",
+      "chara_id": 71,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 120008,
+      "sort_order": 0,
+      "name": "響き合う心を信じる者",
+      "chara_id": 0,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": ""
+    },
+    {
+      "id": 130001,
+      "sort_order": 19001,
+      "name": "テルカ・リュミレースの剣士",
+      "chara_id": 19,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130002,
+      "sort_order": 20002,
+      "name": "テルカ・リュミレースの犬士",
+      "chara_id": 20,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130003,
+      "sort_order": 21003,
+      "name": "テルカ・リュミレースの少女",
+      "chara_id": 21,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130004,
+      "sort_order": 42004,
+      "name": "テルカ・リュミレースの風来坊",
+      "chara_id": 42,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130005,
+      "sort_order": 52005,
+      "name": "テルカ・リュミレースの治癒術師",
+      "chara_id": 52,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130006,
+      "sort_order": 75006,
+      "name": "テルカ・リュミレースの騎士",
+      "chara_id": 75,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130007,
+      "sort_order": 94007,
+      "name": "テルカ・リュミレースの少年",
+      "chara_id": 94,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130008,
+      "sort_order": 104008,
+      "name": "クリティア族の槍使い",
+      "chara_id": 104,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130009,
+      "sort_order": 159009,
+      "name": "テルカ・リュミレースの冒険家",
+      "chara_id": 159,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130010,
+      "sort_order": 19010,
+      "name": "ポニテな湯上がり",
+      "chara_id": 19,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 130011,
+      "sort_order": 0,
+      "name": "正義を貫き通す者",
+      "chara_id": 0,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": ""
+    },
+    {
+      "id": 140001,
+      "sort_order": 22001,
+      "name": "セルランドのバトン使い",
+      "chara_id": 22,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140002,
+      "sort_order": 23002,
+      "name": "セルランドのボウガン使い",
+      "chara_id": 23,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140003,
+      "sort_order": 58003,
+      "name": "セルランドのソーマ使い",
+      "chara_id": 58,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140004,
+      "sort_order": 149004,
+      "name": "セルランドの見習い画家",
+      "chara_id": 149,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140005,
+      "sort_order": 153005,
+      "name": "クォーティアの守護機士",
+      "chara_id": 153,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140006,
+      "sort_order": 22006,
+      "name": "カワイイって得だよね",
+      "chara_id": 22,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140007,
+      "sort_order": 23007,
+      "name": "侠は黙ってノーガード",
+      "chara_id": 23,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140008,
+      "sort_order": 58008,
+      "name": "真・ケダモノ",
+      "chara_id": 58,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140009,
+      "sort_order": 149009,
+      "name": "絆創膏ガール",
+      "chara_id": 149,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140010,
+      "sort_order": 153010,
+      "name": "修羅場のアシュラ",
+      "chara_id": 153,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 140011,
+      "sort_order": 0,
+      "name": "心と出会う者",
+      "chara_id": 0,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": ""
+    },
+    {
+      "id": 150001,
+      "sort_order": 24001,
+      "name": "ウィンドルの剣士",
+      "chara_id": 24,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150002,
+      "sort_order": 25002,
+      "name": "エフィネアの格闘術師",
+      "chara_id": 25,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150003,
+      "sort_order": 26003,
+      "name": "フェンデルの術士",
+      "chara_id": 26,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150004,
+      "sort_order": 39004,
+      "name": "ウィンドルの治療士",
+      "chara_id": 39,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150005,
+      "sort_order": 53005,
+      "name": "ウィンドルの王子",
+      "chara_id": 53,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150006,
+      "sort_order": 76006,
+      "name": "ウィンドルの銃士",
+      "chara_id": 76,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150007,
+      "sort_order": 145007,
+      "name": "ウィンドルの教官",
+      "chara_id": 145,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150008,
+      "sort_order": 24008,
+      "name": "玄人スイーパー",
+      "chara_id": 24,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150009,
+      "sort_order": 25009,
+      "name": "ソフィお嬢様",
+      "chara_id": 25,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150010,
+      "sort_order": 26010,
+      "name": "パステルパスカル",
+      "chara_id": 26,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 150011,
+      "sort_order": 0,
+      "name": "守る強さを知る者",
+      "chara_id": 0,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": ""
+    },
+    {
+      "id": 160001,
+      "sort_order": 27001,
+      "name": "リーゼ・マクシアの拳法使い",
+      "chara_id": 27,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160002,
+      "sort_order": 28002,
+      "name": "リーゼ・マクシアの精霊の主",
+      "chara_id": 28,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160003,
+      "sort_order": 29003,
+      "name": "リーゼ・マクシアの精霊術士",
+      "chara_id": 29,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160004,
+      "sort_order": 49004,
+      "name": "エレンピオスの傭兵",
+      "chara_id": 49,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160005,
+      "sort_order": 86005,
+      "name": "リーゼ・マクシアの棍術使い",
+      "chara_id": 86,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160006,
+      "sort_order": 97006,
+      "name": "リーゼ・マクシアの老執事",
+      "chara_id": 97,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160007,
+      "sort_order": 27007,
+      "name": "揺るぎなき信念で挑む者",
+      "chara_id": 27,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160008,
+      "sort_order": 28008,
+      "name": "揺るぎなき信念を貫く者",
+      "chara_id": 28,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160009,
+      "sort_order": 29009,
+      "name": "ティポマスター",
+      "chara_id": 29,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160010,
+      "sort_order": 49010,
+      "name": "チャージマスター",
+      "chara_id": 49,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 160011,
+      "sort_order": 0,
+      "name": "揺るぎなき信念の者",
+      "chara_id": 0,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": ""
+    },
+    {
+      "id": 170001,
+      "sort_order": 30001,
+      "name": "エレンピオスの銃剣槌士",
+      "chara_id": 30,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170002,
+      "sort_order": 59002,
+      "name": "エレンピオスの双剣士",
+      "chara_id": 59,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170003,
+      "sort_order": 102003,
+      "name": "リーゼ・マクシアを治める王",
+      "chara_id": 102,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170004,
+      "sort_order": 103004,
+      "name": "空間と重力を操る大精霊",
+      "chara_id": 103,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170005,
+      "sort_order": 115005,
+      "name": "ニ・アケリアの女性",
+      "chara_id": 115,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170006,
+      "sort_order": 30006,
+      "name": "ものまね大将",
+      "chara_id": 30,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170007,
+      "sort_order": 59007,
+      "name": "エージェント",
+      "chara_id": 59,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170008,
+      "sort_order": 102008,
+      "name": "延々ガイアスと征く",
+      "chara_id": 102,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170009,
+      "sort_order": 103009,
+      "name": "ラブラブミュゼ",
+      "chara_id": 103,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170010,
+      "sort_order": 115010,
+      "name": "縛り上手",
+      "chara_id": 115,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 170011,
+      "sort_order": 0,
+      "name": "選択が未来を紡ぐ者",
+      "chara_id": 0,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": ""
+    },
+    {
+      "id": 180001,
+      "sort_order": 31001,
+      "name": "グリンウッドの導師",
+      "chara_id": 31,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180002,
+      "sort_order": 32002,
+      "name": "グリンウッドの水術士",
+      "chara_id": 32,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180003,
+      "sort_order": 36003,
+      "name": "グリンウッドの地術士",
+      "chara_id": 36,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180004,
+      "sort_order": 50004,
+      "name": "ハイランドの槍士",
+      "chara_id": 50,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180005,
+      "sort_order": 61005,
+      "name": "グリンウッドの魔鎖法師",
+      "chara_id": 61,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180006,
+      "sort_order": 77006,
+      "name": "グリンウッドの二刀剣士",
+      "chara_id": 77,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180007,
+      "sort_order": 78007,
+      "name": "グリンウッドの旋風術士",
+      "chara_id": 78,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180008,
+      "sort_order": 107008,
+      "name": "グリンウッドの火術士",
+      "chara_id": 107,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180009,
+      "sort_order": 31009,
+      "name": "旅は道連れ",
+      "chara_id": 31,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180010,
+      "sort_order": 32010,
+      "name": "唯一無二の",
+      "chara_id": 32,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 180011,
+      "sort_order": 0,
+      "name": "情熱が世界を照らす者",
+      "chara_id": 0,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": ""
+    },
+    {
+      "id": 190001,
+      "sort_order": 37001,
+      "name": "イーストガンドの村娘",
+      "chara_id": 37,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190002,
+      "sort_order": 38002,
+      "name": "ノースガンドの聖隷術士",
+      "chara_id": 38,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190003,
+      "sort_order": 60003,
+      "name": "アイフリードの海賊団副長",
+      "chara_id": 60,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190004,
+      "sort_order": 81004,
+      "name": "ウェイストランドの双剣士",
+      "chara_id": 81,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190005,
+      "sort_order": 82005,
+      "name": "ウェイストランドの魔女",
+      "chara_id": 82,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190006,
+      "sort_order": 83006,
+      "name": "ミッドガンドの霊槍術士",
+      "chara_id": 83,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190007,
+      "sort_order": 37007,
+      "name": "スーパーヒロイン",
+      "chara_id": 37,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190008,
+      "sort_order": 38008,
+      "name": "スーパーボーイ",
+      "chara_id": 38,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190009,
+      "sort_order": 60009,
+      "name": "スーパーアウトロー",
+      "chara_id": 60,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190010,
+      "sort_order": 81010,
+      "name": "スーパー流浪人",
+      "chara_id": 81,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 190011,
+      "sort_order": 0,
+      "name": "君が君らしく生きるための者",
+      "chara_id": 0,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": ""
+    },
+    {
+      "id": 200001,
+      "sort_order": 33001,
+      "name": "リアフィースの冒険者",
+      "chara_id": 33,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200002,
+      "sort_order": 89002,
+      "name": "リアフィースの旅人",
+      "chara_id": 89,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200003,
+      "sort_order": 90003,
+      "name": "リアフィースの救世主",
+      "chara_id": 90,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200004,
+      "sort_order": 91004,
+      "name": "リアフィースの石詠み",
+      "chara_id": 91,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200005,
+      "sort_order": 33005,
+      "name": "辰星の燐光",
+      "chara_id": 33,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200006,
+      "sort_order": 89006,
+      "name": "明星の真心",
+      "chara_id": 89,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200007,
+      "sort_order": 90007,
+      "name": "蒼き御使い",
+      "chara_id": 90,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200008,
+      "sort_order": 91008,
+      "name": "紅き相棒",
+      "chara_id": 91,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200009,
+      "sort_order": 33009,
+      "name": "試練を超えし冒険者",
+      "chara_id": 33,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200010,
+      "sort_order": 89010,
+      "name": "救世の輝き",
+      "chara_id": 89,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 200011,
+      "sort_order": 0,
+      "name": "つなぐ者",
+      "chara_id": 0,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": ""
+    },
+    {
+      "id": 210001,
+      "sort_order": 98001,
+      "name": "テレジアの少女",
+      "chara_id": 98,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210002,
+      "sort_order": 48002,
+      "name": "グラニデの少女",
+      "chara_id": 48,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210003,
+      "sort_order": 111003,
+      "name": "ルミナシアの少女",
+      "chara_id": 111,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210004,
+      "sort_order": 98004,
+      "name": "テレジアの救世主",
+      "chara_id": 98,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210005,
+      "sort_order": 48005,
+      "name": "グラニデの救世主",
+      "chara_id": 48,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210006,
+      "sort_order": 111006,
+      "name": "ルミナシアの救世主",
+      "chara_id": 111,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210007,
+      "sort_order": 98007,
+      "name": "春風の少女",
+      "chara_id": 98,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210008,
+      "sort_order": 48008,
+      "name": "薫風少女",
+      "chara_id": 48,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210009,
+      "sort_order": 111009,
+      "name": "秋花の少女",
+      "chara_id": 111,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210010,
+      "sort_order": 98010,
+      "name": "ペチャパイ",
+      "chara_id": 98,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 210011,
+      "sort_order": 0,
+      "name": "君のための者",
+      "chara_id": 0,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": ""
+    },
+    {
+      "id": 240001,
+      "sort_order": 100001,
+      "name": "ミッドガルズの女剣士",
+      "chara_id": 100,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": ""
+    },
+    {
+      "id": 240002,
+      "sort_order": 100002,
+      "name": "真実の愛",
+      "chara_id": 100,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": ""
+    },
+    {
+      "id": 240003,
+      "sort_order": 100003,
+      "name": "魔法剣士",
+      "chara_id": 100,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": ""
+    },
+    {
+      "id": 240004,
+      "sort_order": 0,
+      "name": "真実と向き合う者",
+      "chara_id": 0,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": ""
+    },
+    {
+      "id": 400001,
+      "sort_order": 253001,
+      "name": "カラグリアの炎の剣",
+      "chara_id": 253,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400002,
+      "sort_order": 254001,
+      "name": "レナの銃使い",
+      "chara_id": 254,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400003,
+      "sort_order": 253002,
+      "name": "解放の旗手",
+      "chara_id": 253,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400004,
+      "sort_order": 254002,
+      "name": "〈荊〉の女",
+      "chara_id": 254,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400005,
+      "sort_order": 0,
+      "name": "心の黎明を告げる者",
+      "chara_id": 0,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400006,
+      "sort_order": 257001,
+      "name": "シスロディアの魔法使い",
+      "chara_id": 257,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400007,
+      "sort_order": 258001,
+      "name": "シスロディアの格闘家",
+      "chara_id": 258,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400008,
+      "sort_order": 257002,
+      "name": "モフモフレンド",
+      "chara_id": 257,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400009,
+      "sort_order": 258002,
+      "name": "負け知らずの拳",
+      "chara_id": 258,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400010,
+      "sort_order": 259001,
+      "name": "メナンシアの近衛兵",
+      "chara_id": 259,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400011,
+      "sort_order": 260001,
+      "name": "メナンシアの元領将",
+      "chara_id": 260,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400012,
+      "sort_order": 259002,
+      "name": "倒れぬ鉄壁",
+      "chara_id": 259,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 400013,
+      "sort_order": 260002,
+      "name": "万民の庇護者",
+      "chara_id": 260,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": ""
+    },
+    {
+      "id": 430001,
+      "sort_order": 282001,
+      "name": "ダーチア村の剣士",
+      "chara_id": 282,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": ""
+    },
+    {
+      "id": 430002,
+      "sort_order": 283001,
+      "name": "ダーチア村の少女",
+      "chara_id": 283,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": ""
+    },
+    {
+      "id": 430003,
+      "sort_order": 282002,
+      "name": "罪を纏いし剣",
+      "chara_id": 282,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": ""
+    },
+    {
+      "id": 430004,
+      "sort_order": 283002,
+      "name": "火憐なる華",
+      "chara_id": 283,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": ""
+    },
+    {
+      "id": 430005,
+      "sort_order": 0,
+      "name": "愛しき咎我人と出会う者",
+      "chara_id": 0,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": ""
+    },
+    {
+      "id": 460001,
+      "sort_order": 301001,
+      "name": "イデアの二刀剣士",
+      "chara_id": 301,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460002,
+      "sort_order": 302001,
+      "name": "イデアの国王",
+      "chara_id": 302,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460003,
+      "sort_order": 306001,
+      "name": "イデアの歌手",
+      "chara_id": 306,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460004,
+      "sort_order": 304001,
+      "name": "漂流の騎士",
+      "chara_id": 304,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460005,
+      "sort_order": 301002,
+      "name": "ヘイズ様大好き",
+      "chara_id": 301,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460006,
+      "sort_order": 302002,
+      "name": "愛の抱擁",
+      "chara_id": 302,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460007,
+      "sort_order": 306002,
+      "name": "おじいちゃんっ子",
+      "chara_id": 306,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460008,
+      "sort_order": 304002,
+      "name": "女性を崇める者",
+      "chara_id": 304,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460009,
+      "sort_order": 303001,
+      "name": "イデアの先輩騎士",
+      "chara_id": 303,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460010,
+      "sort_order": 303002,
+      "name": "いつだって美しく",
+      "chara_id": 303,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460011,
+      "sort_order": 305001,
+      "name": "アスガルドの辺境伯",
+      "chara_id": 305,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 460012,
+      "sort_order": 305002,
+      "name": "頑張る妹",
+      "chara_id": 305,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": ""
+    },
+    {
+      "id": 9990001,
+      "sort_order": 0,
+      "name": "一期一会",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990002,
+      "sort_order": 0,
+      "name": "異世界からの来訪者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990003,
+      "sort_order": 0,
+      "name": "夢の共演",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990004,
+      "sort_order": 0,
+      "name": "頼もしい助っ人",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990005,
+      "sort_order": 0,
+      "name": "オールラウンダー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990006,
+      "sort_order": 0,
+      "name": "異次元の英雄たち",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990007,
+      "sort_order": 0,
+      "name": "特別な鏡映点",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990008,
+      "sort_order": 0,
+      "name": "シークレットゲスト",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990009,
+      "sort_order": 0,
+      "name": "コラボ王",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990010,
+      "sort_order": 0,
+      "name": "英雄共闘",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 9990011,
+      "sort_order": 0,
+      "name": "異世界の英雄と共闘する者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": ""
+    },
+    {
+      "id": 30000001,
+      "sort_order": 0,
+      "name": "第1回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第1回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000002,
+      "sort_order": 0,
+      "name": "第1回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第1回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000003,
+      "sort_order": 0,
+      "name": "第1回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第1回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000004,
+      "sort_order": 0,
+      "name": "第1回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第1回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000005,
+      "sort_order": 0,
+      "name": "第1回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第1回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000006,
+      "sort_order": 0,
+      "name": "第1回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第1回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000007,
+      "sort_order": 0,
+      "name": "第1回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第1回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000008,
+      "sort_order": 0,
+      "name": "第1回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第1回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000009,
+      "sort_order": 0,
+      "name": "第2回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第2回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000010,
+      "sort_order": 0,
+      "name": "第2回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第2回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000011,
+      "sort_order": 0,
+      "name": "第2回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第2回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000012,
+      "sort_order": 0,
+      "name": "第2回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第2回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000013,
+      "sort_order": 0,
+      "name": "第2回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第2回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000014,
+      "sort_order": 0,
+      "name": "第2回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第2回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000015,
+      "sort_order": 0,
+      "name": "第2回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第2回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000016,
+      "sort_order": 0,
+      "name": "第2回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第2回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000017,
+      "sort_order": 0,
+      "name": "第3回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第3回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000018,
+      "sort_order": 0,
+      "name": "第3回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第3回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000019,
+      "sort_order": 0,
+      "name": "第3回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第3回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000020,
+      "sort_order": 0,
+      "name": "第3回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第3回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000021,
+      "sort_order": 0,
+      "name": "第3回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第3回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000022,
+      "sort_order": 0,
+      "name": "第3回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第3回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000023,
+      "sort_order": 0,
+      "name": "第3回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第3回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000024,
+      "sort_order": 0,
+      "name": "第3回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第3回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000025,
+      "sort_order": 0,
+      "name": "第4回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第4回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000026,
+      "sort_order": 0,
+      "name": "第4回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第4回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000027,
+      "sort_order": 0,
+      "name": "第4回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第4回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000028,
+      "sort_order": 0,
+      "name": "第4回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第4回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000029,
+      "sort_order": 0,
+      "name": "第4回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第4回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000030,
+      "sort_order": 0,
+      "name": "第4回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第4回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000031,
+      "sort_order": 0,
+      "name": "第4回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第4回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000032,
+      "sort_order": 0,
+      "name": "第4回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第4回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000033,
+      "sort_order": 0,
+      "name": "第5回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第5回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000034,
+      "sort_order": 0,
+      "name": "第5回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第5回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000035,
+      "sort_order": 0,
+      "name": "第5回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第5回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000036,
+      "sort_order": 0,
+      "name": "第5回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第5回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000037,
+      "sort_order": 0,
+      "name": "第5回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第5回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000038,
+      "sort_order": 0,
+      "name": "第5回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第5回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000039,
+      "sort_order": 0,
+      "name": "第5回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第5回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000040,
+      "sort_order": 0,
+      "name": "第5回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第5回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000041,
+      "sort_order": 0,
+      "name": "第6回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第6回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000042,
+      "sort_order": 0,
+      "name": "第6回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第6回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000043,
+      "sort_order": 0,
+      "name": "第6回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第6回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000044,
+      "sort_order": 0,
+      "name": "第6回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第6回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000045,
+      "sort_order": 0,
+      "name": "第6回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第6回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000046,
+      "sort_order": 0,
+      "name": "第6回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第6回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000047,
+      "sort_order": 0,
+      "name": "第6回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第6回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000048,
+      "sort_order": 0,
+      "name": "第6回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第6回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000049,
+      "sort_order": 0,
+      "name": "第7回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第7回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000050,
+      "sort_order": 0,
+      "name": "第7回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第7回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000051,
+      "sort_order": 0,
+      "name": "第7回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第7回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000052,
+      "sort_order": 0,
+      "name": "第7回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第7回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000053,
+      "sort_order": 0,
+      "name": "第7回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第7回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000054,
+      "sort_order": 0,
+      "name": "第7回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第7回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000055,
+      "sort_order": 0,
+      "name": "第7回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第7回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000056,
+      "sort_order": 0,
+      "name": "第7回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第7回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000057,
+      "sort_order": 0,
+      "name": "第8回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第8回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000058,
+      "sort_order": 0,
+      "name": "第8回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第8回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000059,
+      "sort_order": 0,
+      "name": "第8回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第8回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000060,
+      "sort_order": 0,
+      "name": "第8回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第8回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000061,
+      "sort_order": 0,
+      "name": "第8回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第8回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000062,
+      "sort_order": 0,
+      "name": "第8回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第8回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000063,
+      "sort_order": 0,
+      "name": "第8回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第8回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000064,
+      "sort_order": 0,
+      "name": "第8回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第8回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000065,
+      "sort_order": 0,
+      "name": "第9回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第9回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000066,
+      "sort_order": 0,
+      "name": "第9回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第9回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000067,
+      "sort_order": 0,
+      "name": "第9回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第9回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000068,
+      "sort_order": 0,
+      "name": "第9回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第9回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000069,
+      "sort_order": 0,
+      "name": "第9回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第9回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000070,
+      "sort_order": 0,
+      "name": "第9回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第9回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000071,
+      "sort_order": 0,
+      "name": "第9回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第9回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000072,
+      "sort_order": 0,
+      "name": "第9回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第9回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000073,
+      "sort_order": 0,
+      "name": "第10回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第10回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000074,
+      "sort_order": 0,
+      "name": "第10回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第10回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000075,
+      "sort_order": 0,
+      "name": "第10回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第10回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000076,
+      "sort_order": 0,
+      "name": "第10回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第10回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000077,
+      "sort_order": 0,
+      "name": "第10回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第10回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000078,
+      "sort_order": 0,
+      "name": "第10回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第10回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000079,
+      "sort_order": 0,
+      "name": "第10回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第10回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000080,
+      "sort_order": 0,
+      "name": "第10回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第10回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000081,
+      "sort_order": 0,
+      "name": "第11回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第11回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000082,
+      "sort_order": 0,
+      "name": "第11回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第11回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000083,
+      "sort_order": 0,
+      "name": "第11回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第11回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000084,
+      "sort_order": 0,
+      "name": "第11回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第11回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000085,
+      "sort_order": 0,
+      "name": "第11回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第11回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000086,
+      "sort_order": 0,
+      "name": "第11回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第11回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000087,
+      "sort_order": 0,
+      "name": "第11回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第11回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000088,
+      "sort_order": 0,
+      "name": "第11回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第11回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000089,
+      "sort_order": 0,
+      "name": "第12回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第12回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000090,
+      "sort_order": 0,
+      "name": "第12回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第12回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000091,
+      "sort_order": 0,
+      "name": "第12回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第12回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000092,
+      "sort_order": 0,
+      "name": "第12回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第12回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000093,
+      "sort_order": 0,
+      "name": "第12回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第12回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000094,
+      "sort_order": 0,
+      "name": "第12回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第12回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000095,
+      "sort_order": 0,
+      "name": "第12回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第12回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000096,
+      "sort_order": 0,
+      "name": "第12回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第12回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000097,
+      "sort_order": 0,
+      "name": "第13回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第13回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000098,
+      "sort_order": 0,
+      "name": "第13回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第13回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000099,
+      "sort_order": 0,
+      "name": "第13回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第13回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000100,
+      "sort_order": 0,
+      "name": "第13回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第13回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000101,
+      "sort_order": 0,
+      "name": "第13回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第13回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000102,
+      "sort_order": 0,
+      "name": "第13回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第13回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000103,
+      "sort_order": 0,
+      "name": "第13回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第13回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000104,
+      "sort_order": 0,
+      "name": "第13回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第13回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000105,
+      "sort_order": 0,
+      "name": "第14回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第14回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000106,
+      "sort_order": 0,
+      "name": "第14回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第14回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000107,
+      "sort_order": 0,
+      "name": "第14回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第14回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000108,
+      "sort_order": 0,
+      "name": "第14回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第14回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000109,
+      "sort_order": 0,
+      "name": "第14回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第14回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000110,
+      "sort_order": 0,
+      "name": "第14回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第14回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000111,
+      "sort_order": 0,
+      "name": "第14回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第14回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000112,
+      "sort_order": 0,
+      "name": "第14回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第14回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000113,
+      "sort_order": 0,
+      "name": "第15回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第15回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000114,
+      "sort_order": 0,
+      "name": "第15回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第15回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000115,
+      "sort_order": 0,
+      "name": "第15回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第15回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000116,
+      "sort_order": 0,
+      "name": "第15回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第15回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000117,
+      "sort_order": 0,
+      "name": "第15回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第15回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000118,
+      "sort_order": 0,
+      "name": "第15回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第15回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000119,
+      "sort_order": 0,
+      "name": "第15回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第15回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000120,
+      "sort_order": 0,
+      "name": "第15回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第15回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000121,
+      "sort_order": 0,
+      "name": "第16回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第16回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000122,
+      "sort_order": 0,
+      "name": "第16回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第16回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000123,
+      "sort_order": 0,
+      "name": "第16回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第16回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000124,
+      "sort_order": 0,
+      "name": "第16回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第16回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000125,
+      "sort_order": 0,
+      "name": "第16回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第16回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000126,
+      "sort_order": 0,
+      "name": "第16回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第16回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000127,
+      "sort_order": 0,
+      "name": "第16回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第16回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000128,
+      "sort_order": 0,
+      "name": "第16回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第16回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000129,
+      "sort_order": 0,
+      "name": "第17回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第17回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000130,
+      "sort_order": 0,
+      "name": "第17回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第17回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000131,
+      "sort_order": 0,
+      "name": "第17回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第17回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000132,
+      "sort_order": 0,
+      "name": "第17回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第17回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000133,
+      "sort_order": 0,
+      "name": "第17回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第17回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000134,
+      "sort_order": 0,
+      "name": "第17回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第17回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000135,
+      "sort_order": 0,
+      "name": "第17回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第17回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000136,
+      "sort_order": 0,
+      "name": "第17回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第17回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000137,
+      "sort_order": 0,
+      "name": "第18回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第18回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000138,
+      "sort_order": 0,
+      "name": "第18回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第18回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000139,
+      "sort_order": 0,
+      "name": "第18回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第18回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000140,
+      "sort_order": 0,
+      "name": "第18回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第18回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000141,
+      "sort_order": 0,
+      "name": "第18回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第18回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000142,
+      "sort_order": 0,
+      "name": "第18回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第18回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000143,
+      "sort_order": 0,
+      "name": "第18回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第18回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000144,
+      "sort_order": 0,
+      "name": "第18回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第18回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000145,
+      "sort_order": 0,
+      "name": "第19回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第19回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000146,
+      "sort_order": 0,
+      "name": "第19回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第19回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000147,
+      "sort_order": 0,
+      "name": "第19回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第19回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000148,
+      "sort_order": 0,
+      "name": "第19回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第19回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000149,
+      "sort_order": 0,
+      "name": "第19回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第19回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000150,
+      "sort_order": 0,
+      "name": "第19回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第19回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000151,
+      "sort_order": 0,
+      "name": "第19回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第19回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000152,
+      "sort_order": 0,
+      "name": "第19回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第19回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000153,
+      "sort_order": 0,
+      "name": "第20回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第20回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000154,
+      "sort_order": 0,
+      "name": "第20回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第20回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000155,
+      "sort_order": 0,
+      "name": "第20回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第20回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000156,
+      "sort_order": 0,
+      "name": "第20回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第20回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000157,
+      "sort_order": 0,
+      "name": "第20回セレスティア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第20回セレスティア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000158,
+      "sort_order": 0,
+      "name": "第20回セレスティア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第20回セレスティア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000159,
+      "sort_order": 0,
+      "name": "第20回セレスティア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第20回セレスティア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000160,
+      "sort_order": 0,
+      "name": "第20回セレスティア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第20回セレスティア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 30000161,
+      "sort_order": 0,
+      "name": "第21回インフェリア杯 ウィスドリーマー",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000001",
+      "texture_path": "30000001",
+      "source_text": "第21回インフェリア杯 　876位ランキング報酬"
+    },
+    {
+      "id": 30000162,
+      "sort_order": 0,
+      "name": "第21回インフェリア杯 ウィスマニア",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000002",
+      "texture_path": "30000002",
+      "source_text": "第21回インフェリア杯 　3位ランキング報酬"
+    },
+    {
+      "id": 30000163,
+      "sort_order": 0,
+      "name": "第21回インフェリア杯 ウィスエリート",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000003",
+      "texture_path": "30000003",
+      "source_text": "第21回インフェリア杯 　2位ランキング報酬"
+    },
+    {
+      "id": 30000164,
+      "sort_order": 0,
+      "name": "第21回インフェリア杯 ウィスマスター",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "30000004",
+      "texture_path": "30000004",
+      "source_text": "第21回インフェリア杯 　1位ランキング報酬"
+    },
+    {
+      "id": 40000001,
+      "sort_order": 40000001,
+      "name": "ネーヴェ流",
+      "chara_id": 1,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ネーヴェ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000002,
+      "sort_order": 40000002,
+      "name": "ヴァイス流",
+      "chara_id": 2,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ヴァイス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000003,
+      "sort_order": 40000003,
+      "name": "アルベイン流",
+      "chara_id": 3,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "アルベイン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000004,
+      "sort_order": 40000004,
+      "name": "バークライト流",
+      "chara_id": 4,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "バークライト流が流派レベル3に到達"
+    },
+    {
+      "id": 40000005,
+      "sort_order": 40000005,
+      "name": "カトレット流",
+      "chara_id": 5,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "カトレット流が流派レベル3に到達"
+    },
+    {
+      "id": 40000006,
+      "sort_order": 40000006,
+      "name": "マグナス流",
+      "chara_id": 6,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "マグナス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000007,
+      "sort_order": 40000007,
+      "name": "メルディ流",
+      "chara_id": 7,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "メルディ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000008,
+      "sort_order": 40000008,
+      "name": "ツァイベル流",
+      "chara_id": 8,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "ツァイベル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000009,
+      "sort_order": 40000009,
+      "name": "アーヴィング流",
+      "chara_id": 9,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "アーヴィング流が流派レベル3に到達"
+    },
+    {
+      "id": 40000010,
+      "sort_order": 40000010,
+      "name": "マーテル教会",
+      "chara_id": 10,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "マーテル教会(コレット)が流派レベル3に到達"
+    },
+    {
+      "id": 40000011,
+      "sort_order": 40000011,
+      "name": "セイジ流",
+      "chara_id": 11,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "セイジ流(リフィル)が流派レベル3に到達"
+    },
+    {
+      "id": 40000012,
+      "sort_order": 40000012,
+      "name": "リュングベル流",
+      "chara_id": 12,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "リュングベル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000013,
+      "sort_order": 40000013,
+      "name": "ビアッティ流",
+      "chara_id": 13,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "ビアッティ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000014,
+      "sort_order": 40000014,
+      "name": "アルバート流",
+      "chara_id": 14,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "アルバート流(ルーク)が流派レベル3に到達"
+    },
+    {
+      "id": 40000015,
+      "sort_order": 40000015,
+      "name": "マルクト帝国軍",
+      "chara_id": 15,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "マルクト帝国軍が流派レベル3に到達"
+    },
+    {
+      "id": 40000016,
+      "sort_order": 40000016,
+      "name": "神託の盾騎士団",
+      "chara_id": 16,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(アニス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000017,
+      "sort_order": 40000017,
+      "name": "ミルダ流",
+      "chara_id": 17,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "ミルダ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000018,
+      "sort_order": 40000018,
+      "name": "セレーナ流",
+      "chara_id": 18,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "セレーナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000019,
+      "sort_order": 40000019,
+      "name": "ローウェル流",
+      "chara_id": 19,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "ローウェル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000020,
+      "sort_order": 40000020,
+      "name": "ラピード流",
+      "chara_id": 20,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "ラピード流が流派レベル3に到達"
+    },
+    {
+      "id": 40000021,
+      "sort_order": 40000021,
+      "name": "モルディオ流",
+      "chara_id": 21,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "モルディオ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000022,
+      "sort_order": 40000022,
+      "name": "ハーツ流",
+      "chara_id": 22,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "ハーツ流(コハク)が流派レベル3に到達"
+    },
+    {
+      "id": 40000023,
+      "sort_order": 40000023,
+      "name": "ハーツ流",
+      "chara_id": 23,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "ハーツ流(ヒスイ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000024,
+      "sort_order": 40000024,
+      "name": "ラント流",
+      "chara_id": 24,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "ラント流が流派レベル3に到達"
+    },
+    {
+      "id": 40000025,
+      "sort_order": 40000025,
+      "name": "ソフィ流",
+      "chara_id": 25,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "ソフィ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000026,
+      "sort_order": 40000026,
+      "name": "パスカル流",
+      "chara_id": 26,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "パスカル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000027,
+      "sort_order": 40000027,
+      "name": "マティス流",
+      "chara_id": 27,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "マティス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000028,
+      "sort_order": 40000028,
+      "name": "ミラ=マクスウェル流",
+      "chara_id": 28,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "ミラ=マクスウェル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000029,
+      "sort_order": 40000029,
+      "name": "ルタス流",
+      "chara_id": 29,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "ルタス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000030,
+      "sort_order": 40000030,
+      "name": "クルスニク流",
+      "chara_id": 30,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "クルスニク流(ルドガー)が流派レベル3に到達"
+    },
+    {
+      "id": 40000031,
+      "sort_order": 40000031,
+      "name": "ウリボア流",
+      "chara_id": 31,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ウリボア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000032,
+      "sort_order": 40000032,
+      "name": "ミクリオ流",
+      "chara_id": 32,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ミクリオ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000033,
+      "sort_order": 40000033,
+      "name": "サラ流",
+      "chara_id": 33,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": "サラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000034,
+      "sort_order": 40000034,
+      "name": "救世軍",
+      "chara_id": 34,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "救世軍が流派レベル3に到達"
+    },
+    {
+      "id": 40000035,
+      "sort_order": 40000035,
+      "name": "神託の盾騎士団",
+      "chara_id": 35,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(ティア)が流派レベル3に到達"
+    },
+    {
+      "id": 40000036,
+      "sort_order": 40000036,
+      "name": "エドナ流",
+      "chara_id": 36,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "エドナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000037,
+      "sort_order": 40000037,
+      "name": "クラウ流",
+      "chara_id": 37,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "クラウ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000038,
+      "sort_order": 40000038,
+      "name": "ライフィセット流",
+      "chara_id": 38,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "ライフィセット流が流派レベル3に到達"
+    },
+    {
+      "id": 40000039,
+      "sort_order": 40000039,
+      "name": "バーンズ流",
+      "chara_id": 39,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "バーンズ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000040,
+      "sort_order": 40000040,
+      "name": "ハーシェル流",
+      "chara_id": 40,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "ハーシェル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000041,
+      "sort_order": 40000041,
+      "name": "レグルス流",
+      "chara_id": 41,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "レグルス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000042,
+      "sort_order": 40000042,
+      "name": "レイヴン流",
+      "chara_id": 42,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "レイヴン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000043,
+      "sort_order": 40000043,
+      "name": "エルロン流",
+      "chara_id": 43,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "エルロン流(スタン)が流派レベル3に到達"
+    },
+    {
+      "id": 40000044,
+      "sort_order": 40000044,
+      "name": "マーテル教会",
+      "chara_id": 44,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "マーテル教会(ゼロス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000045,
+      "sort_order": 40000045,
+      "name": "ランバルディア流",
+      "chara_id": 45,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "ランバルディア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000046,
+      "sort_order": 40000046,
+      "name": "デュナミス流",
+      "chara_id": 46,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "デュナミス流(カイル)が流派レベル3に到達"
+    },
+    {
+      "id": 40000047,
+      "sort_order": 40000047,
+      "name": "リアラ流",
+      "chara_id": 47,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "リアラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000048,
+      "sort_order": 40000048,
+      "name": "イアハート流",
+      "chara_id": 48,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": "イアハート流が流派レベル3に到達"
+    },
+    {
+      "id": 40000049,
+      "sort_order": 40000049,
+      "name": "スヴェント流",
+      "chara_id": 49,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "スヴェント流が流派レベル3に到達"
+    },
+    {
+      "id": 40000050,
+      "sort_order": 40000050,
+      "name": "ディフダ流",
+      "chara_id": 50,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ディフダ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000051,
+      "sort_order": 40000051,
+      "name": "アニーミ流",
+      "chara_id": 51,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "アニーミ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000052,
+      "sort_order": 40000052,
+      "name": "エステル流",
+      "chara_id": 52,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "エステル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000053,
+      "sort_order": 40000053,
+      "name": "リチャード流",
+      "chara_id": 53,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "リチャード流が流派レベル3に到達"
+    },
+    {
+      "id": 40000054,
+      "sort_order": 40000054,
+      "name": "アルバート流",
+      "chara_id": 54,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "アルバート流(アッシュ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000055,
+      "sort_order": 40000055,
+      "name": "クーリッジ流",
+      "chara_id": 55,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "クーリッジ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000056,
+      "sort_order": 40000056,
+      "name": "アルバート流",
+      "chara_id": 56,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "アルバート流(ガイ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000057,
+      "sort_order": 40000057,
+      "name": "ジューダス流",
+      "chara_id": 57,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "ジューダス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000058,
+      "sort_order": 40000058,
+      "name": "ゼクス流",
+      "chara_id": 58,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "ゼクス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000059,
+      "sort_order": 40000059,
+      "name": "クルスニク流",
+      "chara_id": 59,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "クルスニク流(ユリウス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000060,
+      "sort_order": 40000060,
+      "name": "アイゼン流",
+      "chara_id": 60,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "アイゼン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000061,
+      "sort_order": 40000061,
+      "name": "ザビーダ流",
+      "chara_id": 61,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ザビーダ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000062,
+      "sort_order": 40000062,
+      "name": "クオールズ流",
+      "chara_id": 62,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "クオールズ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000063,
+      "sort_order": 40000063,
+      "name": "ナトウィック流",
+      "chara_id": 63,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "ナトウィック流が流派レベル3に到達"
+    },
+    {
+      "id": 40000064,
+      "sort_order": 40000064,
+      "name": "クロウ流",
+      "chara_id": 64,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "クロウ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000065,
+      "sort_order": 40000065,
+      "name": "アルバート流",
+      "chara_id": 65,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "アルバート流が流派レベル3に到達"
+    },
+    {
+      "id": 40000066,
+      "sort_order": 40000066,
+      "name": "ゲーティア流",
+      "chara_id": 66,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "ゲーティア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000067,
+      "sort_order": 40000067,
+      "name": "クルシス",
+      "chara_id": 67,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "クルシス(ミトス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000068,
+      "sort_order": 40000068,
+      "name": "アーベント流",
+      "chara_id": 68,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": "アーベント流が流派レベル3に到達"
+    },
+    {
+      "id": 40000069,
+      "sort_order": 40000069,
+      "name": "神託の盾騎士団",
+      "chara_id": 69,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(ディスト)が流派レベル3に到達"
+    },
+    {
+      "id": 40000070,
+      "sort_order": 40000070,
+      "name": "タウ流",
+      "chara_id": 70,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "タウ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000071,
+      "sort_order": 40000071,
+      "name": "キャスタニエ流",
+      "chara_id": 71,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": "キャスタニエ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000072,
+      "sort_order": 40000072,
+      "name": "ルアルディ流",
+      "chara_id": 72,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": "ルアルディ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000073,
+      "sort_order": 40000073,
+      "name": "アドネード流",
+      "chara_id": 73,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "アドネード流が流派レベル3に到達"
+    },
+    {
+      "id": 40000074,
+      "sort_order": 40000074,
+      "name": "クライン流",
+      "chara_id": 74,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "クライン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000075,
+      "sort_order": 40000075,
+      "name": "帝国騎士団",
+      "chara_id": 75,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "帝国騎士団(フレン)が流派レベル3に到達"
+    },
+    {
+      "id": 40000076,
+      "sort_order": 40000076,
+      "name": "ストラタ軍",
+      "chara_id": 76,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "ストラタ軍が流派レベル3に到達"
+    },
+    {
+      "id": 40000077,
+      "sort_order": 40000077,
+      "name": "嵐月流",
+      "chara_id": 77,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "嵐月流が流派レベル3に到達"
+    },
+    {
+      "id": 40000078,
+      "sort_order": 40000078,
+      "name": "デゼル流",
+      "chara_id": 78,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "デゼル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000079,
+      "sort_order": 40000079,
+      "name": "ダオス流",
+      "chara_id": 79,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "ダオス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000080,
+      "sort_order": 40000080,
+      "name": "神託の盾騎士団",
+      "chara_id": 80,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(シンク)が流派レベル3に到達"
+    },
+    {
+      "id": 40000081,
+      "sort_order": 40000081,
+      "name": "ランゲツ流",
+      "chara_id": 81,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "ランゲツ流(ロクロウ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000082,
+      "sort_order": 40000082,
+      "name": "マギルゥ流",
+      "chara_id": 82,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "マギルゥ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000083,
+      "sort_order": 40000083,
+      "name": "聖寮",
+      "chara_id": 83,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "聖寮(エレノア)が流派レベル3に到達"
+    },
+    {
+      "id": 40000085,
+      "sort_order": 40000085,
+      "name": "レスター流",
+      "chara_id": 85,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "レスター流が流派レベル3に到達"
+    },
+    {
+      "id": 40000086,
+      "sort_order": 40000086,
+      "name": "ロランド流",
+      "chara_id": 86,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "ロランド流が流派レベル3に到達"
+    },
+    {
+      "id": 40000087,
+      "sort_order": 40000087,
+      "name": "天海春香流",
+      "chara_id": 87,
+      "series_id": 27,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "天海春香流が流派レベル3に到達"
+    },
+    {
+      "id": 40000089,
+      "sort_order": 40000089,
+      "name": "カナ流",
+      "chara_id": 89,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": "カナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000090,
+      "sort_order": 40000090,
+      "name": "アレン流",
+      "chara_id": 90,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": "アレン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000091,
+      "sort_order": 40000091,
+      "name": "ゼファー流",
+      "chara_id": 91,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": "ゼファー流が流派レベル3に到達"
+    },
+    {
+      "id": 40000093,
+      "sort_order": 40000093,
+      "name": "アウリオン流",
+      "chara_id": 93,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "アウリオン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000094,
+      "sort_order": 40000094,
+      "name": "凛々の明星",
+      "chara_id": 94,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "凛々の明星が流派レベル3に到達"
+    },
+    {
+      "id": 40000095,
+      "sort_order": 40000095,
+      "name": "シデン流",
+      "chara_id": 95,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "シデン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000096,
+      "sort_order": 40000096,
+      "name": "トラウベル流",
+      "chara_id": 96,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "トラウベル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000097,
+      "sort_order": 40000097,
+      "name": "イルベルト流",
+      "chara_id": 97,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "イルベルト流が流派レベル3に到達"
+    },
+    {
+      "id": 40000098,
+      "sort_order": 40000098,
+      "name": "パスカ流",
+      "chara_id": 98,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": "パスカ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000099,
+      "sort_order": 40000099,
+      "name": "セルシウス流",
+      "chara_id": 99,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "セルシウス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000100,
+      "sort_order": 40000100,
+      "name": "エクリプス",
+      "chara_id": 100,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": "エクリプスが流派レベル3に到達"
+    },
+    {
+      "id": 40000101,
+      "sort_order": 40000101,
+      "name": "レナス・F流",
+      "chara_id": 101,
+      "series_id": 28,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "レナス・F流が流派レベル3に到達"
+    },
+    {
+      "id": 40000102,
+      "sort_order": 40000102,
+      "name": "ガイアス流",
+      "chara_id": 102,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "ガイアス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000103,
+      "sort_order": 40000103,
+      "name": "ミュゼ流",
+      "chara_id": 103,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "ミュゼ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000104,
+      "sort_order": 40000104,
+      "name": "ジュディス流",
+      "chara_id": 104,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "ジュディス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000105,
+      "sort_order": 40000105,
+      "name": "フェンネス流",
+      "chara_id": 105,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "フェンネス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000106,
+      "sort_order": 40000106,
+      "name": "ベルフォルマ流",
+      "chara_id": 106,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "ベルフォルマ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000107,
+      "sort_order": 40000107,
+      "name": "ライラ流",
+      "chara_id": 107,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ライラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000108,
+      "sort_order": 40000108,
+      "name": "ビフレスト式",
+      "chara_id": 108,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ビフレスト式(ナーザ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000109,
+      "sort_order": 40000109,
+      "name": "キリト流",
+      "chara_id": 109,
+      "series_id": 29,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "キリト流が流派レベル3に到達"
+    },
+    {
+      "id": 40000110,
+      "sort_order": 40000110,
+      "name": "アスナ流",
+      "chara_id": 110,
+      "series_id": 29,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アスナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000111,
+      "sort_order": 40000111,
+      "name": "グラスバレー流",
+      "chara_id": 111,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": "グラスバレー流が流派レベル3に到達"
+    },
+    {
+      "id": 40000112,
+      "sort_order": 40000112,
+      "name": "ベルセリオス流",
+      "chara_id": 112,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "ベルセリオス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000113,
+      "sort_order": 40000113,
+      "name": "地上軍",
+      "chara_id": 113,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "地上軍(ディムロス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000114,
+      "sort_order": 40000114,
+      "name": "王の盾",
+      "chara_id": 114,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "王の盾が流派レベル3に到達"
+    },
+    {
+      "id": 40000115,
+      "sort_order": 40000115,
+      "name": "ミラ流",
+      "chara_id": 115,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "ミラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000116,
+      "sort_order": 40000116,
+      "name": "イガグリ流",
+      "chara_id": 116,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "イガグリ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000117,
+      "sort_order": 40000117,
+      "name": "アグリア流",
+      "chara_id": 117,
+      "series_id": 16,
+      "prefab_path": "160001",
+      "texture_path": "160001",
+      "source_text": "アグリア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000118,
+      "sort_order": 40000118,
+      "name": "ヴァレンス流",
+      "chara_id": 118,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "ヴァレンス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000119,
+      "sort_order": 40000119,
+      "name": "ダークかめにん流",
+      "chara_id": 119,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "ダークかめにん流が流派レベル3に到達"
+    },
+    {
+      "id": 40000121,
+      "sort_order": 40000121,
+      "name": "ランブリング流",
+      "chara_id": 121,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "ランブリング流が流派レベル3に到達"
+    },
+    {
+      "id": 40000125,
+      "sort_order": 40000125,
+      "name": "地上軍",
+      "chara_id": 125,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "地上軍(アトワイト)が流派レベル3に到達"
+    },
+    {
+      "id": 40000126,
+      "sort_order": 40000126,
+      "name": "地上軍",
+      "chara_id": 126,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "地上軍(シャルティエ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000128,
+      "sort_order": 40000128,
+      "name": "セイジ流",
+      "chara_id": 128,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "セイジ流(ジーニアス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000129,
+      "sort_order": 40000129,
+      "name": "コンバティール流",
+      "chara_id": 129,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "コンバティール流が流派レベル3に到達"
+    },
+    {
+      "id": 40000130,
+      "sort_order": 40000130,
+      "name": "島村卯月流",
+      "chara_id": 130,
+      "series_id": 30,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "島村卯月流が流派レベル3に到達"
+    },
+    {
+      "id": 40000131,
+      "sort_order": 40000131,
+      "name": "神崎蘭子流",
+      "chara_id": 131,
+      "series_id": 30,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "神崎蘭子流が流派レベル3に到達"
+    },
+    {
+      "id": 40000132,
+      "sort_order": 40000132,
+      "name": "ブリッジス流",
+      "chara_id": 132,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "ブリッジス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000133,
+      "sort_order": 40000133,
+      "name": "伊賀栗流",
+      "chara_id": 133,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": "伊賀栗流が流派レベル3に到達"
+    },
+    {
+      "id": 40000134,
+      "sort_order": 40000134,
+      "name": "デュナミス流",
+      "chara_id": 134,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "デュナミス流(ロニ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000135,
+      "sort_order": 40000135,
+      "name": "フレッチ流",
+      "chara_id": 135,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "フレッチ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000136,
+      "sort_order": 40000136,
+      "name": "リムル流",
+      "chara_id": 136,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "リムル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000137,
+      "sort_order": 40000137,
+      "name": "バンタレイ流",
+      "chara_id": 137,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "バンタレイ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000138,
+      "sort_order": 40000138,
+      "name": "ヴィクトル流",
+      "chara_id": 138,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "ヴィクトル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000139,
+      "sort_order": 40000139,
+      "name": "ビフレスト式",
+      "chara_id": 139,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ビフレスト式(メルクリア)が流派レベル3に到達"
+    },
+    {
+      "id": 40000140,
+      "sort_order": 40000140,
+      "name": "フェニックス流",
+      "chara_id": 140,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "フェニックス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000141,
+      "sort_order": 40000141,
+      "name": "アリサ流",
+      "chara_id": 141,
+      "series_id": 31,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アリサ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000142,
+      "sort_order": 40000142,
+      "name": "クレア流",
+      "chara_id": 142,
+      "series_id": 32,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "クレア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000143,
+      "sort_order": 40000143,
+      "name": "アタモニ神団",
+      "chara_id": 143,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "アタモニ神団が流派レベル3に到達"
+    },
+    {
+      "id": 40000144,
+      "sort_order": 40000144,
+      "name": "フレイ流",
+      "chara_id": 144,
+      "series_id": 28,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "フレイ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000145,
+      "sort_order": 40000145,
+      "name": "シザース流",
+      "chara_id": 145,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "シザース流が流派レベル3に到達"
+    },
+    {
+      "id": 40000146,
+      "sort_order": 40000146,
+      "name": "クロード流",
+      "chara_id": 146,
+      "series_id": 33,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "クロード流が流派レベル3に到達"
+    },
+    {
+      "id": 40000147,
+      "sort_order": 40000147,
+      "name": "レナ流",
+      "chara_id": 147,
+      "series_id": 33,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "レナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000149,
+      "sort_order": 40000149,
+      "name": "ベニト流",
+      "chara_id": 149,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "ベニト流が流派レベル3に到達"
+    },
+    {
+      "id": 40000152,
+      "sort_order": 40000152,
+      "name": "バース流",
+      "chara_id": 152,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "バース流が流派レベル3に到達"
+    },
+    {
+      "id": 40000153,
+      "sort_order": 40000153,
+      "name": "守護機士",
+      "chara_id": 153,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "守護機士(クンツァイト)が流派レベル3に到達"
+    },
+    {
+      "id": 40000154,
+      "sort_order": 40000154,
+      "name": "スポデューン流",
+      "chara_id": 154,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "スポデューン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000155,
+      "sort_order": 40000155,
+      "name": "ヴァンガード工作班",
+      "chara_id": 155,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": "ヴァンガード工作班が流派レベル3に到達"
+    },
+    {
+      "id": 40000156,
+      "sort_order": 40000156,
+      "name": "コーキス流",
+      "chara_id": 156,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "コーキス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000157,
+      "sort_order": 40000157,
+      "name": "グラファイト流",
+      "chara_id": 157,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "グラファイト流が流派レベル3に到達"
+    },
+    {
+      "id": 40000158,
+      "sort_order": 40000158,
+      "name": "チャット流",
+      "chara_id": 158,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "チャット流が流派レベル3に到達"
+    },
+    {
+      "id": 40000159,
+      "sort_order": 40000159,
+      "name": "海精の牙",
+      "chara_id": 159,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "海精の牙が流派レベル3に到達"
+    },
+    {
+      "id": 40000160,
+      "sort_order": 40000160,
+      "name": "グリューネ流",
+      "chara_id": 160,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "グリューネ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000161,
+      "sort_order": 40000161,
+      "name": "シュヴァルツ流",
+      "chara_id": 161,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "シュヴァルツ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000162,
+      "sort_order": 40000162,
+      "name": "フィリス流",
+      "chara_id": 162,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "フィリス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000163,
+      "sort_order": 40000163,
+      "name": "ケルヴィン流",
+      "chara_id": 163,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "ケルヴィン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000165,
+      "sort_order": 40000165,
+      "name": "ガラルド流",
+      "chara_id": 165,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "ガラルド流が流派レベル3に到達"
+    },
+    {
+      "id": 40000166,
+      "sort_order": 40000166,
+      "name": "マオ流",
+      "chara_id": 166,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "マオ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000167,
+      "sort_order": 40000167,
+      "name": "ラザリス流",
+      "chara_id": 167,
+      "series_id": 21,
+      "prefab_path": "210001",
+      "texture_path": "210001",
+      "source_text": "ラザリス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000168,
+      "sort_order": 40000168,
+      "name": "ディオ流",
+      "chara_id": 168,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": "ディオ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000169,
+      "sort_order": 40000169,
+      "name": "メル流",
+      "chara_id": 169,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": "メル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000170,
+      "sort_order": 40000170,
+      "name": "バローネ流",
+      "chara_id": 170,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "バローネ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000171,
+      "sort_order": 40000171,
+      "name": "シゼル流",
+      "chara_id": 171,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "シゼル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000172,
+      "sort_order": 40000172,
+      "name": "エクバーグ流",
+      "chara_id": 172,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "エクバーグ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000173,
+      "sort_order": 40000173,
+      "name": "リッピ流",
+      "chara_id": 173,
+      "series_id": 20,
+      "prefab_path": "200001",
+      "texture_path": "200001",
+      "source_text": "リッピ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000175,
+      "sort_order": 40000175,
+      "name": "ネヴァン流",
+      "chara_id": 175,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ネヴァン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000176,
+      "sort_order": 40000176,
+      "name": "神託の盾騎士団",
+      "chara_id": 176,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(アリエッタ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000178,
+      "sort_order": 40000178,
+      "name": "コングマン流",
+      "chara_id": 178,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "コングマン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000179,
+      "sort_order": 40000179,
+      "name": "エルロン流",
+      "chara_id": 179,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "エルロン流(リリス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000180,
+      "sort_order": 40000180,
+      "name": "ユグドラシル流",
+      "chara_id": 180,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "ユグドラシル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000181,
+      "sort_order": 40000181,
+      "name": "クルシス",
+      "chara_id": 181,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "クルシス(ユアン)が流派レベル3に到達"
+    },
+    {
+      "id": 40000182,
+      "sort_order": 40000182,
+      "name": "ヴァンガード戦闘班",
+      "chara_id": 182,
+      "series_id": 12,
+      "prefab_path": "120001",
+      "texture_path": "120001",
+      "source_text": "ヴァンガード戦闘班が流派レベル3に到達"
+    },
+    {
+      "id": 40000183,
+      "sort_order": 40000183,
+      "name": "ダアト式",
+      "chara_id": 183,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "ダアト式が流派レベル3に到達"
+    },
+    {
+      "id": 40000184,
+      "sort_order": 40000184,
+      "name": "リトルクイーン流",
+      "chara_id": 184,
+      "series_id": 15,
+      "prefab_path": "150001",
+      "texture_path": "150001",
+      "source_text": "リトルクイーン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000187,
+      "sort_order": 40000187,
+      "name": "坂田銀時流",
+      "chara_id": 187,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "坂田銀時流が流派レベル3に到達"
+    },
+    {
+      "id": 40000188,
+      "sort_order": 40000188,
+      "name": "神楽流",
+      "chara_id": 188,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "神楽流が流派レベル3に到達"
+    },
+    {
+      "id": 40000189,
+      "sort_order": 40000189,
+      "name": "土方十四郎流",
+      "chara_id": 189,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "土方十四郎流が流派レベル3に到達"
+    },
+    {
+      "id": 40000190,
+      "sort_order": 40000190,
+      "name": "沖田総悟流",
+      "chara_id": 190,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "沖田総悟流が流派レベル3に到達"
+    },
+    {
+      "id": 40000191,
+      "sort_order": 40000191,
+      "name": "フィリーネ流",
+      "chara_id": 191,
+      "series_id": 31,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "フィリーネ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000193,
+      "sort_order": 40000193,
+      "name": "ヴィンセント流",
+      "chara_id": 193,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "ヴィンセント流が流派レベル3に到達"
+    },
+    {
+      "id": 40000194,
+      "sort_order": 40000194,
+      "name": "シャンドル流",
+      "chara_id": 194,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "シャンドル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000195,
+      "sort_order": 40000195,
+      "name": "ジェイ流",
+      "chara_id": 195,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "ジェイ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000197,
+      "sort_order": 40000197,
+      "name": "セレツネワ流",
+      "chara_id": 197,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "セレツネワ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000198,
+      "sort_order": 40000198,
+      "name": "日々寧日",
+      "chara_id": 198,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "日々寧日が流派レベル3に到達"
+    },
+    {
+      "id": 40000199,
+      "sort_order": 40000199,
+      "name": "グリナス流",
+      "chara_id": 199,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "グリナス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000200,
+      "sort_order": 40000200,
+      "name": "ランゲツ流",
+      "chara_id": 200,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "ランゲツ流(シグレ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000201,
+      "sort_order": 40000201,
+      "name": "聖寮",
+      "chara_id": 201,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "聖寮(オスカー)が流派レベル3に到達"
+    },
+    {
+      "id": 40000202,
+      "sort_order": 40000202,
+      "name": "聖寮",
+      "chara_id": 202,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "聖寮(テレサ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000204,
+      "sort_order": 40000204,
+      "name": "双葉杏流",
+      "chara_id": 204,
+      "series_id": 30,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "双葉杏流が流派レベル3に到達"
+    },
+    {
+      "id": 40000205,
+      "sort_order": 40000205,
+      "name": "諸星きらり流",
+      "chara_id": 205,
+      "series_id": 30,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "諸星きらり流が流派レベル3に到達"
+    },
+    {
+      "id": 40000206,
+      "sort_order": 40000206,
+      "name": "ソルダート流",
+      "chara_id": 206,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "ソルダート流が流派レベル3に到達"
+    },
+    {
+      "id": 40000207,
+      "sort_order": 40000207,
+      "name": "サイモン流",
+      "chara_id": 207,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "サイモン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000208,
+      "sort_order": 40000208,
+      "name": "レイナード流",
+      "chara_id": 208,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "レイナード流が流派レベル3に到達"
+    },
+    {
+      "id": 40000209,
+      "sort_order": 40000209,
+      "name": "トーン流",
+      "chara_id": 209,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "トーン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000210,
+      "sort_order": 40000210,
+      "name": "シルエシカ",
+      "chara_id": 210,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "シルエシカが流派レベル3に到達"
+    },
+    {
+      "id": 40000211,
+      "sort_order": 40000211,
+      "name": "レイス流",
+      "chara_id": 211,
+      "series_id": 4,
+      "prefab_path": "40001",
+      "texture_path": "40001",
+      "source_text": "レイス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000212,
+      "sort_order": 40000212,
+      "name": "結晶騎士団十三番隊",
+      "chara_id": 212,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "結晶騎士団十三番隊が流派レベル3に到達"
+    },
+    {
+      "id": 40000213,
+      "sort_order": 40000213,
+      "name": "イバル流",
+      "chara_id": 213,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "イバル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000214,
+      "sort_order": 40000214,
+      "name": "リナ流",
+      "chara_id": 214,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "リナ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000215,
+      "sort_order": 40000215,
+      "name": "ガウリイ流",
+      "chara_id": 215,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ガウリイ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000216,
+      "sort_order": 40000216,
+      "name": "ゼルガディス流",
+      "chara_id": 216,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ゼルガディス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000217,
+      "sort_order": 40000217,
+      "name": "アメリア流",
+      "chara_id": 217,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アメリア流が流派レベル3に到達"
+    },
+    {
+      "id": 40000218,
+      "sort_order": 40000218,
+      "name": "獣神官ゼロス流",
+      "chara_id": 218,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "獣神官ゼロス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000220,
+      "sort_order": 40000220,
+      "name": "ハセヲ流",
+      "chara_id": 220,
+      "series_id": 35,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ハセヲ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000221,
+      "sort_order": 40000221,
+      "name": "アトリ流",
+      "chara_id": 221,
+      "series_id": 35,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アトリ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000222,
+      "sort_order": 40000222,
+      "name": "デルクェス流",
+      "chara_id": 222,
+      "series_id": 8,
+      "prefab_path": "80001",
+      "texture_path": "80001",
+      "source_text": "デルクェス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000224,
+      "sort_order": 40000224,
+      "name": "ルドワウヤン流",
+      "chara_id": 224,
+      "series_id": 10,
+      "prefab_path": "100001",
+      "texture_path": "100001",
+      "source_text": "ルドワウヤン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000225,
+      "sort_order": 40000225,
+      "name": "ラルモ流",
+      "chara_id": 225,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "ラルモ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000226,
+      "sort_order": 40000226,
+      "name": "天上軍",
+      "chara_id": 226,
+      "series_id": 3,
+      "prefab_path": "30001",
+      "texture_path": "30001",
+      "source_text": "天上軍が流派レベル3に到達"
+    },
+    {
+      "id": 40000227,
+      "sort_order": 40000227,
+      "name": "帝国騎士団",
+      "chara_id": 227,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "帝国騎士団(アレクセイ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000228,
+      "sort_order": 40000228,
+      "name": "ベル流",
+      "chara_id": 228,
+      "series_id": 37,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ベル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000229,
+      "sort_order": 40000229,
+      "name": "アイズ流",
+      "chara_id": 229,
+      "series_id": 37,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アイズ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000230,
+      "sort_order": 40000230,
+      "name": "皇刀拳流",
+      "chara_id": 230,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "皇刀拳流が流派レベル3に到達"
+    },
+    {
+      "id": 40000233,
+      "sort_order": 40000233,
+      "name": "聖寮",
+      "chara_id": 233,
+      "series_id": 19,
+      "prefab_path": "190001",
+      "texture_path": "190001",
+      "source_text": "聖寮(アルトリウス)が流派レベル3に到達"
+    },
+    {
+      "id": 40000235,
+      "sort_order": 40000235,
+      "name": "アスタ流",
+      "chara_id": 235,
+      "series_id": 38,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アスタ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000236,
+      "sort_order": 40000236,
+      "name": "ユノ流",
+      "chara_id": 236,
+      "series_id": 38,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ユノ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000237,
+      "sort_order": 40000237,
+      "name": "ヤミ流",
+      "chara_id": 237,
+      "series_id": 38,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ヤミ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000238,
+      "sort_order": 40000238,
+      "name": "シャーロット流",
+      "chara_id": 238,
+      "series_id": 38,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "シャーロット流が流派レベル3に到達"
+    },
+    {
+      "id": 40000239,
+      "sort_order": 40000239,
+      "name": "神託の盾騎士団",
+      "chara_id": 239,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "神託の盾騎士団(リグレット)が流派レベル3に到達"
+    },
+    {
+      "id": 40000240,
+      "sort_order": 40000240,
+      "name": "守護機士",
+      "chara_id": 240,
+      "series_id": 14,
+      "prefab_path": "140001",
+      "texture_path": "140001",
+      "source_text": "守護機士（インカローズ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000241,
+      "sort_order": 40000241,
+      "name": "海凶の爪",
+      "chara_id": 241,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "海凶の爪(イエガー)が流派レベル3に到達"
+    },
+    {
+      "id": 40000242,
+      "sort_order": 40000242,
+      "name": "海凶の爪",
+      "chara_id": 242,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "海凶の爪(ゴーシュ)が流派レベル3に到達"
+    },
+    {
+      "id": 40000243,
+      "sort_order": 40000243,
+      "name": "海凶の爪",
+      "chara_id": 243,
+      "series_id": 13,
+      "prefab_path": "130001",
+      "texture_path": "130001",
+      "source_text": "海凶の爪(ドロワット)が流派レベル3に到達"
+    },
+    {
+      "id": 40000248,
+      "sort_order": 40000248,
+      "name": "ピオニー流",
+      "chara_id": 248,
+      "series_id": 9,
+      "prefab_path": "90001",
+      "texture_path": "90001",
+      "source_text": "ピオニー流が流派レベル3に到達"
+    },
+    {
+      "id": 40000250,
+      "sort_order": 40000250,
+      "name": "モリスン流",
+      "chara_id": 250,
+      "series_id": 2,
+      "prefab_path": "20001",
+      "texture_path": "20001",
+      "source_text": ""
+    },
+    {
+      "id": 40000251,
+      "sort_order": 40000251,
+      "name": "ソル流",
+      "chara_id": 251,
+      "series_id": 39,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ソル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000252,
+      "sort_order": 40000252,
+      "name": "ラムレザル流",
+      "chara_id": 252,
+      "series_id": 39,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ラムレザル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000253,
+      "sort_order": 40000253,
+      "name": "アルフェン流",
+      "chara_id": 253,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "アルフェン流が流派レベル3に到達"
+    },
+    {
+      "id": 40000254,
+      "sort_order": 40000254,
+      "name": "アイメリス流",
+      "chara_id": 254,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "アイメリス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000255,
+      "sort_order": 40000255,
+      "name": "ヘルダルフ流",
+      "chara_id": 255,
+      "series_id": 18,
+      "prefab_path": "180001",
+      "texture_path": "180001",
+      "source_text": "ヘルダルフ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000257,
+      "sort_order": 40000257,
+      "name": "ダナの魔法使い",
+      "chara_id": 257,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "ダナの魔法使いが流派レベル3に到達"
+    },
+    {
+      "id": 40000258,
+      "sort_order": 40000258,
+      "name": "ロウ流",
+      "chara_id": 258,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "ロウ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000259,
+      "sort_order": 40000259,
+      "name": "キサラ流",
+      "chara_id": 259,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "キサラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000260,
+      "sort_order": 40000260,
+      "name": "イルルケリス流",
+      "chara_id": 260,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "イルルケリス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000264,
+      "sort_order": 40000264,
+      "name": "ワイルドタイガー流",
+      "chara_id": 264,
+      "series_id": 41,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ワイルドタイガー流が流派レベル3に到達"
+    },
+    {
+      "id": 40000265,
+      "sort_order": 40000265,
+      "name": "バーナビー流",
+      "chara_id": 265,
+      "series_id": 41,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "バーナビー流が流派レベル3に到達"
+    },
+    {
+      "id": 40000268,
+      "sort_order": 40000268,
+      "name": "クルール流",
+      "chara_id": 268,
+      "series_id": 24,
+      "prefab_path": "240001",
+      "texture_path": "240001",
+      "source_text": "クルール流が流派レベル3に到達"
+    },
+    {
+      "id": 40000269,
+      "sort_order": 40000269,
+      "name": "ニケ流",
+      "chara_id": 269,
+      "series_id": 42,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ニケ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000270,
+      "sort_order": 40000270,
+      "name": "ククリ流",
+      "chara_id": 270,
+      "series_id": 42,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ククリ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000271,
+      "sort_order": 40000271,
+      "name": "ビクエ流",
+      "chara_id": 271,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ビクエ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000272,
+      "sort_order": 40000272,
+      "name": "アルカ教団",
+      "chara_id": 272,
+      "series_id": 11,
+      "prefab_path": "110001",
+      "texture_path": "110001",
+      "source_text": "アルカ教団が流派レベル3に到達"
+    },
+    {
+      "id": 40000275,
+      "sort_order": 40000275,
+      "name": "桂小太郎流",
+      "chara_id": 275,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "桂小太郎流が流派レベル3に到達"
+    },
+    {
+      "id": 40000276,
+      "sort_order": 40000276,
+      "name": "高杉晋助流",
+      "chara_id": 276,
+      "series_id": 34,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "高杉晋助流が流派レベル3に到達"
+    },
+    {
+      "id": 40000277,
+      "sort_order": 40000277,
+      "name": "オリエ流",
+      "chara_id": 277,
+      "series_id": 44,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "オリエ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000282,
+      "sort_order": 40000282,
+      "name": "アルベイン流",
+      "chara_id": 282,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": "アルベイン流（カナタ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000283,
+      "sort_order": 40000283,
+      "name": "ミゼラ流",
+      "chara_id": 283,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": "ミゼラ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000284,
+      "sort_order": 40000284,
+      "name": "ヴィシャス流",
+      "chara_id": 284,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": "ヴィシャス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000285,
+      "sort_order": 40000285,
+      "name": "ミダスメグール王国騎士団",
+      "chara_id": 285,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": "ミダスメグール王国騎士団が流派レベル3に到達"
+    },
+    {
+      "id": 40000286,
+      "sort_order": 40000286,
+      "name": "アゼッタ流",
+      "chara_id": 286,
+      "series_id": 43,
+      "prefab_path": "430001",
+      "texture_path": "430001",
+      "source_text": "アゼッタ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000288,
+      "sort_order": 40000288,
+      "name": "ユージオ流",
+      "chara_id": 288,
+      "series_id": 29,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ユージオ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000289,
+      "sort_order": 40000289,
+      "name": "アリス流",
+      "chara_id": 289,
+      "series_id": 29,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "アリス流が流派レベル3に到達"
+    },
+    {
+      "id": 40000294,
+      "sort_order": 40000294,
+      "name": "クランスピア社",
+      "chara_id": 294,
+      "series_id": 17,
+      "prefab_path": "170001",
+      "texture_path": "170001",
+      "source_text": "クランスピア社が流派レベル3に到達"
+    },
+    {
+      "id": 40000295,
+      "sort_order": 40000295,
+      "name": "ビクエ流",
+      "chara_id": 295,
+      "series_id": 1,
+      "prefab_path": "10001",
+      "texture_path": "10001",
+      "source_text": "ビクエ流（ヨウ・ビクエ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000296,
+      "sort_order": 40000296,
+      "name": "白蛇のナーガ流",
+      "chara_id": 296,
+      "series_id": 36,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "白蛇のナーガ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000297,
+      "sort_order": 40000297,
+      "name": "地上軍",
+      "chara_id": 297,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": "地上軍（カーレル）が流派レベル3に到達"
+    },
+    {
+      "id": 40000299,
+      "sort_order": 40000299,
+      "name": "マーテル教会",
+      "chara_id": 299,
+      "series_id": 6,
+      "prefab_path": "60001",
+      "texture_path": "60001",
+      "source_text": "マーテル教会（セレス）が流派レベル3に到達"
+    },
+    {
+      "id": 40000300,
+      "sort_order": 40000300,
+      "name": "カサネ流",
+      "chara_id": 300,
+      "series_id": 45,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "カサネ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000301,
+      "sort_order": 40000301,
+      "name": "死神騎士",
+      "chara_id": 301,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（コダマ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000302,
+      "sort_order": 40000302,
+      "name": "死神騎士",
+      "chara_id": 302,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（ヘイズ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000303,
+      "sort_order": 40000303,
+      "name": "死神騎士",
+      "chara_id": 303,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（セイリオス）が流派レベル3に到達"
+    },
+    {
+      "id": 40000304,
+      "sort_order": 40000304,
+      "name": "皇刀拳流",
+      "chara_id": 304,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "皇刀拳流（バルド・ミストルテン）が流派レベル3に到達"
+    },
+    {
+      "id": 40000305,
+      "sort_order": 40000305,
+      "name": "死神騎士",
+      "chara_id": 305,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（リワンナ）が流派レベル3に到達"
+    },
+    {
+      "id": 40000306,
+      "sort_order": 40000306,
+      "name": "死神騎士",
+      "chara_id": 306,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（アイリス）が流派レベル3に到達"
+    },
+    {
+      "id": 40000307,
+      "sort_order": 40000307,
+      "name": "死神騎士",
+      "chara_id": 307,
+      "series_id": 46,
+      "prefab_path": "460001",
+      "texture_path": "460001",
+      "source_text": "死神騎士（エルナト）が流派レベル3に到達"
+    },
+    {
+      "id": 40000310,
+      "sort_order": 40000310,
+      "name": "カイ流",
+      "chara_id": 310,
+      "series_id": 39,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "カイ流が流派レベル3に到達"
+    },
+    {
+      "id": 40000311,
+      "sort_order": 40000311,
+      "name": "ブリジット流",
+      "chara_id": 311,
+      "series_id": 39,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ブリジット流が流派レベル3に到達"
+    },
+    {
+      "id": 40000312,
+      "sort_order": 40000312,
+      "name": "リンドブロム流",
+      "chara_id": 312,
+      "series_id": 7,
+      "prefab_path": "70001",
+      "texture_path": "70001",
+      "source_text": "リンドブロム流が流派レベル3に到達"
+    },
+    {
+      "id": 40000313,
+      "sort_order": 40000313,
+      "name": "ケロロ軍曹流",
+      "chara_id": 313,
+      "series_id": 47,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "ケロロ軍曹流が流派レベル3に到達"
+    },
+    {
+      "id": 40000314,
+      "sort_order": 40000314,
+      "name": "日向夏美流",
+      "chara_id": 314,
+      "series_id": 47,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "日向夏美流が流派レベル3に到達"
+    },
+    {
+      "id": 40000315,
+      "sort_order": 40000315,
+      "name": "〈紅の鴉〉",
+      "chara_id": 315,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "〈紅の鴉〉が流派レベル3に到達"
+    },
+    {
+      "id": 40000318,
+      "sort_order": 40000318,
+      "name": "ナザミル流",
+      "chara_id": 318,
+      "series_id": 40,
+      "prefab_path": "400001",
+      "texture_path": "400001",
+      "source_text": "ナザミル流が流派レベル3に到達"
+    },
+    {
+      "id": 40000319,
+      "sort_order": 40000319,
+      "name": "KOS-MOS流",
+      "chara_id": 319,
+      "series_id": 48,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "KOS-MOS流が流派レベル3に到達"
+    },
+    {
+      "id": 40000321,
+      "sort_order": 40000321,
+      "name": "マータ流",
+      "chara_id": 321,
+      "series_id": 44,
+      "prefab_path": "999990001",
+      "texture_path": "999990001",
+      "source_text": "マータ流が流派レベル3に到達"
+    },
+    {
+      "id": 50000001,
+      "sort_order": 0,
+      "name": "ザレイズファンミ2021に集いし者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "50000001",
+      "texture_path": "50000001",
+      "source_text": "ザレイズファンミ2021の参加記念プレゼント"
+    },
+    {
+      "id": 50000002,
+      "sort_order": 0,
+      "name": "ザレイズファンミ2022に集いし者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "50000001",
+      "texture_path": "50000002",
+      "source_text": "ザレイズファンミ2021の参加記念プレゼント"
+    },
+    {
+      "id": 51000001,
+      "sort_order": 0,
+      "name": "伝説のオタオタファン",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "51000001",
+      "texture_path": "51000001",
+      "source_text": "2022年エイプリルフール用称号"
+    },
+    {
+      "id": 60000001,
+      "sort_order": 60000001,
+      "name": "なすべきことをなすもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000001",
+      "source_text": ""
+    },
+    {
+      "id": 60000002,
+      "sort_order": 60000002,
+      "name": "最強の骸殻能力者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000002",
+      "source_text": ""
+    },
+    {
+      "id": 60000003,
+      "sort_order": 60000003,
+      "name": "交差する運命を担う剣士",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000003",
+      "source_text": ""
+    },
+    {
+      "id": 60000004,
+      "sort_order": 60000004,
+      "name": "ダアト式譜術の使い手",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000004",
+      "source_text": ""
+    },
+    {
+      "id": 60000005,
+      "sort_order": 60000005,
+      "name": "私の可愛いシスターズ",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000005",
+      "source_text": ""
+    },
+    {
+      "id": 60000006,
+      "sort_order": 60000006,
+      "name": "フラワーガーデン",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000006",
+      "source_text": ""
+    },
+    {
+      "id": 60000007,
+      "sort_order": 60000007,
+      "name": "アーツオブハーツ",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000007",
+      "source_text": ""
+    },
+    {
+      "id": 60000008,
+      "sort_order": 60000008,
+      "name": "決意秘めたるもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000008",
+      "source_text": ""
+    },
+    {
+      "id": 60000009,
+      "sort_order": 60000009,
+      "name": "死の恐怖",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000009",
+      "source_text": ""
+    },
+    {
+      "id": 60000010,
+      "sort_order": 60000010,
+      "name": "因果を乗り越えしもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000010",
+      "source_text": ""
+    },
+    {
+      "id": 60000011,
+      "sort_order": 60000011,
+      "name": "預言に抗いしもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000011",
+      "source_text": ""
+    },
+    {
+      "id": 60000012,
+      "sort_order": 60000012,
+      "name": "試練に挑みしもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000012",
+      "source_text": ""
+    },
+    {
+      "id": 60000013,
+      "sort_order": 60000013,
+      "name": "未来を解放せしもの",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000013",
+      "source_text": ""
+    },
+    {
+      "id": 60000014,
+      "sort_order": 60000014,
+      "name": "グランドチャンピオン",
+      "chara_id": 0,
+      "series_id": 5,
+      "prefab_path": "50001",
+      "texture_path": "50001",
+      "source_text": ""
+    },
+    {
+      "id": 60000015,
+      "sort_order": 60000015,
+      "name": "精励の乙女",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000015",
+      "source_text": ""
+    },
+    {
+      "id": 60000016,
+      "sort_order": 60000016,
+      "name": "運命に立ち向かいし者",
+      "chara_id": 0,
+      "series_id": 99999,
+      "prefab_path": "60000001",
+      "texture_path": "60000016",
+      "source_text": ""
+    }
+  ]
+}

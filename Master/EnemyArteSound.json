@@ -1,0 +1,2749 @@
+{
+  "xhash": "",
+  "mst_arte_sounds": [
+    {
+      "id": 1001001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1001002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1001003,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREBALL_01"
+    },
+    {
+      "id": 1001004,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_ICEEDIT_01"
+    },
+    {
+      "id": 1101001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_04"
+    },
+    {
+      "id": 1101002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1101003,
+      "timing": 0.36000001430511475,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_ONPA_01"
+    },
+    {
+      "id": 1101004,
+      "timing": 0.47999998927116394,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 1201001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_01"
+    },
+    {
+      "id": 1201002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_01"
+    },
+    {
+      "id": 1201003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_01"
+    },
+    {
+      "id": 3101001,
+      "timing": 0.6600000262260437,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_LL_01"
+    },
+    {
+      "id": 3101001,
+      "timing": 0.8399999737739563,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_01"
+    },
+    {
+      "id": 3101001,
+      "timing": 1.0399999618530273,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_LL_01"
+    },
+    {
+      "id": 3101002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3101003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_PILLER_OF_FIRE"
+    },
+    {
+      "id": 3201001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3201002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3201003,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_03"
+    },
+    {
+      "id": 3201003,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_03"
+    },
+    {
+      "id": 3201003,
+      "timing": 1.7999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HANEOTO_03"
+    },
+    {
+      "id": 3201003,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_PILLER_OF_FIRE"
+    },
+    {
+      "id": 1301001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1301002,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_03"
+    },
+    {
+      "id": 1301002,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_03"
+    },
+    {
+      "id": 1301003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2901001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2901002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2901003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1601001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1601002,
+      "timing": 0.550000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.75,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.8500000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 0.949999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.0499999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.149999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.25,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.350000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.399999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.4500000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1601003,
+      "timing": 1.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EXPLOSION_01"
+    },
+    {
+      "id": 1401001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1401002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1401003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1701001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1701002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1701003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1801001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1801002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1801003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1901001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1901002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3301001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3301002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 3301003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1501001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1501002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 1501003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2201001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2201002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2201003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2201004,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WINDCUTTER_01"
+    },
+    {
+      "id": 2201005,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WINDSLASH_01"
+    },
+    {
+      "id": 2301001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2301002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2301003,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_PER_SLIDING"
+    },
+    {
+      "id": 2401001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2401002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2401003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2501001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2601001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2601002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2601003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2701001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2801001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2801002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2001001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_DISCHARGE_00"
+    },
+    {
+      "id": 2001001,
+      "timing": 0.3499999940395355,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_CHR_ZAB_CHAIN_KIME"
+    },
+    {
+      "id": 2001002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_DISCHARGE_00"
+    },
+    {
+      "id": 2001002,
+      "timing": 0.6600000262260437,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_CHR_ZAB_CHAIN_KIME"
+    },
+    {
+      "id": 2001003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_CHARGE_01"
+    },
+    {
+      "id": 2001003,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_LAZER_01"
+    },
+    {
+      "id": 2001004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_LAZER_01"
+    },
+    {
+      "id": 2101001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 2101002,
+      "timing": 1.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 3001001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3001002,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_IMPACT_02"
+    },
+    {
+      "id": 3001002,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 3001003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3401001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3401002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3401003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 3401004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 3501001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3501002,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_DISCHARGE_01"
+    },
+    {
+      "id": 3501002,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_TOUBOE_01"
+    },
+    {
+      "id": 3501002,
+      "timing": 0.949999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_01"
+    },
+    {
+      "id": 3501002,
+      "timing": 1.0299999713897705,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_01"
+    },
+    {
+      "id": 3501002,
+      "timing": 1.1100000143051147,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_03"
+    },
+    {
+      "id": 3501002,
+      "timing": 1.190000057220459,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_01"
+    },
+    {
+      "id": 3501002,
+      "timing": 1.2699999809265137,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_03"
+    },
+    {
+      "id": 3501003,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 3601001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3601002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3601003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3701001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3701002,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_BLESS_01"
+    },
+    {
+      "id": 3701002,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_03"
+    },
+    {
+      "id": 3701002,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_03"
+    },
+    {
+      "id": 3701002,
+      "timing": 1.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_03"
+    },
+    {
+      "id": 3701003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3801001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3801002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3801003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3801004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3901001,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3901002,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 3901003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYWIND_01"
+    },
+    {
+      "id": 3901003,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYLIGHT_01"
+    },
+    {
+      "id": 3901003,
+      "timing": 1.399999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYWIND_01"
+    },
+    {
+      "id": 3901003,
+      "timing": 1.7000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYLIGHT_01"
+    },
+    {
+      "id": 3901003,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYWIND_01"
+    },
+    {
+      "id": 3901003,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_HOLYLIGHT_01"
+    },
+    {
+      "id": 4301001,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 4301002,
+      "timing": 0.550000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 4301002,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 4301003,
+      "timing": 0.550000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4301003,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4301003,
+      "timing": 0.8500000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4301004,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_LANDING"
+    },
+    {
+      "id": 4301004,
+      "timing": 1.149999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_LANDING"
+    },
+    {
+      "id": 4301004,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_LANDING"
+    },
+    {
+      "id": 4301004,
+      "timing": 1.4500000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_LANDING"
+    },
+    {
+      "id": 4301004,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_LANDING"
+    },
+    {
+      "id": 4701001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 4701002,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 4701002,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 4701003,
+      "timing": 0.75,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 4701003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 4701004,
+      "timing": 0.949999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4701004,
+      "timing": 1.149999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4701004,
+      "timing": 1.350000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4701004,
+      "timing": 1.5499999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 4801001,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 4801002,
+      "timing": 0.550000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 4801002,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_EXPLODE_BOMB"
+    },
+    {
+      "id": 4801003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 4801003,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 4801004,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_02"
+    },
+    {
+      "id": 4801004,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGBOLT_02"
+    },
+    {
+      "id": 5201001,
+      "timing": 0.009999999776482582,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_LL_01"
+    },
+    {
+      "id": 5201001,
+      "timing": 0.8500000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 5201001,
+      "timing": 1.149999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 5201001,
+      "timing": 1.399999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 5201001,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 5201001,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 5201002,
+      "timing": 0.009999999776482582,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_MINO_BAER2"
+    },
+    {
+      "id": 5201002,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 5201003,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 5201003,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 5301001,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_BLOW_02"
+    },
+    {
+      "id": 5301002,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 5301003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_BLOW_02"
+    },
+    {
+      "id": 5401001,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_TIGER_BARK1"
+    },
+    {
+      "id": 5401001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_DISCHARGE_00"
+    },
+    {
+      "id": 5401001,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_NORBLOW_03"
+    },
+    {
+      "id": 5401002,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 5401002,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 5401003,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 5501001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 5501001,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 5501002,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 5501003,
+      "timing": 0.75,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 5501004,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_03"
+    },
+    {
+      "id": 5501004,
+      "timing": 0.8500000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_NORBLOW_01"
+    },
+    {
+      "id": 5501004,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_02"
+    },
+    {
+      "id": 5601002,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 5601003,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_11_BTL_M_SPLASH_00"
+    },
+    {
+      "id": 5601004,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_03"
+    },
+    {
+      "id": 5601004,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_03"
+    },
+    {
+      "id": 5601004,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 5701001,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_SPEEDIDOU_02"
+    },
+    {
+      "id": 5701001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_CMN_BLOW_02"
+    },
+    {
+      "id": 5701002,
+      "timing": 1.899999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREBOM_01"
+    },
+    {
+      "id": 5801001,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_CRACK_GROUND_LITTLE"
+    },
+    {
+      "id": 5801001,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_CRACK_GROUND_LITTLE"
+    },
+    {
+      "id": 5801001,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_CRACK_GROUND_LITTLE"
+    },
+    {
+      "id": 5801002,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_HIT_SFX_10"
+    },
+    {
+      "id": 5801002,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_05"
+    },
+    {
+      "id": 5801002,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_CRACK_GROUND_BIG"
+    },
+    {
+      "id": 5801003,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MAGIC_SFX_09"
+    },
+    {
+      "id": 5801003,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_HIT_SFX_03"
+    },
+    {
+      "id": 5801003,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MIN_SOUND_74"
+    },
+    {
+      "id": 5801004,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MAGIC_SFX_09"
+    },
+    {
+      "id": 5801004,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_TOX2_92"
+    },
+    {
+      "id": 5901001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_LANCE_03"
+    },
+    {
+      "id": 5901001,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_LANCE_03"
+    },
+    {
+      "id": 5901002,
+      "timing": 0.15000000596046448,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_DARKUP_01"
+    },
+    {
+      "id": 5901002,
+      "timing": 0.6299999952316284,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 5901003,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_02"
+    },
+    {
+      "id": 5901004,
+      "timing": 0.15000000596046448,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_DARKUP_01"
+    },
+    {
+      "id": 5901004,
+      "timing": 0.6299999952316284,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 6001001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6001001,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6001001,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6001002,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 6001003,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6001003,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6001004,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6001005,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 6101001,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6101001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6101002,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_HELLKITE_02_SHORT"
+    },
+    {
+      "id": 6101003,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6101003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6101003,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6401001,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SPL_FIRE_HIT"
+    },
+    {
+      "id": 6401002,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREWALL_01"
+    },
+    {
+      "id": 6401003,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_CHARGE_01"
+    },
+    {
+      "id": 6401003,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_TOX2_92"
+    },
+    {
+      "id": 6401004,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_PAPER_02"
+    },
+    {
+      "id": 6401004,
+      "timing": 1.7999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_BLOW_03"
+    },
+    {
+      "id": 6401004,
+      "timing": 4.099999904632568,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIREBOM_01"
+    },
+    {
+      "id": 6401005,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_04"
+    },
+    {
+      "id": 6501001,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_01"
+    },
+    {
+      "id": 6501001,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6501002,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_TOUBOE_01"
+    },
+    {
+      "id": 6501003,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_01"
+    },
+    {
+      "id": 6501003,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_01"
+    },
+    {
+      "id": 6501003,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6501004,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_FLY_LANDING_01"
+    },
+    {
+      "id": 6501004,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 6201001,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_SPEEDIDOU_02"
+    },
+    {
+      "id": 6201002,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6201003,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 6201003,
+      "timing": 1.399999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_SPEEDIDOU_02"
+    },
+    {
+      "id": 6201004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SYS_BOUND"
+    },
+    {
+      "id": 6201005,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 6301001,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6301001,
+      "timing": 1,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_HRBT_SYS_BOUND"
+    },
+    {
+      "id": 6301002,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 6301002,
+      "timing": 1.8300000429153442,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 6301003,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 6301003,
+      "timing": 1.7000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 6301003,
+      "timing": 1.7000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 6301003,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 6301003,
+      "timing": 2.0999999046325684,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 6301003,
+      "timing": 2.299999952316284,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 6301003,
+      "timing": 2.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 6301003,
+      "timing": 2.700000047683716,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 6301003,
+      "timing": 3,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_01_LOWVOLUME"
+    },
+    {
+      "id": 7001001,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 7001002,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_S_01"
+    },
+    {
+      "id": 7001002,
+      "timing": 2.369999885559082,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 7001002,
+      "timing": 2.799999952316284,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_01"
+    },
+    {
+      "id": 7001003,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "em1100_atk_a5_water_start"
+    },
+    {
+      "id": 7001003,
+      "timing": 4,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 7001003,
+      "timing": 4.199999809265137,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 7001003,
+      "timing": 4.400000095367432,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 7001003,
+      "timing": 4.599999904632568,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 7001003,
+      "timing": 4.800000190734863,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WATERBALL_02"
+    },
+    {
+      "id": 7001004,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_LIGHTNING_01"
+    },
+    {
+      "id": 7001004,
+      "timing": 2.799999952316284,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_LIGHTNINGSTRIKE_02"
+    },
+    {
+      "id": 7001005,
+      "timing": 0.20000000298023224,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_KICK_04"
+    },
+    {
+      "id": 7001005,
+      "timing": 0.6700000166893005,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_04"
+    },
+    {
+      "id": 7001005,
+      "timing": 2.319999933242798,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_DAGGER_04"
+    },
+    {
+      "id": 7001005,
+      "timing": 2.569999933242798,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_DAGGER_04"
+    },
+    {
+      "id": 7001005,
+      "timing": 4.199999809265137,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_KICK_04"
+    },
+    {
+      "id": 6601001,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601002,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601003,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 6601003,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 1.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 1.7999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 2.0999999046325684,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 2.4000000953674316,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601004,
+      "timing": 2.700000047683716,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_03"
+    },
+    {
+      "id": 6601005,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601005,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_01"
+    },
+    {
+      "id": 6601005,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_FIRESLASH_03"
+    },
+    {
+      "id": 6601006,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 6601006,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WINDCUTTER_01"
+    },
+    {
+      "id": 6601007,
+      "timing": 0.10000000149011612,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_05"
+    },
+    {
+      "id": 6601007,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601007,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601007,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601007,
+      "timing": 1.2999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6601007,
+      "timing": 1.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6701001,
+      "timing": 0.30000001192092896,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_03"
+    },
+    {
+      "id": 6701002,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_ONPA_01"
+    },
+    {
+      "id": 6701003,
+      "timing": 0.800000011920929,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_02"
+    },
+    {
+      "id": 6701004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 6701005,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_02"
+    },
+    {
+      "id": 6701005,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_05"
+    },
+    {
+      "id": 6701006,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_06"
+    },
+    {
+      "id": 6701006,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_06"
+    },
+    {
+      "id": 6701006,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_06"
+    },
+    {
+      "id": 6701006,
+      "timing": 1.75,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_01"
+    },
+    {
+      "id": 6701006,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_08"
+    },
+    {
+      "id": 6801001,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6801001,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6801002,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_02"
+    },
+    {
+      "id": 6801003,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_SP_TOSSHIN_02"
+    },
+    {
+      "id": 6801004,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 6801004,
+      "timing": 1.100000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 6801004,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_EARTHBREAK_03"
+    },
+    {
+      "id": 6801005,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MAGIC_SFX_09"
+    },
+    {
+      "id": 6801005,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_HIT_SFX_10"
+    },
+    {
+      "id": 6801005,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MIN_SOUND_74"
+    },
+    {
+      "id": 6801005,
+      "timing": 0.699999988079071,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_HIT_SFX_03"
+    },
+    {
+      "id": 6801006,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TL_BTL_EFF_MAGIC_SFX_09"
+    },
+    {
+      "id": 6801006,
+      "timing": 0.4000000059604645,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_CHARGE_01"
+    },
+    {
+      "id": 6801006,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_SPE_SOUND_04"
+    },
+    {
+      "id": 6801006,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SE_BTLSPHIS_008"
+    },
+    {
+      "id": 6901001,
+      "timing": 0.75,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_04"
+    },
+    {
+      "id": 6901002,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6901002,
+      "timing": 0.7599999904632568,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6901002,
+      "timing": 1.0399999618530273,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6901002,
+      "timing": 1.3200000524520874,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6901003,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_01"
+    },
+    {
+      "id": 6901004,
+      "timing": 0,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": ""
+    },
+    {
+      "id": 6901005,
+      "timing": 0.8999999761581421,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_WHOOSH_03"
+    },
+    {
+      "id": 6901005,
+      "timing": 1.190000057220459,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_NORBLOW_01"
+    },
+    {
+      "id": 6901006,
+      "timing": 0.5,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_03"
+    },
+    {
+      "id": 6901006,
+      "timing": 1.2000000476837158,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_WHO_MONSTER_02"
+    },
+    {
+      "id": 6901007,
+      "timing": 0.6000000238418579,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_ATK_MOVEMENT_03"
+    },
+    {
+      "id": 6901007,
+      "timing": 1.399999976158142,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6901007,
+      "timing": 1.600000023841858,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6901007,
+      "timing": 1.7999999523162842,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6901007,
+      "timing": 2,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6901007,
+      "timing": 2.200000047683716,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    },
+    {
+      "id": 6901007,
+      "timing": 2.4000000953674316,
+      "arte_name_ui": false,
+      "param": 0,
+      "voice": "",
+      "se": "SEL_TO13_BTL_MOB_FSP_L_01"
+    }
+  ]
+}

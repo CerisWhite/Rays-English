@@ -1,0 +1,464 @@
+{
+  "xhash": "",
+  "mst_series": [
+    {
+      "id": 1,
+      "series_name": "テイルズ オブ ザ レイズ",
+      "sort_order": 1,
+      "other_flag": false,
+      "release_time": "2014-12-31T16:00:00.0000000Z",
+      "alias_name": "TORays",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 2,
+      "series_name": "テイルズ オブ ファンタジア",
+      "sort_order": 2,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOP",
+      "series_color": "#5EEA80"
+    },
+    {
+      "id": 3,
+      "series_name": "テイルズ オブ デスティニー",
+      "sort_order": 3,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOD",
+      "series_color": "#0C8AF0"
+    },
+    {
+      "id": 4,
+      "series_name": "テイルズ オブ エターニア",
+      "sort_order": 4,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOE",
+      "series_color": "#FF984E"
+    },
+    {
+      "id": 5,
+      "series_name": "テイルズ オブ デスティニー2",
+      "sort_order": 5,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOD2",
+      "series_color": "#FF1423"
+    },
+    {
+      "id": 6,
+      "series_name": "テイルズ オブ シンフォニア",
+      "sort_order": 6,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOS",
+      "series_color": "#FF2208"
+    },
+    {
+      "id": 7,
+      "series_name": "テイルズ オブ リバース",
+      "sort_order": 7,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOR",
+      "series_color": "#A5E6FF"
+    },
+    {
+      "id": 8,
+      "series_name": "テイルズ オブ レジェンディア",
+      "sort_order": 8,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOL",
+      "series_color": "#5AD8DA"
+    },
+    {
+      "id": 9,
+      "series_name": "テイルズ オブ ジ アビス",
+      "sort_order": 9,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOA",
+      "series_color": "#FF5C0A"
+    },
+    {
+      "id": 10,
+      "series_name": "テイルズ オブ ザ テンペスト",
+      "sort_order": 10,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOT",
+      "series_color": "#FF863E"
+    },
+    {
+      "id": 11,
+      "series_name": "テイルズ オブ イノセンス R",
+      "sort_order": 11,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOI-R",
+      "series_color": "#FF3E46"
+    },
+    {
+      "id": 12,
+      "series_name": "テイルズ オブ シンフォニア -ラタトスクの騎士-",
+      "sort_order": 12,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOSR",
+      "series_color": "#32DCC8"
+    },
+    {
+      "id": 13,
+      "series_name": "テイルズ オブ ヴェスペリア",
+      "sort_order": 13,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOV",
+      "series_color": "#8C8CF4"
+    },
+    {
+      "id": 14,
+      "series_name": "テイルズ オブ ハーツ R",
+      "sort_order": 14,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOH-R",
+      "series_color": "#A2E4C8"
+    },
+    {
+      "id": 15,
+      "series_name": "テイルズ オブ グレイセス エフ",
+      "sort_order": 15,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOG-f",
+      "series_color": "#A0EEFF"
+    },
+    {
+      "id": 16,
+      "series_name": "テイルズ オブ エクシリア",
+      "sort_order": 16,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOX",
+      "series_color": "#8EE4B9"
+    },
+    {
+      "id": 17,
+      "series_name": "テイルズ オブ エクシリア2",
+      "sort_order": 17,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOX2",
+      "series_color": "#FF3C92"
+    },
+    {
+      "id": 18,
+      "series_name": "テイルズ オブ ゼスティリア",
+      "sort_order": 18,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOZ",
+      "series_color": "#8CAAFF"
+    },
+    {
+      "id": 19,
+      "series_name": "テイルズ オブ ベルセリア",
+      "sort_order": 19,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOB",
+      "series_color": "#FF6482"
+    },
+    {
+      "id": 20,
+      "series_name": "テイルズ オブ リンク",
+      "sort_order": 102,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOLink",
+      "series_color": "#648CFF"
+    },
+    {
+      "id": 21,
+      "series_name": "テイルズ オブ ザ ワールド レディアント マイソロジー",
+      "sort_order": 103,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TOWRM",
+      "series_color": "#5A90F0"
+    },
+    {
+      "id": 22,
+      "series_name": "テイルズ オブ ザ ワールド レディアント マイソロジー2",
+      "sort_order": 104,
+      "other_flag": false,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "TOWRM2",
+      "series_color": "#5A90F0"
+    },
+    {
+      "id": 23,
+      "series_name": "テイルズ オブ ザ ワールド レディアント マイソロジー3",
+      "sort_order": 105,
+      "other_flag": false,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "TOWRM3",
+      "series_color": "#5A90F0"
+    },
+    {
+      "id": 24,
+      "series_name": "テイルズ オブ ファンタジア なりきりダンジョンX",
+      "sort_order": 106,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "なりダンX",
+      "series_color": "#5EEA80"
+    },
+    {
+      "id": 26,
+      "series_name": "テイルズ オブ ザ ワールド レーヴ ユナイティア",
+      "sort_order": 109,
+      "other_flag": false,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "TOWRU",
+      "series_color": "#5A90F0"
+    },
+    {
+      "id": 27,
+      "series_name": "アイドルマスター ステラステージ（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 28,
+      "series_name": "VALKYRIE ANATOMIA THE ORIGIN（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "VA",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 29,
+      "series_name": "ソードアート・オンライン（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 30,
+      "series_name": "アイドルマスター シンデレラガールズ（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 31,
+      "series_name": "GOD EATER RESONANT OPS（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 32,
+      "series_name": "GOD EATER 3（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 33,
+      "series_name": "STAR OCEAN THE SECOND STORY（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 34,
+      "series_name": "銀魂（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2020-01-13T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 35,
+      "series_name": ".hack//G.U.（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 36,
+      "series_name": "スレイヤーズ（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 37,
+      "series_name": "<size=16>ダンジョンに出会いを求めるのは間違っているだろうかⅢ（コラボ作品）</size>",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 38,
+      "series_name": "ブラッククローバー（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 39,
+      "series_name": "GUILTY GEAR -STRIVE-（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:59.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 40,
+      "series_name": "テイルズ オブ アライズ",
+      "sort_order": 20,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#C8C8C8"
+    },
+    {
+      "id": 41,
+      "series_name": "TIGER ＆ BUNNY（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2021-12-22T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 42,
+      "series_name": "魔法陣グルグル（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2022-02-14T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 43,
+      "series_name": "テイルズ オブ クレストリア",
+      "sort_order": 108,
+      "other_flag": false,
+      "release_time": "2022-07-11T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#FF3640"
+    },
+    {
+      "id": 44,
+      "series_name": "テイルズ オブ アスタリア",
+      "sort_order": 107,
+      "other_flag": true,
+      "release_time": "2022-05-31T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#FF7A44"
+    },
+    {
+      "id": 45,
+      "series_name": "SCARLET NEXUS（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2023-02-17T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#FF0080"
+    },
+    {
+      "id": 46,
+      "series_name": "テイルズ オブ ザ レイズ リコレクション",
+      "sort_order": 124,
+      "other_flag": false,
+      "release_time": "2023-04-10T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#80FF80"
+    },
+    {
+      "id": 47,
+      "series_name": "ケロロ軍曹（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2023-06-30T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 48,
+      "series_name": "ゼノサーガ エピソードIII（コラボ作品）",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2023-12-28T05:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 200,
+      "series_name": "テイルズ オブ ザ レイズ フェアリーズ レクイエム",
+      "sort_order": 121,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 999,
+      "series_name": "その他",
+      "sort_order": 99999,
+      "other_flag": true,
+      "release_time": "2099-12-31T14:59:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 1001,
+      "series_name": "テイルズ オブ ザ レイズ ミラージュ プリズン",
+      "sort_order": 122,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "TORaysMP",
+      "series_color": "#64BEF0"
+    },
+    {
+      "id": 2001,
+      "series_name": "テイルズ オブ ザ レイズ フェアリーズ レクイエム",
+      "sort_order": 123,
+      "other_flag": false,
+      "release_time": "2014-12-31T15:00:00.0000000Z",
+      "alias_name": "",
+      "series_color": "#64BEF0"
+    }
+  ]
+}

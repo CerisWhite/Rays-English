@@ -1,0 +1,786 @@
+{
+  "xhash": "",
+  "mst_sound_data": [
+    {
+      "path": "sound/SE/SeqSE"
+    },
+    {
+      "path": "sound/BGM/EV_BGM"
+    },
+    {
+      "path": "sound/Voice/SYSTEM_VOICE"
+    },
+    {
+      "path": "sound/SE/SYSTEM_SE"
+    }
+  ],
+  "mst_sound_defines": [
+    {
+      "id": 11001,
+      "sheet": "SYSTEM_BGM",
+      "cue": ""
+    },
+    {
+      "id": 12002,
+      "sheet": "SYSTEM_SE",
+      "cue": ""
+    },
+    {
+      "id": 22001,
+      "sheet": "SeqSE",
+      "cue": "se_disappear"
+    },
+    {
+      "id": 22002,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_AROUND_STEP"
+    },
+    {
+      "id": 22003,
+      "sheet": "SeqSE",
+      "cue": "UNION_ARTS"
+    },
+    {
+      "id": 22004,
+      "sheet": "SeqSE",
+      "cue": "se_ArtsKidou01"
+    },
+    {
+      "id": 22005,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTLR_NOR_FLUNG_HIT_RM02"
+    },
+    {
+      "id": 22006,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTLR_NOR_GUARD_HIT_RM01"
+    },
+    {
+      "id": 22007,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_MAGIC_CHANT"
+    },
+    {
+      "id": 22008,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_MAGIC_INVOCATION"
+    },
+    {
+      "id": 22009,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_RECOVERY"
+    },
+    {
+      "id": 22010,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_ATK_CHARGE_01"
+    },
+    {
+      "id": 22011,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_WHO_SP_SPEEDIDOU_04"
+    },
+    {
+      "id": 22012,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_GUARD_CHARGE02"
+    },
+    {
+      "id": 22013,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_GUARD_CHARGE01"
+    },
+    {
+      "id": 22014,
+      "sheet": "SYSTEM_SE",
+      "cue": "ACCEPT"
+    },
+    {
+      "id": 22015,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_TUTORIAL_SUCCESS_01"
+    },
+    {
+      "id": 22016,
+      "sheet": "SYSTEM_SE",
+      "cue": "ACCEPT"
+    },
+    {
+      "id": 22017,
+      "sheet": "SYSTEM_SE",
+      "cue": "CANCEL"
+    },
+    {
+      "id": 22018,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_WHO_SP_SPEEDIDOU_03"
+    },
+    {
+      "id": 22019,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_GUARD_BREAK"
+    },
+    {
+      "id": 22020,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_AROUND_STEP"
+    },
+    {
+      "id": 22021,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_BACKSTEP"
+    },
+    {
+      "id": 22022,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTLR_NOR_GUARD_HIT_RM01"
+    },
+    {
+      "id": 22023,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_AROUND_STEP"
+    },
+    {
+      "id": 22024,
+      "sheet": "SeqSE",
+      "cue": "SEL_TL_BTL_EFF_MIN_SOUND_37"
+    },
+    {
+      "id": 22025,
+      "sheet": "SeqSE",
+      "cue": "SEL_TL_BTL_EFF_MIN_SOUND_63"
+    },
+    {
+      "id": 22026,
+      "sheet": "SeqSE",
+      "cue": "SE_HRBT_SYS_MYSTICARTMAX"
+    },
+    {
+      "id": 22027,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_WHO_SP_SPEEDIDOU_02"
+    },
+    {
+      "id": 22028,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_FLY_SLIP_02"
+    },
+    {
+      "id": 22029,
+      "sheet": "SeqSE",
+      "cue": "SE_HRBT_SYS_CRUSHING"
+    },
+    {
+      "id": 22030,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_PER_BACKSTEP"
+    },
+    {
+      "id": 23001,
+      "sheet": "",
+      "cue": "bt_02_01"
+    },
+    {
+      "id": 23002,
+      "sheet": "",
+      "cue": "bt_02_05"
+    },
+    {
+      "id": 23003,
+      "sheet": "",
+      "cue": "bt_05_01"
+    },
+    {
+      "id": 23004,
+      "sheet": "",
+      "cue": "bt_10_01"
+    },
+    {
+      "id": 23005,
+      "sheet": "",
+      "cue": "bt_02_06"
+    },
+    {
+      "id": 23006,
+      "sheet": "",
+      "cue": "bt_04_01"
+    },
+    {
+      "id": 23011,
+      "sheet": "",
+      "cue": "bt_06_01"
+    },
+    {
+      "id": 23012,
+      "sheet": "",
+      "cue": "bt_06_02"
+    },
+    {
+      "id": 23013,
+      "sheet": "",
+      "cue": "bt_06_03"
+    },
+    {
+      "id": 23014,
+      "sheet": "",
+      "cue": "bt_06_04"
+    },
+    {
+      "id": 23021,
+      "sheet": "",
+      "cue": "bt_13_01"
+    },
+    {
+      "id": 23022,
+      "sheet": "",
+      "cue": "bt_13_02"
+    },
+    {
+      "id": 23023,
+      "sheet": "",
+      "cue": "bt_13_03"
+    },
+    {
+      "id": 23024,
+      "sheet": "",
+      "cue": "bt_13_04"
+    },
+    {
+      "id": 23025,
+      "sheet": "",
+      "cue": "bt_13_05"
+    },
+    {
+      "id": 23031,
+      "sheet": "",
+      "cue": "bt_12_01"
+    },
+    {
+      "id": 23041,
+      "sheet": "",
+      "cue": "bt_17_02"
+    },
+    {
+      "id": 23042,
+      "sheet": "",
+      "cue": "bt_17_02"
+    },
+    {
+      "id": 23043,
+      "sheet": "",
+      "cue": "bt_17_03"
+    },
+    {
+      "id": 23044,
+      "sheet": "",
+      "cue": "bt_17_01"
+    },
+    {
+      "id": 24001,
+      "sheet": "",
+      "cue": "bt_13_03"
+    },
+    {
+      "id": 24002,
+      "sheet": "",
+      "cue": "bt_13_04"
+    },
+    {
+      "id": 24003,
+      "sheet": "",
+      "cue": "bt_18_07"
+    },
+    {
+      "id": 24004,
+      "sheet": "",
+      "cue": "bt_33_06"
+    },
+    {
+      "id": 24005,
+      "sheet": "",
+      "cue": "bt_32_01"
+    },
+    {
+      "id": 24006,
+      "sheet": "",
+      "cue": "bt_32_02"
+    },
+    {
+      "id": 24010,
+      "sheet": "",
+      "cue": "bt_07_05"
+    },
+    {
+      "id": 24011,
+      "sheet": "",
+      "cue": "bt_07_06"
+    },
+    {
+      "id": 24020,
+      "sheet": "",
+      "cue": "bt_33_06"
+    },
+    {
+      "id": 24021,
+      "sheet": "",
+      "cue": "bt_18_04"
+    },
+    {
+      "id": 24022,
+      "sheet": "",
+      "cue": "bt_04_01"
+    },
+    {
+      "id": 24030,
+      "sheet": "SeqSE",
+      "cue": "SE_HRBT_SYS_MYSTICARTMAX"
+    },
+    {
+      "id": 24031,
+      "sheet": "SeqSE",
+      "cue": "SEL_TO13_BTL_WHO_SP_SPEEDIDOU_02"
+    },
+    {
+      "id": 25001,
+      "sheet": "SeqSE",
+      "cue": "SE_EVENT_GG_COUNTER"
+    },
+    {
+      "id": 25002,
+      "sheet": "SeqSE",
+      "cue": "SE_EVENT_GG_COUNTER"
+    },
+    {
+      "id": 24031,
+      "sheet": "",
+      "cue": "bt_07_06"
+    },
+    {
+      "id": 24032,
+      "sheet": "",
+      "cue": "bt_07_07"
+    },
+    {
+      "id": 24033,
+      "sheet": "",
+      "cue": "bt_07_08"
+    },
+    {
+      "id": 24034,
+      "sheet": "",
+      "cue": "bt_07_09"
+    },
+    {
+      "id": 24035,
+      "sheet": "",
+      "cue": "bt_07_10"
+    }
+  ],
+  "mst_voice_data": [
+    {
+      "path": "sound/Voice/bt_Voice_034"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_156"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_175"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_108"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_139"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_003"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_004"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_073"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_085"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_074"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_133"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_043"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_005"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_162"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_163"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_006"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_193"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_209"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_095"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_178"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_179"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_040"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_041"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_007"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_008"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_158"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_210"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_046"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_134"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_057"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_047"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_135"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_112"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_009"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_010"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_128"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_093"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_011"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_116"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_044"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_129"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_096"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_012"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_166"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_165"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_152"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_064"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_121"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_055"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_208"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_118"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_013"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_194"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_195"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_160"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_105"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_014"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_035"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_015"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_016"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_056"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_045"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_062"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_063"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_170"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_224"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_172"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_098"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_071"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_072"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_019"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_020"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_052"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_094"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_021"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_042"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_104"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_075"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_159"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_048"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_168"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_169"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_100"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_024"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_025"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_076"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_039"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_145"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_026"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_053"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_111"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_027"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_028"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_049"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_029"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_097"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_086"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_017"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_051"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_106"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_070"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_206"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_018"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_225"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_197"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_030"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_115"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_102"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_103"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_058"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_022"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_023"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_149"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_199"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_198"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_153"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_212"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_090"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_033"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_091"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_089"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_031"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_077"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_050"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_107"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_032"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_036"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_078"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_061"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_037"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_081"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_038"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_060"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_082"
+    },
+    {
+      "path": "sound/Voice/bt_Voice_083"
+    }
+  ]
+}

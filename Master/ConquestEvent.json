@@ -1,0 +1,8115 @@
+{
+  "xhash": "",
+  "mst_conquest_events": [
+    {
+      "id": 365,
+      "mst_chapter_id": 365,
+      "name": "幻影攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 373,
+      "mst_chapter_id": 373,
+      "name": "ミトス攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 383,
+      "mst_chapter_id": 383,
+      "name": "妄執の禁術師",
+      "annotation": ""
+    },
+    {
+      "id": 386,
+      "mst_chapter_id": 386,
+      "name": "バルバトス攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 389,
+      "mst_chapter_id": 389,
+      "name": "運営からの挑戦状",
+      "annotation": ""
+    },
+    {
+      "id": 394,
+      "mst_chapter_id": 394,
+      "name": "フェイトフル・エンカウンター",
+      "annotation": ""
+    },
+    {
+      "id": 403,
+      "mst_chapter_id": 403,
+      "name": "ティル・ナ・ノーグ ハロウィン～バトルオアトリート～",
+      "annotation": ""
+    },
+    {
+      "id": 408,
+      "mst_chapter_id": 4082,
+      "name": "TALES M@STER シンデレラガールズ",
+      "annotation": ""
+    },
+    {
+      "id": 411,
+      "mst_chapter_id": 411,
+      "name": "芙蓉離宮陽動戦",
+      "annotation": ""
+    },
+    {
+      "id": 418,
+      "mst_chapter_id": 418,
+      "name": "ダオス攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 422,
+      "mst_chapter_id": 422,
+      "name": "エルレイン攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 431,
+      "mst_chapter_id": 431,
+      "name": "スターオーシャン：アナムネシス ExtraStory",
+      "annotation": ""
+    },
+    {
+      "id": 436,
+      "mst_chapter_id": 436,
+      "name": "攻略戦 デューク・バンタレイ",
+      "annotation": ""
+    },
+    {
+      "id": 445,
+      "mst_chapter_id": 445,
+      "name": "時の紡ぎ手と虚ろなる導き手",
+      "annotation": ""
+    },
+    {
+      "id": 451,
+      "mst_chapter_id": 451,
+      "name": "攻略戦 ラザリス",
+      "annotation": ""
+    },
+    {
+      "id": 4631,
+      "mst_chapter_id": 4631,
+      "name": "攻略戦 クリード",
+      "annotation": ""
+    },
+    {
+      "id": 4731,
+      "mst_chapter_id": 4731,
+      "name": "攻略戦 リトルクイーン",
+      "annotation": ""
+    },
+    {
+      "id": 476,
+      "mst_chapter_id": 476,
+      "name": "復刻 ダオス攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 4801,
+      "mst_chapter_id": 4801,
+      "name": "シグレ攻略戦",
+      "annotation": ""
+    },
+    {
+      "id": 482,
+      "mst_chapter_id": 4822,
+      "name": "復刻 TALES M@STER シンデレラガールズ",
+      "annotation": ""
+    },
+    {
+      "id": 4861,
+      "mst_chapter_id": 4861,
+      "name": "攻略戦ネビリム",
+      "annotation": ""
+    },
+    {
+      "id": 489,
+      "mst_chapter_id": 489,
+      "name": "復刻 攻略戦 デューク・バンタレイ",
+      "annotation": ""
+    },
+    {
+      "id": 4951,
+      "mst_chapter_id": 4951,
+      "name": ".hack//G.U.　Glorious Unreality　輝かしキ虚構",
+      "annotation": ""
+    },
+    {
+      "id": 501,
+      "mst_chapter_id": 501,
+      "name": "復刻 スターオーシャン：アナムネシス ExtraStory",
+      "annotation": ""
+    },
+    {
+      "id": 510,
+      "mst_chapter_id": 510,
+      "name": "スレイヤーズ　ついに登場！？　邪悪なる塔を統べる者！",
+      "annotation": ""
+    },
+    {
+      "id": 5261,
+      "mst_chapter_id": 5261,
+      "name": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ　追想の迷宮",
+      "annotation": ""
+    },
+    {
+      "id": 5301,
+      "mst_chapter_id": 5301,
+      "name": "攻略戦マグナディウエス",
+      "annotation": ""
+    },
+    {
+      "id": 536,
+      "mst_chapter_id": 536,
+      "name": "ブラッククローバー　限界を超えて",
+      "annotation": ""
+    },
+    {
+      "id": 5401,
+      "mst_chapter_id": 5401,
+      "name": "攻略戦サレ　嗜虐の嵐",
+      "annotation": ""
+    },
+    {
+      "id": 5431,
+      "mst_chapter_id": 5431,
+      "name": "想いつながる星誕祭",
+      "annotation": ""
+    },
+    {
+      "id": 5481,
+      "mst_chapter_id": 5481,
+      "name": "復刻 .hack//G.U.　Glorious Unreality　輝かしキ虚構",
+      "annotation": ""
+    },
+    {
+      "id": 553,
+      "mst_chapter_id": 553,
+      "name": "GUILTY GEAR -STRIVE-　Break the Nightmare",
+      "annotation": ""
+    },
+    {
+      "id": 1591,
+      "mst_chapter_id": 1591,
+      "name": "攻略戦ヘルダルフ　絶淵に立つ災禍",
+      "annotation": ""
+    },
+    {
+      "id": 1601,
+      "mst_chapter_id": 1601,
+      "name": "攻略戦アルトリウス　神天に座す導師",
+      "annotation": ""
+    },
+    {
+      "id": 5631,
+      "mst_chapter_id": 5631,
+      "name": "TIGER & BUNNY　ヒーローカーニバル",
+      "annotation": ""
+    },
+    {
+      "id": 5651,
+      "mst_chapter_id": 5651,
+      "name": "ガイアス攻略戦　覇王への挑戦",
+      "annotation": ""
+    },
+    {
+      "id": 572,
+      "mst_chapter_id": 572,
+      "name": "強敵たちの狂宴　―ユグドラシル降臨―",
+      "annotation": ""
+    },
+    {
+      "id": 5733,
+      "mst_chapter_id": 5733,
+      "name": "ミクトラン攻略戦　天上の暴君",
+      "annotation": ""
+    },
+    {
+      "id": 575,
+      "mst_chapter_id": 575,
+      "name": "強敵たちの狂宴　―ダオス ファイナルフォーム降臨―",
+      "annotation": ""
+    },
+    {
+      "id": 5791,
+      "mst_chapter_id": 5791,
+      "name": "銀魂　テイルズ オブる ザ レイズ2",
+      "annotation": ""
+    },
+    {
+      "id": 583,
+      "mst_chapter_id": 583,
+      "name": "Welcome to ティルグランド！　―光と星のパレード― ",
+      "annotation": ""
+    },
+    {
+      "id": 585,
+      "mst_chapter_id": 585,
+      "name": "英雄たちの行先　―TOS編―",
+      "annotation": ""
+    },
+    {
+      "id": 590,
+      "mst_chapter_id": 590,
+      "name": "英雄たちの行先　―TOHR編―",
+      "annotation": ""
+    },
+    {
+      "id": 594,
+      "mst_chapter_id": 594,
+      "name": "ソードアート・オンライン　ネヴァーエンド・テイルズ　―後編―",
+      "annotation": ""
+    },
+    {
+      "id": 5951,
+      "mst_chapter_id": 5951,
+      "name": "ビエゾ攻略戦　劫火の猛獣",
+      "annotation": ""
+    },
+    {
+      "id": 597,
+      "mst_chapter_id": 597,
+      "name": "強敵たちの狂宴　―デューク 降臨―",
+      "annotation": ""
+    },
+    {
+      "id": 651,
+      "mst_chapter_id": 651,
+      "name": "デミトリアス攻略戦　嘘を真実に",
+      "annotation": "ダオス、ヴァン、覇王ガイアス、アルトリウスを討伐すると\n最終ボスが出現します"
+    },
+    {
+      "id": 659,
+      "mst_chapter_id": 659,
+      "name": "スレイヤーズ　魔族大集合！？　陰謀渦巻く巨塔！",
+      "annotation": ""
+    },
+    {
+      "id": 661,
+      "mst_chapter_id": 661,
+      "name": "英雄たちの行先　―TOZ編―",
+      "annotation": ""
+    },
+    {
+      "id": 6641,
+      "mst_chapter_id": 6641,
+      "name": "天地災来　-漆黒のソーディアン-",
+      "annotation": ""
+    },
+    {
+      "id": 6661,
+      "mst_chapter_id": 6661,
+      "name": "英傑たちの標",
+      "annotation": ""
+    },
+    {
+      "id": 670,
+      "mst_chapter_id": 670,
+      "name": "英雄たちの行先　―TOB編―",
+      "annotation": ""
+    },
+    {
+      "id": 6731,
+      "mst_chapter_id": 6731,
+      "name": "GUILTY GEAR -STRIVE-　For the Wish",
+      "annotation": ""
+    },
+    {
+      "id": 6801,
+      "mst_chapter_id": 6801,
+      "name": "ケロロ軍曹　異世界侵略大作戦であります！",
+      "annotation": ""
+    },
+    {
+      "id": 6862,
+      "mst_chapter_id": 6862,
+      "name": "再誕の絆",
+      "annotation": ""
+    },
+    {
+      "id": 689,
+      "mst_chapter_id": 689,
+      "name": "強き想いを力に変えて―スタン　リオン　メルディ―",
+      "annotation": ""
+    },
+    {
+      "id": 691,
+      "mst_chapter_id": 691,
+      "name": "英雄たちの行先　―TOX編―",
+      "annotation": ""
+    },
+    {
+      "id": 693,
+      "mst_chapter_id": 693,
+      "name": "強き想いを力に変えて―ルーク　エミル　アニー　シャーリィ―",
+      "annotation": ""
+    },
+    {
+      "id": 697,
+      "mst_chapter_id": 697,
+      "name": "強き想いを力に変えて―アスベル　リチャード　イリア―",
+      "annotation": ""
+    },
+    {
+      "id": 6991,
+      "mst_chapter_id": 6991,
+      "name": "夜明けの彼方から",
+      "annotation": ""
+    },
+    {
+      "id": 700,
+      "mst_chapter_id": 700,
+      "name": "強き想いを力に変えて―ルドガー　エリーゼ　マギルゥ―",
+      "annotation": ""
+    },
+    {
+      "id": 7031,
+      "mst_chapter_id": 7031,
+      "name": "Xenosaga EPISODE Ⅲ　Another Protocol",
+      "annotation": ""
+    },
+    {
+      "id": 704,
+      "mst_chapter_id": 704,
+      "name": "強き想いを力に変えて―リッド　ファラ　ナナリー―",
+      "annotation": ""
+    },
+    {
+      "id": 708,
+      "mst_chapter_id": 708,
+      "name": "強き想いを力に変えて―ティア　ガイ　アニス―",
+      "annotation": ""
+    },
+    {
+      "id": 7161,
+      "mst_chapter_id": 7161,
+      "name": "宿命超えし星の物語",
+      "annotation": ""
+    },
+    {
+      "id": 717,
+      "mst_chapter_id": 717,
+      "name": "エルナト攻略戦～想い出を巡る物語～",
+      "annotation": ""
+    },
+    {
+      "id": 7221,
+      "mst_chapter_id": 7221,
+      "name": "メモリアル攻略戦第1弾",
+      "annotation": ""
+    },
+    {
+      "id": 7251,
+      "mst_chapter_id": 7251,
+      "name": "メモリアル攻略戦第2弾",
+      "annotation": ""
+    },
+    {
+      "id": 7271,
+      "mst_chapter_id": 7271,
+      "name": "メモリアル攻略戦第3弾",
+      "annotation": ""
+    }
+  ],
+  "mst_conquest_quests": [
+    {
+      "id": 365001,
+      "mst_conquest_boss_id": 3651,
+      "mst_quest_id": 365011,
+      "point": 10
+    },
+    {
+      "id": 365002,
+      "mst_conquest_boss_id": 3651,
+      "mst_quest_id": 365021,
+      "point": 30
+    },
+    {
+      "id": 365003,
+      "mst_conquest_boss_id": 3651,
+      "mst_quest_id": 365031,
+      "point": 80
+    },
+    {
+      "id": 365004,
+      "mst_conquest_boss_id": 3652,
+      "mst_quest_id": 365041,
+      "point": 10
+    },
+    {
+      "id": 365005,
+      "mst_conquest_boss_id": 3652,
+      "mst_quest_id": 365051,
+      "point": 30
+    },
+    {
+      "id": 365006,
+      "mst_conquest_boss_id": 3652,
+      "mst_quest_id": 365061,
+      "point": 80
+    },
+    {
+      "id": 365007,
+      "mst_conquest_boss_id": 3653,
+      "mst_quest_id": 365071,
+      "point": 10
+    },
+    {
+      "id": 365008,
+      "mst_conquest_boss_id": 3653,
+      "mst_quest_id": 365081,
+      "point": 30
+    },
+    {
+      "id": 365009,
+      "mst_conquest_boss_id": 3653,
+      "mst_quest_id": 365091,
+      "point": 80
+    },
+    {
+      "id": 365010,
+      "mst_conquest_boss_id": 3654,
+      "mst_quest_id": 365101,
+      "point": 10
+    },
+    {
+      "id": 365011,
+      "mst_conquest_boss_id": 3654,
+      "mst_quest_id": 365111,
+      "point": 30
+    },
+    {
+      "id": 365012,
+      "mst_conquest_boss_id": 3654,
+      "mst_quest_id": 365121,
+      "point": 80
+    },
+    {
+      "id": 373001,
+      "mst_conquest_boss_id": 3731,
+      "mst_quest_id": 373011,
+      "point": 5
+    },
+    {
+      "id": 373002,
+      "mst_conquest_boss_id": 3731,
+      "mst_quest_id": 373021,
+      "point": 15
+    },
+    {
+      "id": 373003,
+      "mst_conquest_boss_id": 3731,
+      "mst_quest_id": 373031,
+      "point": 40
+    },
+    {
+      "id": 373004,
+      "mst_conquest_boss_id": 3731,
+      "mst_quest_id": 373041,
+      "point": 200
+    },
+    {
+      "id": 383001,
+      "mst_conquest_boss_id": 3831,
+      "mst_quest_id": 383011,
+      "point": 90
+    },
+    {
+      "id": 383002,
+      "mst_conquest_boss_id": 3831,
+      "mst_quest_id": 383021,
+      "point": 160
+    },
+    {
+      "id": 383003,
+      "mst_conquest_boss_id": 3831,
+      "mst_quest_id": 383031,
+      "point": 360
+    },
+    {
+      "id": 383004,
+      "mst_conquest_boss_id": 3831,
+      "mst_quest_id": 383041,
+      "point": 1800
+    },
+    {
+      "id": 383005,
+      "mst_conquest_boss_id": 3832,
+      "mst_quest_id": 383051,
+      "point": 100
+    },
+    {
+      "id": 383006,
+      "mst_conquest_boss_id": 3832,
+      "mst_quest_id": 383061,
+      "point": 180
+    },
+    {
+      "id": 383007,
+      "mst_conquest_boss_id": 3832,
+      "mst_quest_id": 383071,
+      "point": 400
+    },
+    {
+      "id": 383008,
+      "mst_conquest_boss_id": 3832,
+      "mst_quest_id": 383081,
+      "point": 2000
+    },
+    {
+      "id": 386001,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386011,
+      "point": 90
+    },
+    {
+      "id": 386002,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386021,
+      "point": 160
+    },
+    {
+      "id": 386003,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386031,
+      "point": 360
+    },
+    {
+      "id": 386004,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386041,
+      "point": 1800
+    },
+    {
+      "id": 386005,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386051,
+      "point": 3000
+    },
+    {
+      "id": 386006,
+      "mst_conquest_boss_id": 3861,
+      "mst_quest_id": 386061,
+      "point": 1
+    },
+    {
+      "id": 389001,
+      "mst_conquest_boss_id": 3891,
+      "mst_quest_id": 389011,
+      "point": 300
+    },
+    {
+      "id": 389002,
+      "mst_conquest_boss_id": 3891,
+      "mst_quest_id": 389021,
+      "point": 500
+    },
+    {
+      "id": 389003,
+      "mst_conquest_boss_id": 3891,
+      "mst_quest_id": 389031,
+      "point": 1800
+    },
+    {
+      "id": 39401,
+      "mst_conquest_boss_id": 3941,
+      "mst_quest_id": 394011,
+      "point": 40
+    },
+    {
+      "id": 39402,
+      "mst_conquest_boss_id": 3941,
+      "mst_quest_id": 394021,
+      "point": 185
+    },
+    {
+      "id": 39403,
+      "mst_conquest_boss_id": 3941,
+      "mst_quest_id": 394031,
+      "point": 900
+    },
+    {
+      "id": 39404,
+      "mst_conquest_boss_id": 3942,
+      "mst_quest_id": 394041,
+      "point": 50
+    },
+    {
+      "id": 39405,
+      "mst_conquest_boss_id": 3942,
+      "mst_quest_id": 394051,
+      "point": 220
+    },
+    {
+      "id": 39406,
+      "mst_conquest_boss_id": 3942,
+      "mst_quest_id": 394061,
+      "point": 1080
+    },
+    {
+      "id": 39407,
+      "mst_conquest_boss_id": 3943,
+      "mst_quest_id": 394071,
+      "point": 60
+    },
+    {
+      "id": 39408,
+      "mst_conquest_boss_id": 3943,
+      "mst_quest_id": 394081,
+      "point": 255
+    },
+    {
+      "id": 39409,
+      "mst_conquest_boss_id": 3943,
+      "mst_quest_id": 394091,
+      "point": 1260
+    },
+    {
+      "id": 39410,
+      "mst_conquest_boss_id": 3944,
+      "mst_quest_id": 394101,
+      "point": 70
+    },
+    {
+      "id": 39411,
+      "mst_conquest_boss_id": 3944,
+      "mst_quest_id": 394111,
+      "point": 290
+    },
+    {
+      "id": 39412,
+      "mst_conquest_boss_id": 3944,
+      "mst_quest_id": 394121,
+      "point": 1440
+    },
+    {
+      "id": 39413,
+      "mst_conquest_boss_id": 3945,
+      "mst_quest_id": 394131,
+      "point": 80
+    },
+    {
+      "id": 39414,
+      "mst_conquest_boss_id": 3945,
+      "mst_quest_id": 394141,
+      "point": 325
+    },
+    {
+      "id": 39415,
+      "mst_conquest_boss_id": 3945,
+      "mst_quest_id": 394151,
+      "point": 1620
+    },
+    {
+      "id": 39416,
+      "mst_conquest_boss_id": 3945,
+      "mst_quest_id": 394161,
+      "point": 2700
+    },
+    {
+      "id": 39417,
+      "mst_conquest_boss_id": 3945,
+      "mst_quest_id": 394171,
+      "point": 1
+    },
+    {
+      "id": 39418,
+      "mst_conquest_boss_id": 3946,
+      "mst_quest_id": 394181,
+      "point": 90
+    },
+    {
+      "id": 39419,
+      "mst_conquest_boss_id": 3946,
+      "mst_quest_id": 394191,
+      "point": 360
+    },
+    {
+      "id": 39420,
+      "mst_conquest_boss_id": 3946,
+      "mst_quest_id": 394201,
+      "point": 1800
+    },
+    {
+      "id": 39421,
+      "mst_conquest_boss_id": 3946,
+      "mst_quest_id": 394211,
+      "point": 3000
+    },
+    {
+      "id": 39422,
+      "mst_conquest_boss_id": 3946,
+      "mst_quest_id": 394221,
+      "point": 1
+    },
+    {
+      "id": 40301,
+      "mst_conquest_boss_id": 4031,
+      "mst_quest_id": 403011,
+      "point": 60
+    },
+    {
+      "id": 40302,
+      "mst_conquest_boss_id": 4031,
+      "mst_quest_id": 403021,
+      "point": 185
+    },
+    {
+      "id": 40303,
+      "mst_conquest_boss_id": 4031,
+      "mst_quest_id": 403031,
+      "point": 800
+    },
+    {
+      "id": 40304,
+      "mst_conquest_boss_id": 4032,
+      "mst_quest_id": 403041,
+      "point": 70
+    },
+    {
+      "id": 40305,
+      "mst_conquest_boss_id": 4032,
+      "mst_quest_id": 403051,
+      "point": 255
+    },
+    {
+      "id": 40306,
+      "mst_conquest_boss_id": 4032,
+      "mst_quest_id": 403061,
+      "point": 950
+    },
+    {
+      "id": 40307,
+      "mst_conquest_boss_id": 4033,
+      "mst_quest_id": 403071,
+      "point": 80
+    },
+    {
+      "id": 40308,
+      "mst_conquest_boss_id": 4033,
+      "mst_quest_id": 403081,
+      "point": 290
+    },
+    {
+      "id": 40309,
+      "mst_conquest_boss_id": 4033,
+      "mst_quest_id": 403091,
+      "point": 1440
+    },
+    {
+      "id": 40310,
+      "mst_conquest_boss_id": 4034,
+      "mst_quest_id": 403101,
+      "point": 90
+    },
+    {
+      "id": 40311,
+      "mst_conquest_boss_id": 4034,
+      "mst_quest_id": 403111,
+      "point": 325
+    },
+    {
+      "id": 40312,
+      "mst_conquest_boss_id": 4034,
+      "mst_quest_id": 403121,
+      "point": 1620
+    },
+    {
+      "id": 40313,
+      "mst_conquest_boss_id": 4034,
+      "mst_quest_id": 403131,
+      "point": 2700
+    },
+    {
+      "id": 40314,
+      "mst_conquest_boss_id": 4034,
+      "mst_quest_id": 403141,
+      "point": 1
+    },
+    {
+      "id": 40315,
+      "mst_conquest_boss_id": 4035,
+      "mst_quest_id": 403151,
+      "point": 100
+    },
+    {
+      "id": 40316,
+      "mst_conquest_boss_id": 4035,
+      "mst_quest_id": 403161,
+      "point": 360
+    },
+    {
+      "id": 40317,
+      "mst_conquest_boss_id": 4035,
+      "mst_quest_id": 403171,
+      "point": 1800
+    },
+    {
+      "id": 40318,
+      "mst_conquest_boss_id": 4035,
+      "mst_quest_id": 403181,
+      "point": 3000
+    },
+    {
+      "id": 40319,
+      "mst_conquest_boss_id": 4035,
+      "mst_quest_id": 403191,
+      "point": 1
+    },
+    {
+      "id": 40801,
+      "mst_conquest_boss_id": 4081,
+      "mst_quest_id": 4082011,
+      "point": 60
+    },
+    {
+      "id": 40802,
+      "mst_conquest_boss_id": 4081,
+      "mst_quest_id": 4082021,
+      "point": 185
+    },
+    {
+      "id": 40803,
+      "mst_conquest_boss_id": 4081,
+      "mst_quest_id": 4082031,
+      "point": 800
+    },
+    {
+      "id": 40804,
+      "mst_conquest_boss_id": 4082,
+      "mst_quest_id": 4082041,
+      "point": 70
+    },
+    {
+      "id": 40805,
+      "mst_conquest_boss_id": 4082,
+      "mst_quest_id": 4082051,
+      "point": 255
+    },
+    {
+      "id": 40806,
+      "mst_conquest_boss_id": 4082,
+      "mst_quest_id": 4082061,
+      "point": 950
+    },
+    {
+      "id": 40807,
+      "mst_conquest_boss_id": 4083,
+      "mst_quest_id": 4082071,
+      "point": 90
+    },
+    {
+      "id": 40808,
+      "mst_conquest_boss_id": 4083,
+      "mst_quest_id": 4082081,
+      "point": 325
+    },
+    {
+      "id": 40809,
+      "mst_conquest_boss_id": 4083,
+      "mst_quest_id": 4082091,
+      "point": 1620
+    },
+    {
+      "id": 40810,
+      "mst_conquest_boss_id": 4083,
+      "mst_quest_id": 4082101,
+      "point": 2700
+    },
+    {
+      "id": 40811,
+      "mst_conquest_boss_id": 4083,
+      "mst_quest_id": 4082111,
+      "point": 1
+    },
+    {
+      "id": 41101,
+      "mst_conquest_boss_id": 4111,
+      "mst_quest_id": 411011,
+      "point": 90
+    },
+    {
+      "id": 41102,
+      "mst_conquest_boss_id": 4111,
+      "mst_quest_id": 411021,
+      "point": 325
+    },
+    {
+      "id": 41103,
+      "mst_conquest_boss_id": 4111,
+      "mst_quest_id": 411031,
+      "point": 1620
+    },
+    {
+      "id": 41104,
+      "mst_conquest_boss_id": 4111,
+      "mst_quest_id": 411041,
+      "point": 2700
+    },
+    {
+      "id": 41105,
+      "mst_conquest_boss_id": 4111,
+      "mst_quest_id": 411051,
+      "point": 1
+    },
+    {
+      "id": 41106,
+      "mst_conquest_boss_id": 4112,
+      "mst_quest_id": 411061,
+      "point": 90
+    },
+    {
+      "id": 41107,
+      "mst_conquest_boss_id": 4112,
+      "mst_quest_id": 411071,
+      "point": 325
+    },
+    {
+      "id": 41108,
+      "mst_conquest_boss_id": 4112,
+      "mst_quest_id": 411081,
+      "point": 1620
+    },
+    {
+      "id": 41109,
+      "mst_conquest_boss_id": 4112,
+      "mst_quest_id": 411091,
+      "point": 2700
+    },
+    {
+      "id": 41110,
+      "mst_conquest_boss_id": 4112,
+      "mst_quest_id": 411101,
+      "point": 1
+    },
+    {
+      "id": 41111,
+      "mst_conquest_boss_id": 4113,
+      "mst_quest_id": 411111,
+      "point": 90
+    },
+    {
+      "id": 41112,
+      "mst_conquest_boss_id": 4113,
+      "mst_quest_id": 411121,
+      "point": 325
+    },
+    {
+      "id": 41113,
+      "mst_conquest_boss_id": 4113,
+      "mst_quest_id": 411131,
+      "point": 1620
+    },
+    {
+      "id": 41114,
+      "mst_conquest_boss_id": 4113,
+      "mst_quest_id": 411141,
+      "point": 2700
+    },
+    {
+      "id": 41115,
+      "mst_conquest_boss_id": 4113,
+      "mst_quest_id": 411151,
+      "point": 1
+    },
+    {
+      "id": 418001,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418011,
+      "point": 90
+    },
+    {
+      "id": 418002,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418021,
+      "point": 160
+    },
+    {
+      "id": 418003,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418031,
+      "point": 360
+    },
+    {
+      "id": 418004,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418041,
+      "point": 1800
+    },
+    {
+      "id": 418005,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418051,
+      "point": 3000
+    },
+    {
+      "id": 418006,
+      "mst_conquest_boss_id": 4181,
+      "mst_quest_id": 418061,
+      "point": 1
+    },
+    {
+      "id": 422001,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422011,
+      "point": 90
+    },
+    {
+      "id": 422002,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422021,
+      "point": 160
+    },
+    {
+      "id": 422003,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422031,
+      "point": 360
+    },
+    {
+      "id": 422004,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422041,
+      "point": 1800
+    },
+    {
+      "id": 422005,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422051,
+      "point": 3000
+    },
+    {
+      "id": 422006,
+      "mst_conquest_boss_id": 4221,
+      "mst_quest_id": 422061,
+      "point": 1
+    },
+    {
+      "id": 43101,
+      "mst_conquest_boss_id": 4311,
+      "mst_quest_id": 431011,
+      "point": 665
+    },
+    {
+      "id": 43102,
+      "mst_conquest_boss_id": 4311,
+      "mst_quest_id": 431021,
+      "point": 997
+    },
+    {
+      "id": 43103,
+      "mst_conquest_boss_id": 4311,
+      "mst_quest_id": 431031,
+      "point": 1330
+    },
+    {
+      "id": 43104,
+      "mst_conquest_boss_id": 4312,
+      "mst_quest_id": 431041,
+      "point": 1008
+    },
+    {
+      "id": 43105,
+      "mst_conquest_boss_id": 4312,
+      "mst_quest_id": 431051,
+      "point": 1344
+    },
+    {
+      "id": 43106,
+      "mst_conquest_boss_id": 4312,
+      "mst_quest_id": 431061,
+      "point": 1680
+    },
+    {
+      "id": 43107,
+      "mst_conquest_boss_id": 4313,
+      "mst_quest_id": 431071,
+      "point": 1358
+    },
+    {
+      "id": 43108,
+      "mst_conquest_boss_id": 4313,
+      "mst_quest_id": 431081,
+      "point": 1697
+    },
+    {
+      "id": 43109,
+      "mst_conquest_boss_id": 4313,
+      "mst_quest_id": 431091,
+      "point": 2037
+    },
+    {
+      "id": 43110,
+      "mst_conquest_boss_id": 4314,
+      "mst_quest_id": 431101,
+      "point": 1715
+    },
+    {
+      "id": 43111,
+      "mst_conquest_boss_id": 4314,
+      "mst_quest_id": 431111,
+      "point": 2058
+    },
+    {
+      "id": 43112,
+      "mst_conquest_boss_id": 4314,
+      "mst_quest_id": 431121,
+      "point": 2401
+    },
+    {
+      "id": 43113,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431131,
+      "point": 2079
+    },
+    {
+      "id": 43114,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431141,
+      "point": 2425
+    },
+    {
+      "id": 43115,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431151,
+      "point": 2772
+    },
+    {
+      "id": 43116,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431161,
+      "point": 2800
+    },
+    {
+      "id": 43117,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431171,
+      "point": 3080
+    },
+    {
+      "id": 43118,
+      "mst_conquest_boss_id": 4315,
+      "mst_quest_id": 431181,
+      "point": 1
+    },
+    {
+      "id": 436001,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436011,
+      "point": 490
+    },
+    {
+      "id": 436002,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436021,
+      "point": 840
+    },
+    {
+      "id": 436003,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436031,
+      "point": 1260
+    },
+    {
+      "id": 436004,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436041,
+      "point": 2800
+    },
+    {
+      "id": 436005,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436051,
+      "point": 3080
+    },
+    {
+      "id": 436006,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436061,
+      "point": 3080
+    },
+    {
+      "id": 436007,
+      "mst_conquest_boss_id": 4361,
+      "mst_quest_id": 436071,
+      "point": 1
+    },
+    {
+      "id": 44501,
+      "mst_conquest_boss_id": 4451,
+      "mst_quest_id": 445011,
+      "point": 665
+    },
+    {
+      "id": 44502,
+      "mst_conquest_boss_id": 4451,
+      "mst_quest_id": 445021,
+      "point": 997
+    },
+    {
+      "id": 44503,
+      "mst_conquest_boss_id": 4451,
+      "mst_quest_id": 445031,
+      "point": 1330
+    },
+    {
+      "id": 44504,
+      "mst_conquest_boss_id": 4451,
+      "mst_quest_id": 445041,
+      "point": 1662
+    },
+    {
+      "id": 44505,
+      "mst_conquest_boss_id": 4452,
+      "mst_quest_id": 445051,
+      "point": 1008
+    },
+    {
+      "id": 44506,
+      "mst_conquest_boss_id": 4452,
+      "mst_quest_id": 445061,
+      "point": 1344
+    },
+    {
+      "id": 44507,
+      "mst_conquest_boss_id": 4452,
+      "mst_quest_id": 445071,
+      "point": 1680
+    },
+    {
+      "id": 44508,
+      "mst_conquest_boss_id": 4452,
+      "mst_quest_id": 445081,
+      "point": 2016
+    },
+    {
+      "id": 44509,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445091,
+      "point": 1697
+    },
+    {
+      "id": 44510,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445101,
+      "point": 2037
+    },
+    {
+      "id": 44511,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445111,
+      "point": 2376
+    },
+    {
+      "id": 44512,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445121,
+      "point": 2716
+    },
+    {
+      "id": 44513,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445131,
+      "point": 2772
+    },
+    {
+      "id": 44514,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445141,
+      "point": 2772
+    },
+    {
+      "id": 44515,
+      "mst_conquest_boss_id": 4453,
+      "mst_quest_id": 445151,
+      "point": 1
+    },
+    {
+      "id": 45101,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450061,
+      "point": 1697
+    },
+    {
+      "id": 45102,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450071,
+      "point": 2037
+    },
+    {
+      "id": 45103,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450081,
+      "point": 2376
+    },
+    {
+      "id": 45104,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450091,
+      "point": 2716
+    },
+    {
+      "id": 45105,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450101,
+      "point": 2772
+    },
+    {
+      "id": 45106,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450111,
+      "point": 2772
+    },
+    {
+      "id": 45107,
+      "mst_conquest_boss_id": 4511,
+      "mst_quest_id": 450121,
+      "point": 1
+    },
+    {
+      "id": 463101,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463111,
+      "point": 1697
+    },
+    {
+      "id": 463102,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463121,
+      "point": 2037
+    },
+    {
+      "id": 463103,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463131,
+      "point": 2376
+    },
+    {
+      "id": 463104,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463141,
+      "point": 2716
+    },
+    {
+      "id": 463105,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463151,
+      "point": 2772
+    },
+    {
+      "id": 463106,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463161,
+      "point": 2772
+    },
+    {
+      "id": 463107,
+      "mst_conquest_boss_id": 4631,
+      "mst_quest_id": 463171,
+      "point": 1
+    },
+    {
+      "id": 473101,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473111,
+      "point": 1697
+    },
+    {
+      "id": 473102,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473121,
+      "point": 2037
+    },
+    {
+      "id": 473103,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473131,
+      "point": 2376
+    },
+    {
+      "id": 473104,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473141,
+      "point": 2716
+    },
+    {
+      "id": 473105,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473151,
+      "point": 2772
+    },
+    {
+      "id": 473106,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473161,
+      "point": 2772
+    },
+    {
+      "id": 473107,
+      "mst_conquest_boss_id": 4731,
+      "mst_quest_id": 473171,
+      "point": 1
+    },
+    {
+      "id": 476001,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476011,
+      "point": 1697
+    },
+    {
+      "id": 476002,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476021,
+      "point": 2545
+    },
+    {
+      "id": 476003,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476031,
+      "point": 3394
+    },
+    {
+      "id": 476004,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476041,
+      "point": 6788
+    },
+    {
+      "id": 476005,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476051,
+      "point": 6788
+    },
+    {
+      "id": 476006,
+      "mst_conquest_boss_id": 476,
+      "mst_quest_id": 476061,
+      "point": 1
+    },
+    {
+      "id": 480101,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480111,
+      "point": 1697
+    },
+    {
+      "id": 480102,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480121,
+      "point": 2037
+    },
+    {
+      "id": 480103,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480131,
+      "point": 2376
+    },
+    {
+      "id": 480104,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480141,
+      "point": 2716
+    },
+    {
+      "id": 480105,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480151,
+      "point": 2772
+    },
+    {
+      "id": 480106,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480161,
+      "point": 2772
+    },
+    {
+      "id": 480107,
+      "mst_conquest_boss_id": 4801,
+      "mst_quest_id": 480171,
+      "point": 1
+    },
+    {
+      "id": 48201,
+      "mst_conquest_boss_id": 4821,
+      "mst_quest_id": 4822011,
+      "point": 60
+    },
+    {
+      "id": 48202,
+      "mst_conquest_boss_id": 4821,
+      "mst_quest_id": 4822021,
+      "point": 185
+    },
+    {
+      "id": 48203,
+      "mst_conquest_boss_id": 4821,
+      "mst_quest_id": 4822031,
+      "point": 800
+    },
+    {
+      "id": 48204,
+      "mst_conquest_boss_id": 4822,
+      "mst_quest_id": 4822041,
+      "point": 70
+    },
+    {
+      "id": 48205,
+      "mst_conquest_boss_id": 4822,
+      "mst_quest_id": 4822051,
+      "point": 255
+    },
+    {
+      "id": 48206,
+      "mst_conquest_boss_id": 4822,
+      "mst_quest_id": 4822061,
+      "point": 950
+    },
+    {
+      "id": 48207,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822071,
+      "point": 90
+    },
+    {
+      "id": 48208,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822081,
+      "point": 325
+    },
+    {
+      "id": 48209,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822091,
+      "point": 2000
+    },
+    {
+      "id": 48210,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822101,
+      "point": 2700
+    },
+    {
+      "id": 48211,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822111,
+      "point": 1
+    },
+    {
+      "id": 48212,
+      "mst_conquest_boss_id": 4821,
+      "mst_quest_id": 4822121,
+      "point": 1000
+    },
+    {
+      "id": 48213,
+      "mst_conquest_boss_id": 4822,
+      "mst_quest_id": 4822131,
+      "point": 1500
+    },
+    {
+      "id": 48214,
+      "mst_conquest_boss_id": 4823,
+      "mst_quest_id": 4822141,
+      "point": 2200
+    },
+    {
+      "id": 486101,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486111,
+      "point": 1697
+    },
+    {
+      "id": 486102,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486121,
+      "point": 2037
+    },
+    {
+      "id": 486103,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486131,
+      "point": 2376
+    },
+    {
+      "id": 486104,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486141,
+      "point": 2716
+    },
+    {
+      "id": 486105,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486151,
+      "point": 2772
+    },
+    {
+      "id": 486106,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486161,
+      "point": 2772
+    },
+    {
+      "id": 486107,
+      "mst_conquest_boss_id": 4861,
+      "mst_quest_id": 486171,
+      "point": 1
+    },
+    {
+      "id": 489001,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489011,
+      "point": 490
+    },
+    {
+      "id": 489002,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489021,
+      "point": 840
+    },
+    {
+      "id": 489003,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489031,
+      "point": 1260
+    },
+    {
+      "id": 489004,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489041,
+      "point": 2800
+    },
+    {
+      "id": 489005,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489051,
+      "point": 3080
+    },
+    {
+      "id": 489006,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489061,
+      "point": 3080
+    },
+    {
+      "id": 489007,
+      "mst_conquest_boss_id": 4891,
+      "mst_quest_id": 489071,
+      "point": 1
+    },
+    {
+      "id": 495101,
+      "mst_conquest_boss_id": 4951,
+      "mst_quest_id": 495041,
+      "point": 1697
+    },
+    {
+      "id": 495102,
+      "mst_conquest_boss_id": 4951,
+      "mst_quest_id": 495051,
+      "point": 2037
+    },
+    {
+      "id": 495103,
+      "mst_conquest_boss_id": 4951,
+      "mst_quest_id": 495061,
+      "point": 2376
+    },
+    {
+      "id": 495104,
+      "mst_conquest_boss_id": 4951,
+      "mst_quest_id": 495071,
+      "point": 2716
+    },
+    {
+      "id": 495105,
+      "mst_conquest_boss_id": 4952,
+      "mst_quest_id": 495081,
+      "point": 1732
+    },
+    {
+      "id": 495106,
+      "mst_conquest_boss_id": 4952,
+      "mst_quest_id": 495091,
+      "point": 2079
+    },
+    {
+      "id": 495107,
+      "mst_conquest_boss_id": 4952,
+      "mst_quest_id": 495101,
+      "point": 2425
+    },
+    {
+      "id": 495108,
+      "mst_conquest_boss_id": 4952,
+      "mst_quest_id": 495111,
+      "point": 2772
+    },
+    {
+      "id": 495109,
+      "mst_conquest_boss_id": 4953,
+      "mst_quest_id": 495121,
+      "point": 1732
+    },
+    {
+      "id": 495110,
+      "mst_conquest_boss_id": 4953,
+      "mst_quest_id": 495131,
+      "point": 2079
+    },
+    {
+      "id": 495111,
+      "mst_conquest_boss_id": 4953,
+      "mst_quest_id": 495141,
+      "point": 2425
+    },
+    {
+      "id": 495112,
+      "mst_conquest_boss_id": 4953,
+      "mst_quest_id": 495151,
+      "point": 2772
+    },
+    {
+      "id": 495113,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495161,
+      "point": 1732
+    },
+    {
+      "id": 495114,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495171,
+      "point": 2079
+    },
+    {
+      "id": 495115,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495181,
+      "point": 2425
+    },
+    {
+      "id": 495116,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495191,
+      "point": 2772
+    },
+    {
+      "id": 495117,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495201,
+      "point": 2772
+    },
+    {
+      "id": 495118,
+      "mst_conquest_boss_id": 4954,
+      "mst_quest_id": 495211,
+      "point": 69
+    },
+    {
+      "id": 50101,
+      "mst_conquest_boss_id": 5011,
+      "mst_quest_id": 501011,
+      "point": 665
+    },
+    {
+      "id": 50102,
+      "mst_conquest_boss_id": 5011,
+      "mst_quest_id": 501021,
+      "point": 997
+    },
+    {
+      "id": 50103,
+      "mst_conquest_boss_id": 5011,
+      "mst_quest_id": 501031,
+      "point": 1330
+    },
+    {
+      "id": 50104,
+      "mst_conquest_boss_id": 5012,
+      "mst_quest_id": 501041,
+      "point": 1008
+    },
+    {
+      "id": 50105,
+      "mst_conquest_boss_id": 5012,
+      "mst_quest_id": 501051,
+      "point": 1344
+    },
+    {
+      "id": 50106,
+      "mst_conquest_boss_id": 5012,
+      "mst_quest_id": 501061,
+      "point": 1680
+    },
+    {
+      "id": 50107,
+      "mst_conquest_boss_id": 5013,
+      "mst_quest_id": 501071,
+      "point": 1358
+    },
+    {
+      "id": 50108,
+      "mst_conquest_boss_id": 5013,
+      "mst_quest_id": 501081,
+      "point": 1697
+    },
+    {
+      "id": 50109,
+      "mst_conquest_boss_id": 5013,
+      "mst_quest_id": 501091,
+      "point": 2037
+    },
+    {
+      "id": 50110,
+      "mst_conquest_boss_id": 5014,
+      "mst_quest_id": 501101,
+      "point": 1715
+    },
+    {
+      "id": 50111,
+      "mst_conquest_boss_id": 5014,
+      "mst_quest_id": 501111,
+      "point": 2058
+    },
+    {
+      "id": 50112,
+      "mst_conquest_boss_id": 5014,
+      "mst_quest_id": 501121,
+      "point": 2401
+    },
+    {
+      "id": 50113,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501131,
+      "point": 2079
+    },
+    {
+      "id": 50114,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501141,
+      "point": 2425
+    },
+    {
+      "id": 50115,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501151,
+      "point": 2772
+    },
+    {
+      "id": 50116,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501161,
+      "point": 2800
+    },
+    {
+      "id": 50117,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501171,
+      "point": 3080
+    },
+    {
+      "id": 50118,
+      "mst_conquest_boss_id": 5015,
+      "mst_quest_id": 501181,
+      "point": 1
+    },
+    {
+      "id": 510001,
+      "mst_conquest_boss_id": 5101,
+      "mst_quest_id": 510011,
+      "point": 1697
+    },
+    {
+      "id": 510002,
+      "mst_conquest_boss_id": 5101,
+      "mst_quest_id": 510021,
+      "point": 2037
+    },
+    {
+      "id": 510003,
+      "mst_conquest_boss_id": 5101,
+      "mst_quest_id": 510031,
+      "point": 2376
+    },
+    {
+      "id": 510004,
+      "mst_conquest_boss_id": 5101,
+      "mst_quest_id": 510041,
+      "point": 2716
+    },
+    {
+      "id": 510005,
+      "mst_conquest_boss_id": 5102,
+      "mst_quest_id": 510051,
+      "point": 1732
+    },
+    {
+      "id": 510006,
+      "mst_conquest_boss_id": 5102,
+      "mst_quest_id": 510061,
+      "point": 2079
+    },
+    {
+      "id": 510007,
+      "mst_conquest_boss_id": 5102,
+      "mst_quest_id": 510071,
+      "point": 2425
+    },
+    {
+      "id": 510008,
+      "mst_conquest_boss_id": 5102,
+      "mst_quest_id": 510081,
+      "point": 2772
+    },
+    {
+      "id": 510009,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510091,
+      "point": 1732
+    },
+    {
+      "id": 510010,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510101,
+      "point": 2079
+    },
+    {
+      "id": 510011,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510111,
+      "point": 2425
+    },
+    {
+      "id": 510012,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510121,
+      "point": 2772
+    },
+    {
+      "id": 510013,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510131,
+      "point": 2772
+    },
+    {
+      "id": 510014,
+      "mst_conquest_boss_id": 5103,
+      "mst_quest_id": 510141,
+      "point": 69
+    },
+    {
+      "id": 526101,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526111,
+      "point": 1697
+    },
+    {
+      "id": 526102,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526121,
+      "point": 2037
+    },
+    {
+      "id": 526103,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526131,
+      "point": 2376
+    },
+    {
+      "id": 526104,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526141,
+      "point": 2716
+    },
+    {
+      "id": 526105,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526151,
+      "point": 2772
+    },
+    {
+      "id": 526106,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526161,
+      "point": 2772
+    },
+    {
+      "id": 526107,
+      "mst_conquest_boss_id": 5261,
+      "mst_quest_id": 526171,
+      "point": 1
+    },
+    {
+      "id": 530101,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530111,
+      "point": 1697
+    },
+    {
+      "id": 530102,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530121,
+      "point": 2037
+    },
+    {
+      "id": 530103,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530131,
+      "point": 2376
+    },
+    {
+      "id": 530104,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530141,
+      "point": 2716
+    },
+    {
+      "id": 530105,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530151,
+      "point": 3603
+    },
+    {
+      "id": 530106,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530161,
+      "point": 3603
+    },
+    {
+      "id": 530107,
+      "mst_conquest_boss_id": 5301,
+      "mst_quest_id": 530171,
+      "point": 1
+    },
+    {
+      "id": 536001,
+      "mst_conquest_boss_id": 5361,
+      "mst_quest_id": 536011,
+      "point": 1697
+    },
+    {
+      "id": 536002,
+      "mst_conquest_boss_id": 5361,
+      "mst_quest_id": 536021,
+      "point": 2037
+    },
+    {
+      "id": 536003,
+      "mst_conquest_boss_id": 5361,
+      "mst_quest_id": 536031,
+      "point": 2376
+    },
+    {
+      "id": 536004,
+      "mst_conquest_boss_id": 5361,
+      "mst_quest_id": 536041,
+      "point": 2716
+    },
+    {
+      "id": 536005,
+      "mst_conquest_boss_id": 5362,
+      "mst_quest_id": 536051,
+      "point": 1732
+    },
+    {
+      "id": 536006,
+      "mst_conquest_boss_id": 5362,
+      "mst_quest_id": 536061,
+      "point": 2079
+    },
+    {
+      "id": 536007,
+      "mst_conquest_boss_id": 5362,
+      "mst_quest_id": 536071,
+      "point": 2425
+    },
+    {
+      "id": 536008,
+      "mst_conquest_boss_id": 5362,
+      "mst_quest_id": 536081,
+      "point": 2772
+    },
+    {
+      "id": 536009,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536091,
+      "point": 1838
+    },
+    {
+      "id": 536010,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536101,
+      "point": 2310
+    },
+    {
+      "id": 536011,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536111,
+      "point": 2818
+    },
+    {
+      "id": 536012,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536121,
+      "point": 3360
+    },
+    {
+      "id": 536013,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536131,
+      "point": 3640
+    },
+    {
+      "id": 536014,
+      "mst_conquest_boss_id": 5363,
+      "mst_quest_id": 536141,
+      "point": 69
+    },
+    {
+      "id": 540101,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540111,
+      "point": 1697
+    },
+    {
+      "id": 540102,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540121,
+      "point": 2037
+    },
+    {
+      "id": 540103,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540131,
+      "point": 2376
+    },
+    {
+      "id": 540104,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540141,
+      "point": 2716
+    },
+    {
+      "id": 540105,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540151,
+      "point": 2772
+    },
+    {
+      "id": 540106,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540161,
+      "point": 2772
+    },
+    {
+      "id": 540107,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540171,
+      "point": 1
+    },
+    {
+      "id": 540108,
+      "mst_conquest_boss_id": 5401,
+      "mst_quest_id": 540181,
+      "point": 1
+    },
+    {
+      "id": 543101,
+      "mst_conquest_boss_id": 5431,
+      "mst_quest_id": 5431011,
+      "point": 1697
+    },
+    {
+      "id": 543102,
+      "mst_conquest_boss_id": 5431,
+      "mst_quest_id": 5431021,
+      "point": 2037
+    },
+    {
+      "id": 543103,
+      "mst_conquest_boss_id": 5431,
+      "mst_quest_id": 5431031,
+      "point": 2716
+    },
+    {
+      "id": 543104,
+      "mst_conquest_boss_id": 5431,
+      "mst_quest_id": 5431041,
+      "point": 5432
+    },
+    {
+      "id": 543105,
+      "mst_conquest_boss_id": 5432,
+      "mst_quest_id": 5431051,
+      "point": 1748
+    },
+    {
+      "id": 543106,
+      "mst_conquest_boss_id": 5432,
+      "mst_quest_id": 5431061,
+      "point": 2098
+    },
+    {
+      "id": 543107,
+      "mst_conquest_boss_id": 5432,
+      "mst_quest_id": 5431071,
+      "point": 2797
+    },
+    {
+      "id": 543108,
+      "mst_conquest_boss_id": 5432,
+      "mst_quest_id": 5431081,
+      "point": 5595
+    },
+    {
+      "id": 543109,
+      "mst_conquest_boss_id": 5433,
+      "mst_quest_id": 5431091,
+      "point": 1799
+    },
+    {
+      "id": 543110,
+      "mst_conquest_boss_id": 5433,
+      "mst_quest_id": 5431101,
+      "point": 2159
+    },
+    {
+      "id": 543111,
+      "mst_conquest_boss_id": 5433,
+      "mst_quest_id": 5431111,
+      "point": 2879
+    },
+    {
+      "id": 543112,
+      "mst_conquest_boss_id": 5433,
+      "mst_quest_id": 5431121,
+      "point": 5758
+    },
+    {
+      "id": 543113,
+      "mst_conquest_boss_id": 5434,
+      "mst_quest_id": 5431131,
+      "point": 1867
+    },
+    {
+      "id": 543114,
+      "mst_conquest_boss_id": 5434,
+      "mst_quest_id": 5431141,
+      "point": 2241
+    },
+    {
+      "id": 543115,
+      "mst_conquest_boss_id": 5434,
+      "mst_quest_id": 5431151,
+      "point": 2988
+    },
+    {
+      "id": 543116,
+      "mst_conquest_boss_id": 5434,
+      "mst_quest_id": 5431161,
+      "point": 5975
+    },
+    {
+      "id": 543117,
+      "mst_conquest_boss_id": 5434,
+      "mst_quest_id": 5431171,
+      "point": 1
+    },
+    {
+      "id": 548101,
+      "mst_conquest_boss_id": 5481,
+      "mst_quest_id": 548041,
+      "point": 1697
+    },
+    {
+      "id": 548102,
+      "mst_conquest_boss_id": 5481,
+      "mst_quest_id": 548051,
+      "point": 2037
+    },
+    {
+      "id": 548103,
+      "mst_conquest_boss_id": 5481,
+      "mst_quest_id": 548061,
+      "point": 2716
+    },
+    {
+      "id": 548104,
+      "mst_conquest_boss_id": 5481,
+      "mst_quest_id": 548071,
+      "point": 5432
+    },
+    {
+      "id": 548105,
+      "mst_conquest_boss_id": 5482,
+      "mst_quest_id": 548081,
+      "point": 1748
+    },
+    {
+      "id": 548106,
+      "mst_conquest_boss_id": 5482,
+      "mst_quest_id": 548091,
+      "point": 2098
+    },
+    {
+      "id": 548107,
+      "mst_conquest_boss_id": 5482,
+      "mst_quest_id": 548101,
+      "point": 2797
+    },
+    {
+      "id": 548108,
+      "mst_conquest_boss_id": 5482,
+      "mst_quest_id": 548111,
+      "point": 5595
+    },
+    {
+      "id": 548109,
+      "mst_conquest_boss_id": 5483,
+      "mst_quest_id": 548121,
+      "point": 1799
+    },
+    {
+      "id": 548110,
+      "mst_conquest_boss_id": 5483,
+      "mst_quest_id": 548131,
+      "point": 2159
+    },
+    {
+      "id": 548111,
+      "mst_conquest_boss_id": 5483,
+      "mst_quest_id": 548141,
+      "point": 2879
+    },
+    {
+      "id": 548112,
+      "mst_conquest_boss_id": 5483,
+      "mst_quest_id": 548151,
+      "point": 5758
+    },
+    {
+      "id": 548113,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548161,
+      "point": 1867
+    },
+    {
+      "id": 548114,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548171,
+      "point": 2241
+    },
+    {
+      "id": 548115,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548181,
+      "point": 2988
+    },
+    {
+      "id": 548116,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548191,
+      "point": 5975
+    },
+    {
+      "id": 548117,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548201,
+      "point": 5975
+    },
+    {
+      "id": 548118,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548211,
+      "point": 1
+    },
+    {
+      "id": 548119,
+      "mst_conquest_boss_id": 5484,
+      "mst_quest_id": 548221,
+      "point": 1
+    },
+    {
+      "id": 553001,
+      "mst_conquest_boss_id": 5531,
+      "mst_quest_id": 553011,
+      "point": 1697
+    },
+    {
+      "id": 553002,
+      "mst_conquest_boss_id": 5531,
+      "mst_quest_id": 553021,
+      "point": 2037
+    },
+    {
+      "id": 553003,
+      "mst_conquest_boss_id": 5531,
+      "mst_quest_id": 553031,
+      "point": 2376
+    },
+    {
+      "id": 553004,
+      "mst_conquest_boss_id": 5531,
+      "mst_quest_id": 553041,
+      "point": 3395
+    },
+    {
+      "id": 553005,
+      "mst_conquest_boss_id": 5532,
+      "mst_quest_id": 553051,
+      "point": 1732
+    },
+    {
+      "id": 553006,
+      "mst_conquest_boss_id": 5532,
+      "mst_quest_id": 553061,
+      "point": 2079
+    },
+    {
+      "id": 553007,
+      "mst_conquest_boss_id": 5532,
+      "mst_quest_id": 553071,
+      "point": 2425
+    },
+    {
+      "id": 553008,
+      "mst_conquest_boss_id": 5532,
+      "mst_quest_id": 553081,
+      "point": 4158
+    },
+    {
+      "id": 553009,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553091,
+      "point": 1838
+    },
+    {
+      "id": 553010,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553101,
+      "point": 2205
+    },
+    {
+      "id": 553011,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553111,
+      "point": 2573
+    },
+    {
+      "id": 553012,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553121,
+      "point": 5880
+    },
+    {
+      "id": 553013,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553131,
+      "point": 5936
+    },
+    {
+      "id": 553014,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553141,
+      "point": 69
+    },
+    {
+      "id": 553015,
+      "mst_conquest_boss_id": 5533,
+      "mst_quest_id": 553151,
+      "point": 6048
+    },
+    {
+      "id": 1591001,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591131,
+      "point": 1867
+    },
+    {
+      "id": 1591002,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591141,
+      "point": 2241
+    },
+    {
+      "id": 1591003,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591151,
+      "point": 2988
+    },
+    {
+      "id": 1591004,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591161,
+      "point": 5976
+    },
+    {
+      "id": 1591005,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591171,
+      "point": 6573
+    },
+    {
+      "id": 1591006,
+      "mst_conquest_boss_id": 15911,
+      "mst_quest_id": 1591181,
+      "point": 1
+    },
+    {
+      "id": 1601001,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601131,
+      "point": 1867
+    },
+    {
+      "id": 1601002,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601141,
+      "point": 2241
+    },
+    {
+      "id": 1601003,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601151,
+      "point": 2988
+    },
+    {
+      "id": 1601004,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601161,
+      "point": 5975
+    },
+    {
+      "id": 1601005,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601171,
+      "point": 6573
+    },
+    {
+      "id": 1601006,
+      "mst_conquest_boss_id": 16011,
+      "mst_quest_id": 1601181,
+      "point": 1
+    },
+    {
+      "id": 563001,
+      "mst_conquest_boss_id": 5631,
+      "mst_quest_id": 5631011,
+      "point": 1697
+    },
+    {
+      "id": 563002,
+      "mst_conquest_boss_id": 5631,
+      "mst_quest_id": 5631021,
+      "point": 2037
+    },
+    {
+      "id": 563003,
+      "mst_conquest_boss_id": 5631,
+      "mst_quest_id": 5631031,
+      "point": 2376
+    },
+    {
+      "id": 563004,
+      "mst_conquest_boss_id": 5631,
+      "mst_quest_id": 5631041,
+      "point": 3395
+    },
+    {
+      "id": 563005,
+      "mst_conquest_boss_id": 5632,
+      "mst_quest_id": 5631051,
+      "point": 1732
+    },
+    {
+      "id": 563006,
+      "mst_conquest_boss_id": 5632,
+      "mst_quest_id": 5631061,
+      "point": 2079
+    },
+    {
+      "id": 563007,
+      "mst_conquest_boss_id": 5632,
+      "mst_quest_id": 5631071,
+      "point": 2425
+    },
+    {
+      "id": 563008,
+      "mst_conquest_boss_id": 5632,
+      "mst_quest_id": 5631081,
+      "point": 4158
+    },
+    {
+      "id": 563009,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631091,
+      "point": 1838
+    },
+    {
+      "id": 563010,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631101,
+      "point": 2205
+    },
+    {
+      "id": 563011,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631111,
+      "point": 2573
+    },
+    {
+      "id": 563012,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631121,
+      "point": 5880
+    },
+    {
+      "id": 563013,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631131,
+      "point": 5936
+    },
+    {
+      "id": 563014,
+      "mst_conquest_boss_id": 5633,
+      "mst_quest_id": 5631141,
+      "point": 69
+    },
+    {
+      "id": 5651001,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651011,
+      "point": 1867
+    },
+    {
+      "id": 5651002,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651021,
+      "point": 2241
+    },
+    {
+      "id": 5651003,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651031,
+      "point": 2988
+    },
+    {
+      "id": 5651004,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651041,
+      "point": 5975
+    },
+    {
+      "id": 5651005,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651051,
+      "point": 1
+    },
+    {
+      "id": 5651006,
+      "mst_conquest_boss_id": 5651,
+      "mst_quest_id": 5651061,
+      "point": 6573
+    },
+    {
+      "id": 572001,
+      "mst_conquest_boss_id": 5721,
+      "mst_quest_id": 572011,
+      "point": 1493
+    },
+    {
+      "id": 572002,
+      "mst_conquest_boss_id": 5721,
+      "mst_quest_id": 572021,
+      "point": 1792
+    },
+    {
+      "id": 572003,
+      "mst_conquest_boss_id": 5721,
+      "mst_quest_id": 572031,
+      "point": 2390
+    },
+    {
+      "id": 572004,
+      "mst_conquest_boss_id": 5721,
+      "mst_quest_id": 572041,
+      "point": 4780
+    },
+    {
+      "id": 572005,
+      "mst_conquest_boss_id": 5722,
+      "mst_quest_id": 572051,
+      "point": 1586
+    },
+    {
+      "id": 572006,
+      "mst_conquest_boss_id": 5722,
+      "mst_quest_id": 572061,
+      "point": 1904
+    },
+    {
+      "id": 572007,
+      "mst_conquest_boss_id": 5722,
+      "mst_quest_id": 572071,
+      "point": 2539
+    },
+    {
+      "id": 572008,
+      "mst_conquest_boss_id": 5722,
+      "mst_quest_id": 572081,
+      "point": 5079
+    },
+    {
+      "id": 572009,
+      "mst_conquest_boss_id": 5723,
+      "mst_quest_id": 572091,
+      "point": 1679
+    },
+    {
+      "id": 572010,
+      "mst_conquest_boss_id": 5723,
+      "mst_quest_id": 572101,
+      "point": 2016
+    },
+    {
+      "id": 572011,
+      "mst_conquest_boss_id": 5723,
+      "mst_quest_id": 572111,
+      "point": 2688
+    },
+    {
+      "id": 572012,
+      "mst_conquest_boss_id": 5723,
+      "mst_quest_id": 572121,
+      "point": 5378
+    },
+    {
+      "id": 572013,
+      "mst_conquest_boss_id": 5724,
+      "mst_quest_id": 572131,
+      "point": 1773
+    },
+    {
+      "id": 572014,
+      "mst_conquest_boss_id": 5724,
+      "mst_quest_id": 572141,
+      "point": 2128
+    },
+    {
+      "id": 572015,
+      "mst_conquest_boss_id": 5724,
+      "mst_quest_id": 572151,
+      "point": 2838
+    },
+    {
+      "id": 572016,
+      "mst_conquest_boss_id": 5724,
+      "mst_quest_id": 572161,
+      "point": 5676
+    },
+    {
+      "id": 572017,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572171,
+      "point": 1866
+    },
+    {
+      "id": 572018,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572181,
+      "point": 2240
+    },
+    {
+      "id": 572019,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572191,
+      "point": 2987
+    },
+    {
+      "id": 572020,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572201,
+      "point": 5975
+    },
+    {
+      "id": 572021,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572211,
+      "point": 1
+    },
+    {
+      "id": 572022,
+      "mst_conquest_boss_id": 5725,
+      "mst_quest_id": 572221,
+      "point": 6572
+    },
+    {
+      "id": 5733001,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733011,
+      "point": 1867
+    },
+    {
+      "id": 5733002,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733021,
+      "point": 2241
+    },
+    {
+      "id": 5733003,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733031,
+      "point": 2988
+    },
+    {
+      "id": 5733004,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733041,
+      "point": 5975
+    },
+    {
+      "id": 5733005,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733051,
+      "point": 1
+    },
+    {
+      "id": 5733006,
+      "mst_conquest_boss_id": 5733,
+      "mst_quest_id": 5733061,
+      "point": 6573
+    },
+    {
+      "id": 575001,
+      "mst_conquest_boss_id": 5751,
+      "mst_quest_id": 575011,
+      "point": 1493
+    },
+    {
+      "id": 575002,
+      "mst_conquest_boss_id": 5751,
+      "mst_quest_id": 575021,
+      "point": 1792
+    },
+    {
+      "id": 575003,
+      "mst_conquest_boss_id": 5751,
+      "mst_quest_id": 575031,
+      "point": 2390
+    },
+    {
+      "id": 575004,
+      "mst_conquest_boss_id": 5751,
+      "mst_quest_id": 575041,
+      "point": 4780
+    },
+    {
+      "id": 575005,
+      "mst_conquest_boss_id": 5752,
+      "mst_quest_id": 575051,
+      "point": 1586
+    },
+    {
+      "id": 575006,
+      "mst_conquest_boss_id": 5752,
+      "mst_quest_id": 575061,
+      "point": 1904
+    },
+    {
+      "id": 575007,
+      "mst_conquest_boss_id": 5752,
+      "mst_quest_id": 575071,
+      "point": 2539
+    },
+    {
+      "id": 575008,
+      "mst_conquest_boss_id": 5752,
+      "mst_quest_id": 575081,
+      "point": 5079
+    },
+    {
+      "id": 575009,
+      "mst_conquest_boss_id": 5753,
+      "mst_quest_id": 575091,
+      "point": 1679
+    },
+    {
+      "id": 575010,
+      "mst_conquest_boss_id": 5753,
+      "mst_quest_id": 575101,
+      "point": 2016
+    },
+    {
+      "id": 575011,
+      "mst_conquest_boss_id": 5753,
+      "mst_quest_id": 575111,
+      "point": 2688
+    },
+    {
+      "id": 575012,
+      "mst_conquest_boss_id": 5753,
+      "mst_quest_id": 575121,
+      "point": 5378
+    },
+    {
+      "id": 575013,
+      "mst_conquest_boss_id": 5754,
+      "mst_quest_id": 575131,
+      "point": 1773
+    },
+    {
+      "id": 575014,
+      "mst_conquest_boss_id": 5754,
+      "mst_quest_id": 575141,
+      "point": 2128
+    },
+    {
+      "id": 575015,
+      "mst_conquest_boss_id": 5754,
+      "mst_quest_id": 575151,
+      "point": 2838
+    },
+    {
+      "id": 575016,
+      "mst_conquest_boss_id": 5754,
+      "mst_quest_id": 575161,
+      "point": 5676
+    },
+    {
+      "id": 575017,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575171,
+      "point": 1866
+    },
+    {
+      "id": 575018,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575181,
+      "point": 2240
+    },
+    {
+      "id": 575019,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575191,
+      "point": 2987
+    },
+    {
+      "id": 575020,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575201,
+      "point": 5975
+    },
+    {
+      "id": 575021,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575211,
+      "point": 1
+    },
+    {
+      "id": 575022,
+      "mst_conquest_boss_id": 5755,
+      "mst_quest_id": 575221,
+      "point": 6572
+    },
+    {
+      "id": 5791001,
+      "mst_conquest_boss_id": 5791,
+      "mst_quest_id": 5791011,
+      "point": 1493
+    },
+    {
+      "id": 5791002,
+      "mst_conquest_boss_id": 5791,
+      "mst_quest_id": 5791021,
+      "point": 1792
+    },
+    {
+      "id": 5791003,
+      "mst_conquest_boss_id": 5791,
+      "mst_quest_id": 5791031,
+      "point": 2390
+    },
+    {
+      "id": 5791004,
+      "mst_conquest_boss_id": 5791,
+      "mst_quest_id": 5791041,
+      "point": 4780
+    },
+    {
+      "id": 5791005,
+      "mst_conquest_boss_id": 5792,
+      "mst_quest_id": 5791051,
+      "point": 1586
+    },
+    {
+      "id": 5791006,
+      "mst_conquest_boss_id": 5792,
+      "mst_quest_id": 5791061,
+      "point": 1904
+    },
+    {
+      "id": 5791007,
+      "mst_conquest_boss_id": 5792,
+      "mst_quest_id": 5791071,
+      "point": 2539
+    },
+    {
+      "id": 5791008,
+      "mst_conquest_boss_id": 5792,
+      "mst_quest_id": 5791081,
+      "point": 5079
+    },
+    {
+      "id": 5791009,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791091,
+      "point": 1866
+    },
+    {
+      "id": 5791010,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791101,
+      "point": 2240
+    },
+    {
+      "id": 5791011,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791111,
+      "point": 2987
+    },
+    {
+      "id": 5791012,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791121,
+      "point": 5975
+    },
+    {
+      "id": 5791013,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791131,
+      "point": 1
+    },
+    {
+      "id": 5791014,
+      "mst_conquest_boss_id": 5793,
+      "mst_quest_id": 5791141,
+      "point": 6572
+    },
+    {
+      "id": 583001,
+      "mst_conquest_boss_id": 5831,
+      "mst_quest_id": 583011,
+      "point": 1493
+    },
+    {
+      "id": 583002,
+      "mst_conquest_boss_id": 5831,
+      "mst_quest_id": 583021,
+      "point": 1792
+    },
+    {
+      "id": 583003,
+      "mst_conquest_boss_id": 5831,
+      "mst_quest_id": 583031,
+      "point": 2390
+    },
+    {
+      "id": 583004,
+      "mst_conquest_boss_id": 5831,
+      "mst_quest_id": 583041,
+      "point": 4780
+    },
+    {
+      "id": 583005,
+      "mst_conquest_boss_id": 5832,
+      "mst_quest_id": 583051,
+      "point": 1586
+    },
+    {
+      "id": 583006,
+      "mst_conquest_boss_id": 5832,
+      "mst_quest_id": 583061,
+      "point": 1904
+    },
+    {
+      "id": 583007,
+      "mst_conquest_boss_id": 5832,
+      "mst_quest_id": 583071,
+      "point": 2539
+    },
+    {
+      "id": 583008,
+      "mst_conquest_boss_id": 5832,
+      "mst_quest_id": 583081,
+      "point": 5079
+    },
+    {
+      "id": 583009,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583091,
+      "point": 1866
+    },
+    {
+      "id": 583010,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583101,
+      "point": 2240
+    },
+    {
+      "id": 583011,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583111,
+      "point": 2987
+    },
+    {
+      "id": 583012,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583121,
+      "point": 5975
+    },
+    {
+      "id": 583013,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583131,
+      "point": 1
+    },
+    {
+      "id": 583014,
+      "mst_conquest_boss_id": 5833,
+      "mst_quest_id": 583141,
+      "point": 6572
+    },
+    {
+      "id": 585001,
+      "mst_conquest_boss_id": 5851,
+      "mst_quest_id": 585011,
+      "point": 1493
+    },
+    {
+      "id": 585002,
+      "mst_conquest_boss_id": 5851,
+      "mst_quest_id": 585021,
+      "point": 1792
+    },
+    {
+      "id": 585003,
+      "mst_conquest_boss_id": 5851,
+      "mst_quest_id": 585031,
+      "point": 2390
+    },
+    {
+      "id": 585004,
+      "mst_conquest_boss_id": 5851,
+      "mst_quest_id": 585041,
+      "point": 4780
+    },
+    {
+      "id": 585005,
+      "mst_conquest_boss_id": 5852,
+      "mst_quest_id": 585051,
+      "point": 1586
+    },
+    {
+      "id": 585006,
+      "mst_conquest_boss_id": 5852,
+      "mst_quest_id": 585061,
+      "point": 1904
+    },
+    {
+      "id": 585007,
+      "mst_conquest_boss_id": 5852,
+      "mst_quest_id": 585071,
+      "point": 2539
+    },
+    {
+      "id": 585008,
+      "mst_conquest_boss_id": 5852,
+      "mst_quest_id": 585081,
+      "point": 5079
+    },
+    {
+      "id": 585009,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585091,
+      "point": 1866
+    },
+    {
+      "id": 585010,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585101,
+      "point": 2240
+    },
+    {
+      "id": 585011,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585111,
+      "point": 2987
+    },
+    {
+      "id": 585012,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585121,
+      "point": 5975
+    },
+    {
+      "id": 585013,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585131,
+      "point": 1
+    },
+    {
+      "id": 585014,
+      "mst_conquest_boss_id": 5853,
+      "mst_quest_id": 585141,
+      "point": 6572
+    },
+    {
+      "id": 590001,
+      "mst_conquest_boss_id": 5901,
+      "mst_quest_id": 590011,
+      "point": 1493
+    },
+    {
+      "id": 590002,
+      "mst_conquest_boss_id": 5901,
+      "mst_quest_id": 590021,
+      "point": 1792
+    },
+    {
+      "id": 590003,
+      "mst_conquest_boss_id": 5901,
+      "mst_quest_id": 590031,
+      "point": 2390
+    },
+    {
+      "id": 590004,
+      "mst_conquest_boss_id": 5901,
+      "mst_quest_id": 590041,
+      "point": 4780
+    },
+    {
+      "id": 590005,
+      "mst_conquest_boss_id": 5902,
+      "mst_quest_id": 590051,
+      "point": 1586
+    },
+    {
+      "id": 590006,
+      "mst_conquest_boss_id": 5902,
+      "mst_quest_id": 590061,
+      "point": 1904
+    },
+    {
+      "id": 590007,
+      "mst_conquest_boss_id": 5902,
+      "mst_quest_id": 590071,
+      "point": 2539
+    },
+    {
+      "id": 590008,
+      "mst_conquest_boss_id": 5902,
+      "mst_quest_id": 590081,
+      "point": 5079
+    },
+    {
+      "id": 590009,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590091,
+      "point": 1866
+    },
+    {
+      "id": 590010,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590101,
+      "point": 2240
+    },
+    {
+      "id": 590011,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590111,
+      "point": 2987
+    },
+    {
+      "id": 590012,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590121,
+      "point": 5975
+    },
+    {
+      "id": 590013,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590131,
+      "point": 1
+    },
+    {
+      "id": 590014,
+      "mst_conquest_boss_id": 5903,
+      "mst_quest_id": 590141,
+      "point": 6572
+    },
+    {
+      "id": 594001,
+      "mst_conquest_boss_id": 5941,
+      "mst_quest_id": 594011,
+      "point": 1493
+    },
+    {
+      "id": 594002,
+      "mst_conquest_boss_id": 5941,
+      "mst_quest_id": 594021,
+      "point": 1792
+    },
+    {
+      "id": 594003,
+      "mst_conquest_boss_id": 5941,
+      "mst_quest_id": 594031,
+      "point": 2390
+    },
+    {
+      "id": 594004,
+      "mst_conquest_boss_id": 5941,
+      "mst_quest_id": 594041,
+      "point": 4780
+    },
+    {
+      "id": 594005,
+      "mst_conquest_boss_id": 5942,
+      "mst_quest_id": 594051,
+      "point": 1586
+    },
+    {
+      "id": 594006,
+      "mst_conquest_boss_id": 5942,
+      "mst_quest_id": 594061,
+      "point": 1904
+    },
+    {
+      "id": 594007,
+      "mst_conquest_boss_id": 5942,
+      "mst_quest_id": 594071,
+      "point": 2539
+    },
+    {
+      "id": 594008,
+      "mst_conquest_boss_id": 5942,
+      "mst_quest_id": 594081,
+      "point": 5079
+    },
+    {
+      "id": 594009,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594091,
+      "point": 1866
+    },
+    {
+      "id": 594010,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594101,
+      "point": 2240
+    },
+    {
+      "id": 594011,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594111,
+      "point": 2987
+    },
+    {
+      "id": 594012,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594121,
+      "point": 5975
+    },
+    {
+      "id": 594013,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594131,
+      "point": 1
+    },
+    {
+      "id": 594014,
+      "mst_conquest_boss_id": 5943,
+      "mst_quest_id": 594141,
+      "point": 6572
+    },
+    {
+      "id": 595101,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595111,
+      "point": 1867
+    },
+    {
+      "id": 595102,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595121,
+      "point": 2241
+    },
+    {
+      "id": 595103,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595131,
+      "point": 2988
+    },
+    {
+      "id": 595104,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595141,
+      "point": 5975
+    },
+    {
+      "id": 595105,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595151,
+      "point": 1
+    },
+    {
+      "id": 595106,
+      "mst_conquest_boss_id": 5951,
+      "mst_quest_id": 595161,
+      "point": 6573
+    },
+    {
+      "id": 597001,
+      "mst_conquest_boss_id": 5971,
+      "mst_quest_id": 597011,
+      "point": 1493
+    },
+    {
+      "id": 597002,
+      "mst_conquest_boss_id": 5971,
+      "mst_quest_id": 597021,
+      "point": 1792
+    },
+    {
+      "id": 597003,
+      "mst_conquest_boss_id": 5971,
+      "mst_quest_id": 597031,
+      "point": 2390
+    },
+    {
+      "id": 597004,
+      "mst_conquest_boss_id": 5971,
+      "mst_quest_id": 597041,
+      "point": 4780
+    },
+    {
+      "id": 597005,
+      "mst_conquest_boss_id": 5972,
+      "mst_quest_id": 597051,
+      "point": 1586
+    },
+    {
+      "id": 597006,
+      "mst_conquest_boss_id": 5972,
+      "mst_quest_id": 597061,
+      "point": 1904
+    },
+    {
+      "id": 597007,
+      "mst_conquest_boss_id": 5972,
+      "mst_quest_id": 597071,
+      "point": 2539
+    },
+    {
+      "id": 597008,
+      "mst_conquest_boss_id": 5972,
+      "mst_quest_id": 597081,
+      "point": 5079
+    },
+    {
+      "id": 597009,
+      "mst_conquest_boss_id": 5973,
+      "mst_quest_id": 597091,
+      "point": 1679
+    },
+    {
+      "id": 597010,
+      "mst_conquest_boss_id": 5973,
+      "mst_quest_id": 597101,
+      "point": 2016
+    },
+    {
+      "id": 597011,
+      "mst_conquest_boss_id": 5973,
+      "mst_quest_id": 597111,
+      "point": 2688
+    },
+    {
+      "id": 597012,
+      "mst_conquest_boss_id": 5973,
+      "mst_quest_id": 597121,
+      "point": 5378
+    },
+    {
+      "id": 597013,
+      "mst_conquest_boss_id": 5974,
+      "mst_quest_id": 597131,
+      "point": 1773
+    },
+    {
+      "id": 597014,
+      "mst_conquest_boss_id": 5974,
+      "mst_quest_id": 597141,
+      "point": 2128
+    },
+    {
+      "id": 597015,
+      "mst_conquest_boss_id": 5974,
+      "mst_quest_id": 597151,
+      "point": 2838
+    },
+    {
+      "id": 597016,
+      "mst_conquest_boss_id": 5974,
+      "mst_quest_id": 597161,
+      "point": 5676
+    },
+    {
+      "id": 597017,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597171,
+      "point": 1866
+    },
+    {
+      "id": 597018,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597181,
+      "point": 2240
+    },
+    {
+      "id": 597019,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597191,
+      "point": 2987
+    },
+    {
+      "id": 597020,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597201,
+      "point": 5975
+    },
+    {
+      "id": 597021,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597211,
+      "point": 1
+    },
+    {
+      "id": 597022,
+      "mst_conquest_boss_id": 5975,
+      "mst_quest_id": 597221,
+      "point": 6572
+    },
+    {
+      "id": 651001,
+      "mst_conquest_boss_id": 6511,
+      "mst_quest_id": 651011,
+      "point": 1679
+    },
+    {
+      "id": 651002,
+      "mst_conquest_boss_id": 6511,
+      "mst_quest_id": 651021,
+      "point": 2016
+    },
+    {
+      "id": 651003,
+      "mst_conquest_boss_id": 6511,
+      "mst_quest_id": 651031,
+      "point": 2688
+    },
+    {
+      "id": 651004,
+      "mst_conquest_boss_id": 6511,
+      "mst_quest_id": 651041,
+      "point": 5378
+    },
+    {
+      "id": 651005,
+      "mst_conquest_boss_id": 6512,
+      "mst_quest_id": 651051,
+      "point": 1679
+    },
+    {
+      "id": 651006,
+      "mst_conquest_boss_id": 6512,
+      "mst_quest_id": 651061,
+      "point": 2016
+    },
+    {
+      "id": 651007,
+      "mst_conquest_boss_id": 6512,
+      "mst_quest_id": 651071,
+      "point": 2688
+    },
+    {
+      "id": 651008,
+      "mst_conquest_boss_id": 6512,
+      "mst_quest_id": 651081,
+      "point": 5378
+    },
+    {
+      "id": 651009,
+      "mst_conquest_boss_id": 6513,
+      "mst_quest_id": 651091,
+      "point": 1679
+    },
+    {
+      "id": 651010,
+      "mst_conquest_boss_id": 6513,
+      "mst_quest_id": 651101,
+      "point": 2016
+    },
+    {
+      "id": 651011,
+      "mst_conquest_boss_id": 6513,
+      "mst_quest_id": 651111,
+      "point": 2688
+    },
+    {
+      "id": 651012,
+      "mst_conquest_boss_id": 6513,
+      "mst_quest_id": 651121,
+      "point": 5378
+    },
+    {
+      "id": 651013,
+      "mst_conquest_boss_id": 6514,
+      "mst_quest_id": 651131,
+      "point": 1679
+    },
+    {
+      "id": 651014,
+      "mst_conquest_boss_id": 6514,
+      "mst_quest_id": 651141,
+      "point": 2016
+    },
+    {
+      "id": 651015,
+      "mst_conquest_boss_id": 6514,
+      "mst_quest_id": 651151,
+      "point": 2688
+    },
+    {
+      "id": 651016,
+      "mst_conquest_boss_id": 6514,
+      "mst_quest_id": 651161,
+      "point": 5378
+    },
+    {
+      "id": 651017,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651171,
+      "point": 1866
+    },
+    {
+      "id": 651018,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651181,
+      "point": 2240
+    },
+    {
+      "id": 651019,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651191,
+      "point": 2987
+    },
+    {
+      "id": 651020,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651201,
+      "point": 5975
+    },
+    {
+      "id": 651021,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651211,
+      "point": 1
+    },
+    {
+      "id": 651022,
+      "mst_conquest_boss_id": 6515,
+      "mst_quest_id": 651221,
+      "point": 6572
+    },
+    {
+      "id": 659001,
+      "mst_conquest_boss_id": 6591,
+      "mst_quest_id": 659011,
+      "point": 1493
+    },
+    {
+      "id": 659002,
+      "mst_conquest_boss_id": 6591,
+      "mst_quest_id": 659021,
+      "point": 1792
+    },
+    {
+      "id": 659003,
+      "mst_conquest_boss_id": 6591,
+      "mst_quest_id": 659031,
+      "point": 2390
+    },
+    {
+      "id": 659004,
+      "mst_conquest_boss_id": 6591,
+      "mst_quest_id": 659041,
+      "point": 4780
+    },
+    {
+      "id": 659005,
+      "mst_conquest_boss_id": 6592,
+      "mst_quest_id": 659051,
+      "point": 1586
+    },
+    {
+      "id": 659006,
+      "mst_conquest_boss_id": 6592,
+      "mst_quest_id": 659061,
+      "point": 1904
+    },
+    {
+      "id": 659007,
+      "mst_conquest_boss_id": 6592,
+      "mst_quest_id": 659071,
+      "point": 2539
+    },
+    {
+      "id": 659008,
+      "mst_conquest_boss_id": 6592,
+      "mst_quest_id": 659081,
+      "point": 5079
+    },
+    {
+      "id": 659009,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659091,
+      "point": 1866
+    },
+    {
+      "id": 659010,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659101,
+      "point": 2240
+    },
+    {
+      "id": 659011,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659111,
+      "point": 2987
+    },
+    {
+      "id": 659012,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659121,
+      "point": 5975
+    },
+    {
+      "id": 659013,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659131,
+      "point": 1
+    },
+    {
+      "id": 659014,
+      "mst_conquest_boss_id": 6593,
+      "mst_quest_id": 659141,
+      "point": 6572
+    },
+    {
+      "id": 661001,
+      "mst_conquest_boss_id": 6611,
+      "mst_quest_id": 661011,
+      "point": 1493
+    },
+    {
+      "id": 661002,
+      "mst_conquest_boss_id": 6611,
+      "mst_quest_id": 661021,
+      "point": 1792
+    },
+    {
+      "id": 661003,
+      "mst_conquest_boss_id": 6611,
+      "mst_quest_id": 661031,
+      "point": 2390
+    },
+    {
+      "id": 661004,
+      "mst_conquest_boss_id": 6611,
+      "mst_quest_id": 661041,
+      "point": 4780
+    },
+    {
+      "id": 661005,
+      "mst_conquest_boss_id": 6612,
+      "mst_quest_id": 661051,
+      "point": 1586
+    },
+    {
+      "id": 661006,
+      "mst_conquest_boss_id": 6612,
+      "mst_quest_id": 661061,
+      "point": 1904
+    },
+    {
+      "id": 661007,
+      "mst_conquest_boss_id": 6612,
+      "mst_quest_id": 661071,
+      "point": 2539
+    },
+    {
+      "id": 661008,
+      "mst_conquest_boss_id": 6612,
+      "mst_quest_id": 661081,
+      "point": 5079
+    },
+    {
+      "id": 661009,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661091,
+      "point": 1866
+    },
+    {
+      "id": 661010,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661101,
+      "point": 2240
+    },
+    {
+      "id": 661011,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661111,
+      "point": 2987
+    },
+    {
+      "id": 661012,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661121,
+      "point": 5975
+    },
+    {
+      "id": 661013,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661131,
+      "point": 1
+    },
+    {
+      "id": 661014,
+      "mst_conquest_boss_id": 6613,
+      "mst_quest_id": 661141,
+      "point": 6572
+    },
+    {
+      "id": 664101,
+      "mst_conquest_boss_id": 6641,
+      "mst_quest_id": 6641011,
+      "point": 1493
+    },
+    {
+      "id": 664102,
+      "mst_conquest_boss_id": 6641,
+      "mst_quest_id": 6641021,
+      "point": 1792
+    },
+    {
+      "id": 664103,
+      "mst_conquest_boss_id": 6641,
+      "mst_quest_id": 6641031,
+      "point": 2390
+    },
+    {
+      "id": 664104,
+      "mst_conquest_boss_id": 6641,
+      "mst_quest_id": 6641041,
+      "point": 4780
+    },
+    {
+      "id": 664105,
+      "mst_conquest_boss_id": 6642,
+      "mst_quest_id": 6641051,
+      "point": 1586
+    },
+    {
+      "id": 664106,
+      "mst_conquest_boss_id": 6642,
+      "mst_quest_id": 6641061,
+      "point": 1904
+    },
+    {
+      "id": 664107,
+      "mst_conquest_boss_id": 6642,
+      "mst_quest_id": 6641071,
+      "point": 2539
+    },
+    {
+      "id": 664108,
+      "mst_conquest_boss_id": 6642,
+      "mst_quest_id": 6641081,
+      "point": 5079
+    },
+    {
+      "id": 664109,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641091,
+      "point": 1866
+    },
+    {
+      "id": 664110,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641101,
+      "point": 2240
+    },
+    {
+      "id": 664111,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641111,
+      "point": 2987
+    },
+    {
+      "id": 664112,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641121,
+      "point": 5975
+    },
+    {
+      "id": 664113,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641131,
+      "point": 1
+    },
+    {
+      "id": 664114,
+      "mst_conquest_boss_id": 6643,
+      "mst_quest_id": 6641141,
+      "point": 6572
+    },
+    {
+      "id": 6661001,
+      "mst_conquest_boss_id": 6661,
+      "mst_quest_id": 6661011,
+      "point": 1493
+    },
+    {
+      "id": 6661002,
+      "mst_conquest_boss_id": 6661,
+      "mst_quest_id": 6661021,
+      "point": 1792
+    },
+    {
+      "id": 6661003,
+      "mst_conquest_boss_id": 6661,
+      "mst_quest_id": 6661031,
+      "point": 2390
+    },
+    {
+      "id": 6661004,
+      "mst_conquest_boss_id": 6661,
+      "mst_quest_id": 6661041,
+      "point": 4780
+    },
+    {
+      "id": 6661005,
+      "mst_conquest_boss_id": 6662,
+      "mst_quest_id": 6661051,
+      "point": 1586
+    },
+    {
+      "id": 6661006,
+      "mst_conquest_boss_id": 6662,
+      "mst_quest_id": 6661061,
+      "point": 1904
+    },
+    {
+      "id": 6661007,
+      "mst_conquest_boss_id": 6662,
+      "mst_quest_id": 6661071,
+      "point": 2539
+    },
+    {
+      "id": 6661008,
+      "mst_conquest_boss_id": 6662,
+      "mst_quest_id": 6661081,
+      "point": 5079
+    },
+    {
+      "id": 6661009,
+      "mst_conquest_boss_id": 6663,
+      "mst_quest_id": 6661091,
+      "point": 1679
+    },
+    {
+      "id": 6661010,
+      "mst_conquest_boss_id": 6663,
+      "mst_quest_id": 6661101,
+      "point": 2016
+    },
+    {
+      "id": 6661011,
+      "mst_conquest_boss_id": 6663,
+      "mst_quest_id": 6661111,
+      "point": 2688
+    },
+    {
+      "id": 6661012,
+      "mst_conquest_boss_id": 6663,
+      "mst_quest_id": 6661121,
+      "point": 5378
+    },
+    {
+      "id": 6661013,
+      "mst_conquest_boss_id": 6664,
+      "mst_quest_id": 6661131,
+      "point": 1773
+    },
+    {
+      "id": 6661014,
+      "mst_conquest_boss_id": 6664,
+      "mst_quest_id": 6661141,
+      "point": 2128
+    },
+    {
+      "id": 6661015,
+      "mst_conquest_boss_id": 6664,
+      "mst_quest_id": 6661151,
+      "point": 2838
+    },
+    {
+      "id": 6661016,
+      "mst_conquest_boss_id": 6664,
+      "mst_quest_id": 6661161,
+      "point": 5676
+    },
+    {
+      "id": 6661017,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661171,
+      "point": 1866
+    },
+    {
+      "id": 6661018,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661181,
+      "point": 2240
+    },
+    {
+      "id": 6661019,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661191,
+      "point": 2987
+    },
+    {
+      "id": 6661020,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661201,
+      "point": 5975
+    },
+    {
+      "id": 6661021,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661211,
+      "point": 1
+    },
+    {
+      "id": 6661022,
+      "mst_conquest_boss_id": 6665,
+      "mst_quest_id": 6661221,
+      "point": 6572
+    },
+    {
+      "id": 670001,
+      "mst_conquest_boss_id": 6701,
+      "mst_quest_id": 670011,
+      "point": 1493
+    },
+    {
+      "id": 670002,
+      "mst_conquest_boss_id": 6701,
+      "mst_quest_id": 670021,
+      "point": 1792
+    },
+    {
+      "id": 670003,
+      "mst_conquest_boss_id": 6701,
+      "mst_quest_id": 670031,
+      "point": 2390
+    },
+    {
+      "id": 670004,
+      "mst_conquest_boss_id": 6701,
+      "mst_quest_id": 670041,
+      "point": 4780
+    },
+    {
+      "id": 670005,
+      "mst_conquest_boss_id": 6702,
+      "mst_quest_id": 670051,
+      "point": 1586
+    },
+    {
+      "id": 670006,
+      "mst_conquest_boss_id": 6702,
+      "mst_quest_id": 670061,
+      "point": 1904
+    },
+    {
+      "id": 670007,
+      "mst_conquest_boss_id": 6702,
+      "mst_quest_id": 670071,
+      "point": 2539
+    },
+    {
+      "id": 670008,
+      "mst_conquest_boss_id": 6702,
+      "mst_quest_id": 670081,
+      "point": 5079
+    },
+    {
+      "id": 670009,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670091,
+      "point": 1866
+    },
+    {
+      "id": 670010,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670101,
+      "point": 2240
+    },
+    {
+      "id": 670011,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670111,
+      "point": 2987
+    },
+    {
+      "id": 670012,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670121,
+      "point": 5975
+    },
+    {
+      "id": 670013,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670131,
+      "point": 1
+    },
+    {
+      "id": 670014,
+      "mst_conquest_boss_id": 6703,
+      "mst_quest_id": 670141,
+      "point": 6572
+    },
+    {
+      "id": 6731001,
+      "mst_conquest_boss_id": 67311,
+      "mst_quest_id": 6731011,
+      "point": 1493
+    },
+    {
+      "id": 6731002,
+      "mst_conquest_boss_id": 67311,
+      "mst_quest_id": 6731021,
+      "point": 1792
+    },
+    {
+      "id": 6731003,
+      "mst_conquest_boss_id": 67311,
+      "mst_quest_id": 6731031,
+      "point": 2390
+    },
+    {
+      "id": 6731004,
+      "mst_conquest_boss_id": 67311,
+      "mst_quest_id": 6731041,
+      "point": 4780
+    },
+    {
+      "id": 6731005,
+      "mst_conquest_boss_id": 67312,
+      "mst_quest_id": 6731051,
+      "point": 1586
+    },
+    {
+      "id": 6731006,
+      "mst_conquest_boss_id": 67312,
+      "mst_quest_id": 6731061,
+      "point": 1904
+    },
+    {
+      "id": 6731007,
+      "mst_conquest_boss_id": 67312,
+      "mst_quest_id": 6731071,
+      "point": 2539
+    },
+    {
+      "id": 6731008,
+      "mst_conquest_boss_id": 67312,
+      "mst_quest_id": 6731081,
+      "point": 5079
+    },
+    {
+      "id": 6731009,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731091,
+      "point": 1866
+    },
+    {
+      "id": 6731010,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731101,
+      "point": 2240
+    },
+    {
+      "id": 6731011,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731111,
+      "point": 2987
+    },
+    {
+      "id": 6731012,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731121,
+      "point": 5975
+    },
+    {
+      "id": 6731013,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731131,
+      "point": 6035
+    },
+    {
+      "id": 6731014,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731141,
+      "point": 1
+    },
+    {
+      "id": 6731015,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731151,
+      "point": 6572
+    },
+    {
+      "id": 6731016,
+      "mst_conquest_boss_id": 67313,
+      "mst_quest_id": 6731161,
+      "point": 6572
+    },
+    {
+      "id": 6801001,
+      "mst_conquest_boss_id": 68011,
+      "mst_quest_id": 6801011,
+      "point": 1493
+    },
+    {
+      "id": 6801002,
+      "mst_conquest_boss_id": 68011,
+      "mst_quest_id": 6801021,
+      "point": 1792
+    },
+    {
+      "id": 6801003,
+      "mst_conquest_boss_id": 68011,
+      "mst_quest_id": 6801031,
+      "point": 2390
+    },
+    {
+      "id": 6801004,
+      "mst_conquest_boss_id": 68011,
+      "mst_quest_id": 6801041,
+      "point": 4780
+    },
+    {
+      "id": 6801005,
+      "mst_conquest_boss_id": 68012,
+      "mst_quest_id": 6801051,
+      "point": 1586
+    },
+    {
+      "id": 6801006,
+      "mst_conquest_boss_id": 68012,
+      "mst_quest_id": 6801061,
+      "point": 1904
+    },
+    {
+      "id": 6801007,
+      "mst_conquest_boss_id": 68012,
+      "mst_quest_id": 6801071,
+      "point": 2539
+    },
+    {
+      "id": 6801008,
+      "mst_conquest_boss_id": 68012,
+      "mst_quest_id": 6801081,
+      "point": 5079
+    },
+    {
+      "id": 6801009,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801091,
+      "point": 1866
+    },
+    {
+      "id": 6801010,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801101,
+      "point": 2240
+    },
+    {
+      "id": 6801011,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801111,
+      "point": 2987
+    },
+    {
+      "id": 6801012,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801121,
+      "point": 5975
+    },
+    {
+      "id": 6801013,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801131,
+      "point": 1
+    },
+    {
+      "id": 6801014,
+      "mst_conquest_boss_id": 68013,
+      "mst_quest_id": 6801141,
+      "point": 6035
+    },
+    {
+      "id": 6862001,
+      "mst_conquest_boss_id": 68621,
+      "mst_quest_id": 6862011,
+      "point": 1493
+    },
+    {
+      "id": 6862002,
+      "mst_conquest_boss_id": 68621,
+      "mst_quest_id": 6862021,
+      "point": 1792
+    },
+    {
+      "id": 6862003,
+      "mst_conquest_boss_id": 68621,
+      "mst_quest_id": 6862031,
+      "point": 2390
+    },
+    {
+      "id": 6862004,
+      "mst_conquest_boss_id": 68621,
+      "mst_quest_id": 6862041,
+      "point": 4780
+    },
+    {
+      "id": 6862005,
+      "mst_conquest_boss_id": 68622,
+      "mst_quest_id": 6862051,
+      "point": 1586
+    },
+    {
+      "id": 6862006,
+      "mst_conquest_boss_id": 68622,
+      "mst_quest_id": 6862061,
+      "point": 1904
+    },
+    {
+      "id": 6862007,
+      "mst_conquest_boss_id": 68622,
+      "mst_quest_id": 6862071,
+      "point": 2539
+    },
+    {
+      "id": 6862008,
+      "mst_conquest_boss_id": 68622,
+      "mst_quest_id": 6862081,
+      "point": 5079
+    },
+    {
+      "id": 6862009,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862091,
+      "point": 1866
+    },
+    {
+      "id": 6862010,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862101,
+      "point": 2240
+    },
+    {
+      "id": 6862011,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862111,
+      "point": 2987
+    },
+    {
+      "id": 6862012,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862121,
+      "point": 5975
+    },
+    {
+      "id": 6862013,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862131,
+      "point": 1
+    },
+    {
+      "id": 6862014,
+      "mst_conquest_boss_id": 68623,
+      "mst_quest_id": 6862141,
+      "point": 6572
+    },
+    {
+      "id": 689001,
+      "mst_conquest_boss_id": 6891,
+      "mst_quest_id": 689011,
+      "point": 1679
+    },
+    {
+      "id": 689002,
+      "mst_conquest_boss_id": 6891,
+      "mst_quest_id": 689021,
+      "point": 2016
+    },
+    {
+      "id": 689003,
+      "mst_conquest_boss_id": 6891,
+      "mst_quest_id": 689031,
+      "point": 2688
+    },
+    {
+      "id": 689004,
+      "mst_conquest_boss_id": 6891,
+      "mst_quest_id": 689041,
+      "point": 5378
+    },
+    {
+      "id": 689005,
+      "mst_conquest_boss_id": 6892,
+      "mst_quest_id": 689051,
+      "point": 1679
+    },
+    {
+      "id": 689006,
+      "mst_conquest_boss_id": 6892,
+      "mst_quest_id": 689061,
+      "point": 2016
+    },
+    {
+      "id": 689007,
+      "mst_conquest_boss_id": 6892,
+      "mst_quest_id": 689071,
+      "point": 2688
+    },
+    {
+      "id": 689008,
+      "mst_conquest_boss_id": 6892,
+      "mst_quest_id": 689081,
+      "point": 5378
+    },
+    {
+      "id": 689009,
+      "mst_conquest_boss_id": 6893,
+      "mst_quest_id": 689091,
+      "point": 1679
+    },
+    {
+      "id": 689010,
+      "mst_conquest_boss_id": 6893,
+      "mst_quest_id": 689101,
+      "point": 2016
+    },
+    {
+      "id": 689011,
+      "mst_conquest_boss_id": 6893,
+      "mst_quest_id": 689111,
+      "point": 2688
+    },
+    {
+      "id": 689012,
+      "mst_conquest_boss_id": 6893,
+      "mst_quest_id": 689121,
+      "point": 5378
+    },
+    {
+      "id": 689013,
+      "mst_conquest_boss_id": 6894,
+      "mst_quest_id": 689131,
+      "point": 1679
+    },
+    {
+      "id": 689014,
+      "mst_conquest_boss_id": 6894,
+      "mst_quest_id": 689141,
+      "point": 2016
+    },
+    {
+      "id": 689015,
+      "mst_conquest_boss_id": 6894,
+      "mst_quest_id": 689151,
+      "point": 2688
+    },
+    {
+      "id": 689016,
+      "mst_conquest_boss_id": 6894,
+      "mst_quest_id": 689161,
+      "point": 5378
+    },
+    {
+      "id": 689017,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689171,
+      "point": 1866
+    },
+    {
+      "id": 689018,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689181,
+      "point": 2240
+    },
+    {
+      "id": 689019,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689191,
+      "point": 2987
+    },
+    {
+      "id": 689020,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689201,
+      "point": 5975
+    },
+    {
+      "id": 689021,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689211,
+      "point": 1
+    },
+    {
+      "id": 689022,
+      "mst_conquest_boss_id": 6895,
+      "mst_quest_id": 689221,
+      "point": 6572
+    },
+    {
+      "id": 691001,
+      "mst_conquest_boss_id": 6911,
+      "mst_quest_id": 691011,
+      "point": 1493
+    },
+    {
+      "id": 691002,
+      "mst_conquest_boss_id": 6911,
+      "mst_quest_id": 691021,
+      "point": 1792
+    },
+    {
+      "id": 691003,
+      "mst_conquest_boss_id": 6911,
+      "mst_quest_id": 691031,
+      "point": 2390
+    },
+    {
+      "id": 691004,
+      "mst_conquest_boss_id": 6911,
+      "mst_quest_id": 691041,
+      "point": 4780
+    },
+    {
+      "id": 691005,
+      "mst_conquest_boss_id": 6912,
+      "mst_quest_id": 691051,
+      "point": 1586
+    },
+    {
+      "id": 691006,
+      "mst_conquest_boss_id": 6912,
+      "mst_quest_id": 691061,
+      "point": 1904
+    },
+    {
+      "id": 691007,
+      "mst_conquest_boss_id": 6912,
+      "mst_quest_id": 691071,
+      "point": 2539
+    },
+    {
+      "id": 691008,
+      "mst_conquest_boss_id": 6912,
+      "mst_quest_id": 691081,
+      "point": 5079
+    },
+    {
+      "id": 691009,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691091,
+      "point": 1866
+    },
+    {
+      "id": 691010,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691101,
+      "point": 2240
+    },
+    {
+      "id": 691011,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691111,
+      "point": 2987
+    },
+    {
+      "id": 691012,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691121,
+      "point": 5975
+    },
+    {
+      "id": 691013,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691131,
+      "point": 1
+    },
+    {
+      "id": 691014,
+      "mst_conquest_boss_id": 6913,
+      "mst_quest_id": 691141,
+      "point": 6572
+    },
+    {
+      "id": 693001,
+      "mst_conquest_boss_id": 6931,
+      "mst_quest_id": 693011,
+      "point": 1679
+    },
+    {
+      "id": 693002,
+      "mst_conquest_boss_id": 6931,
+      "mst_quest_id": 693021,
+      "point": 2016
+    },
+    {
+      "id": 693003,
+      "mst_conquest_boss_id": 6931,
+      "mst_quest_id": 693031,
+      "point": 2688
+    },
+    {
+      "id": 693004,
+      "mst_conquest_boss_id": 6931,
+      "mst_quest_id": 693041,
+      "point": 5378
+    },
+    {
+      "id": 693005,
+      "mst_conquest_boss_id": 6932,
+      "mst_quest_id": 693051,
+      "point": 1679
+    },
+    {
+      "id": 693006,
+      "mst_conquest_boss_id": 6932,
+      "mst_quest_id": 693061,
+      "point": 2016
+    },
+    {
+      "id": 693007,
+      "mst_conquest_boss_id": 6932,
+      "mst_quest_id": 693071,
+      "point": 2688
+    },
+    {
+      "id": 693008,
+      "mst_conquest_boss_id": 6932,
+      "mst_quest_id": 693081,
+      "point": 5378
+    },
+    {
+      "id": 693009,
+      "mst_conquest_boss_id": 6933,
+      "mst_quest_id": 693091,
+      "point": 1679
+    },
+    {
+      "id": 693010,
+      "mst_conquest_boss_id": 6933,
+      "mst_quest_id": 693101,
+      "point": 2016
+    },
+    {
+      "id": 693011,
+      "mst_conquest_boss_id": 6933,
+      "mst_quest_id": 693111,
+      "point": 2688
+    },
+    {
+      "id": 693012,
+      "mst_conquest_boss_id": 6933,
+      "mst_quest_id": 693121,
+      "point": 5378
+    },
+    {
+      "id": 693013,
+      "mst_conquest_boss_id": 6934,
+      "mst_quest_id": 693131,
+      "point": 1679
+    },
+    {
+      "id": 693014,
+      "mst_conquest_boss_id": 6934,
+      "mst_quest_id": 693141,
+      "point": 2016
+    },
+    {
+      "id": 693015,
+      "mst_conquest_boss_id": 6934,
+      "mst_quest_id": 693151,
+      "point": 2688
+    },
+    {
+      "id": 693016,
+      "mst_conquest_boss_id": 6934,
+      "mst_quest_id": 693161,
+      "point": 5378
+    },
+    {
+      "id": 693017,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693171,
+      "point": 1866
+    },
+    {
+      "id": 693018,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693181,
+      "point": 2240
+    },
+    {
+      "id": 693019,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693191,
+      "point": 2987
+    },
+    {
+      "id": 693020,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693201,
+      "point": 5975
+    },
+    {
+      "id": 693021,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693211,
+      "point": 1
+    },
+    {
+      "id": 693022,
+      "mst_conquest_boss_id": 6935,
+      "mst_quest_id": 693221,
+      "point": 6572
+    },
+    {
+      "id": 697001,
+      "mst_conquest_boss_id": 6971,
+      "mst_quest_id": 697011,
+      "point": 1679
+    },
+    {
+      "id": 697002,
+      "mst_conquest_boss_id": 6971,
+      "mst_quest_id": 697021,
+      "point": 2016
+    },
+    {
+      "id": 697003,
+      "mst_conquest_boss_id": 6971,
+      "mst_quest_id": 697031,
+      "point": 2688
+    },
+    {
+      "id": 697004,
+      "mst_conquest_boss_id": 6971,
+      "mst_quest_id": 697041,
+      "point": 5378
+    },
+    {
+      "id": 697005,
+      "mst_conquest_boss_id": 6972,
+      "mst_quest_id": 697051,
+      "point": 1679
+    },
+    {
+      "id": 697006,
+      "mst_conquest_boss_id": 6972,
+      "mst_quest_id": 697061,
+      "point": 2016
+    },
+    {
+      "id": 697007,
+      "mst_conquest_boss_id": 6972,
+      "mst_quest_id": 697071,
+      "point": 2688
+    },
+    {
+      "id": 697008,
+      "mst_conquest_boss_id": 6972,
+      "mst_quest_id": 697081,
+      "point": 5378
+    },
+    {
+      "id": 697009,
+      "mst_conquest_boss_id": 6973,
+      "mst_quest_id": 697091,
+      "point": 1679
+    },
+    {
+      "id": 697010,
+      "mst_conquest_boss_id": 6973,
+      "mst_quest_id": 697101,
+      "point": 2016
+    },
+    {
+      "id": 697011,
+      "mst_conquest_boss_id": 6973,
+      "mst_quest_id": 697111,
+      "point": 2688
+    },
+    {
+      "id": 697012,
+      "mst_conquest_boss_id": 6973,
+      "mst_quest_id": 697121,
+      "point": 5378
+    },
+    {
+      "id": 697013,
+      "mst_conquest_boss_id": 6974,
+      "mst_quest_id": 697131,
+      "point": 1679
+    },
+    {
+      "id": 697014,
+      "mst_conquest_boss_id": 6974,
+      "mst_quest_id": 697141,
+      "point": 2016
+    },
+    {
+      "id": 697015,
+      "mst_conquest_boss_id": 6974,
+      "mst_quest_id": 697151,
+      "point": 2688
+    },
+    {
+      "id": 697016,
+      "mst_conquest_boss_id": 6974,
+      "mst_quest_id": 697161,
+      "point": 5378
+    },
+    {
+      "id": 697017,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697171,
+      "point": 1866
+    },
+    {
+      "id": 697018,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697181,
+      "point": 2240
+    },
+    {
+      "id": 697019,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697191,
+      "point": 2987
+    },
+    {
+      "id": 697020,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697201,
+      "point": 5975
+    },
+    {
+      "id": 697021,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697211,
+      "point": 1
+    },
+    {
+      "id": 697022,
+      "mst_conquest_boss_id": 6975,
+      "mst_quest_id": 697221,
+      "point": 6572
+    },
+    {
+      "id": 6991001,
+      "mst_conquest_boss_id": 69911,
+      "mst_quest_id": 6991011,
+      "point": 1493
+    },
+    {
+      "id": 6991002,
+      "mst_conquest_boss_id": 69911,
+      "mst_quest_id": 6991021,
+      "point": 1792
+    },
+    {
+      "id": 6991003,
+      "mst_conquest_boss_id": 69911,
+      "mst_quest_id": 6991031,
+      "point": 2390
+    },
+    {
+      "id": 6991004,
+      "mst_conquest_boss_id": 69911,
+      "mst_quest_id": 6991041,
+      "point": 4780
+    },
+    {
+      "id": 6991005,
+      "mst_conquest_boss_id": 69912,
+      "mst_quest_id": 6991051,
+      "point": 1586
+    },
+    {
+      "id": 6991006,
+      "mst_conquest_boss_id": 69912,
+      "mst_quest_id": 6991061,
+      "point": 1904
+    },
+    {
+      "id": 6991007,
+      "mst_conquest_boss_id": 69912,
+      "mst_quest_id": 6991071,
+      "point": 2539
+    },
+    {
+      "id": 6991008,
+      "mst_conquest_boss_id": 69912,
+      "mst_quest_id": 6991081,
+      "point": 5079
+    },
+    {
+      "id": 6991009,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991091,
+      "point": 1866
+    },
+    {
+      "id": 6991010,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991101,
+      "point": 2240
+    },
+    {
+      "id": 6991011,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991111,
+      "point": 2987
+    },
+    {
+      "id": 6991012,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991121,
+      "point": 5975
+    },
+    {
+      "id": 6991013,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991131,
+      "point": 1
+    },
+    {
+      "id": 6991014,
+      "mst_conquest_boss_id": 69913,
+      "mst_quest_id": 6991141,
+      "point": 6572
+    },
+    {
+      "id": 700001,
+      "mst_conquest_boss_id": 7001,
+      "mst_quest_id": 700011,
+      "point": 1679
+    },
+    {
+      "id": 700002,
+      "mst_conquest_boss_id": 7001,
+      "mst_quest_id": 700021,
+      "point": 2016
+    },
+    {
+      "id": 700003,
+      "mst_conquest_boss_id": 7001,
+      "mst_quest_id": 700031,
+      "point": 2688
+    },
+    {
+      "id": 700004,
+      "mst_conquest_boss_id": 7001,
+      "mst_quest_id": 700041,
+      "point": 5378
+    },
+    {
+      "id": 700005,
+      "mst_conquest_boss_id": 7002,
+      "mst_quest_id": 700051,
+      "point": 1679
+    },
+    {
+      "id": 700006,
+      "mst_conquest_boss_id": 7002,
+      "mst_quest_id": 700061,
+      "point": 2016
+    },
+    {
+      "id": 700007,
+      "mst_conquest_boss_id": 7002,
+      "mst_quest_id": 700071,
+      "point": 2688
+    },
+    {
+      "id": 700008,
+      "mst_conquest_boss_id": 7002,
+      "mst_quest_id": 700081,
+      "point": 5378
+    },
+    {
+      "id": 700009,
+      "mst_conquest_boss_id": 7003,
+      "mst_quest_id": 700091,
+      "point": 1679
+    },
+    {
+      "id": 700010,
+      "mst_conquest_boss_id": 7003,
+      "mst_quest_id": 700101,
+      "point": 2016
+    },
+    {
+      "id": 700011,
+      "mst_conquest_boss_id": 7003,
+      "mst_quest_id": 700111,
+      "point": 2688
+    },
+    {
+      "id": 700012,
+      "mst_conquest_boss_id": 7003,
+      "mst_quest_id": 700121,
+      "point": 5378
+    },
+    {
+      "id": 700013,
+      "mst_conquest_boss_id": 7004,
+      "mst_quest_id": 700131,
+      "point": 1679
+    },
+    {
+      "id": 700014,
+      "mst_conquest_boss_id": 7004,
+      "mst_quest_id": 700141,
+      "point": 2016
+    },
+    {
+      "id": 700015,
+      "mst_conquest_boss_id": 7004,
+      "mst_quest_id": 700151,
+      "point": 2688
+    },
+    {
+      "id": 700016,
+      "mst_conquest_boss_id": 7004,
+      "mst_quest_id": 700161,
+      "point": 5378
+    },
+    {
+      "id": 700017,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700171,
+      "point": 1866
+    },
+    {
+      "id": 700018,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700181,
+      "point": 2240
+    },
+    {
+      "id": 700019,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700191,
+      "point": 2987
+    },
+    {
+      "id": 700020,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700201,
+      "point": 5975
+    },
+    {
+      "id": 700021,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700211,
+      "point": 1
+    },
+    {
+      "id": 700022,
+      "mst_conquest_boss_id": 7005,
+      "mst_quest_id": 700221,
+      "point": 6572
+    },
+    {
+      "id": 7031001,
+      "mst_conquest_boss_id": 70311,
+      "mst_quest_id": 7031011,
+      "point": 1493
+    },
+    {
+      "id": 7031002,
+      "mst_conquest_boss_id": 70311,
+      "mst_quest_id": 7031021,
+      "point": 1792
+    },
+    {
+      "id": 7031003,
+      "mst_conquest_boss_id": 70311,
+      "mst_quest_id": 7031031,
+      "point": 2390
+    },
+    {
+      "id": 7031004,
+      "mst_conquest_boss_id": 70311,
+      "mst_quest_id": 7031041,
+      "point": 4780
+    },
+    {
+      "id": 7031005,
+      "mst_conquest_boss_id": 70312,
+      "mst_quest_id": 7031051,
+      "point": 1586
+    },
+    {
+      "id": 7031006,
+      "mst_conquest_boss_id": 70312,
+      "mst_quest_id": 7031061,
+      "point": 1904
+    },
+    {
+      "id": 7031007,
+      "mst_conquest_boss_id": 70312,
+      "mst_quest_id": 7031071,
+      "point": 2539
+    },
+    {
+      "id": 7031008,
+      "mst_conquest_boss_id": 70312,
+      "mst_quest_id": 7031081,
+      "point": 5079
+    },
+    {
+      "id": 7031009,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031091,
+      "point": 1866
+    },
+    {
+      "id": 7031010,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031101,
+      "point": 2240
+    },
+    {
+      "id": 7031011,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031111,
+      "point": 2987
+    },
+    {
+      "id": 7031012,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031121,
+      "point": 5975
+    },
+    {
+      "id": 7031013,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031131,
+      "point": 1
+    },
+    {
+      "id": 7031014,
+      "mst_conquest_boss_id": 70313,
+      "mst_quest_id": 7031141,
+      "point": 6572
+    },
+    {
+      "id": 704001,
+      "mst_conquest_boss_id": 7041,
+      "mst_quest_id": 704011,
+      "point": 1679
+    },
+    {
+      "id": 704002,
+      "mst_conquest_boss_id": 7041,
+      "mst_quest_id": 704021,
+      "point": 2016
+    },
+    {
+      "id": 704003,
+      "mst_conquest_boss_id": 7041,
+      "mst_quest_id": 704031,
+      "point": 2688
+    },
+    {
+      "id": 704004,
+      "mst_conquest_boss_id": 7041,
+      "mst_quest_id": 704041,
+      "point": 5378
+    },
+    {
+      "id": 704005,
+      "mst_conquest_boss_id": 7042,
+      "mst_quest_id": 704051,
+      "point": 1679
+    },
+    {
+      "id": 704006,
+      "mst_conquest_boss_id": 7042,
+      "mst_quest_id": 704061,
+      "point": 2016
+    },
+    {
+      "id": 704007,
+      "mst_conquest_boss_id": 7042,
+      "mst_quest_id": 704071,
+      "point": 2688
+    },
+    {
+      "id": 704008,
+      "mst_conquest_boss_id": 7042,
+      "mst_quest_id": 704081,
+      "point": 5378
+    },
+    {
+      "id": 704009,
+      "mst_conquest_boss_id": 7043,
+      "mst_quest_id": 704091,
+      "point": 1679
+    },
+    {
+      "id": 704010,
+      "mst_conquest_boss_id": 7043,
+      "mst_quest_id": 704101,
+      "point": 2016
+    },
+    {
+      "id": 704011,
+      "mst_conquest_boss_id": 7043,
+      "mst_quest_id": 704111,
+      "point": 2688
+    },
+    {
+      "id": 704012,
+      "mst_conquest_boss_id": 7043,
+      "mst_quest_id": 704121,
+      "point": 5378
+    },
+    {
+      "id": 704013,
+      "mst_conquest_boss_id": 7044,
+      "mst_quest_id": 704131,
+      "point": 1679
+    },
+    {
+      "id": 704014,
+      "mst_conquest_boss_id": 7044,
+      "mst_quest_id": 704141,
+      "point": 2016
+    },
+    {
+      "id": 704015,
+      "mst_conquest_boss_id": 7044,
+      "mst_quest_id": 704151,
+      "point": 2688
+    },
+    {
+      "id": 704016,
+      "mst_conquest_boss_id": 7044,
+      "mst_quest_id": 704161,
+      "point": 5378
+    },
+    {
+      "id": 704017,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704171,
+      "point": 1866
+    },
+    {
+      "id": 704018,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704181,
+      "point": 2240
+    },
+    {
+      "id": 704019,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704191,
+      "point": 2987
+    },
+    {
+      "id": 704020,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704201,
+      "point": 5975
+    },
+    {
+      "id": 704021,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704211,
+      "point": 1
+    },
+    {
+      "id": 704022,
+      "mst_conquest_boss_id": 7045,
+      "mst_quest_id": 704221,
+      "point": 6572
+    },
+    {
+      "id": 708001,
+      "mst_conquest_boss_id": 7081,
+      "mst_quest_id": 708011,
+      "point": 1679
+    },
+    {
+      "id": 708002,
+      "mst_conquest_boss_id": 7081,
+      "mst_quest_id": 708021,
+      "point": 2016
+    },
+    {
+      "id": 708003,
+      "mst_conquest_boss_id": 7081,
+      "mst_quest_id": 708031,
+      "point": 2688
+    },
+    {
+      "id": 708004,
+      "mst_conquest_boss_id": 7081,
+      "mst_quest_id": 708041,
+      "point": 5378
+    },
+    {
+      "id": 708005,
+      "mst_conquest_boss_id": 7082,
+      "mst_quest_id": 708051,
+      "point": 1679
+    },
+    {
+      "id": 708006,
+      "mst_conquest_boss_id": 7082,
+      "mst_quest_id": 708061,
+      "point": 2016
+    },
+    {
+      "id": 708007,
+      "mst_conquest_boss_id": 7082,
+      "mst_quest_id": 708071,
+      "point": 2688
+    },
+    {
+      "id": 708008,
+      "mst_conquest_boss_id": 7082,
+      "mst_quest_id": 708081,
+      "point": 5378
+    },
+    {
+      "id": 708009,
+      "mst_conquest_boss_id": 7083,
+      "mst_quest_id": 708091,
+      "point": 1679
+    },
+    {
+      "id": 708010,
+      "mst_conquest_boss_id": 7083,
+      "mst_quest_id": 708101,
+      "point": 2016
+    },
+    {
+      "id": 708011,
+      "mst_conquest_boss_id": 7083,
+      "mst_quest_id": 708111,
+      "point": 2688
+    },
+    {
+      "id": 708012,
+      "mst_conquest_boss_id": 7083,
+      "mst_quest_id": 708121,
+      "point": 5378
+    },
+    {
+      "id": 708013,
+      "mst_conquest_boss_id": 7084,
+      "mst_quest_id": 708131,
+      "point": 1679
+    },
+    {
+      "id": 708014,
+      "mst_conquest_boss_id": 7084,
+      "mst_quest_id": 708141,
+      "point": 2016
+    },
+    {
+      "id": 708015,
+      "mst_conquest_boss_id": 7084,
+      "mst_quest_id": 708151,
+      "point": 2688
+    },
+    {
+      "id": 708016,
+      "mst_conquest_boss_id": 7084,
+      "mst_quest_id": 708161,
+      "point": 5378
+    },
+    {
+      "id": 708017,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708171,
+      "point": 1866
+    },
+    {
+      "id": 708018,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708181,
+      "point": 2240
+    },
+    {
+      "id": 708019,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708191,
+      "point": 2987
+    },
+    {
+      "id": 708020,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708201,
+      "point": 5975
+    },
+    {
+      "id": 708021,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708211,
+      "point": 1
+    },
+    {
+      "id": 708022,
+      "mst_conquest_boss_id": 7085,
+      "mst_quest_id": 708221,
+      "point": 6572
+    },
+    {
+      "id": 7161001,
+      "mst_conquest_boss_id": 71611,
+      "mst_quest_id": 7161011,
+      "point": 1493
+    },
+    {
+      "id": 7161002,
+      "mst_conquest_boss_id": 71611,
+      "mst_quest_id": 7161021,
+      "point": 1792
+    },
+    {
+      "id": 7161003,
+      "mst_conquest_boss_id": 71611,
+      "mst_quest_id": 7161031,
+      "point": 2390
+    },
+    {
+      "id": 7161004,
+      "mst_conquest_boss_id": 71611,
+      "mst_quest_id": 7161041,
+      "point": 4780
+    },
+    {
+      "id": 7161005,
+      "mst_conquest_boss_id": 71612,
+      "mst_quest_id": 7161051,
+      "point": 1586
+    },
+    {
+      "id": 7161006,
+      "mst_conquest_boss_id": 71612,
+      "mst_quest_id": 7161061,
+      "point": 1904
+    },
+    {
+      "id": 7161007,
+      "mst_conquest_boss_id": 71612,
+      "mst_quest_id": 7161071,
+      "point": 2539
+    },
+    {
+      "id": 7161008,
+      "mst_conquest_boss_id": 71612,
+      "mst_quest_id": 7161081,
+      "point": 5079
+    },
+    {
+      "id": 7161009,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161091,
+      "point": 1866
+    },
+    {
+      "id": 7161010,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161101,
+      "point": 2240
+    },
+    {
+      "id": 7161011,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161111,
+      "point": 2987
+    },
+    {
+      "id": 7161012,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161121,
+      "point": 5975
+    },
+    {
+      "id": 7161013,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161131,
+      "point": 1
+    },
+    {
+      "id": 7161014,
+      "mst_conquest_boss_id": 71613,
+      "mst_quest_id": 7161141,
+      "point": 6572
+    },
+    {
+      "id": 717001,
+      "mst_conquest_boss_id": 7171,
+      "mst_quest_id": 717011,
+      "point": 1586
+    },
+    {
+      "id": 717002,
+      "mst_conquest_boss_id": 7171,
+      "mst_quest_id": 717021,
+      "point": 1904
+    },
+    {
+      "id": 717003,
+      "mst_conquest_boss_id": 7171,
+      "mst_quest_id": 717031,
+      "point": 2539
+    },
+    {
+      "id": 717004,
+      "mst_conquest_boss_id": 7171,
+      "mst_quest_id": 717041,
+      "point": 5079
+    },
+    {
+      "id": 717005,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717051,
+      "point": 1866
+    },
+    {
+      "id": 717006,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717061,
+      "point": 2240
+    },
+    {
+      "id": 717007,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717071,
+      "point": 2987
+    },
+    {
+      "id": 717008,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717081,
+      "point": 5975
+    },
+    {
+      "id": 717009,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717091,
+      "point": 1
+    },
+    {
+      "id": 717010,
+      "mst_conquest_boss_id": 7172,
+      "mst_quest_id": 717101,
+      "point": 6572
+    },
+    {
+      "id": 7221001,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221011,
+      "point": 1866
+    },
+    {
+      "id": 7221002,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221021,
+      "point": 2240
+    },
+    {
+      "id": 7221003,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221031,
+      "point": 1
+    },
+    {
+      "id": 7221004,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221041,
+      "point": 1866
+    },
+    {
+      "id": 7221005,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221051,
+      "point": 2240
+    },
+    {
+      "id": 7221006,
+      "mst_conquest_boss_id": 72211,
+      "mst_quest_id": 7221061,
+      "point": 1
+    },
+    {
+      "id": 7221007,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221071,
+      "point": 1866
+    },
+    {
+      "id": 7221008,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221081,
+      "point": 2240
+    },
+    {
+      "id": 7221009,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221091,
+      "point": 1
+    },
+    {
+      "id": 7221010,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221101,
+      "point": 1866
+    },
+    {
+      "id": 7221011,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221111,
+      "point": 1866
+    },
+    {
+      "id": 7221012,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221121,
+      "point": 1866
+    },
+    {
+      "id": 7221013,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221131,
+      "point": 2240
+    },
+    {
+      "id": 7221014,
+      "mst_conquest_boss_id": 72212,
+      "mst_quest_id": 7221141,
+      "point": 1
+    },
+    {
+      "id": 7221015,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221151,
+      "point": 300
+    },
+    {
+      "id": 7221016,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221152,
+      "point": 300
+    },
+    {
+      "id": 7221017,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221161,
+      "point": 300
+    },
+    {
+      "id": 7221018,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221162,
+      "point": 300
+    },
+    {
+      "id": 7221019,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221171,
+      "point": 300
+    },
+    {
+      "id": 7221020,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221172,
+      "point": 300
+    },
+    {
+      "id": 7221021,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221181,
+      "point": 300
+    },
+    {
+      "id": 7221022,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221182,
+      "point": 300
+    },
+    {
+      "id": 7221023,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221191,
+      "point": 300
+    },
+    {
+      "id": 7221024,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221201,
+      "point": 1866
+    },
+    {
+      "id": 7221025,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221211,
+      "point": 2240
+    },
+    {
+      "id": 7221026,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221221,
+      "point": 1
+    },
+    {
+      "id": 7221027,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221231,
+      "point": 300
+    },
+    {
+      "id": 7221028,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221241,
+      "point": 300
+    },
+    {
+      "id": 7221029,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221251,
+      "point": 300
+    },
+    {
+      "id": 7221030,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221261,
+      "point": 300
+    },
+    {
+      "id": 7221031,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221271,
+      "point": 300
+    },
+    {
+      "id": 7221032,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221281,
+      "point": 300
+    },
+    {
+      "id": 7221033,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221291,
+      "point": 300
+    },
+    {
+      "id": 7221034,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221301,
+      "point": 300
+    },
+    {
+      "id": 7221035,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221311,
+      "point": 300
+    },
+    {
+      "id": 7221036,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221321,
+      "point": 300
+    },
+    {
+      "id": 7221037,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221331,
+      "point": 1866
+    },
+    {
+      "id": 7221038,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221341,
+      "point": 2240
+    },
+    {
+      "id": 7221039,
+      "mst_conquest_boss_id": 72213,
+      "mst_quest_id": 7221351,
+      "point": 1
+    },
+    {
+      "id": 7251001,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251011,
+      "point": 300
+    },
+    {
+      "id": 7251002,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251021,
+      "point": 300
+    },
+    {
+      "id": 7251003,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251031,
+      "point": 300
+    },
+    {
+      "id": 7251004,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251041,
+      "point": 300
+    },
+    {
+      "id": 7251005,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251051,
+      "point": 300
+    },
+    {
+      "id": 7251006,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251061,
+      "point": 300
+    },
+    {
+      "id": 7251007,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251071,
+      "point": 300
+    },
+    {
+      "id": 7251008,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251081,
+      "point": 300
+    },
+    {
+      "id": 7251009,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251091,
+      "point": 300
+    },
+    {
+      "id": 7251010,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251101,
+      "point": 300
+    },
+    {
+      "id": 7251011,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251111,
+      "point": 1866
+    },
+    {
+      "id": 7251012,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251121,
+      "point": 5975
+    },
+    {
+      "id": 7251013,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251131,
+      "point": 1
+    },
+    {
+      "id": 7251014,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251141,
+      "point": 300
+    },
+    {
+      "id": 7251015,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251151,
+      "point": 300
+    },
+    {
+      "id": 7251016,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251152,
+      "point": 300
+    },
+    {
+      "id": 7251017,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251161,
+      "point": 300
+    },
+    {
+      "id": 7251018,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251171,
+      "point": 300
+    },
+    {
+      "id": 7251019,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251181,
+      "point": 300
+    },
+    {
+      "id": 7251020,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251191,
+      "point": 300
+    },
+    {
+      "id": 7251021,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251201,
+      "point": 300
+    },
+    {
+      "id": 7251022,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251211,
+      "point": 300
+    },
+    {
+      "id": 7251023,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251221,
+      "point": 300
+    },
+    {
+      "id": 7251024,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251231,
+      "point": 300
+    },
+    {
+      "id": 7251025,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251241,
+      "point": 1866
+    },
+    {
+      "id": 7251026,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251251,
+      "point": 5975
+    },
+    {
+      "id": 7251027,
+      "mst_conquest_boss_id": 72511,
+      "mst_quest_id": 7251261,
+      "point": 1
+    },
+    {
+      "id": 7251028,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251271,
+      "point": 300
+    },
+    {
+      "id": 7251029,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251281,
+      "point": 300
+    },
+    {
+      "id": 7251030,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251291,
+      "point": 300
+    },
+    {
+      "id": 7251031,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251301,
+      "point": 300
+    },
+    {
+      "id": 7251032,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251311,
+      "point": 300
+    },
+    {
+      "id": 7251033,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251321,
+      "point": 300
+    },
+    {
+      "id": 7251034,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251331,
+      "point": 300
+    },
+    {
+      "id": 7251035,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251341,
+      "point": 300
+    },
+    {
+      "id": 7251036,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251351,
+      "point": 300
+    },
+    {
+      "id": 7251037,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251361,
+      "point": 300
+    },
+    {
+      "id": 7251038,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251371,
+      "point": 1866
+    },
+    {
+      "id": 7251039,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251381,
+      "point": 5975
+    },
+    {
+      "id": 7251040,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251391,
+      "point": 1
+    },
+    {
+      "id": 7251041,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251401,
+      "point": 300
+    },
+    {
+      "id": 7251042,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251411,
+      "point": 300
+    },
+    {
+      "id": 7251043,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251421,
+      "point": 300
+    },
+    {
+      "id": 7251044,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251431,
+      "point": 300
+    },
+    {
+      "id": 7251045,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251441,
+      "point": 300
+    },
+    {
+      "id": 7251046,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251451,
+      "point": 300
+    },
+    {
+      "id": 7251047,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251461,
+      "point": 300
+    },
+    {
+      "id": 7251048,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251471,
+      "point": 300
+    },
+    {
+      "id": 7251049,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251481,
+      "point": 300
+    },
+    {
+      "id": 7251050,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251491,
+      "point": 300
+    },
+    {
+      "id": 7251051,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251501,
+      "point": 1866
+    },
+    {
+      "id": 7251052,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251511,
+      "point": 5975
+    },
+    {
+      "id": 7251053,
+      "mst_conquest_boss_id": 72512,
+      "mst_quest_id": 7251521,
+      "point": 1
+    },
+    {
+      "id": 7251054,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251531,
+      "point": 300
+    },
+    {
+      "id": 7251055,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251541,
+      "point": 300
+    },
+    {
+      "id": 7251056,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251551,
+      "point": 300
+    },
+    {
+      "id": 7251057,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251561,
+      "point": 300
+    },
+    {
+      "id": 7251058,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251571,
+      "point": 300
+    },
+    {
+      "id": 7251059,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251581,
+      "point": 300
+    },
+    {
+      "id": 7251060,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251591,
+      "point": 300
+    },
+    {
+      "id": 7251061,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251601,
+      "point": 300
+    },
+    {
+      "id": 7251062,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251611,
+      "point": 300
+    },
+    {
+      "id": 7251063,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251621,
+      "point": 300
+    },
+    {
+      "id": 7251064,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251631,
+      "point": 1866
+    },
+    {
+      "id": 7251065,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251641,
+      "point": 5975
+    },
+    {
+      "id": 7251066,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251651,
+      "point": 1
+    },
+    {
+      "id": 7251067,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251661,
+      "point": 300
+    },
+    {
+      "id": 7251068,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251671,
+      "point": 300
+    },
+    {
+      "id": 7251069,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251681,
+      "point": 300
+    },
+    {
+      "id": 7251070,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251691,
+      "point": 300
+    },
+    {
+      "id": 7251071,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251701,
+      "point": 300
+    },
+    {
+      "id": 7251072,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251711,
+      "point": 300
+    },
+    {
+      "id": 7251073,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251721,
+      "point": 300
+    },
+    {
+      "id": 7251074,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251731,
+      "point": 300
+    },
+    {
+      "id": 7251075,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251741,
+      "point": 300
+    },
+    {
+      "id": 7251076,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251751,
+      "point": 300
+    },
+    {
+      "id": 7251077,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251761,
+      "point": 1866
+    },
+    {
+      "id": 7251078,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251771,
+      "point": 5975
+    },
+    {
+      "id": 7251079,
+      "mst_conquest_boss_id": 72513,
+      "mst_quest_id": 7251781,
+      "point": 1
+    },
+    {
+      "id": 7271001,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271011,
+      "point": 300
+    },
+    {
+      "id": 7271002,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271021,
+      "point": 300
+    },
+    {
+      "id": 7271003,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271031,
+      "point": 300
+    },
+    {
+      "id": 7271004,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271041,
+      "point": 300
+    },
+    {
+      "id": 7271005,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271051,
+      "point": 300
+    },
+    {
+      "id": 7271006,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271061,
+      "point": 300
+    },
+    {
+      "id": 7271007,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271071,
+      "point": 300
+    },
+    {
+      "id": 7271008,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271081,
+      "point": 300
+    },
+    {
+      "id": 7271009,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271091,
+      "point": 300
+    },
+    {
+      "id": 7271010,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271101,
+      "point": 300
+    },
+    {
+      "id": 7271011,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271111,
+      "point": 300
+    },
+    {
+      "id": 7271012,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271121,
+      "point": 1866
+    },
+    {
+      "id": 7271013,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271131,
+      "point": 5975
+    },
+    {
+      "id": 7271014,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271141,
+      "point": 1
+    },
+    {
+      "id": 7271015,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271151,
+      "point": 300
+    },
+    {
+      "id": 7271016,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271161,
+      "point": 300
+    },
+    {
+      "id": 7271017,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271171,
+      "point": 300
+    },
+    {
+      "id": 7271018,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271181,
+      "point": 300
+    },
+    {
+      "id": 7271019,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271191,
+      "point": 300
+    },
+    {
+      "id": 7271020,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271201,
+      "point": 300
+    },
+    {
+      "id": 7271021,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271211,
+      "point": 300
+    },
+    {
+      "id": 7271022,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271221,
+      "point": 300
+    },
+    {
+      "id": 7271023,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271231,
+      "point": 300
+    },
+    {
+      "id": 7271024,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271241,
+      "point": 300
+    },
+    {
+      "id": 7271025,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271251,
+      "point": 1866
+    },
+    {
+      "id": 7271026,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271261,
+      "point": 5975
+    },
+    {
+      "id": 7271027,
+      "mst_conquest_boss_id": 72711,
+      "mst_quest_id": 7271271,
+      "point": 1
+    },
+    {
+      "id": 7271028,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271281,
+      "point": 300
+    },
+    {
+      "id": 7271029,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271291,
+      "point": 300
+    },
+    {
+      "id": 7271030,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271301,
+      "point": 300
+    },
+    {
+      "id": 7271031,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271311,
+      "point": 300
+    },
+    {
+      "id": 7271032,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271321,
+      "point": 300
+    },
+    {
+      "id": 7271033,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271331,
+      "point": 300
+    },
+    {
+      "id": 7271034,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271341,
+      "point": 300
+    },
+    {
+      "id": 7271035,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271351,
+      "point": 1866
+    },
+    {
+      "id": 7271036,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271361,
+      "point": 1866
+    },
+    {
+      "id": 7271037,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271371,
+      "point": 1866
+    },
+    {
+      "id": 7271038,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271381,
+      "point": 5975
+    },
+    {
+      "id": 7271039,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271391,
+      "point": 1
+    },
+    {
+      "id": 7271040,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271401,
+      "point": 300
+    },
+    {
+      "id": 7271041,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271411,
+      "point": 300
+    },
+    {
+      "id": 7271042,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271421,
+      "point": 300
+    },
+    {
+      "id": 7271043,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271431,
+      "point": 300
+    },
+    {
+      "id": 7271044,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271441,
+      "point": 300
+    },
+    {
+      "id": 7271045,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271451,
+      "point": 1866
+    },
+    {
+      "id": 7271046,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271461,
+      "point": 1866
+    },
+    {
+      "id": 7271047,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271471,
+      "point": 1866
+    },
+    {
+      "id": 7271048,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271481,
+      "point": 1866
+    },
+    {
+      "id": 7271049,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271491,
+      "point": 5975
+    },
+    {
+      "id": 7271050,
+      "mst_conquest_boss_id": 72712,
+      "mst_quest_id": 7271501,
+      "point": 1
+    },
+    {
+      "id": 7271051,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271511,
+      "point": 300
+    },
+    {
+      "id": 7271052,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271521,
+      "point": 300
+    },
+    {
+      "id": 7271053,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271531,
+      "point": 300
+    },
+    {
+      "id": 7271054,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271541,
+      "point": 300
+    },
+    {
+      "id": 7271055,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271551,
+      "point": 300
+    },
+    {
+      "id": 7271056,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271561,
+      "point": 1866
+    },
+    {
+      "id": 7271057,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271571,
+      "point": 1866
+    },
+    {
+      "id": 7271058,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271581,
+      "point": 1866
+    },
+    {
+      "id": 7271059,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271591,
+      "point": 5975
+    },
+    {
+      "id": 7271060,
+      "mst_conquest_boss_id": 72713,
+      "mst_quest_id": 7271601,
+      "point": 1
+    }
+  ],
+  "mst_conquest_bosses": [
+    {
+      "id": 3651,
+      "mst_conquest_event_id": 365,
+      "name": "幻影ディスト",
+      "boss_pos": 1,
+      "quest_talk_id": 120
+    },
+    {
+      "id": 3652,
+      "mst_conquest_event_id": 365,
+      "name": "幻影リヒター",
+      "boss_pos": 2,
+      "quest_talk_id": 120
+    },
+    {
+      "id": 3653,
+      "mst_conquest_event_id": 365,
+      "name": "幻影ミトス",
+      "boss_pos": 3,
+      "quest_talk_id": 120
+    },
+    {
+      "id": 3654,
+      "mst_conquest_event_id": 365,
+      "name": "幻影チェスター",
+      "boss_pos": 4,
+      "quest_talk_id": 120
+    },
+    {
+      "id": 3731,
+      "mst_conquest_event_id": 373,
+      "name": "ミトス",
+      "boss_pos": 1,
+      "quest_talk_id": 1
+    },
+    {
+      "id": 3831,
+      "mst_conquest_event_id": 383,
+      "name": "レザード・ヴァレス",
+      "boss_pos": 1,
+      "quest_talk_id": 3831
+    },
+    {
+      "id": 3832,
+      "mst_conquest_event_id": 383,
+      "name": "薔薇のディスト",
+      "boss_pos": 2,
+      "quest_talk_id": 3832
+    },
+    {
+      "id": 3861,
+      "mst_conquest_event_id": 386,
+      "name": "バルバトス",
+      "boss_pos": 1,
+      "quest_talk_id": 386
+    },
+    {
+      "id": 3891,
+      "mst_conquest_event_id": 389,
+      "name": "ているずおぶ戦隊",
+      "boss_pos": 1,
+      "quest_talk_id": 389
+    },
+    {
+      "id": 3941,
+      "mst_conquest_event_id": 394,
+      "name": "グザファン",
+      "boss_pos": 1,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 3942,
+      "mst_conquest_event_id": 394,
+      "name": "エンシェントライガ",
+      "boss_pos": 2,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 3943,
+      "mst_conquest_event_id": 394,
+      "name": "タルロウXX",
+      "boss_pos": 3,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 3944,
+      "mst_conquest_event_id": 394,
+      "name": "シャドウガイスト",
+      "boss_pos": 4,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 3945,
+      "mst_conquest_event_id": 394,
+      "name": "ザ・グリームアイズ",
+      "boss_pos": 5,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 3946,
+      "mst_conquest_event_id": 394,
+      "name": "キリト＆アスナ",
+      "boss_pos": 6,
+      "quest_talk_id": 394
+    },
+    {
+      "id": 4031,
+      "mst_conquest_event_id": 403,
+      "name": "ソフィ＆コンウェイ",
+      "boss_pos": 1,
+      "quest_talk_id": 4031
+    },
+    {
+      "id": 4032,
+      "mst_conquest_event_id": 403,
+      "name": "ジューダス＆リアラ",
+      "boss_pos": 2,
+      "quest_talk_id": 4032
+    },
+    {
+      "id": 4033,
+      "mst_conquest_event_id": 403,
+      "name": "ヒューバート＆パスカル",
+      "boss_pos": 3,
+      "quest_talk_id": 4033
+    },
+    {
+      "id": 4034,
+      "mst_conquest_event_id": 403,
+      "name": "ハロウィントレント君",
+      "boss_pos": 4,
+      "quest_talk_id": 4034
+    },
+    {
+      "id": 4035,
+      "mst_conquest_event_id": 403,
+      "name": "ヒルダ＆？？？",
+      "boss_pos": 5,
+      "quest_talk_id": 4035
+    },
+    {
+      "id": 4081,
+      "mst_conquest_event_id": 408,
+      "name": "オタオタ♪UO",
+      "boss_pos": 1,
+      "quest_talk_id": 0
+    },
+    {
+      "id": 4082,
+      "mst_conquest_event_id": 408,
+      "name": "闇の炎に抱かれたい勢",
+      "boss_pos": 2,
+      "quest_talk_id": 0
+    },
+    {
+      "id": 4083,
+      "mst_conquest_event_id": 408,
+      "name": "事務員ベルベット",
+      "boss_pos": 3,
+      "quest_talk_id": 4083
+    },
+    {
+      "id": 4111,
+      "mst_conquest_event_id": 411,
+      "name": "ドラゴンパピー",
+      "boss_pos": 1,
+      "quest_talk_id": 0
+    },
+    {
+      "id": 4112,
+      "mst_conquest_event_id": 411,
+      "name": "ローゲ",
+      "boss_pos": 2,
+      "quest_talk_id": 4111
+    },
+    {
+      "id": 4113,
+      "mst_conquest_event_id": 411,
+      "name": "リヒター",
+      "boss_pos": 3,
+      "quest_talk_id": 4112
+    },
+    {
+      "id": 4181,
+      "mst_conquest_event_id": 418,
+      "name": "ダオス",
+      "boss_pos": 1,
+      "quest_talk_id": 418
+    },
+    {
+      "id": 4221,
+      "mst_conquest_event_id": 422,
+      "name": "エルレイン",
+      "boss_pos": 1,
+      "quest_talk_id": 422
+    },
+    {
+      "id": 4311,
+      "mst_conquest_event_id": 431,
+      "name": "ベルベット？",
+      "boss_pos": 1,
+      "quest_talk_id": 4311
+    },
+    {
+      "id": 4312,
+      "mst_conquest_event_id": 431,
+      "name": "アスベル？",
+      "boss_pos": 2,
+      "quest_talk_id": 4312
+    },
+    {
+      "id": 4313,
+      "mst_conquest_event_id": 431,
+      "name": "ダオス？",
+      "boss_pos": 3,
+      "quest_talk_id": 4313
+    },
+    {
+      "id": 4314,
+      "mst_conquest_event_id": 431,
+      "name": "ルーティ？",
+      "boss_pos": 4,
+      "quest_talk_id": 4314
+    },
+    {
+      "id": 4315,
+      "mst_conquest_event_id": 431,
+      "name": "ルシフェル？",
+      "boss_pos": 5,
+      "quest_talk_id": 4315
+    },
+    {
+      "id": 4361,
+      "mst_conquest_event_id": 436,
+      "name": "デューク",
+      "boss_pos": 1,
+      "quest_talk_id": 436
+    },
+    {
+      "id": 4451,
+      "mst_conquest_event_id": 445,
+      "name": "チェインブレイカー",
+      "boss_pos": 1,
+      "quest_talk_id": 4451
+    },
+    {
+      "id": 4452,
+      "mst_conquest_event_id": 445,
+      "name": "クリティカルゴレム",
+      "boss_pos": 2,
+      "quest_talk_id": 4452
+    },
+    {
+      "id": 4453,
+      "mst_conquest_event_id": 445,
+      "name": "シュヴァルツ",
+      "boss_pos": 3,
+      "quest_talk_id": 4453
+    },
+    {
+      "id": 4511,
+      "mst_conquest_event_id": 451,
+      "name": "ラザリス",
+      "boss_pos": 1,
+      "quest_talk_id": 451
+    },
+    {
+      "id": 4631,
+      "mst_conquest_event_id": 4631,
+      "name": "クリード",
+      "boss_pos": 1,
+      "quest_talk_id": 4631
+    },
+    {
+      "id": 4731,
+      "mst_conquest_event_id": 4731,
+      "name": "リトルクイーン",
+      "boss_pos": 1,
+      "quest_talk_id": 4731
+    },
+    {
+      "id": 476,
+      "mst_conquest_event_id": 476,
+      "name": "ダオス",
+      "boss_pos": 1,
+      "quest_talk_id": 476
+    },
+    {
+      "id": 4801,
+      "mst_conquest_event_id": 4801,
+      "name": "シグレ",
+      "boss_pos": 1,
+      "quest_talk_id": 4801
+    },
+    {
+      "id": 4821,
+      "mst_conquest_event_id": 482,
+      "name": "オタオタ♪UO",
+      "boss_pos": 1,
+      "quest_talk_id": 0
+    },
+    {
+      "id": 4822,
+      "mst_conquest_event_id": 482,
+      "name": "闇の炎に抱かれたい勢",
+      "boss_pos": 2,
+      "quest_talk_id": 0
+    },
+    {
+      "id": 4823,
+      "mst_conquest_event_id": 482,
+      "name": "事務員ベルベット",
+      "boss_pos": 3,
+      "quest_talk_id": 4083
+    },
+    {
+      "id": 4861,
+      "mst_conquest_event_id": 4861,
+      "name": "ネビリム",
+      "boss_pos": 1,
+      "quest_talk_id": 4861
+    },
+    {
+      "id": 4891,
+      "mst_conquest_event_id": 489,
+      "name": "デューク",
+      "boss_pos": 1,
+      "quest_talk_id": 489
+    },
+    {
+      "id": 4951,
+      "mst_conquest_event_id": 4951,
+      "name": "ラタトスク",
+      "boss_pos": 1,
+      "quest_talk_id": 4951
+    },
+    {
+      "id": 4952,
+      "mst_conquest_event_id": 4951,
+      "name": "マリク",
+      "boss_pos": 2,
+      "quest_talk_id": 4952
+    },
+    {
+      "id": 4953,
+      "mst_conquest_event_id": 4951,
+      "name": "ロゼ",
+      "boss_pos": 3,
+      "quest_talk_id": 4953
+    },
+    {
+      "id": 4954,
+      "mst_conquest_event_id": 4951,
+      "name": "ワイズマン・フォルス",
+      "boss_pos": 4,
+      "quest_talk_id": 4954
+    },
+    {
+      "id": 5011,
+      "mst_conquest_event_id": 501,
+      "name": "ベルベット？",
+      "boss_pos": 1,
+      "quest_talk_id": 4311
+    },
+    {
+      "id": 5012,
+      "mst_conquest_event_id": 501,
+      "name": "アスベル？",
+      "boss_pos": 2,
+      "quest_talk_id": 4312
+    },
+    {
+      "id": 5013,
+      "mst_conquest_event_id": 501,
+      "name": "ダオス？",
+      "boss_pos": 3,
+      "quest_talk_id": 4313
+    },
+    {
+      "id": 5014,
+      "mst_conquest_event_id": 501,
+      "name": "ルーティ？",
+      "boss_pos": 4,
+      "quest_talk_id": 4314
+    },
+    {
+      "id": 5015,
+      "mst_conquest_event_id": 501,
+      "name": "ルシフェル？",
+      "boss_pos": 5,
+      "quest_talk_id": 4315
+    },
+    {
+      "id": 5101,
+      "mst_conquest_event_id": 510,
+      "name": "レッサー・デーモン",
+      "boss_pos": 1,
+      "quest_talk_id": 5101
+    },
+    {
+      "id": 5102,
+      "mst_conquest_event_id": 510,
+      "name": "塔の支配者",
+      "boss_pos": 2,
+      "quest_talk_id": 5102
+    },
+    {
+      "id": 5103,
+      "mst_conquest_event_id": 510,
+      "name": "獣神官ゼロス",
+      "boss_pos": 3,
+      "quest_talk_id": 5103
+    },
+    {
+      "id": 5261,
+      "mst_conquest_event_id": 5261,
+      "name": "幻影アステリオス",
+      "boss_pos": 1,
+      "quest_talk_id": 5261
+    },
+    {
+      "id": 5301,
+      "mst_conquest_event_id": 5301,
+      "name": "マグナディウエス",
+      "boss_pos": 1,
+      "quest_talk_id": 5301
+    },
+    {
+      "id": 5361,
+      "mst_conquest_event_id": 536,
+      "name": "オウルベア",
+      "boss_pos": 1,
+      "quest_talk_id": 5361
+    },
+    {
+      "id": 5362,
+      "mst_conquest_event_id": 536,
+      "name": "ヤミ＆クレス",
+      "boss_pos": 2,
+      "quest_talk_id": 5362
+    },
+    {
+      "id": 5363,
+      "mst_conquest_event_id": 536,
+      "name": "<size=20>ヤミ＆シャーロット＆クレス＆ダオス</size>",
+      "boss_pos": 3,
+      "quest_talk_id": 5363
+    },
+    {
+      "id": 5401,
+      "mst_conquest_event_id": 5401,
+      "name": "サレ",
+      "boss_pos": 1,
+      "quest_talk_id": 5401
+    },
+    {
+      "id": 5431,
+      "mst_conquest_event_id": 5431,
+      "name": "クロー",
+      "boss_pos": 1,
+      "quest_talk_id": 5431
+    },
+    {
+      "id": 5432,
+      "mst_conquest_event_id": 5431,
+      "name": "ファング",
+      "boss_pos": 2,
+      "quest_talk_id": 5432
+    },
+    {
+      "id": 5433,
+      "mst_conquest_event_id": 5431,
+      "name": "ロアー",
+      "boss_pos": 3,
+      "quest_talk_id": 5433
+    },
+    {
+      "id": 5434,
+      "mst_conquest_event_id": 5431,
+      "name": "破滅へと導く者",
+      "boss_pos": 4,
+      "quest_talk_id": 5434
+    },
+    {
+      "id": 5481,
+      "mst_conquest_event_id": 5481,
+      "name": "ラタトスク",
+      "boss_pos": 1,
+      "quest_talk_id": 4951
+    },
+    {
+      "id": 5482,
+      "mst_conquest_event_id": 5481,
+      "name": "マリク",
+      "boss_pos": 2,
+      "quest_talk_id": 4952
+    },
+    {
+      "id": 5483,
+      "mst_conquest_event_id": 5481,
+      "name": "ロゼ",
+      "boss_pos": 3,
+      "quest_talk_id": 4953
+    },
+    {
+      "id": 5484,
+      "mst_conquest_event_id": 5481,
+      "name": "ワイズマン・フォルス",
+      "boss_pos": 4,
+      "quest_talk_id": 4954
+    },
+    {
+      "id": 5531,
+      "mst_conquest_event_id": 553,
+      "name": "ラムレザル＆ディスト",
+      "boss_pos": 1,
+      "quest_talk_id": 5531
+    },
+    {
+      "id": 5532,
+      "mst_conquest_event_id": 553,
+      "name": "シゼル＆ジェイ＆ミュゼ",
+      "boss_pos": 2,
+      "quest_talk_id": 5532
+    },
+    {
+      "id": 5533,
+      "mst_conquest_event_id": 553,
+      "name": "慈悲なき啓示の徒",
+      "boss_pos": 3,
+      "quest_talk_id": 5533
+    },
+    {
+      "id": 15911,
+      "mst_conquest_event_id": 1591,
+      "name": "ヘルダルフ",
+      "boss_pos": 1,
+      "quest_talk_id": 15911
+    },
+    {
+      "id": 16011,
+      "mst_conquest_event_id": 1601,
+      "name": "アルトリウス",
+      "boss_pos": 1,
+      "quest_talk_id": 16011
+    },
+    {
+      "id": 5631,
+      "mst_conquest_event_id": 5631,
+      "name": "アグリア",
+      "boss_pos": 1,
+      "quest_talk_id": 5631
+    },
+    {
+      "id": 5632,
+      "mst_conquest_event_id": 5631,
+      "name": "ヴィクトル＆セルシウス",
+      "boss_pos": 2,
+      "quest_talk_id": 5632
+    },
+    {
+      "id": 5633,
+      "mst_conquest_event_id": 5631,
+      "name": "ベヒモス",
+      "boss_pos": 3,
+      "quest_talk_id": 5633
+    },
+    {
+      "id": 5651,
+      "mst_conquest_event_id": 5651,
+      "name": "覇王ガイアス＆ミュゼ",
+      "boss_pos": 1,
+      "quest_talk_id": 5651
+    },
+    {
+      "id": 5721,
+      "mst_conquest_event_id": 572,
+      "name": "シゼル",
+      "boss_pos": 1,
+      "quest_talk_id": 5721
+    },
+    {
+      "id": 5722,
+      "mst_conquest_event_id": 572,
+      "name": "エルレイン",
+      "boss_pos": 2,
+      "quest_talk_id": 5722
+    },
+    {
+      "id": 5723,
+      "mst_conquest_event_id": 572,
+      "name": "ヴァン",
+      "boss_pos": 3,
+      "quest_talk_id": 5723
+    },
+    {
+      "id": 5724,
+      "mst_conquest_event_id": 572,
+      "name": "デューク",
+      "boss_pos": 4,
+      "quest_talk_id": 5724
+    },
+    {
+      "id": 5725,
+      "mst_conquest_event_id": 572,
+      "name": "ユグドラシル",
+      "boss_pos": 5,
+      "quest_talk_id": 5725
+    },
+    {
+      "id": 5733,
+      "mst_conquest_event_id": 5733,
+      "name": "ミクトラン",
+      "boss_pos": 1,
+      "quest_talk_id": 57331
+    },
+    {
+      "id": 5751,
+      "mst_conquest_event_id": 575,
+      "name": "リトルクイーン",
+      "boss_pos": 1,
+      "quest_talk_id": 5751
+    },
+    {
+      "id": 5752,
+      "mst_conquest_event_id": 575,
+      "name": "覇王 ガイアス",
+      "boss_pos": 2,
+      "quest_talk_id": 5752
+    },
+    {
+      "id": 5753,
+      "mst_conquest_event_id": 575,
+      "name": "ヘルダルフ",
+      "boss_pos": 3,
+      "quest_talk_id": 5753
+    },
+    {
+      "id": 5754,
+      "mst_conquest_event_id": 575,
+      "name": "アルトリウス",
+      "boss_pos": 4,
+      "quest_talk_id": 5754
+    },
+    {
+      "id": 5755,
+      "mst_conquest_event_id": 575,
+      "name": "ダオス ファイナルフォーム",
+      "boss_pos": 5,
+      "quest_talk_id": 5755
+    },
+    {
+      "id": 5791,
+      "mst_conquest_event_id": 5791,
+      "name": "ジェイド（高杉）",
+      "boss_pos": 1,
+      "quest_talk_id": 5791
+    },
+    {
+      "id": 5792,
+      "mst_conquest_event_id": 5791,
+      "name": "アンデッドドラゴン",
+      "boss_pos": 2,
+      "quest_talk_id": 5792
+    },
+    {
+      "id": 5793,
+      "mst_conquest_event_id": 5791,
+      "name": "高杉 晋助",
+      "boss_pos": 3,
+      "quest_talk_id": 5793
+    },
+    {
+      "id": 5831,
+      "mst_conquest_event_id": 583,
+      "name": "白き獅子",
+      "boss_pos": 1,
+      "quest_talk_id": 5831
+    },
+    {
+      "id": 5832,
+      "mst_conquest_event_id": 583,
+      "name": "破滅へと導く者",
+      "boss_pos": 2,
+      "quest_talk_id": 5832
+    },
+    {
+      "id": 5833,
+      "mst_conquest_event_id": 583,
+      "name": "ティルグ",
+      "boss_pos": 3,
+      "quest_talk_id": 5833
+    },
+    {
+      "id": 5851,
+      "mst_conquest_event_id": 585,
+      "name": "ユアン",
+      "boss_pos": 1,
+      "quest_talk_id": 5851
+    },
+    {
+      "id": 5852,
+      "mst_conquest_event_id": 585,
+      "name": "クラトス",
+      "boss_pos": 2,
+      "quest_talk_id": 5852
+    },
+    {
+      "id": 5853,
+      "mst_conquest_event_id": 585,
+      "name": "ミトス",
+      "boss_pos": 3,
+      "quest_talk_id": 5853
+    },
+    {
+      "id": 5901,
+      "mst_conquest_event_id": 590,
+      "name": "ヒスイ",
+      "boss_pos": 1,
+      "quest_talk_id": 5901
+    },
+    {
+      "id": 5902,
+      "mst_conquest_event_id": 590,
+      "name": "カルセドニー",
+      "boss_pos": 2,
+      "quest_talk_id": 5902
+    },
+    {
+      "id": 5903,
+      "mst_conquest_event_id": 590,
+      "name": "クリード",
+      "boss_pos": 3,
+      "quest_talk_id": 5903
+    },
+    {
+      "id": 5941,
+      "mst_conquest_event_id": 594,
+      "name": "ガベージイーター",
+      "boss_pos": 1,
+      "quest_talk_id": 5941
+    },
+    {
+      "id": 5942,
+      "mst_conquest_event_id": 594,
+      "name": "グリューネ？＆リンウェル？",
+      "boss_pos": 2,
+      "quest_talk_id": 5942
+    },
+    {
+      "id": 5943,
+      "mst_conquest_event_id": 594,
+      "name": "ロウ？＆エステル？",
+      "boss_pos": 3,
+      "quest_talk_id": 5943
+    },
+    {
+      "id": 5951,
+      "mst_conquest_event_id": 5951,
+      "name": "ビエゾ",
+      "boss_pos": 1,
+      "quest_talk_id": 5951
+    },
+    {
+      "id": 5971,
+      "mst_conquest_event_id": 597,
+      "name": "ミクトラン",
+      "boss_pos": 1,
+      "quest_talk_id": 5971
+    },
+    {
+      "id": 5972,
+      "mst_conquest_event_id": 597,
+      "name": "サレ",
+      "boss_pos": 2,
+      "quest_talk_id": 5972
+    },
+    {
+      "id": 5973,
+      "mst_conquest_event_id": 597,
+      "name": "シュヴァルツ",
+      "boss_pos": 3,
+      "quest_talk_id": 5973
+    },
+    {
+      "id": 5974,
+      "mst_conquest_event_id": 597,
+      "name": "リヒター",
+      "boss_pos": 4,
+      "quest_talk_id": 5974
+    },
+    {
+      "id": 5975,
+      "mst_conquest_event_id": 597,
+      "name": "虹翼まといし者",
+      "boss_pos": 5,
+      "quest_talk_id": 5975
+    },
+    {
+      "id": 6511,
+      "mst_conquest_event_id": 651,
+      "name": "ダオス",
+      "boss_pos": 1,
+      "quest_talk_id": 6511
+    },
+    {
+      "id": 6512,
+      "mst_conquest_event_id": 651,
+      "name": "ヴァン",
+      "boss_pos": 3,
+      "quest_talk_id": 6512
+    },
+    {
+      "id": 6513,
+      "mst_conquest_event_id": 651,
+      "name": "覇王ガイアス",
+      "boss_pos": 4,
+      "quest_talk_id": 6513
+    },
+    {
+      "id": 6514,
+      "mst_conquest_event_id": 651,
+      "name": "アルトリウス",
+      "boss_pos": 2,
+      "quest_talk_id": 6514
+    },
+    {
+      "id": 6515,
+      "mst_conquest_event_id": 651,
+      "name": "デミトリアス",
+      "boss_pos": 5,
+      "quest_talk_id": 6515
+    },
+    {
+      "id": 6591,
+      "mst_conquest_event_id": 659,
+      "name": "仮面の女",
+      "boss_pos": 1,
+      "quest_talk_id": 6591
+    },
+    {
+      "id": 6592,
+      "mst_conquest_event_id": 659,
+      "name": "魔竜王ガーヴ",
+      "boss_pos": 2,
+      "quest_talk_id": 6592
+    },
+    {
+      "id": 6593,
+      "mst_conquest_event_id": 659,
+      "name": "冥王フィブリゾ",
+      "boss_pos": 3,
+      "quest_talk_id": 6593
+    },
+    {
+      "id": 6611,
+      "mst_conquest_event_id": 661,
+      "name": "アンデッドドラゴン",
+      "boss_pos": 1,
+      "quest_talk_id": 6611
+    },
+    {
+      "id": 6612,
+      "mst_conquest_event_id": 661,
+      "name": "ベルベット＆アルトリウス",
+      "boss_pos": 2,
+      "quest_talk_id": 6612
+    },
+    {
+      "id": 6613,
+      "mst_conquest_event_id": 661,
+      "name": "ヘルダルフ",
+      "boss_pos": 3,
+      "quest_talk_id": 6613
+    },
+    {
+      "id": 6641,
+      "mst_conquest_event_id": 6641,
+      "name": "バルバトス",
+      "boss_pos": 1,
+      "quest_talk_id": 6641
+    },
+    {
+      "id": 6642,
+      "mst_conquest_event_id": 6641,
+      "name": "ワーウルフ",
+      "boss_pos": 2,
+      "quest_talk_id": 6642
+    },
+    {
+      "id": 6643,
+      "mst_conquest_event_id": 6641,
+      "name": "偽ミクトラン",
+      "boss_pos": 3,
+      "quest_talk_id": 6643
+    },
+    {
+      "id": 6661,
+      "mst_conquest_event_id": 6661,
+      "name": "メルディ？＆レイス？",
+      "boss_pos": 1,
+      "quest_talk_id": 6661
+    },
+    {
+      "id": 6662,
+      "mst_conquest_event_id": 6661,
+      "name": "<size=20>カイル？＆リアラ？＆ジューダス？</size>",
+      "boss_pos": 2,
+      "quest_talk_id": 6662
+    },
+    {
+      "id": 6663,
+      "mst_conquest_event_id": 6661,
+      "name": "シュヴァーン？＆イエガー？",
+      "boss_pos": 3,
+      "quest_talk_id": 6663
+    },
+    {
+      "id": 6664,
+      "mst_conquest_event_id": 6661,
+      "name": "ルーク？＆アッシュ？",
+      "boss_pos": 4,
+      "quest_talk_id": 6664
+    },
+    {
+      "id": 6665,
+      "mst_conquest_event_id": 6661,
+      "name": "ヘルダルフ？＆アルトリウス？",
+      "boss_pos": 5,
+      "quest_talk_id": 6665
+    },
+    {
+      "id": 6701,
+      "mst_conquest_event_id": 670,
+      "name": "エレノア",
+      "boss_pos": 1,
+      "quest_talk_id": 6701
+    },
+    {
+      "id": 6702,
+      "mst_conquest_event_id": 670,
+      "name": "シグレ",
+      "boss_pos": 2,
+      "quest_talk_id": 6702
+    },
+    {
+      "id": 6703,
+      "mst_conquest_event_id": 670,
+      "name": "アルトリウス",
+      "boss_pos": 3,
+      "quest_talk_id": 6703
+    },
+    {
+      "id": 67311,
+      "mst_conquest_event_id": 6731,
+      "name": "デューク＆ミラ＝マクスウェル",
+      "boss_pos": 1,
+      "quest_talk_id": 6731
+    },
+    {
+      "id": 67312,
+      "mst_conquest_event_id": 6731,
+      "name": "ブリジット",
+      "boss_pos": 2,
+      "quest_talk_id": 6732
+    },
+    {
+      "id": 67313,
+      "mst_conquest_event_id": 6731,
+      "name": "カイ",
+      "boss_pos": 3,
+      "quest_talk_id": 6733
+    },
+    {
+      "id": 68011,
+      "mst_conquest_event_id": 6801,
+      "name": "トレント",
+      "boss_pos": 1,
+      "quest_talk_id": 6801
+    },
+    {
+      "id": 68012,
+      "mst_conquest_event_id": 6801,
+      "name": "パワード夏美TOR",
+      "boss_pos": 2,
+      "quest_talk_id": 6802
+    },
+    {
+      "id": 68013,
+      "mst_conquest_event_id": 6801,
+      "name": "あの頃の軍曹",
+      "boss_pos": 3,
+      "quest_talk_id": 6803
+    },
+    {
+      "id": 68621,
+      "mst_conquest_event_id": 6862,
+      "name": "エンシェントライガ",
+      "boss_pos": 1,
+      "quest_talk_id": 6861
+    },
+    {
+      "id": 68622,
+      "mst_conquest_event_id": 6862,
+      "name": "アンデッドドラゴン",
+      "boss_pos": 2,
+      "quest_talk_id": 6862
+    },
+    {
+      "id": 68623,
+      "mst_conquest_event_id": 6862,
+      "name": "サレの幻",
+      "boss_pos": 3,
+      "quest_talk_id": 6863
+    },
+    {
+      "id": 6891,
+      "mst_conquest_event_id": 689,
+      "name": "リオン",
+      "boss_pos": 1,
+      "quest_talk_id": 6891
+    },
+    {
+      "id": 6892,
+      "mst_conquest_event_id": 689,
+      "name": "スタン",
+      "boss_pos": 3,
+      "quest_talk_id": 6892
+    },
+    {
+      "id": 6893,
+      "mst_conquest_event_id": 689,
+      "name": "メルディ",
+      "boss_pos": 4,
+      "quest_talk_id": 6893
+    },
+    {
+      "id": 6894,
+      "mst_conquest_event_id": 689,
+      "name": "シャルティエ＆ディムロス",
+      "boss_pos": 2,
+      "quest_talk_id": 6894
+    },
+    {
+      "id": 6895,
+      "mst_conquest_event_id": 689,
+      "name": "ジェダイトドラゴン",
+      "boss_pos": 5,
+      "quest_talk_id": 6895
+    },
+    {
+      "id": 6911,
+      "mst_conquest_event_id": 691,
+      "name": "アグリア",
+      "boss_pos": 1,
+      "quest_talk_id": 6911
+    },
+    {
+      "id": 6912,
+      "mst_conquest_event_id": 691,
+      "name": "イバル",
+      "boss_pos": 2,
+      "quest_talk_id": 6912
+    },
+    {
+      "id": 6913,
+      "mst_conquest_event_id": 691,
+      "name": "覇王ガイアス＆ミュゼ",
+      "boss_pos": 3,
+      "quest_talk_id": 6913
+    },
+    {
+      "id": 6931,
+      "mst_conquest_event_id": 693,
+      "name": "ルーク",
+      "boss_pos": 1,
+      "quest_talk_id": 6931
+    },
+    {
+      "id": 6932,
+      "mst_conquest_event_id": 693,
+      "name": "エミル",
+      "boss_pos": 3,
+      "quest_talk_id": 6932
+    },
+    {
+      "id": 6933,
+      "mst_conquest_event_id": 693,
+      "name": "アニー",
+      "boss_pos": 4,
+      "quest_talk_id": 6933
+    },
+    {
+      "id": 6934,
+      "mst_conquest_event_id": 693,
+      "name": "シャーリィ",
+      "boss_pos": 2,
+      "quest_talk_id": 6934
+    },
+    {
+      "id": 6935,
+      "mst_conquest_event_id": 693,
+      "name": "イビルゴースト",
+      "boss_pos": 5,
+      "quest_talk_id": 6935
+    },
+    {
+      "id": 6971,
+      "mst_conquest_event_id": 697,
+      "name": "アスベル",
+      "boss_pos": 1,
+      "quest_talk_id": 6971
+    },
+    {
+      "id": 6972,
+      "mst_conquest_event_id": 697,
+      "name": "リチャード",
+      "boss_pos": 3,
+      "quest_talk_id": 6972
+    },
+    {
+      "id": 6973,
+      "mst_conquest_event_id": 697,
+      "name": "イリア",
+      "boss_pos": 4,
+      "quest_talk_id": 6973
+    },
+    {
+      "id": 6974,
+      "mst_conquest_event_id": 697,
+      "name": "マリク＆コンウェイ",
+      "boss_pos": 2,
+      "quest_talk_id": 6974
+    },
+    {
+      "id": 6975,
+      "mst_conquest_event_id": 697,
+      "name": "デススコーピオン",
+      "boss_pos": 5,
+      "quest_talk_id": 6975
+    },
+    {
+      "id": 69911,
+      "mst_conquest_event_id": 6991,
+      "name": "アイスウルフ・A",
+      "boss_pos": 1,
+      "quest_talk_id": 6991
+    },
+    {
+      "id": 69912,
+      "mst_conquest_event_id": 6991,
+      "name": "ベヒモス",
+      "boss_pos": 2,
+      "quest_talk_id": 6992
+    },
+    {
+      "id": 69913,
+      "mst_conquest_event_id": 6991,
+      "name": "ナザミル",
+      "boss_pos": 3,
+      "quest_talk_id": 6993
+    },
+    {
+      "id": 7001,
+      "mst_conquest_event_id": 700,
+      "name": "ルドガー",
+      "boss_pos": 1,
+      "quest_talk_id": 7001
+    },
+    {
+      "id": 7002,
+      "mst_conquest_event_id": 700,
+      "name": "エリーゼ",
+      "boss_pos": 3,
+      "quest_talk_id": 7002
+    },
+    {
+      "id": 7003,
+      "mst_conquest_event_id": 700,
+      "name": "マギルゥ",
+      "boss_pos": 4,
+      "quest_talk_id": 7003
+    },
+    {
+      "id": 7004,
+      "mst_conquest_event_id": 700,
+      "name": "ローエン＆ロクロウ",
+      "boss_pos": 2,
+      "quest_talk_id": 7004
+    },
+    {
+      "id": 7005,
+      "mst_conquest_event_id": 700,
+      "name": "レガシィゴレム",
+      "boss_pos": 5,
+      "quest_talk_id": 7005
+    },
+    {
+      "id": 70311,
+      "mst_conquest_event_id": 7031,
+      "name": "メデューサローパー",
+      "boss_pos": 1,
+      "quest_talk_id": 7031
+    },
+    {
+      "id": 70312,
+      "mst_conquest_event_id": 7031,
+      "name": "ベルベット",
+      "boss_pos": 2,
+      "quest_talk_id": 7032
+    },
+    {
+      "id": 70313,
+      "mst_conquest_event_id": 7031,
+      "name": "KOS-MOS？",
+      "boss_pos": 3,
+      "quest_talk_id": 7033
+    },
+    {
+      "id": 7041,
+      "mst_conquest_event_id": 704,
+      "name": "リッド",
+      "boss_pos": 1,
+      "quest_talk_id": 7041
+    },
+    {
+      "id": 7042,
+      "mst_conquest_event_id": 704,
+      "name": "ファラ",
+      "boss_pos": 3,
+      "quest_talk_id": 7042
+    },
+    {
+      "id": 7043,
+      "mst_conquest_event_id": 704,
+      "name": "ナナリー",
+      "boss_pos": 4,
+      "quest_talk_id": 7043
+    },
+    {
+      "id": 7044,
+      "mst_conquest_event_id": 704,
+      "name": "ロニ&フォッグ",
+      "boss_pos": 2,
+      "quest_talk_id": 7044
+    },
+    {
+      "id": 7045,
+      "mst_conquest_event_id": 704,
+      "name": "ジェダイトドラゴン",
+      "boss_pos": 5,
+      "quest_talk_id": 7045
+    },
+    {
+      "id": 7081,
+      "mst_conquest_event_id": 708,
+      "name": "ティア",
+      "boss_pos": 1,
+      "quest_talk_id": 7081
+    },
+    {
+      "id": 7082,
+      "mst_conquest_event_id": 708,
+      "name": "ガイ",
+      "boss_pos": 3,
+      "quest_talk_id": 7082
+    },
+    {
+      "id": 7083,
+      "mst_conquest_event_id": 708,
+      "name": "アニス",
+      "boss_pos": 4,
+      "quest_talk_id": 7083
+    },
+    {
+      "id": 7084,
+      "mst_conquest_event_id": 708,
+      "name": "リグレット&ディスト",
+      "boss_pos": 2,
+      "quest_talk_id": 7084
+    },
+    {
+      "id": 7085,
+      "mst_conquest_event_id": 708,
+      "name": "デススコーピオン",
+      "boss_pos": 5,
+      "quest_talk_id": 7085
+    },
+    {
+      "id": 71611,
+      "mst_conquest_event_id": 7161,
+      "name": "シュヴァルツ？",
+      "boss_pos": 1,
+      "quest_talk_id": 7161
+    },
+    {
+      "id": 71612,
+      "mst_conquest_event_id": 7161,
+      "name": "ユリウス",
+      "boss_pos": 2,
+      "quest_talk_id": 7162
+    },
+    {
+      "id": 71613,
+      "mst_conquest_event_id": 7161,
+      "name": "ルドガー",
+      "boss_pos": 3,
+      "quest_talk_id": 7163
+    },
+    {
+      "id": 7171,
+      "mst_conquest_event_id": 717,
+      "name": "エルナト",
+      "boss_pos": 1,
+      "quest_talk_id": 7171
+    },
+    {
+      "id": 7172,
+      "mst_conquest_event_id": 717,
+      "name": "エルナト(抜刀)",
+      "boss_pos": 2,
+      "quest_talk_id": 7172
+    },
+    {
+      "id": 72211,
+      "mst_conquest_event_id": 7221,
+      "name": "ダオス&エルレイン",
+      "boss_pos": 1,
+      "quest_talk_id": 7221
+    },
+    {
+      "id": 72212,
+      "mst_conquest_event_id": 7221,
+      "name": "デューク&シュヴァルツ",
+      "boss_pos": 2,
+      "quest_talk_id": 7222
+    },
+    {
+      "id": 72213,
+      "mst_conquest_event_id": 7221,
+      "name": "ラザリス&クリード",
+      "boss_pos": 3,
+      "quest_talk_id": 7223
+    },
+    {
+      "id": 72511,
+      "mst_conquest_event_id": 7251,
+      "name": "リトルクイーン&シグレ",
+      "boss_pos": 1,
+      "quest_talk_id": 7251
+    },
+    {
+      "id": 72512,
+      "mst_conquest_event_id": 7251,
+      "name": "ネビリム&マグナディウエス",
+      "boss_pos": 2,
+      "quest_talk_id": 7252
+    },
+    {
+      "id": 72513,
+      "mst_conquest_event_id": 7251,
+      "name": "サレ&覇王ガイアス",
+      "boss_pos": 3,
+      "quest_talk_id": 7253
+    },
+    {
+      "id": 72711,
+      "mst_conquest_event_id": 7271,
+      "name": "ミクトラン&ビエゾ",
+      "boss_pos": 1,
+      "quest_talk_id": 7271
+    },
+    {
+      "id": 72712,
+      "mst_conquest_event_id": 7271,
+      "name": "偽ミクトラン&サレの幻",
+      "boss_pos": 2,
+      "quest_talk_id": 7272
+    },
+    {
+      "id": 72713,
+      "mst_conquest_event_id": 7271,
+      "name": "ナザミル",
+      "boss_pos": 3,
+      "quest_talk_id": 7273
+    }
+  ]
+}

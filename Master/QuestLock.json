@@ -1,0 +1,47 @@
+{
+  "xhash": "",
+  "mst_quest_locks": [
+    {
+      "id": 1,
+      "title": "イベントクエスト",
+      "quest_group": "期間限定のイベントクエスト\nキャラクターやイベント限定の装備が入手可能！",
+      "liberation_quest_text": "メイン１部 第１章 1-3 デデッキ森林 中央部\nNormal  をクリア",
+      "liberation_quest_id": 101031
+    },
+    {
+      "id": 2,
+      "title": "強化クエスト",
+      "quest_group": "1日2回のみ挑戦できるクエスト\n強化素材を大量に獲得可能！",
+      "liberation_quest_text": "メイン１部 第１章 1-3 デデッキ森林 中央部\nNormal  をクリア",
+      "liberation_quest_id": 101031
+    },
+    {
+      "id": 3,
+      "title": "始祖久遠の塔",
+      "quest_group": "覚醒したキャラクターの力を借りて最上階を目指そう！\n塔を登ると覚醒スキルや様々な報酬が獲得可能！",
+      "liberation_quest_text": "メイン１部 第5章 5-16 バラン岩場 中心部\nNormal  をクリア",
+      "liberation_quest_id": 105161
+    },
+    {
+      "id": 4,
+      "title": "復刻イベント",
+      "quest_group": "過去に開催したイベントを復刻できる機能\nアイテムを使って好きなタイミングで\nイベントを遊ぶことができる。",
+      "liberation_quest_text": "メイン１部 第2章 2-14 心が安らぐ場所 2\nNormal  をクリア",
+      "liberation_quest_id": 102141
+    },
+    {
+      "id": 5,
+      "title": "精霊片クエスト",
+      "quest_group": "精霊装を作るために必要な精霊片を入手できるクエスト\n精霊片を集めてキャラクターをより強くしよう！",
+      "liberation_quest_text": "メイン１部 第6章 6-15 草原の教会 外れ\nNormal  をクリア",
+      "liberation_quest_id": 106151
+    },
+    {
+      "id": 6,
+      "title": "リコレクション",
+      "quest_group": "テイルズ オブ シリーズのタイトルごとに挑戦するクエスト\n各タイトルのストーリーの追体験が可能！\nザ レイズの新たな物語も体験できる！",
+      "liberation_quest_text": "メイン１部 第１章 1-3 デデッキ森林 中央部\nNormal  をクリア",
+      "liberation_quest_id": 101031
+    }
+  ]
+}

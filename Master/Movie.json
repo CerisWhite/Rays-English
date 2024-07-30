@@ -1,0 +1,25 @@
+{
+  "xhash": "",
+  "mst_movie": [
+    {
+      "id": 1,
+      "movie_key": "SHORT_ANIME",
+      "movie_title": "ショートアニメ",
+      "movie_url": "/movie/dk8tP4fsV6tHLsffR2VsfxybZr2KKuttHPA.mp4",
+      "movie_size": 248,
+      "resolution_x": 1280,
+      "resolution_y": 720,
+      "start_date": "2019-07-04T03:00:00.0000000Z"
+    },
+    {
+      "id": 100,
+      "movie_key": "AWAKE_SKILL_INTRODUCTION_0001",
+      "movie_title": "覚醒スキル紹介動画",
+      "movie_url": "/movie/LEzGVAB8BcDL44a5SJ9Rkh74zAQgGbHwGA5gRXb6.mp4",
+      "movie_size": 27,
+      "resolution_x": 1280,
+      "resolution_y": 720,
+      "start_date": "2019-06-28T03:00:00.0000000Z"
+    }
+  ]
+}

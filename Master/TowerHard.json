@@ -1,0 +1,3935 @@
+{
+  "xhash": "",
+  "mst_hard_towers": [
+    {
+      "id": 45000,
+      "mst_tower_id": 45000,
+      "last_stage": 4,
+      "mst_chara_ids": "17,51,206,251,159,69,182,178,252,82,103,195,171",
+      "skill_ids": "",
+      "bgm": "TOWER_BGM/TOWER_002",
+      "detail_webview_path": "21083181",
+      "rewards_webview_path": "21083183"
+    },
+    {
+      "id": 46000,
+      "mst_tower_id": 46000,
+      "last_stage": 4,
+      "mst_chara_ids": "77,207,78,61,253,254,14,54,80",
+      "skill_ids": "",
+      "bgm": "TOWER_BGM/TOWER_002",
+      "detail_webview_path": "21093081",
+      "rewards_webview_path": "21093083"
+    },
+    {
+      "id": 47000,
+      "mst_tower_id": 47000,
+      "last_stage": 4,
+      "mst_chara_ids": "132,62,63,170,238,255,37,38,257,258",
+      "skill_ids": "",
+      "bgm": "TOWER_BGM/TOWER_002",
+      "detail_webview_path": "21103181",
+      "rewards_webview_path": "21103183"
+    },
+    {
+      "id": 48000,
+      "mst_tower_id": 48000,
+      "last_stage": 4,
+      "mst_chara_ids": "250,262,74,85,19,75,29,176,39,83,30,59,40",
+      "skill_ids": "",
+      "bgm": "TOWER_BGM/TOWER_002",
+      "detail_webview_path": "21113081",
+      "rewards_webview_path": "21113083"
+    },
+    {
+      "id": 49000,
+      "mst_tower_id": 49000,
+      "last_stage": 4,
+      "mst_chara_ids": "264,265,46,138,99,260,259,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,85,86,87,89,90,91,93,94,95,96,97,98,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,121,125,126,128,129,130,131,132,133,134,135,136,137,139,141,142,143,144,145,146,147,149,152,153,154,155,156,157,158,159,160,162,163,165,166,167,168,169,170,171,172,175,176,178,179,180,181,182,183,184,187,188,189,190,191,193,194,195,197,198,199,200,204,205,206,207,208,209,210,211,212,213,214,215,216,217,220,221,222,224,225,227,228,229,230,231,233,235,236,237,238,239,241,242,243,244,245,246,247,248,250,251,252,253,254,255,257,258,262,267",
+      "skill_ids": "",
+      "bgm": "TOWER_BGM/TOWER_002",
+      "detail_webview_path": "21123181",
+      "rewards_webview_path": "21123183"
+    }
+  ],
+  "mst_hard_tower_stages": [
+    {
+      "id": 45001,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1905,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BAT_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 45002,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1906,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays3/BOS_Rays3_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 45003,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1907,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BOS_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 45004,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1908,
+      "mst_map_id_boss": 1910,
+      "bgm_normal": "01_TORays/BOS_Rays_001",
+      "bgm_boss": "01_TORays/gefion_in_game_LOOP"
+    },
+    {
+      "id": 46001,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1905,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BAT_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 46002,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1906,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays3/BOS_Rays3_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 46003,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1907,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BOS_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 46004,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1908,
+      "mst_map_id_boss": 1910,
+      "bgm_normal": "01_TORays/BOS_Rays_001",
+      "bgm_boss": "01_TORays/gefion_in_game_LOOP"
+    },
+    {
+      "id": 47001,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1905,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BAT_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 47002,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1906,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays3/BOS_Rays3_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 47003,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1907,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BOS_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 47004,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1908,
+      "mst_map_id_boss": 1910,
+      "bgm_normal": "01_TORays/BOS_Rays_001",
+      "bgm_boss": "01_TORays/gefion_in_game_LOOP"
+    },
+    {
+      "id": 48001,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1905,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BAT_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 48002,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1906,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays3/BOS_Rays3_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 48003,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1907,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BOS_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 48004,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1908,
+      "mst_map_id_boss": 1910,
+      "bgm_normal": "01_TORays/BOS_Rays_001",
+      "bgm_boss": "01_TORays/gefion_in_game_LOOP"
+    },
+    {
+      "id": 49001,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1905,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BAT_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 49002,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1906,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays3/BOS_Rays3_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 49003,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1907,
+      "mst_map_id_boss": 1909,
+      "bgm_normal": "01_TORays2/BOS_Rays2_001",
+      "bgm_boss": "01_TORays4/BOS_Rays4_001"
+    },
+    {
+      "id": 49004,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "battle_condition_num": 1,
+      "add_equip_num": 1,
+      "mst_map_id_normal": 1908,
+      "mst_map_id_boss": 1910,
+      "bgm_normal": "01_TORays/BOS_Rays_001",
+      "bgm_boss": "01_TORays/gefion_in_game_LOOP"
+    }
+  ],
+  "mst_hard_tower_floors": [
+    {
+      "id": 45001,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "floor": 61,
+      "lv": 71,
+      "mst_enemy_ids": "40032945, 40032945, 40032945"
+    },
+    {
+      "id": 45002,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "floor": 62,
+      "lv": 72,
+      "mst_enemy_ids": "40032959, 40032946, 40032959"
+    },
+    {
+      "id": 45003,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "floor": 63,
+      "lv": 73,
+      "mst_enemy_ids": "40032962, 40032962, 40032962"
+    },
+    {
+      "id": 45004,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "floor": 64,
+      "lv": 74,
+      "mst_enemy_ids": "40032963, 40032947, 40032963"
+    },
+    {
+      "id": 45005,
+      "mst_hard_tower_id": 45000,
+      "stage": 1,
+      "floor": 65,
+      "lv": 75,
+      "mst_enemy_ids": "40032965, 40032965, 40032965, 40032957"
+    },
+    {
+      "id": 45006,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "floor": 66,
+      "lv": 76,
+      "mst_enemy_ids": "40032966, 40032960, 40032966, 40032960, 40032966, 40032960"
+    },
+    {
+      "id": 45007,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "floor": 67,
+      "lv": 77,
+      "mst_enemy_ids": "40032961, 40032961, 40032961, 40032961"
+    },
+    {
+      "id": 45008,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "floor": 68,
+      "lv": 78,
+      "mst_enemy_ids": "40032964, 40032964, 40032964, 40032964"
+    },
+    {
+      "id": 45009,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "floor": 69,
+      "lv": 79,
+      "mst_enemy_ids": "40032967, 40032967, 40032967, 40032967, 40032967"
+    },
+    {
+      "id": 45010,
+      "mst_hard_tower_id": 45000,
+      "stage": 2,
+      "floor": 70,
+      "lv": 80,
+      "mst_enemy_ids": "40032954, 40032954, 40032968"
+    },
+    {
+      "id": 45011,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "floor": 71,
+      "lv": 81,
+      "mst_enemy_ids": "40032948, 40032948, 40032948"
+    },
+    {
+      "id": 45012,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "floor": 72,
+      "lv": 82,
+      "mst_enemy_ids": "40032951, 40032951, 40032951"
+    },
+    {
+      "id": 45013,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "floor": 73,
+      "lv": 83,
+      "mst_enemy_ids": "40032949, 40032949, 40032949"
+    },
+    {
+      "id": 45014,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "floor": 74,
+      "lv": 84,
+      "mst_enemy_ids": "40032952, 40032952, 40032952"
+    },
+    {
+      "id": 45015,
+      "mst_hard_tower_id": 45000,
+      "stage": 3,
+      "floor": 75,
+      "lv": 85,
+      "mst_enemy_ids": "40032950, 40032950, 40032950, 40032958"
+    },
+    {
+      "id": 45016,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "floor": 76,
+      "lv": 86,
+      "mst_enemy_ids": "40032950, 40032948, 40032950, 40032948, 40032950, 40032948"
+    },
+    {
+      "id": 45017,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "floor": 77,
+      "lv": 87,
+      "mst_enemy_ids": "40032953, 40032953, 40032953, 40032953, 40032953"
+    },
+    {
+      "id": 45018,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "floor": 78,
+      "lv": 88,
+      "mst_enemy_ids": "40032949, 40032949, 40032949, 40032949"
+    },
+    {
+      "id": 45019,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "floor": 79,
+      "lv": 89,
+      "mst_enemy_ids": "40032950, 40032950, 40032950, 40032950, 40032950"
+    },
+    {
+      "id": 45020,
+      "mst_hard_tower_id": 45000,
+      "stage": 4,
+      "floor": 80,
+      "lv": 90,
+      "mst_enemy_ids": "40032956, 40032955, 40032955, 40032955"
+    },
+    {
+      "id": 46001,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "floor": 61,
+      "lv": 71,
+      "mst_enemy_ids": "40034040, 40034040, 40034040"
+    },
+    {
+      "id": 46002,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "floor": 62,
+      "lv": 72,
+      "mst_enemy_ids": "40034055, 40034041, 40034055"
+    },
+    {
+      "id": 46003,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "floor": 63,
+      "lv": 73,
+      "mst_enemy_ids": "40034058, 40034058, 40034058"
+    },
+    {
+      "id": 46004,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "floor": 64,
+      "lv": 74,
+      "mst_enemy_ids": "40034059, 40034042, 40034059"
+    },
+    {
+      "id": 46005,
+      "mst_hard_tower_id": 46000,
+      "stage": 1,
+      "floor": 65,
+      "lv": 75,
+      "mst_enemy_ids": "40034053, 40034061, 40034061, 40034061"
+    },
+    {
+      "id": 46006,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "floor": 66,
+      "lv": 76,
+      "mst_enemy_ids": "40034056, 40034056, 40034056, 40034062, 40034062, 40034062"
+    },
+    {
+      "id": 46007,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "floor": 67,
+      "lv": 77,
+      "mst_enemy_ids": "40034057, 40034057, 40034057, 40034057"
+    },
+    {
+      "id": 46008,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "floor": 68,
+      "lv": 78,
+      "mst_enemy_ids": "40034060, 40034060, 40034060, 40034060"
+    },
+    {
+      "id": 46009,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "floor": 69,
+      "lv": 79,
+      "mst_enemy_ids": "40034063, 40034063, 40034063, 40034063, 40034063"
+    },
+    {
+      "id": 46010,
+      "mst_hard_tower_id": 46000,
+      "stage": 2,
+      "floor": 70,
+      "lv": 80,
+      "mst_enemy_ids": "40034049, 40034050"
+    },
+    {
+      "id": 46011,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "floor": 71,
+      "lv": 81,
+      "mst_enemy_ids": "40034043, 40034043, 40034043, 40034043"
+    },
+    {
+      "id": 46012,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "floor": 72,
+      "lv": 82,
+      "mst_enemy_ids": "40034046, 40034046, 40034045"
+    },
+    {
+      "id": 46013,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "floor": 73,
+      "lv": 83,
+      "mst_enemy_ids": "40034044, 40034044, 40034043, 40034043"
+    },
+    {
+      "id": 46014,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "floor": 74,
+      "lv": 84,
+      "mst_enemy_ids": "40034047, 40034047, 40034043"
+    },
+    {
+      "id": 46015,
+      "mst_hard_tower_id": 46000,
+      "stage": 3,
+      "floor": 75,
+      "lv": 85,
+      "mst_enemy_ids": "40034054, 40034045, 40034045, 40034045"
+    },
+    {
+      "id": 46016,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "floor": 76,
+      "lv": 86,
+      "mst_enemy_ids": "40034045, 40034043, 40034045, 40034043, 40034045, 40034043"
+    },
+    {
+      "id": 46017,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "floor": 77,
+      "lv": 87,
+      "mst_enemy_ids": "40034048, 40034048, 40034044"
+    },
+    {
+      "id": 46018,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "floor": 78,
+      "lv": 88,
+      "mst_enemy_ids": "40034044, 40034044, 40034044, 40034044"
+    },
+    {
+      "id": 46019,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "floor": 79,
+      "lv": 89,
+      "mst_enemy_ids": "40034045, 40034045, 40034045, 40034045, 40034045"
+    },
+    {
+      "id": 46020,
+      "mst_hard_tower_id": 46000,
+      "stage": 4,
+      "floor": 80,
+      "lv": 90,
+      "mst_enemy_ids": "40034052, 40034051"
+    },
+    {
+      "id": 47001,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "floor": 61,
+      "lv": 71,
+      "mst_enemy_ids": "40034341, 40034341, 40034341"
+    },
+    {
+      "id": 47002,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "floor": 62,
+      "lv": 72,
+      "mst_enemy_ids": "40034356, 40034342, 40034356"
+    },
+    {
+      "id": 47003,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "floor": 63,
+      "lv": 73,
+      "mst_enemy_ids": "40034359, 40034359, 40034359"
+    },
+    {
+      "id": 47004,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "floor": 64,
+      "lv": 74,
+      "mst_enemy_ids": "40034360, 40034343, 40034360"
+    },
+    {
+      "id": 47005,
+      "mst_hard_tower_id": 47000,
+      "stage": 1,
+      "floor": 65,
+      "lv": 75,
+      "mst_enemy_ids": "40034362, 40034362, 40034362, 40034354"
+    },
+    {
+      "id": 47006,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "floor": 66,
+      "lv": 76,
+      "mst_enemy_ids": "40034357, 40034357, 40034357, 40034363, 40034363, 40034363"
+    },
+    {
+      "id": 47007,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "floor": 67,
+      "lv": 77,
+      "mst_enemy_ids": "40034358, 40034358, 40034358, 40034358"
+    },
+    {
+      "id": 47008,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "floor": 68,
+      "lv": 78,
+      "mst_enemy_ids": "40034361, 40034361, 40034361, 40034361"
+    },
+    {
+      "id": 47009,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "floor": 69,
+      "lv": 79,
+      "mst_enemy_ids": "40034364, 40034364, 40034364, 40034364, 40034364"
+    },
+    {
+      "id": 47010,
+      "mst_hard_tower_id": 47000,
+      "stage": 2,
+      "floor": 70,
+      "lv": 80,
+      "mst_enemy_ids": "40034350, 40034351"
+    },
+    {
+      "id": 47011,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "floor": 71,
+      "lv": 81,
+      "mst_enemy_ids": "40034344, 40034344, 40034344"
+    },
+    {
+      "id": 47012,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "floor": 72,
+      "lv": 82,
+      "mst_enemy_ids": "40034348, 40034348, 40034348, 40034348"
+    },
+    {
+      "id": 47013,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "floor": 73,
+      "lv": 83,
+      "mst_enemy_ids": "40034345, 40034345, 40034345"
+    },
+    {
+      "id": 47014,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "floor": 74,
+      "lv": 84,
+      "mst_enemy_ids": "40034346, 40034346, 40034346, 40034346, 40034346"
+    },
+    {
+      "id": 47015,
+      "mst_hard_tower_id": 47000,
+      "stage": 3,
+      "floor": 75,
+      "lv": 85,
+      "mst_enemy_ids": "40034347, 40034347, 40034347, 40034355"
+    },
+    {
+      "id": 47016,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "floor": 76,
+      "lv": 86,
+      "mst_enemy_ids": "40034346, 40034344, 40034346, 40034344, 40034346, 40034344"
+    },
+    {
+      "id": 47017,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "floor": 77,
+      "lv": 87,
+      "mst_enemy_ids": "40034349, 40034349, 40034349, 40034349, 40034349"
+    },
+    {
+      "id": 47018,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "floor": 78,
+      "lv": 88,
+      "mst_enemy_ids": "40034345, 40034345, 40034345, 40034345"
+    },
+    {
+      "id": 47019,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "floor": 79,
+      "lv": 89,
+      "mst_enemy_ids": "40034346, 40034346, 40034346, 40034346, 40034346"
+    },
+    {
+      "id": 47020,
+      "mst_hard_tower_id": 47000,
+      "stage": 4,
+      "floor": 80,
+      "lv": 90,
+      "mst_enemy_ids": "40034353, 40034352, 40034352"
+    },
+    {
+      "id": 48001,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "floor": 61,
+      "lv": 71,
+      "mst_enemy_ids": "40034944, 40034944, 40034944"
+    },
+    {
+      "id": 48002,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "floor": 62,
+      "lv": 72,
+      "mst_enemy_ids": "40034957, 40034945, 40034957"
+    },
+    {
+      "id": 48003,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "floor": 63,
+      "lv": 73,
+      "mst_enemy_ids": "40034960, 40034960, 40034960"
+    },
+    {
+      "id": 48004,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "floor": 64,
+      "lv": 74,
+      "mst_enemy_ids": "40034961, 40034946, 40034961"
+    },
+    {
+      "id": 48005,
+      "mst_hard_tower_id": 48000,
+      "stage": 1,
+      "floor": 65,
+      "lv": 75,
+      "mst_enemy_ids": "40034963, 40034963, 40034963, 40034955"
+    },
+    {
+      "id": 48006,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "floor": 66,
+      "lv": 76,
+      "mst_enemy_ids": "40034958, 40034964, 40034958, 40034964, 40034958, 40034964"
+    },
+    {
+      "id": 48007,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "floor": 67,
+      "lv": 77,
+      "mst_enemy_ids": "40034959, 40034959, 40034959, 40034959"
+    },
+    {
+      "id": 48008,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "floor": 68,
+      "lv": 78,
+      "mst_enemy_ids": "40034962, 40034962, 40034962, 40034962"
+    },
+    {
+      "id": 48009,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "floor": 69,
+      "lv": 79,
+      "mst_enemy_ids": "40034965, 40034965, 40034965, 40034965, 40034965"
+    },
+    {
+      "id": 48010,
+      "mst_hard_tower_id": 48000,
+      "stage": 2,
+      "floor": 70,
+      "lv": 80,
+      "mst_enemy_ids": "40034953, 40034953"
+    },
+    {
+      "id": 48011,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "floor": 71,
+      "lv": 81,
+      "mst_enemy_ids": "40034947, 40034947, 40034947"
+    },
+    {
+      "id": 48012,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "floor": 72,
+      "lv": 82,
+      "mst_enemy_ids": "40034950, 40034950, 40034950, 40034950, 40034950"
+    },
+    {
+      "id": 48013,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "floor": 73,
+      "lv": 83,
+      "mst_enemy_ids": "40034948, 40034948, 40034948"
+    },
+    {
+      "id": 48014,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "floor": 74,
+      "lv": 84,
+      "mst_enemy_ids": "40034951, 40034951, 40034951, 40034951"
+    },
+    {
+      "id": 48015,
+      "mst_hard_tower_id": 48000,
+      "stage": 3,
+      "floor": 75,
+      "lv": 85,
+      "mst_enemy_ids": "40034949, 40034949, 40034949, 40034956"
+    },
+    {
+      "id": 48016,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "floor": 76,
+      "lv": 86,
+      "mst_enemy_ids": "40034949, 40034947, 40034949, 40034947, 40034949, 40034947"
+    },
+    {
+      "id": 48017,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "floor": 77,
+      "lv": 87,
+      "mst_enemy_ids": "40034952, 40034952, 40034952, 40034952, 40034952"
+    },
+    {
+      "id": 48018,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "floor": 78,
+      "lv": 88,
+      "mst_enemy_ids": "40034948, 40034948, 40034948, 40034948"
+    },
+    {
+      "id": 48019,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "floor": 79,
+      "lv": 89,
+      "mst_enemy_ids": "40034949, 40034949, 40034949, 40034949, 40034949"
+    },
+    {
+      "id": 48020,
+      "mst_hard_tower_id": 48000,
+      "stage": 4,
+      "floor": 80,
+      "lv": 90,
+      "mst_enemy_ids": "40034954, 40034954"
+    },
+    {
+      "id": 49001,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "floor": 61,
+      "lv": 71,
+      "mst_enemy_ids": "40035746, 40035746, 40035746"
+    },
+    {
+      "id": 49002,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "floor": 62,
+      "lv": 72,
+      "mst_enemy_ids": "40035760, 40035747, 40035760"
+    },
+    {
+      "id": 49003,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "floor": 63,
+      "lv": 73,
+      "mst_enemy_ids": "40035763, 40035763, 40035763"
+    },
+    {
+      "id": 49004,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "floor": 64,
+      "lv": 74,
+      "mst_enemy_ids": "40035764, 40035748, 40035764"
+    },
+    {
+      "id": 49005,
+      "mst_hard_tower_id": 49000,
+      "stage": 1,
+      "floor": 65,
+      "lv": 75,
+      "mst_enemy_ids": "40035766, 40035766, 40035766, 40035766"
+    },
+    {
+      "id": 49006,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "floor": 66,
+      "lv": 76,
+      "mst_enemy_ids": "40035761, 40035767, 40035761, 40035767, 40035761, 40035767"
+    },
+    {
+      "id": 49007,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "floor": 67,
+      "lv": 77,
+      "mst_enemy_ids": "40035762, 40035762, 40035762, 40035762"
+    },
+    {
+      "id": 49008,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "floor": 68,
+      "lv": 78,
+      "mst_enemy_ids": "40035765, 40035765, 40035765, 40035765"
+    },
+    {
+      "id": 49009,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "floor": 69,
+      "lv": 79,
+      "mst_enemy_ids": "40035768, 40035768, 40035768, 40035768, 40035768"
+    },
+    {
+      "id": 49010,
+      "mst_hard_tower_id": 49000,
+      "stage": 2,
+      "floor": 70,
+      "lv": 80,
+      "mst_enemy_ids": "40035755, 40035755"
+    },
+    {
+      "id": 49011,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "floor": 71,
+      "lv": 81,
+      "mst_enemy_ids": "40035749, 40035749, 40035749"
+    },
+    {
+      "id": 49012,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "floor": 72,
+      "lv": 82,
+      "mst_enemy_ids": "40035752, 40035752, 40035752, 40035752"
+    },
+    {
+      "id": 49013,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "floor": 73,
+      "lv": 83,
+      "mst_enemy_ids": "40035750, 40035750, 40035750"
+    },
+    {
+      "id": 49014,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "floor": 74,
+      "lv": 84,
+      "mst_enemy_ids": "40035753, 40035753, 40035753, 40035753"
+    },
+    {
+      "id": 49015,
+      "mst_hard_tower_id": 49000,
+      "stage": 3,
+      "floor": 75,
+      "lv": 85,
+      "mst_enemy_ids": "40035751, 40035751, 40035751, 40035759"
+    },
+    {
+      "id": 49016,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "floor": 76,
+      "lv": 86,
+      "mst_enemy_ids": "40035751, 40035749, 40035751, 40035749, 40035751, 40035749"
+    },
+    {
+      "id": 49017,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "floor": 77,
+      "lv": 87,
+      "mst_enemy_ids": "40035754, 40035754, 40035754, 40035754"
+    },
+    {
+      "id": 49018,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "floor": 78,
+      "lv": 88,
+      "mst_enemy_ids": "40035750, 40035750, 40035750, 40035750"
+    },
+    {
+      "id": 49019,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "floor": 79,
+      "lv": 89,
+      "mst_enemy_ids": "40035751, 40035751, 40035751, 40035751, 40035751"
+    },
+    {
+      "id": 49020,
+      "mst_hard_tower_id": 49000,
+      "stage": 4,
+      "floor": 80,
+      "lv": 90,
+      "mst_enemy_ids": "40035756, 40035756, 40035757"
+    }
+  ],
+  "mst_hard_tower_points": [
+    {
+      "id": 1,
+      "equip_type": 1,
+      "rarity": 3,
+      "base_point": 70,
+      "possession_point": 70,
+      "limit_break_phase1_point": 30,
+      "limit_break_phase2_point": 60,
+      "limit_break_phase3_point": 100,
+      "limit_break_phase4_point": 150,
+      "arte_lv1_point": 30,
+      "arte_lv2_point": 70,
+      "arte_lv3_point": 120,
+      "arte_lv4_point": 200,
+      "arte_lv5_point": 250,
+      "arte_lv6_point": 300
+    },
+    {
+      "id": 2,
+      "equip_type": 1,
+      "rarity": 4,
+      "base_point": 150,
+      "possession_point": 150,
+      "limit_break_phase1_point": 50,
+      "limit_break_phase2_point": 100,
+      "limit_break_phase3_point": 250,
+      "limit_break_phase4_point": 450,
+      "arte_lv1_point": 100,
+      "arte_lv2_point": 150,
+      "arte_lv3_point": 200,
+      "arte_lv4_point": 250,
+      "arte_lv5_point": 300,
+      "arte_lv6_point": 400
+    },
+    {
+      "id": 3,
+      "equip_type": 1,
+      "rarity": 5,
+      "base_point": 250,
+      "possession_point": 250,
+      "limit_break_phase1_point": 100,
+      "limit_break_phase2_point": 150,
+      "limit_break_phase3_point": 400,
+      "limit_break_phase4_point": 750,
+      "arte_lv1_point": 100,
+      "arte_lv2_point": 150,
+      "arte_lv3_point": 200,
+      "arte_lv4_point": 300,
+      "arte_lv5_point": 350,
+      "arte_lv6_point": 450
+    },
+    {
+      "id": 4,
+      "equip_type": 2,
+      "rarity": 1,
+      "base_point": 300,
+      "possession_point": 300,
+      "limit_break_phase1_point": 0,
+      "limit_break_phase2_point": 0,
+      "limit_break_phase3_point": 0,
+      "limit_break_phase4_point": 0,
+      "arte_lv1_point": 0,
+      "arte_lv2_point": 0,
+      "arte_lv3_point": 0,
+      "arte_lv4_point": 0,
+      "arte_lv5_point": 0,
+      "arte_lv6_point": 0
+    },
+    {
+      "id": 5,
+      "equip_type": 2,
+      "rarity": 2,
+      "base_point": 400,
+      "possession_point": 500,
+      "limit_break_phase1_point": 400,
+      "limit_break_phase2_point": 700,
+      "limit_break_phase3_point": 1000,
+      "limit_break_phase4_point": 1500,
+      "arte_lv1_point": 150,
+      "arte_lv2_point": 250,
+      "arte_lv3_point": 350,
+      "arte_lv4_point": 450,
+      "arte_lv5_point": 600,
+      "arte_lv6_point": 0
+    },
+    {
+      "id": 6,
+      "equip_type": 7,
+      "rarity": 0,
+      "base_point": 400,
+      "possession_point": 400,
+      "limit_break_phase1_point": 300,
+      "limit_break_phase2_point": 500,
+      "limit_break_phase3_point": 700,
+      "limit_break_phase4_point": 1200,
+      "arte_lv1_point": 100,
+      "arte_lv2_point": 200,
+      "arte_lv3_point": 300,
+      "arte_lv4_point": 400,
+      "arte_lv5_point": 500,
+      "arte_lv6_point": 0
+    }
+  ],
+  "mst_hard_tower_skill_slots": [
+    {
+      "id": 45001,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 1,
+      "slot1_lottery_id": 45100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 0,
+      "slot2_rank": 0,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 0
+    },
+    {
+      "id": 45002,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 2,
+      "slot1_lottery_id": 45100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 45100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 5000
+    },
+    {
+      "id": 45003,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 3,
+      "slot1_lottery_id": 45100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 45100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 45100,
+      "slot3_rank": 1,
+      "point": 7500
+    },
+    {
+      "id": 45004,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 4,
+      "slot1_lottery_id": 45200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 45100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 45100,
+      "slot3_rank": 1,
+      "point": 10000
+    },
+    {
+      "id": 45005,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 5,
+      "slot1_lottery_id": 45200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 45200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 45100,
+      "slot3_rank": 1,
+      "point": 20000
+    },
+    {
+      "id": 45006,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 6,
+      "slot1_lottery_id": 45200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 45200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 45200,
+      "slot3_rank": 2,
+      "point": 30000
+    },
+    {
+      "id": 45007,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 7,
+      "slot1_lottery_id": 45300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 45200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 45200,
+      "slot3_rank": 2,
+      "point": 40000
+    },
+    {
+      "id": 45008,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 8,
+      "slot1_lottery_id": 45300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 45300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 45200,
+      "slot3_rank": 2,
+      "point": 50000
+    },
+    {
+      "id": 45009,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 9,
+      "slot1_lottery_id": 45300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 45300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 45300,
+      "slot3_rank": 3,
+      "point": 60000
+    },
+    {
+      "id": 45010,
+      "mst_hard_tower_id": 45000,
+      "lottery_rank": 10,
+      "slot1_lottery_id": 45400,
+      "slot1_rank": 4,
+      "slot2_lottery_id": 45500,
+      "slot2_rank": 4,
+      "slot3_lottery_id": 45600,
+      "slot3_rank": 4,
+      "point": 70000
+    },
+    {
+      "id": 46001,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 1,
+      "slot1_lottery_id": 46100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 0,
+      "slot2_rank": 0,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 0
+    },
+    {
+      "id": 46002,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 2,
+      "slot1_lottery_id": 46100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 46100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 5000
+    },
+    {
+      "id": 46003,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 3,
+      "slot1_lottery_id": 46100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 46100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 46100,
+      "slot3_rank": 1,
+      "point": 7500
+    },
+    {
+      "id": 46004,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 4,
+      "slot1_lottery_id": 46200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 46100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 46100,
+      "slot3_rank": 1,
+      "point": 10000
+    },
+    {
+      "id": 46005,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 5,
+      "slot1_lottery_id": 46200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 46200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 46100,
+      "slot3_rank": 1,
+      "point": 20000
+    },
+    {
+      "id": 46006,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 6,
+      "slot1_lottery_id": 46200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 46200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 46200,
+      "slot3_rank": 2,
+      "point": 30000
+    },
+    {
+      "id": 46007,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 7,
+      "slot1_lottery_id": 46300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 46200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 46200,
+      "slot3_rank": 2,
+      "point": 40000
+    },
+    {
+      "id": 46008,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 8,
+      "slot1_lottery_id": 46300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 46300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 46200,
+      "slot3_rank": 2,
+      "point": 50000
+    },
+    {
+      "id": 46009,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 9,
+      "slot1_lottery_id": 46300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 46300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 46300,
+      "slot3_rank": 3,
+      "point": 60000
+    },
+    {
+      "id": 46010,
+      "mst_hard_tower_id": 46000,
+      "lottery_rank": 10,
+      "slot1_lottery_id": 46400,
+      "slot1_rank": 4,
+      "slot2_lottery_id": 46500,
+      "slot2_rank": 4,
+      "slot3_lottery_id": 46600,
+      "slot3_rank": 4,
+      "point": 70000
+    },
+    {
+      "id": 47001,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 1,
+      "slot1_lottery_id": 47100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 0,
+      "slot2_rank": 0,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 0
+    },
+    {
+      "id": 47002,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 2,
+      "slot1_lottery_id": 47100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 47100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 5000
+    },
+    {
+      "id": 47003,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 3,
+      "slot1_lottery_id": 47100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 47100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 47100,
+      "slot3_rank": 1,
+      "point": 7500
+    },
+    {
+      "id": 47004,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 4,
+      "slot1_lottery_id": 47200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 47100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 47100,
+      "slot3_rank": 1,
+      "point": 10000
+    },
+    {
+      "id": 47005,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 5,
+      "slot1_lottery_id": 47200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 47200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 47100,
+      "slot3_rank": 1,
+      "point": 20000
+    },
+    {
+      "id": 47006,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 6,
+      "slot1_lottery_id": 47200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 47200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 47200,
+      "slot3_rank": 2,
+      "point": 30000
+    },
+    {
+      "id": 47007,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 7,
+      "slot1_lottery_id": 47300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 47200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 47200,
+      "slot3_rank": 2,
+      "point": 40000
+    },
+    {
+      "id": 47008,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 8,
+      "slot1_lottery_id": 47300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 47300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 47200,
+      "slot3_rank": 2,
+      "point": 50000
+    },
+    {
+      "id": 47009,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 9,
+      "slot1_lottery_id": 47300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 47300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 47300,
+      "slot3_rank": 3,
+      "point": 60000
+    },
+    {
+      "id": 47010,
+      "mst_hard_tower_id": 47000,
+      "lottery_rank": 10,
+      "slot1_lottery_id": 47400,
+      "slot1_rank": 4,
+      "slot2_lottery_id": 47500,
+      "slot2_rank": 4,
+      "slot3_lottery_id": 47600,
+      "slot3_rank": 4,
+      "point": 70000
+    },
+    {
+      "id": 48001,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 1,
+      "slot1_lottery_id": 48100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 0,
+      "slot2_rank": 0,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 0
+    },
+    {
+      "id": 48002,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 2,
+      "slot1_lottery_id": 48100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 48100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 5000
+    },
+    {
+      "id": 48003,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 3,
+      "slot1_lottery_id": 48100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 48100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 48100,
+      "slot3_rank": 1,
+      "point": 7500
+    },
+    {
+      "id": 48004,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 4,
+      "slot1_lottery_id": 48200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 48100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 48100,
+      "slot3_rank": 1,
+      "point": 10000
+    },
+    {
+      "id": 48005,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 5,
+      "slot1_lottery_id": 48200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 48200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 48100,
+      "slot3_rank": 1,
+      "point": 20000
+    },
+    {
+      "id": 48006,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 6,
+      "slot1_lottery_id": 48200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 48200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 48200,
+      "slot3_rank": 2,
+      "point": 30000
+    },
+    {
+      "id": 48007,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 7,
+      "slot1_lottery_id": 48300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 48200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 48200,
+      "slot3_rank": 2,
+      "point": 40000
+    },
+    {
+      "id": 48008,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 8,
+      "slot1_lottery_id": 48300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 48300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 48200,
+      "slot3_rank": 2,
+      "point": 50000
+    },
+    {
+      "id": 48009,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 9,
+      "slot1_lottery_id": 48300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 48300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 48300,
+      "slot3_rank": 3,
+      "point": 60000
+    },
+    {
+      "id": 48010,
+      "mst_hard_tower_id": 48000,
+      "lottery_rank": 10,
+      "slot1_lottery_id": 48400,
+      "slot1_rank": 4,
+      "slot2_lottery_id": 48500,
+      "slot2_rank": 4,
+      "slot3_lottery_id": 48600,
+      "slot3_rank": 4,
+      "point": 70000
+    },
+    {
+      "id": 49001,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 1,
+      "slot1_lottery_id": 49100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 0,
+      "slot2_rank": 0,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 0
+    },
+    {
+      "id": 49002,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 2,
+      "slot1_lottery_id": 49100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 49100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 0,
+      "slot3_rank": 0,
+      "point": 5000
+    },
+    {
+      "id": 49003,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 3,
+      "slot1_lottery_id": 49100,
+      "slot1_rank": 1,
+      "slot2_lottery_id": 49100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 49100,
+      "slot3_rank": 1,
+      "point": 7500
+    },
+    {
+      "id": 49004,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 4,
+      "slot1_lottery_id": 49200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 49100,
+      "slot2_rank": 1,
+      "slot3_lottery_id": 49100,
+      "slot3_rank": 1,
+      "point": 10000
+    },
+    {
+      "id": 49005,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 5,
+      "slot1_lottery_id": 49200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 49200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 49100,
+      "slot3_rank": 1,
+      "point": 20000
+    },
+    {
+      "id": 49006,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 6,
+      "slot1_lottery_id": 49200,
+      "slot1_rank": 2,
+      "slot2_lottery_id": 49200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 49200,
+      "slot3_rank": 2,
+      "point": 30000
+    },
+    {
+      "id": 49007,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 7,
+      "slot1_lottery_id": 49300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 49200,
+      "slot2_rank": 2,
+      "slot3_lottery_id": 49200,
+      "slot3_rank": 2,
+      "point": 40000
+    },
+    {
+      "id": 49008,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 8,
+      "slot1_lottery_id": 49300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 49300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 49200,
+      "slot3_rank": 2,
+      "point": 50000
+    },
+    {
+      "id": 49009,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 9,
+      "slot1_lottery_id": 49300,
+      "slot1_rank": 3,
+      "slot2_lottery_id": 49300,
+      "slot2_rank": 3,
+      "slot3_lottery_id": 49300,
+      "slot3_rank": 3,
+      "point": 60000
+    },
+    {
+      "id": 49010,
+      "mst_hard_tower_id": 49000,
+      "lottery_rank": 10,
+      "slot1_lottery_id": 49400,
+      "slot1_rank": 4,
+      "slot2_lottery_id": 49500,
+      "slot2_rank": 4,
+      "slot3_lottery_id": 49600,
+      "slot3_rank": 4,
+      "point": 70000
+    }
+  ],
+  "mst_hard_tower_skill_lotteries": [
+    {
+      "id": 45101,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 1
+    },
+    {
+      "id": 45102,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 1
+    },
+    {
+      "id": 45103,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 1
+    },
+    {
+      "id": 45104,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 1
+    },
+    {
+      "id": 45105,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 1
+    },
+    {
+      "id": 45106,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 1
+    },
+    {
+      "id": 45107,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 1
+    },
+    {
+      "id": 45108,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 1
+    },
+    {
+      "id": 45109,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 1
+    },
+    {
+      "id": 45110,
+      "lottery_id": 45100,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 1
+    },
+    {
+      "id": 45201,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 2
+    },
+    {
+      "id": 45202,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 2
+    },
+    {
+      "id": 45203,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 2
+    },
+    {
+      "id": 45204,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 2
+    },
+    {
+      "id": 45205,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 2
+    },
+    {
+      "id": 45206,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 2
+    },
+    {
+      "id": 45207,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 2
+    },
+    {
+      "id": 45208,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 2
+    },
+    {
+      "id": 45209,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 2
+    },
+    {
+      "id": 45210,
+      "lottery_id": 45200,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 2
+    },
+    {
+      "id": 45301,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 45302,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 3
+    },
+    {
+      "id": 45303,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 45304,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 45305,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 3
+    },
+    {
+      "id": 45306,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 3
+    },
+    {
+      "id": 45307,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 3
+    },
+    {
+      "id": 45308,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 3
+    },
+    {
+      "id": 45309,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 3
+    },
+    {
+      "id": 45310,
+      "lottery_id": 45300,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 3
+    },
+    {
+      "id": 45401,
+      "lottery_id": 45400,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 45501,
+      "lottery_id": 45500,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 3
+    },
+    {
+      "id": 45601,
+      "lottery_id": 45600,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 3
+    },
+    {
+      "id": 46101,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 1
+    },
+    {
+      "id": 46102,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 1
+    },
+    {
+      "id": 46103,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 1
+    },
+    {
+      "id": 46104,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 1
+    },
+    {
+      "id": 46105,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 1
+    },
+    {
+      "id": 46106,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 1
+    },
+    {
+      "id": 46107,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 1
+    },
+    {
+      "id": 46108,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 1
+    },
+    {
+      "id": 46109,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 1
+    },
+    {
+      "id": 46110,
+      "lottery_id": 46100,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 1
+    },
+    {
+      "id": 46201,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 2
+    },
+    {
+      "id": 46202,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 2
+    },
+    {
+      "id": 46203,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 2
+    },
+    {
+      "id": 46204,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 2
+    },
+    {
+      "id": 46205,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 2
+    },
+    {
+      "id": 46206,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 2
+    },
+    {
+      "id": 46207,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 2
+    },
+    {
+      "id": 46208,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 2
+    },
+    {
+      "id": 46209,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 2
+    },
+    {
+      "id": 46210,
+      "lottery_id": 46200,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 2
+    },
+    {
+      "id": 46301,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 46302,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 3
+    },
+    {
+      "id": 46303,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 3
+    },
+    {
+      "id": 46304,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 3
+    },
+    {
+      "id": 46305,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 46306,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 3
+    },
+    {
+      "id": 46307,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 3
+    },
+    {
+      "id": 46308,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 3
+    },
+    {
+      "id": 46309,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 3
+    },
+    {
+      "id": 46310,
+      "lottery_id": 46300,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 3
+    },
+    {
+      "id": 46401,
+      "lottery_id": 46400,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 46501,
+      "lottery_id": 46500,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 3
+    },
+    {
+      "id": 46601,
+      "lottery_id": 46600,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 3
+    },
+    {
+      "id": 47101,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 1
+    },
+    {
+      "id": 47102,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 1
+    },
+    {
+      "id": 47103,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 1
+    },
+    {
+      "id": 47104,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 1
+    },
+    {
+      "id": 47105,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 1
+    },
+    {
+      "id": 47106,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 1
+    },
+    {
+      "id": 47107,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 1
+    },
+    {
+      "id": 47108,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 1
+    },
+    {
+      "id": 47109,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 1
+    },
+    {
+      "id": 47110,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 1
+    },
+    {
+      "id": 47111,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 1
+    },
+    {
+      "id": 47112,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 1
+    },
+    {
+      "id": 47113,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 1
+    },
+    {
+      "id": 47114,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 1
+    },
+    {
+      "id": 47115,
+      "lottery_id": 47100,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 1
+    },
+    {
+      "id": 47201,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 2
+    },
+    {
+      "id": 47202,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 2
+    },
+    {
+      "id": 47203,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 2
+    },
+    {
+      "id": 47204,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 2
+    },
+    {
+      "id": 47205,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 2
+    },
+    {
+      "id": 47206,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 2
+    },
+    {
+      "id": 47207,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 2
+    },
+    {
+      "id": 47208,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 2
+    },
+    {
+      "id": 47209,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 2
+    },
+    {
+      "id": 47210,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 2
+    },
+    {
+      "id": 47211,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 2
+    },
+    {
+      "id": 47212,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 2
+    },
+    {
+      "id": 47213,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 2
+    },
+    {
+      "id": 47214,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 2
+    },
+    {
+      "id": 47215,
+      "lottery_id": 47200,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 2
+    },
+    {
+      "id": 47301,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 47302,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 47303,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 3
+    },
+    {
+      "id": 47304,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 3
+    },
+    {
+      "id": 47305,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 3
+    },
+    {
+      "id": 47306,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 47307,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 3
+    },
+    {
+      "id": 47308,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 3
+    },
+    {
+      "id": 47309,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 3
+    },
+    {
+      "id": 47310,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 3
+    },
+    {
+      "id": 47311,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 3
+    },
+    {
+      "id": 47312,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 3
+    },
+    {
+      "id": 47313,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 3
+    },
+    {
+      "id": 47314,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 3
+    },
+    {
+      "id": 47315,
+      "lottery_id": 47300,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 3
+    },
+    {
+      "id": 47401,
+      "lottery_id": 47400,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 3
+    },
+    {
+      "id": 47501,
+      "lottery_id": 47500,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 47601,
+      "lottery_id": 47600,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 3
+    },
+    {
+      "id": 48101,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 1
+    },
+    {
+      "id": 48102,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 1
+    },
+    {
+      "id": 48103,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 1
+    },
+    {
+      "id": 48104,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 1
+    },
+    {
+      "id": 48105,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 1
+    },
+    {
+      "id": 48106,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 1
+    },
+    {
+      "id": 48107,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 1
+    },
+    {
+      "id": 48108,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 1
+    },
+    {
+      "id": 48109,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 1
+    },
+    {
+      "id": 48110,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 1
+    },
+    {
+      "id": 48111,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 1
+    },
+    {
+      "id": 48112,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 1
+    },
+    {
+      "id": 48113,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 1
+    },
+    {
+      "id": 48114,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 1
+    },
+    {
+      "id": 48115,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 1
+    },
+    {
+      "id": 48116,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 1
+    },
+    {
+      "id": 48117,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 1
+    },
+    {
+      "id": 48118,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 1
+    },
+    {
+      "id": 48119,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 1
+    },
+    {
+      "id": 48120,
+      "lottery_id": 48100,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 1
+    },
+    {
+      "id": 48201,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 2
+    },
+    {
+      "id": 48202,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 2
+    },
+    {
+      "id": 48203,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 2
+    },
+    {
+      "id": 48204,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 2
+    },
+    {
+      "id": 48205,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 2
+    },
+    {
+      "id": 48206,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 2
+    },
+    {
+      "id": 48207,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 2
+    },
+    {
+      "id": 48208,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 2
+    },
+    {
+      "id": 48209,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 2
+    },
+    {
+      "id": 48210,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 2
+    },
+    {
+      "id": 48211,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 2
+    },
+    {
+      "id": 48212,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 2
+    },
+    {
+      "id": 48213,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 2
+    },
+    {
+      "id": 48214,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 2
+    },
+    {
+      "id": 48215,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 2
+    },
+    {
+      "id": 48216,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 2
+    },
+    {
+      "id": 48217,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 2
+    },
+    {
+      "id": 48218,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 2
+    },
+    {
+      "id": 48219,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 2
+    },
+    {
+      "id": 48220,
+      "lottery_id": 48200,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 2
+    },
+    {
+      "id": 48301,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 48302,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 3
+    },
+    {
+      "id": 48303,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 48304,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 3
+    },
+    {
+      "id": 48305,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 3
+    },
+    {
+      "id": 48306,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 3
+    },
+    {
+      "id": 48307,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 48308,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 3
+    },
+    {
+      "id": 48309,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 3
+    },
+    {
+      "id": 48310,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 3
+    },
+    {
+      "id": 48311,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 3
+    },
+    {
+      "id": 48312,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 3
+    },
+    {
+      "id": 48313,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 3
+    },
+    {
+      "id": 48314,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 3
+    },
+    {
+      "id": 48315,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 3
+    },
+    {
+      "id": 48316,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 3
+    },
+    {
+      "id": 48317,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 3
+    },
+    {
+      "id": 48318,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 3
+    },
+    {
+      "id": 48319,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 3
+    },
+    {
+      "id": 48320,
+      "lottery_id": 48300,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 3
+    },
+    {
+      "id": 48401,
+      "lottery_id": 48400,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 3
+    },
+    {
+      "id": 48501,
+      "lottery_id": 48500,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 3
+    },
+    {
+      "id": 48601,
+      "lottery_id": 48600,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 3
+    },
+    {
+      "id": 49101,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 1
+    },
+    {
+      "id": 49102,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 1
+    },
+    {
+      "id": 49103,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 1
+    },
+    {
+      "id": 49104,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 1
+    },
+    {
+      "id": 49105,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 1
+    },
+    {
+      "id": 49106,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 1
+    },
+    {
+      "id": 49107,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 1
+    },
+    {
+      "id": 49108,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 1
+    },
+    {
+      "id": 49109,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 1
+    },
+    {
+      "id": 49110,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 1
+    },
+    {
+      "id": 49111,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1014,
+      "skill_rank": 1
+    },
+    {
+      "id": 49112,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 1
+    },
+    {
+      "id": 49113,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 1
+    },
+    {
+      "id": 49114,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 1
+    },
+    {
+      "id": 49115,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 1
+    },
+    {
+      "id": 49116,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 1
+    },
+    {
+      "id": 49117,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 1
+    },
+    {
+      "id": 49118,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 1
+    },
+    {
+      "id": 49119,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 1
+    },
+    {
+      "id": 49120,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 1
+    },
+    {
+      "id": 49121,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 1
+    },
+    {
+      "id": 49122,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 1
+    },
+    {
+      "id": 49123,
+      "lottery_id": 49100,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 1
+    },
+    {
+      "id": 49201,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 2
+    },
+    {
+      "id": 49202,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 2
+    },
+    {
+      "id": 49203,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 2
+    },
+    {
+      "id": 49204,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 2
+    },
+    {
+      "id": 49205,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 2
+    },
+    {
+      "id": 49206,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 2
+    },
+    {
+      "id": 49207,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 2
+    },
+    {
+      "id": 49208,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 2
+    },
+    {
+      "id": 49209,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 2
+    },
+    {
+      "id": 49210,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 2
+    },
+    {
+      "id": 49211,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1014,
+      "skill_rank": 2
+    },
+    {
+      "id": 49212,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 2
+    },
+    {
+      "id": 49213,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 2
+    },
+    {
+      "id": 49214,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 2
+    },
+    {
+      "id": 49215,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 2
+    },
+    {
+      "id": 49216,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 2
+    },
+    {
+      "id": 49217,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 2
+    },
+    {
+      "id": 49218,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 2
+    },
+    {
+      "id": 49219,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 2
+    },
+    {
+      "id": 49220,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 2
+    },
+    {
+      "id": 49221,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 2
+    },
+    {
+      "id": 49222,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 2
+    },
+    {
+      "id": 49223,
+      "lottery_id": 49200,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 2
+    },
+    {
+      "id": 49301,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1001,
+      "skill_rank": 3
+    },
+    {
+      "id": 49302,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1003,
+      "skill_rank": 3
+    },
+    {
+      "id": 49303,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1005,
+      "skill_rank": 3
+    },
+    {
+      "id": 49304,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1006,
+      "skill_rank": 3
+    },
+    {
+      "id": 49305,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 3
+    },
+    {
+      "id": 49306,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1008,
+      "skill_rank": 3
+    },
+    {
+      "id": 49307,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 49308,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1010,
+      "skill_rank": 3
+    },
+    {
+      "id": 49309,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1012,
+      "skill_rank": 3
+    },
+    {
+      "id": 49310,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1013,
+      "skill_rank": 3
+    },
+    {
+      "id": 49311,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1014,
+      "skill_rank": 3
+    },
+    {
+      "id": 49312,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1017,
+      "skill_rank": 3
+    },
+    {
+      "id": 49313,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1018,
+      "skill_rank": 3
+    },
+    {
+      "id": 49314,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1019,
+      "skill_rank": 3
+    },
+    {
+      "id": 49315,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1020,
+      "skill_rank": 3
+    },
+    {
+      "id": 49316,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1021,
+      "skill_rank": 3
+    },
+    {
+      "id": 49317,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1022,
+      "skill_rank": 3
+    },
+    {
+      "id": 49318,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1024,
+      "skill_rank": 3
+    },
+    {
+      "id": 49319,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1025,
+      "skill_rank": 3
+    },
+    {
+      "id": 49320,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1026,
+      "skill_rank": 3
+    },
+    {
+      "id": 49321,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1028,
+      "skill_rank": 3
+    },
+    {
+      "id": 49322,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1030,
+      "skill_rank": 3
+    },
+    {
+      "id": 49323,
+      "lottery_id": 49300,
+      "mst_chara_skill_id": 1031,
+      "skill_rank": 3
+    },
+    {
+      "id": 49401,
+      "lottery_id": 49400,
+      "mst_chara_skill_id": 1007,
+      "skill_rank": 3
+    },
+    {
+      "id": 49501,
+      "lottery_id": 49500,
+      "mst_chara_skill_id": 1009,
+      "skill_rank": 3
+    },
+    {
+      "id": 49601,
+      "lottery_id": 49600,
+      "mst_chara_skill_id": 1014,
+      "skill_rank": 3
+    }
+  ],
+  "mst_hard_tower_add_equip_lotteries": [
+    {
+      "id": 1,
+      "floor": 62
+    },
+    {
+      "id": 2,
+      "floor": 70
+    },
+    {
+      "id": 3,
+      "floor": 75
+    }
+  ],
+  "mst_hard_tower_boost_effects": [
+    {
+      "id": 1,
+      "boost_num": 100,
+      "hp_effect_value": 7
+    },
+    {
+      "id": 2,
+      "boost_num": 200,
+      "hp_effect_value": 14
+    },
+    {
+      "id": 3,
+      "boost_num": 500,
+      "hp_effect_value": 34
+    },
+    {
+      "id": 4,
+      "boost_num": 1000,
+      "hp_effect_value": 67
+    },
+    {
+      "id": 5,
+      "boost_num": 2000,
+      "hp_effect_value": 134
+    },
+    {
+      "id": 6,
+      "boost_num": 3000,
+      "hp_effect_value": 200
+    },
+    {
+      "id": 7,
+      "boost_num": 3500,
+      "hp_effect_value": 300
+    },
+    {
+      "id": 8,
+      "boost_num": 4000,
+      "hp_effect_value": 342
+    },
+    {
+      "id": 9,
+      "boost_num": 4500,
+      "hp_effect_value": 374
+    },
+    {
+      "id": 10,
+      "boost_num": 5000,
+      "hp_effect_value": 400
+    },
+    {
+      "id": 11,
+      "boost_num": 6000,
+      "hp_effect_value": 445
+    },
+    {
+      "id": 12,
+      "boost_num": 7000,
+      "hp_effect_value": 483
+    },
+    {
+      "id": 13,
+      "boost_num": 8000,
+      "hp_effect_value": 517
+    },
+    {
+      "id": 14,
+      "boost_num": 9000,
+      "hp_effect_value": 547
+    }
+  ],
+  "mst_hard_tower_battle_missions": [
+    {
+      "id": 1,
+      "name": "{0:N0}ヒット以上達成",
+      "mission_type": 1,
+      "mission_value": 50,
+      "equip_num": 1
+    },
+    {
+      "id": 4,
+      "name": "連携ダメージ{0:N0}以上",
+      "mission_type": 4,
+      "mission_value": 20000,
+      "equip_num": 1
+    }
+  ],
+  "mst_hard_tower_battle_gimmick_numbers": [
+    {
+      "id": 48001,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48002,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48003,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48004,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48005,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48006,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48007,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48008,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48009,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48010,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48011,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48012,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48013,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48014,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48015,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48016,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48017,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48018,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 48019,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 48020,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49001,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49002,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49003,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49004,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49005,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49006,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49007,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49008,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49009,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49010,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49011,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49012,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49013,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49014,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49015,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49016,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49017,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49018,
+      "number": 2,
+      "rate": 100
+    },
+    {
+      "id": 49019,
+      "number": 1,
+      "rate": 100
+    },
+    {
+      "id": 49020,
+      "number": 2,
+      "rate": 100
+    }
+  ],
+  "mst_hard_tower_battle_gimmick_types": [
+    {
+      "id": 48001,
+      "effect_id": 31012,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 48002,
+      "effect_id": 31012,
+      "point": 5,
+      "rate": 100
+    },
+    {
+      "id": 48003,
+      "effect_id": 31012,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 48004,
+      "effect_id": 31012,
+      "point": 5,
+      "rate": 100
+    },
+    {
+      "id": 48005,
+      "effect_id": 31012,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 48005,
+      "effect_id": 30013,
+      "point": 3,
+      "rate": 100
+    },
+    {
+      "id": 48006,
+      "effect_id": 31011,
+      "point": 5,
+      "rate": 100
+    },
+    {
+      "id": 48006,
+      "effect_id": 30023,
+      "point": 7,
+      "rate": 100
+    },
+    {
+      "id": 48007,
+      "effect_id": 31011,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 48007,
+      "effect_id": 30012,
+      "point": 3,
+      "rate": 100
+    },
+    {
+      "id": 48008,
+      "effect_id": 30012,
+      "point": 5,
+      "rate": 100
+    },
+    {
+      "id": 48009,
+      "effect_id": 30012,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 48010,
+      "effect_id": 30011,
+      "point": 5,
+      "rate": 100
+    },
+    {
+      "id": 48010,
+      "effect_id": 30022,
+      "point": 7,
+      "rate": 100
+    },
+    {
+      "id": 48011,
+      "effect_id": 30023,
+      "point": 6,
+      "rate": 100
+    },
+    {
+      "id": 48012,
+      "effect_id": 30023,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 48013,
+      "effect_id": 30023,
+      "point": 6,
+      "rate": 100
+    },
+    {
+      "id": 48013,
+      "effect_id": 30011,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 48014,
+      "effect_id": 30023,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 48015,
+      "effect_id": 30022,
+      "point": 7,
+      "rate": 100
+    },
+    {
+      "id": 48016,
+      "effect_id": 30022,
+      "point": 6,
+      "rate": 100
+    },
+    {
+      "id": 48016,
+      "effect_id": 30011,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 48017,
+      "effect_id": 30023,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 48017,
+      "effect_id": 30011,
+      "point": 4,
+      "rate": 100
+    },
+    {
+      "id": 48018,
+      "effect_id": 30023,
+      "point": 6,
+      "rate": 100
+    },
+    {
+      "id": 48018,
+      "effect_id": 30011,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 48019,
+      "effect_id": 30023,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 48020,
+      "effect_id": 30021,
+      "point": 7,
+      "rate": 100
+    },
+    {
+      "id": 48020,
+      "effect_id": 30011,
+      "point": 3,
+      "rate": 100
+    },
+    {
+      "id": 49001,
+      "effect_id": 31112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49002,
+      "effect_id": 31112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49003,
+      "effect_id": 31112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49004,
+      "effect_id": 31112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49005,
+      "effect_id": 31112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49005,
+      "effect_id": 30113,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49006,
+      "effect_id": 31111,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49006,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49007,
+      "effect_id": 31111,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49007,
+      "effect_id": 30112,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49008,
+      "effect_id": 30112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49009,
+      "effect_id": 30112,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49010,
+      "effect_id": 30111,
+      "point": 1,
+      "rate": 100
+    },
+    {
+      "id": 49010,
+      "effect_id": 30122,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49011,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49012,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49013,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49013,
+      "effect_id": 30111,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49014,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49015,
+      "effect_id": 30122,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49016,
+      "effect_id": 30122,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49016,
+      "effect_id": 30111,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49017,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49017,
+      "effect_id": 30111,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49018,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49018,
+      "effect_id": 30111,
+      "point": 2,
+      "rate": 100
+    },
+    {
+      "id": 49019,
+      "effect_id": 30123,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49020,
+      "effect_id": 30121,
+      "point": 8,
+      "rate": 100
+    },
+    {
+      "id": 49020,
+      "effect_id": 30111,
+      "point": 2,
+      "rate": 100
+    }
+  ]
+}

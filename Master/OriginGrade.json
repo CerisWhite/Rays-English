@@ -1,0 +1,917 @@
+{
+  "xhash": "",
+  "mst_origin_grades": [
+    {
+      "id": 1,
+      "grade": 1,
+      "item_type": 1,
+      "item_level": 1,
+      "description": "<color=#fcff1e>アップルグミ</color>が使用可能になる"
+    },
+    {
+      "id": 2,
+      "grade": 2,
+      "item_type": 2,
+      "item_level": 1,
+      "description": "<color=#fcff1e>オレンジグミ</color>が使用可能になる"
+    },
+    {
+      "id": 3,
+      "grade": 3,
+      "item_type": 1,
+      "item_level": 2,
+      "description": "アップルグミが<color=#fcff1e>ピーチグミ</color>にグレードアップ"
+    },
+    {
+      "id": 4,
+      "grade": 4,
+      "item_type": 2,
+      "item_level": 2,
+      "description": "オレンジグミが<color=#fcff1e>ミックスグミ</color>にグレードアップ"
+    },
+    {
+      "id": 5,
+      "grade": 5,
+      "item_type": 3,
+      "item_level": 1,
+      "description": "<color=#fcff1e>フレアボトル</color>が使用可能になる"
+    },
+    {
+      "id": 6,
+      "grade": 6,
+      "item_type": 2,
+      "item_level": 3,
+      "description": "ミックスグミが<color=#fcff1e>パイングミ</color>にグレードアップ"
+    },
+    {
+      "id": 7,
+      "grade": 7,
+      "item_type": 1,
+      "item_level": 3,
+      "description": "ピーチグミが<color=#fcff1e>レモングミ</color>にグレードアップ"
+    },
+    {
+      "id": 8,
+      "grade": 8,
+      "item_type": 2,
+      "item_level": 4,
+      "description": "パイングミが<color=#fcff1e>ミラクルグミ</color>にグレードアップ"
+    },
+    {
+      "id": 9,
+      "grade": 9,
+      "item_type": 4,
+      "item_level": 1,
+      "description": "<color=#fcff1e>アワーグラス</color>が使用可能になる"
+    },
+    {
+      "id": 10,
+      "grade": 10,
+      "item_type": 3,
+      "item_level": 2,
+      "description": "フレアボトルが<color=#fcff1e>フレアボトルⅡ</color>にグレードアップ"
+    },
+    {
+      "id": 11,
+      "grade": 11,
+      "item_type": 1,
+      "item_level": 4,
+      "description": "レモングミが<color=#fcff1e>グレープグミ</color>にグレードアップ"
+    },
+    {
+      "id": 12,
+      "grade": 12,
+      "item_type": 4,
+      "item_level": 2,
+      "description": "アワーグラスが<color=#fcff1e>アワーグラスα</color>にグレードアップ"
+    },
+    {
+      "id": 13,
+      "grade": 13,
+      "item_type": 3,
+      "item_level": 3,
+      "description": "フレアボトルⅡが<color=#fcff1e>フレアボトルⅢ</color>にグレードアップ"
+    },
+    {
+      "id": 14,
+      "grade": 14,
+      "item_type": 1,
+      "item_level": 5,
+      "description": "グレープグミが<color=#fcff1e>メロングミ</color>にグレードアップ"
+    },
+    {
+      "id": 15,
+      "grade": 15,
+      "item_type": 4,
+      "item_level": 3,
+      "description": "アワーグラスαが<color=#fcff1e>クロノグラス</color>にグレードアップ"
+    },
+    {
+      "id": 16,
+      "grade": 16,
+      "item_type": 2,
+      "item_level": 5,
+      "description": "ミラクルグミが<color=#fcff1e>スペシャルグミ</color>にグレードアップ"
+    },
+    {
+      "id": 17,
+      "grade": 17,
+      "item_type": 3,
+      "item_level": 4,
+      "description": "フレアボトルⅢが<color=#fcff1e>フレアボトルⅣ</color>にグレードアップ"
+    },
+    {
+      "id": 18,
+      "grade": 18,
+      "item_type": 4,
+      "item_level": 4,
+      "description": "クロノグラスが<color=#fcff1e>クロノグラスα</color>にグレードアップ"
+    },
+    {
+      "id": 19,
+      "grade": 19,
+      "item_type": 3,
+      "item_level": 5,
+      "description": "フレアボトルⅣが<color=#fcff1e>フレアボトルⅤ</color>にグレードアップ"
+    },
+    {
+      "id": 20,
+      "grade": 20,
+      "item_type": 4,
+      "item_level": 5,
+      "description": "クロノグラスαが<color=#fcff1e>ステイシスグラス</color>にグレードアップ"
+    }
+  ],
+  "mst_origin_grade_battle_items": [
+    {
+      "id": 1001,
+      "item_type": 1,
+      "item_level": 1,
+      "name": "アップルグミ",
+      "value1": 30,
+      "value2": 0,
+      "effect_description": "全員のHPが30%回復",
+      "effect_description_for_recollection": "",
+      "detail_description": "りんご風味の赤いグミ。\n全員のHPが30%回復する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 1002,
+      "item_type": 1,
+      "item_level": 2,
+      "name": "ピーチグミ",
+      "value1": 50,
+      "value2": 0,
+      "effect_description": "全員のHPが50%回復",
+      "effect_description_for_recollection": "",
+      "detail_description": "ピーチ風味のピンク色のグミ。\n全員のHPが50%回復する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 1003,
+      "item_type": 1,
+      "item_level": 3,
+      "name": "レモングミ",
+      "value1": 60,
+      "value2": 0,
+      "effect_description": "全員のHPが60%回復",
+      "effect_description_for_recollection": "",
+      "detail_description": "レモン風味の黄色いグミ。\n全員のHPが60%回復する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 1004,
+      "item_type": 1,
+      "item_level": 4,
+      "name": "グレープグミ",
+      "value1": 70,
+      "value2": 0,
+      "effect_description": "全員のHPが70%回復",
+      "effect_description_for_recollection": "",
+      "detail_description": "グレープ風味の紫色のグミ。\n全員のHPが70%回復する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 1005,
+      "item_type": 1,
+      "item_level": 5,
+      "name": "メロングミ",
+      "value1": 100,
+      "value2": 0,
+      "effect_description": "全員のHPが100%回復、最大HPが上昇",
+      "effect_description_for_recollection": "",
+      "detail_description": "メロン風味の緑色のグミ。\n全員のHPが100%回復し、回復量が最大HPを超える場合は最大HPが上昇する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 2001,
+      "item_type": 2,
+      "item_level": 1,
+      "name": "オレンジグミ",
+      "value1": 60,
+      "value2": 0,
+      "effect_description": "全員のCCが30%回復",
+      "effect_description_for_recollection": "全員のAGが60減少",
+      "detail_description": "みかん風味のオレンジ色のグミ。\n全員のCCが30%回復する。",
+      "detail_description_for_recollection": "みかん風味のオレンジ色のグミ。\n全員のAGが60減少する。"
+    },
+    {
+      "id": 2002,
+      "item_type": 2,
+      "item_level": 2,
+      "name": "ミックスグミ",
+      "value1": 60,
+      "value2": 30,
+      "effect_description": "全員のCCが30%回復、HPが30%回復",
+      "effect_description_for_recollection": "全員のAGが60減少、HPが30%回復",
+      "detail_description": "ミックスな味のピンク色のグミ。\n全員のCCが30%回復し、HPが30%回復する。",
+      "detail_description_for_recollection": "ミックスな味のピンク色のグミ。\n全員のAGが60減少し、HPが30％回復する。"
+    },
+    {
+      "id": 2003,
+      "item_type": 2,
+      "item_level": 3,
+      "name": "パイングミ",
+      "value1": 120,
+      "value2": 30,
+      "effect_description": "全員のCCが60%回復、HPが30%回復",
+      "effect_description_for_recollection": "全員のAGが120減少、HPが30%回復",
+      "detail_description": "パイン風味の黄色いグミ。\n全員のCCが60%回復し、HPが30%回復する。",
+      "detail_description_for_recollection": "パイン風味の黄色いグミ。\n全員のAGが120減少し、HPが30％回復する。"
+    },
+    {
+      "id": 2004,
+      "item_type": 2,
+      "item_level": 4,
+      "name": "ミラクルグミ",
+      "value1": 120,
+      "value2": 60,
+      "effect_description": "全員のCCが60%回復、HPが60%回復",
+      "effect_description_for_recollection": "全員のAGが120減少、HPが60%回復",
+      "detail_description": "ミラクルな味の水色のグミ。\n全員のCCが60%回復し、HPが60%回復する。",
+      "detail_description_for_recollection": "ミラクルな味の水色のグミ。\n全員のAGが120減少し、HPが60％回復する。"
+    },
+    {
+      "id": 2005,
+      "item_type": 2,
+      "item_level": 5,
+      "name": "スペシャルグミ",
+      "value1": 200,
+      "value2": 100,
+      "effect_description": "全員のCCが100%回復、HPが100%回復、スタン効果解除",
+      "effect_description_for_recollection": "全員のAGが200減少、HPが100%回復、スタン効果解除",
+      "detail_description": "万物の霊薬たるエリクシールを合成した青いグミ。\n全員のCCが100%回復し、HPが100%回復する。スタン効果も解除される。",
+      "detail_description_for_recollection": "万物の霊薬たるエリクシールを合成した青いグミ。\n全員のAGが200減少し、HPが100%回復する。スタン効果も解除される。"
+    },
+    {
+      "id": 3001,
+      "item_type": 3,
+      "item_level": 1,
+      "name": "フレアボトル",
+      "value1": 10,
+      "value2": 30,
+      "effect_description": "全員の攻撃力が10秒間30%増加",
+      "effect_description_for_recollection": "",
+      "detail_description": "飲むと熱血気分になる飲料。\n全員の攻撃力が10秒間30%増加する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 3002,
+      "item_type": 3,
+      "item_level": 2,
+      "name": "フレアボトルⅡ",
+      "value1": 11,
+      "value2": 40,
+      "effect_description": "全員の攻撃力が11秒間40%増加",
+      "effect_description_for_recollection": "",
+      "detail_description": "飲むと燃えたような気分になる飲料。\n全員の攻撃力が11秒間40%増加する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 3003,
+      "item_type": 3,
+      "item_level": 3,
+      "name": "フレアボトルⅢ",
+      "value1": 12,
+      "value2": 50,
+      "effect_description": "全員の攻撃力が12秒間50%増加",
+      "effect_description_for_recollection": "",
+      "detail_description": "飲むと燃え盛った気分になる飲料。\n全員の攻撃力が12秒間50%増加する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 3004,
+      "item_type": 3,
+      "item_level": 4,
+      "name": "フレアボトルⅣ",
+      "value1": 13,
+      "value2": 60,
+      "effect_description": "全員の攻撃力が13秒間60%増加",
+      "effect_description_for_recollection": "",
+      "detail_description": "飲むと炎を吹き出しそうな気分になる飲料。\n全員の攻撃力が13秒間60%増加する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 3005,
+      "item_type": 3,
+      "item_level": 5,
+      "name": "フレアボトルⅤ",
+      "value1": 15,
+      "value2": 70,
+      "effect_description": "全員の攻撃力が15秒間70%増加",
+      "effect_description_for_recollection": "",
+      "detail_description": "飲むと実際に炎を吹き出しまくる飲料。\n全員の攻撃力が15秒間70%増加する。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 4001,
+      "item_type": 4,
+      "item_level": 1,
+      "name": "アワーグラス",
+      "value1": 3,
+      "value2": 0,
+      "effect_description": "3秒間敵の時間を止める",
+      "effect_description_for_recollection": "",
+      "detail_description": "時を操る不思議な時計。\n3秒間敵の時間を止めることができる。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 4002,
+      "item_type": 4,
+      "item_level": 2,
+      "name": "アワーグラスα",
+      "value1": 4,
+      "value2": 0,
+      "effect_description": "4秒間敵の時間を止める",
+      "effect_description_for_recollection": "",
+      "detail_description": "時を自在に操作する不思議な時計。\n4秒間敵の時間を止めることができる。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 4003,
+      "item_type": 4,
+      "item_level": 3,
+      "name": "クロノグラス",
+      "value1": 5,
+      "value2": 0,
+      "effect_description": "5秒間敵の時間を止める",
+      "effect_description_for_recollection": "",
+      "detail_description": "時を司る神が所持していたとも伝えられる砂時計。\n5秒間敵の時間を止めることができる。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 4004,
+      "item_type": 4,
+      "item_level": 4,
+      "name": "クロノグラスα",
+      "value1": 6,
+      "value2": 0,
+      "effect_description": "6秒間敵の時間を止める",
+      "effect_description_for_recollection": "",
+      "detail_description": "時を司る神が所持していたとも伝えられる砂時計。\n6秒間敵の時間を止めることができる。",
+      "detail_description_for_recollection": ""
+    },
+    {
+      "id": 4005,
+      "item_type": 4,
+      "item_level": 5,
+      "name": "ステイシスグラス",
+      "value1": 8,
+      "value2": 0,
+      "effect_description": "8秒間敵の時間を止める\t",
+      "effect_description_for_recollection": "",
+      "detail_description": "時空を司る神々が認めたとも伝えられる砂時計。\n8秒間敵の時間を止めることができる。",
+      "detail_description_for_recollection": ""
+    }
+  ],
+  "mst_origin_grade_effects": [
+    {
+      "id": 230611001,
+      "mst_magical_mirror_id": 1910009,
+      "start_date": "2023-06-10T15:00:00.0000000Z",
+      "end_date": "2023-06-30T14:59:59.0000000Z"
+    },
+    {
+      "id": 230611002,
+      "mst_magical_mirror_id": 6210005,
+      "start_date": "2023-06-10T15:00:00.0000000Z",
+      "end_date": "2023-06-30T14:59:59.0000000Z"
+    },
+    {
+      "id": 230611003,
+      "mst_magical_mirror_id": 5810007,
+      "start_date": "2023-06-10T15:00:00.0000000Z",
+      "end_date": "2023-06-30T14:59:59.0000000Z"
+    },
+    {
+      "id": 230611004,
+      "mst_magical_mirror_id": 30510002,
+      "start_date": "2023-06-10T15:00:00.0000000Z",
+      "end_date": "2023-06-30T14:59:59.0000000Z"
+    },
+    {
+      "id": 230720001,
+      "mst_magical_mirror_id": 25310005,
+      "start_date": "2023-07-20T05:00:00.0000000Z",
+      "end_date": "2023-08-15T14:59:59.0000000Z"
+    },
+    {
+      "id": 230720002,
+      "mst_magical_mirror_id": 25410005,
+      "start_date": "2023-07-20T05:00:00.0000000Z",
+      "end_date": "2023-08-15T14:59:59.0000000Z"
+    },
+    {
+      "id": 230720003,
+      "mst_magical_mirror_id": 3610008,
+      "start_date": "2023-07-20T05:00:00.0000000Z",
+      "end_date": "2023-08-15T14:59:59.0000000Z"
+    },
+    {
+      "id": 230720004,
+      "mst_magical_mirror_id": 6010005,
+      "start_date": "2023-07-20T05:00:00.0000000Z",
+      "end_date": "2023-08-15T14:59:59.0000000Z"
+    },
+    {
+      "id": 230821001,
+      "mst_magical_mirror_id": 310007,
+      "start_date": "2023-08-21T05:00:00.0000000Z",
+      "end_date": "2023-09-10T01:59:59.0000000Z"
+    },
+    {
+      "id": 230821002,
+      "mst_magical_mirror_id": 410004,
+      "start_date": "2023-08-21T05:00:00.0000000Z",
+      "end_date": "2023-09-10T01:59:59.0000000Z"
+    },
+    {
+      "id": 230821003,
+      "mst_magical_mirror_id": 4610007,
+      "start_date": "2023-08-21T05:00:00.0000000Z",
+      "end_date": "2023-09-10T01:59:59.0000000Z"
+    },
+    {
+      "id": 230821004,
+      "mst_magical_mirror_id": 4710006,
+      "start_date": "2023-08-21T05:00:00.0000000Z",
+      "end_date": "2023-09-10T01:59:59.0000000Z"
+    },
+    {
+      "id": 230911001,
+      "mst_magical_mirror_id": 610007,
+      "start_date": "2023-09-11T05:00:00.0000000Z",
+      "end_date": "2023-09-20T01:59:59.0000000Z"
+    },
+    {
+      "id": 230911002,
+      "mst_magical_mirror_id": 710007,
+      "start_date": "2023-09-11T05:00:00.0000000Z",
+      "end_date": "2023-09-20T01:59:59.0000000Z"
+    },
+    {
+      "id": 230911003,
+      "mst_magical_mirror_id": 4310008,
+      "start_date": "2023-09-11T05:00:00.0000000Z",
+      "end_date": "2023-09-20T01:59:59.0000000Z"
+    },
+    {
+      "id": 231010001,
+      "mst_magical_mirror_id": 1410009,
+      "start_date": "2023-10-10T05:00:00.0000000Z",
+      "end_date": "2023-10-31T01:59:59.0000000Z"
+    },
+    {
+      "id": 231010002,
+      "mst_magical_mirror_id": 7110007,
+      "start_date": "2023-10-10T05:00:00.0000000Z",
+      "end_date": "2023-10-31T01:59:59.0000000Z"
+    },
+    {
+      "id": 231010003,
+      "mst_magical_mirror_id": 10510006,
+      "start_date": "2023-10-10T05:00:00.0000000Z",
+      "end_date": "2023-10-31T01:59:59.0000000Z"
+    },
+    {
+      "id": 231010004,
+      "mst_magical_mirror_id": 15210005,
+      "start_date": "2023-10-10T05:00:00.0000000Z",
+      "end_date": "2023-10-31T01:59:59.0000000Z"
+    },
+    {
+      "id": 231110001,
+      "mst_magical_mirror_id": 2410009,
+      "start_date": "2023-11-10T05:00:00.0000000Z",
+      "end_date": "2023-11-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 231110002,
+      "mst_magical_mirror_id": 5110005,
+      "start_date": "2023-11-10T05:00:00.0000000Z",
+      "end_date": "2023-11-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 231110003,
+      "mst_magical_mirror_id": 5310003,
+      "start_date": "2023-11-10T05:00:00.0000000Z",
+      "end_date": "2023-11-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120001,
+      "mst_magical_mirror_id": 110011,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120002,
+      "mst_magical_mirror_id": 210009,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120003,
+      "mst_magical_mirror_id": 30110002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120004,
+      "mst_magical_mirror_id": 30210002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120005,
+      "mst_magical_mirror_id": 30310002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120006,
+      "mst_magical_mirror_id": 30410002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120007,
+      "mst_magical_mirror_id": 30510002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231120008,
+      "mst_magical_mirror_id": 30610002,
+      "start_date": "2023-11-20T05:00:00.0000000Z",
+      "end_date": "2023-12-11T01:59:59.0000000Z"
+    },
+    {
+      "id": 231211001,
+      "mst_magical_mirror_id": 3010009,
+      "start_date": "2023-12-11T05:00:00.0000000Z",
+      "end_date": "2023-12-24T14:59:59.0000000Z"
+    },
+    {
+      "id": 231211002,
+      "mst_magical_mirror_id": 8210006,
+      "start_date": "2023-12-11T05:00:00.0000000Z",
+      "end_date": "2023-12-24T14:59:59.0000000Z"
+    },
+    {
+      "id": 231211003,
+      "mst_magical_mirror_id": 2910006,
+      "start_date": "2023-12-11T05:00:00.0000000Z",
+      "end_date": "2023-12-24T14:59:59.0000000Z"
+    },
+    {
+      "id": 240110001,
+      "mst_magical_mirror_id": 4010009,
+      "start_date": "2024-01-10T05:00:00.0000000Z",
+      "end_date": "2024-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 240110002,
+      "mst_magical_mirror_id": 4110007,
+      "start_date": "2024-01-10T05:00:00.0000000Z",
+      "end_date": "2024-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 240110003,
+      "mst_magical_mirror_id": 13510004,
+      "start_date": "2024-01-10T05:00:00.0000000Z",
+      "end_date": "2024-01-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 240209002,
+      "mst_magical_mirror_id": 5610006,
+      "start_date": "2024-02-09T05:00:00.0000000Z",
+      "end_date": "2024-02-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 240209003,
+      "mst_magical_mirror_id": 1610006,
+      "start_date": "2024-02-09T05:00:00.0000000Z",
+      "end_date": "2024-02-19T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410001,
+      "mst_magical_mirror_id": 30710002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410002,
+      "mst_magical_mirror_id": 30110002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410003,
+      "mst_magical_mirror_id": 30210002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410004,
+      "mst_magical_mirror_id": 30610002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410005,
+      "mst_magical_mirror_id": 30410002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410006,
+      "mst_magical_mirror_id": 30310002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410007,
+      "mst_magical_mirror_id": 30510002,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410008,
+      "mst_magical_mirror_id": 110011,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240410009,
+      "mst_magical_mirror_id": 210009,
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2024-04-30T01:59:59.0000000Z"
+    },
+    {
+      "id": 240522001,
+      "mst_magical_mirror_id": 30110002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522002,
+      "mst_magical_mirror_id": 30210002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522003,
+      "mst_magical_mirror_id": 30610002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522004,
+      "mst_magical_mirror_id": 30410002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522005,
+      "mst_magical_mirror_id": 310007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522006,
+      "mst_magical_mirror_id": 410004,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522007,
+      "mst_magical_mirror_id": 4610007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522008,
+      "mst_magical_mirror_id": 4710006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522009,
+      "mst_magical_mirror_id": 30310002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522010,
+      "mst_magical_mirror_id": 910008,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522011,
+      "mst_magical_mirror_id": 1010009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522012,
+      "mst_magical_mirror_id": 9310007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522013,
+      "mst_magical_mirror_id": 30510002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522014,
+      "mst_magical_mirror_id": 1910009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522015,
+      "mst_magical_mirror_id": 6210005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522016,
+      "mst_magical_mirror_id": 5810007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522017,
+      "mst_magical_mirror_id": 25310005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522018,
+      "mst_magical_mirror_id": 25410005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522019,
+      "mst_magical_mirror_id": 3610008,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522020,
+      "mst_magical_mirror_id": 6010005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522021,
+      "mst_magical_mirror_id": 610007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522022,
+      "mst_magical_mirror_id": 710007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522023,
+      "mst_magical_mirror_id": 4310008,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522024,
+      "mst_magical_mirror_id": 1410009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522025,
+      "mst_magical_mirror_id": 7110007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522026,
+      "mst_magical_mirror_id": 10510006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522027,
+      "mst_magical_mirror_id": 15210005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522028,
+      "mst_magical_mirror_id": 2410009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522029,
+      "mst_magical_mirror_id": 5110005,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522030,
+      "mst_magical_mirror_id": 5310003,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522031,
+      "mst_magical_mirror_id": 110011,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522032,
+      "mst_magical_mirror_id": 210009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522033,
+      "mst_magical_mirror_id": 3010009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522034,
+      "mst_magical_mirror_id": 2910006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522035,
+      "mst_magical_mirror_id": 8210006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522036,
+      "mst_magical_mirror_id": 4010009,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522037,
+      "mst_magical_mirror_id": 4110007,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522038,
+      "mst_magical_mirror_id": 13510004,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522039,
+      "mst_magical_mirror_id": 5610006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522040,
+      "mst_magical_mirror_id": 1610006,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    },
+    {
+      "id": 240522041,
+      "mst_magical_mirror_id": 30710002,
+      "start_date": "2024-05-22T05:00:00.0000000Z",
+      "end_date": "2024-07-22T14:59:59.0000000Z"
+    }
+  ]
+}

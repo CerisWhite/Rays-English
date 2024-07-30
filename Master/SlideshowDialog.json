@@ -1,0 +1,68 @@
+{
+  "xhash": "",
+  "mst_slideshow_dialog": [
+    {
+      "id": 1,
+      "next_id": 0,
+      "dialog_title": "クエストミッション再挑戦",
+      "dialog_text": "クリア済みのクエストミッションを再度クリアした場合\nミッション報酬をもう一度手に入れることができます。\n<color=\"#FF4B4B\">※再挑戦した場合、クエストミッションのみ未クリア状態になります。</color>",
+      "button_text1": "OK",
+      "button_text2": "",
+      "texture_path": "image/slideshowdialog/1.png"
+    },
+    {
+      "id": 2,
+      "next_id": 0,
+      "dialog_title": "クエストミッション再挑戦",
+      "dialog_text": "クエスト中のメインシナリオをもう一度再生させますか？\n<color=\"##FF4B4B\">※再生させない場合でも、シナリオログから見ることができます。</color>",
+      "button_text1": "しない",
+      "button_text2": "再生させる",
+      "texture_path": "image/slideshowdialog/2.png"
+    },
+    {
+      "id": 3,
+      "next_id": 0,
+      "dialog_title": "クエストミッション再挑戦",
+      "dialog_text": "再挑戦を始める前に設定をします。\n\nクエスト中のメインシナリオをもう一度再生させますか？\n<color=\"##FF4B4B\">※再生させない場合でも、シナリオログから見ることができます。</color>",
+      "button_text1": "しない",
+      "button_text2": "再生させる",
+      "texture_path": "image/slideshowdialog/2.png"
+    },
+    {
+      "id": 4,
+      "next_id": 5,
+      "dialog_title": "テスト２",
+      "dialog_text": "ならづけ",
+      "button_text1": "テスト２",
+      "button_text2": "",
+      "texture_path": "image/slideshowdialog/2.png"
+    },
+    {
+      "id": 5,
+      "next_id": 6,
+      "dialog_title": "テスト３",
+      "dialog_text": "みそちゃづけ",
+      "button_text1": "テスト３",
+      "button_text2": "OK",
+      "texture_path": "image/slideshowdialog/1.png"
+    },
+    {
+      "id": 6,
+      "next_id": 7,
+      "dialog_title": "テスト４",
+      "dialog_text": "たいまい",
+      "button_text1": "テスト４",
+      "button_text2": "",
+      "texture_path": "image/slideshowdialog/2.png"
+    },
+    {
+      "id": 7,
+      "next_id": 0,
+      "dialog_title": "テスト５",
+      "dialog_text": "ハルマゲドン",
+      "button_text1": "テスト５",
+      "button_text2": "りょ",
+      "texture_path": "image/slideshowdialog/1.png"
+    }
+  ]
+}

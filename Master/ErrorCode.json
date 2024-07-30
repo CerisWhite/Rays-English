@@ -1,0 +1,4674 @@
+{
+  "xhash": "",
+  "mst_error_codes": [
+    {
+      "code": 0,
+      "message": "正常終了。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 1001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1002,
+      "message": "データが存在しません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1003,
+      "message": "不正なデータが入力されています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1004,
+      "message": "正しい日付で入力してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1005,
+      "message": "データが存在しません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1102,
+      "message": "最新のアプリバージョンが存在します。\nストアでアップデートを行ってください。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 1103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1104,
+      "message": "アセットバージョンが取得できませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1105,
+      "message": "最新のダウンロードデータが存在します。\nタイトル画面に戻ります。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 1201,
+      "message": "不正なデータです。 ",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1901,
+      "message": "只今メンテナンス中です。\n詳細は公式サイトにてご確認ください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1902,
+      "message": "只今メンテナンス中です。\n詳細は公式サイトにてご確認ください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 1903,
+      "message": "只今メンテナンス中です。\n詳細は公式サイトにてご確認ください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2001,
+      "message": "ユーザー情報が取得できませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2002,
+      "message": "ユーザー認証に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2003,
+      "message": "アカウントが凍結されたユーザー情報です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2004,
+      "message": "チュートリアル中のユーザー情報です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2005,
+      "message": "チュートリアルはすでに完了しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2009,
+      "message": "お客様からいただいたアカウント削除依頼により\nアカウントが削除されました。\n\nあらたにゲームを始めるには、\n一度アプリをアンインストールして、\n新しくインストールし直してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2101,
+      "message": "入力した名前が文字数をオーバーしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2102,
+      "message": "入力した名前が不適切です。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 2103,
+      "message": "生年月日はすでに設定されています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2104,
+      "message": "生年月日の入力内容に誤りがあります。\n生年月日を年月日の順に続けて入力してください。\n例）\n[1998]年[02]月[08]日\nと入力してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2105,
+      "message": "プロフィールメッセージの文字数がオーバーしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2106,
+      "message": "Facebook IDがすでに登録されています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2107,
+      "message": "Facebook IDが登録されていません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2108,
+      "message": "不正なtokenがリクエストされました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2109,
+      "message": "テイルズオブザレイズのFBアプリで発行したtokenではありません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2110,
+      "message": "tokenの期限が切れています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2111,
+      "message": "tokenが有効な状態ではありません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2112,
+      "message": "このFacebook IDは他のユーザーで使用されています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2301,
+      "message": "ガルドが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2302,
+      "message": "プリズムが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2303,
+      "message": "フレンドポイントが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2304,
+      "message": "鏡晶石が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2305,
+      "message": "ダイヤが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2306,
+      "message": "ガシャチケットが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2307,
+      "message": "強化素材が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2308,
+      "message": "術技強化素材が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2309,
+      "message": "交換アイテムの所持数が最大です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2310,
+      "message": "キャラ強化素材の所持数が最大です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2311,
+      "message": "キャラの限界突破素材の所持数が最大です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2312,
+      "message": "ボトルの所持数が最大です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2313,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2314,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2315,
+      "message": "ハイプリズムが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2316,
+      "message": "精霊片が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2317,
+      "message": "フラグメントが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2318,
+      "message": "虹の精霊片が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2319,
+      "message": "久遠の書が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2320,
+      "message": "始祖久遠の塔スキップチケットが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2321,
+      "message": "総力戦ポイントが足りません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2322,
+      "message": "GRADEが足りません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2323,
+      "message": "バーストリミッツの素材が足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2399,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2401,
+      "message": "ガルドの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2402,
+      "message": "プリズムの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2403,
+      "message": "フレンドポイントの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2404,
+      "message": "鏡晶石の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2405,
+      "message": "ダイヤの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2406,
+      "message": "ガシャチケットの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2407,
+      "message": "強化素材の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2408,
+      "message": "術技強化素材の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2409,
+      "message": "交換アイテムの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2410,
+      "message": "キャラ強化素材の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2411,
+      "message": "キャラ限界突破素材の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2412,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2413,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2414,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2415,
+      "message": "ハイプリズムの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2416,
+      "message": "ギフトアイテムの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2417,
+      "message": "精霊装の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2418,
+      "message": "精霊片の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2419,
+      "message": "虹の精霊片の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2420,
+      "message": "フラグメントの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2421,
+      "message": "久遠の書の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2422,
+      "message": "始祖久遠の塔スキップチケットの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2423,
+      "message": "総力戦ポイントの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2424,
+      "message": "GRADEの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2425,
+      "message": "スタンプの最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2426,
+      "message": "魔鏡符の最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2427,
+      "message": "最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2428,
+      "message": "最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2429,
+      "message": "最大所持数を超えてしまうため受け取れませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2501,
+      "message": "処理中です。しばらく時間をおいて再度お試しください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2502,
+      "message": "その内容は入力できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2503,
+      "message": "タイムアウトが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2599,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2601,
+      "message": "APが足りません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2602,
+      "message": "APが最大です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2603,
+      "message": "オーバーレイはまだ使用できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2701,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 2702,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3004,
+      "message": "開催期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3005,
+      "message": "データが存在しません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3009,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3105,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3106,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3107,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3108,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3109,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3110,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3203,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3303,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3304,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3305,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 3306,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 4007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5001,
+      "message": "武器の所持数が一杯です。\n所持枠の拡張や武器を売却してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5005,
+      "message": "指定した武器はロックされています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5007,
+      "message": "指定した武器は装備されています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5009,
+      "message": "これ以上装備の所持枠を拡張することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5101,
+      "message": "お気に入りの武器は強化素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5103,
+      "message": "装備中の武器は素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5105,
+      "message": "倉庫内の装備は素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5201,
+      "message": "お気に入りの武器は限界突破素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5203,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5204,
+      "message": "装備中の武器は素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5205,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5206,
+      "message": "倉庫内の装備は限界突破素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5301,
+      "message": "装備中の武器は売却できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5304,
+      "message": "お気に入り武器は売却できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5305,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5306,
+      "message": "倉庫内の装備は売却できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5402,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5403,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5404,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 5501,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6001,
+      "message": "今月の購入可能上限額を越えています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6002,
+      "message": "購入できる商品がありません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6003,
+      "message": "購入期限が過ぎています。\n再度ショップに入りなおしてください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6004,
+      "message": "購入可能上限数を越えています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6005,
+      "message": "デイリー鏡晶石パックは重複して購入できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6006,
+      "message": "ボイスパックは重複して購入できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6101,
+      "message": "決済はすでに完了しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6201,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6202,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6203,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6204,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6205,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6206,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6207,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6208,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6209,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6210,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6211,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6212,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6213,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6299,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6301,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6302,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6303,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6304,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6305,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6306,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6307,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6308,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6309,
+      "message": "コンビニの決済待ちです。\nコンビニでの支払いを完了するか、Google Playストアで\n購入をキャンセルしてください。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "コンビニ決済待ち"
+    },
+    {
+      "code": 6310,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6311,
+      "message": "エラーが発生しました。\n時間をおいて再度ショップを選択してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 6999,
+      "message": "予期せぬエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7001,
+      "message": "魔鏡の所持数が一杯です。\n所持枠の拡張や魔鏡を売却してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7009,
+      "message": "これ以上魔鏡の所持枠を拡張することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7011,
+      "message": "対象の魔鏡は強化できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7021,
+      "message": "お気に入りの魔鏡は素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7022,
+      "message": "装備中の魔鏡は素材にできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7023,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7024,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7031,
+      "message": "装備中の魔鏡は売却できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7032,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7033,
+      "message": "お気に入りの魔鏡は売却できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7034,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7040,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7041,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7061,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7071,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7072,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 7073,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8003,
+      "message": "フォロー人数が上限に達しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8004,
+      "message": "フォロワー人数が上限に達しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8005,
+      "message": "すでにフォローしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8007,
+      "message": "フレンドが存在しません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8008,
+      "message": "このユーザーはチュートリアル中のため、\nフォローできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8009,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 8102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 9001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 9002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 9999,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10001,
+      "message": "開催期間外です。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 10002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10009,
+      "message": "現在ガシャを実行出来ません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10011,
+      "message": "更新時間を迎えたため、1日1回限定価格がリセットされました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10012,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10013,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10014,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10015,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10101,
+      "message": "GRADEショップの開催期間が過ぎています。\n所持していたGRADEは、もう一度\nガシャTOP画面へ入りなおすとアイテムに変換されます。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 10102,
+      "message": "GRADEショップの開催期間が過ぎています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13001,
+      "message": "すでに引き継ぎ済みのユーザーです。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13003,
+      "message": "入力されたBNIDは他のアカウントと紐付いています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13004,
+      "message": "入力されたBNIDはユーザーと紐付いていません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13005,
+      "message": "BNIDとの連携に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13006,
+      "message": "引き継ぎ完了時の処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13007,
+      "message": "この端末には引き継ぎ出来ません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13101,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13102,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13103,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13104,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13105,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13106,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13107,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13108,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13109,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13110,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13111,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13112,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13113,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13114,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13115,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13116,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13117,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13118,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13119,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13120,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13121,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13201,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13202,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13203,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13204,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13205,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13206,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13207,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13208,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13209,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13210,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13211,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13212,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13213,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13214,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13299,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 13999,
+      "message": "引き継ぎ処理に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14001,
+      "message": "交換期限が終了しました。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 14002,
+      "message": "取得済みのアイテムです。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14003,
+      "message": "プリズムが不足しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14004,
+      "message": "アイテムを所持していません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14005,
+      "message": "このアイテムを交換することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14009,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 14010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 15006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 16001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 16002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 17001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 17002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 17003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 17004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 18001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 18002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 19001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 19002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21001,
+      "message": "交換期間が終了しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21002,
+      "message": "これ以上交換できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21003,
+      "message": "交換可能数を超えて交換することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21004,
+      "message": "交換可能数を超えて交換することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21005,
+      "message": "このアイテムを交換することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 21008,
+      "message": "交換期限を過ぎたため、画面を更新します。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 22001,
+      "message": "パスポートの購入制限を越えています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 22002,
+      "message": "有料パスポートは無料をすべて購入しないと購入できません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 22003,
+      "message": "パスポートの期限が切れているため継続購入できません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 22004,
+      "message": "パスポートの期限が切れていないと通常購入できません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 22005,
+      "message": "購入できる上限日数を超えています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23001,
+      "message": "交換期間が終了しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23002,
+      "message": "交換期限が終了しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23003,
+      "message": "交換上限数を超えています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23004,
+      "message": "不正な商品です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23005,
+      "message": "対象の商品は交換できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23101,
+      "message": "ポイントが不足しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 23103,
+      "message": "既に交換済のキャラです。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 24001,
+      "message": "パスポート使用中のためアイテムを購入できません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25001,
+      "message": "開催期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25111,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25112,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25113,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25303,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25304,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25305,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25306,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25307,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25308,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25309,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25310,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25311,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25312,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25501,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25502,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25503,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25601,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25602,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25701,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25702,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25703,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25801,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25802,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25811,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25821,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25822,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 25823,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 26001,
+      "message": "購入期限が切れています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 26002,
+      "message": "購入制限を超えています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27001,
+      "message": "交換期限が切れています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27002,
+      "message": "ビバ☆コレチケット所持上限を超えています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27101,
+      "message": "不正な交換アイテムが登録されています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27102,
+      "message": "ビバ☆コレチケットを所持していません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27103,
+      "message": "交換できないアイテムが指定されています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27104,
+      "message": "交換上限を超えています",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27105,
+      "message": "各交換アイテムの指定数が不正です",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 27106,
+      "message": "不正なデータです。 ",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 29001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29002,
+      "message": "期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29003,
+      "message": "開催期間外です。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "確認"
+    },
+    {
+      "code": 29004,
+      "message": "パスポート期間切れです。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29009,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29011,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29012,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29013,
+      "message": "依頼完了の時刻ではありません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 29014,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 31001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 31002,
+      "message": "期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 31003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 31004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 32001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 32002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33101,
+      "message": "倉庫保管数の上限をオーバーしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33104,
+      "message": "装備中の装備は倉庫に保管できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33105,
+      "message": "一度に保管できる数をオーバーしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33106,
+      "message": "一度に持ち出せる数をオーバーしています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33107,
+      "message": "これ以上倉庫を拡張することはできません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33108,
+      "message": "着せ替え済鏡装は保管できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 33109,
+      "message": "装備所持枠がいっぱいです。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 34001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 34002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 34003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 34004,
+      "message": "販売期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 35101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 35102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 35103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 35201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36001,
+      "message": "最後の1人は、はずすことができません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36003,
+      "message": "最後の1人は、はずすことができません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36501,
+      "message": "他のプレイヤーの書き込みであるため削除できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36502,
+      "message": "他のプレイヤーのコミュニケーションボードのため\n削除できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36503,
+      "message": "書き込みが見つかりませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36504,
+      "message": "コミュニケーションボードを使用できません。\n相手側のルーム公開設定が\n変更された可能性があります。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 36505,
+      "message": "現在、コミュニケーションボード機能を停止しております。\n詳しくはお知らせをご覧ください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 37001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 37002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 38101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 38102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 39001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 39101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 39102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 39103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40001,
+      "message": "開催期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 40201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41007,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41008,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41009,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41010,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 41103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 42001,
+      "message": "不正な設定値です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 42002,
+      "message": "不正な設定値です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 43001,
+      "message": "交換期間が終了しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 43002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 43003,
+      "message": "未受け取りの覚醒スキルが存在するため、\n現在久遠の書交換所をご利用いただけません。\n始祖久遠の塔へ遷移します。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 43101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 43102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 44001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 44002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 44003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 44004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 45001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 46001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47001,
+      "message": "開催期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47303,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47304,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47305,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47306,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47307,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47308,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47309,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47310,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47311,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47312,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47313,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47402,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47403,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47404,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47405,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47406,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47407,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47408,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47409,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47410,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47411,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47412,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47413,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 47501,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 48001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 48101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 49001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 51001,
+      "message": "現在ウィスティリアのメンテナンス中です。",
+      "dialog_color": 2,
+      "error_code_enabled": 1,
+      "error_title": "メンテナンス中です"
+    },
+    {
+      "code": 51002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 51101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 52001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 53001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 54001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 54101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55103,
+      "message": "既にトレードが成立してるみたいっすね\n出品はキャンセルできないっす",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55104,
+      "message": "該当のトレードは無くなっていたっす",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55105,
+      "message": "該当のトレードは無くなっていたっす",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55203,
+      "message": "既にトレードが成立してるみたいっすね\n出品はキャンセルできないっす",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "エラー"
+    },
+    {
+      "code": 55301,
+      "message": "現在バッジトレード機能のメンテナンス中です。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "メンテナンス中です"
+    },
+    {
+      "code": 56000,
+      "message": "現在ユニゾン・アタックのメンテナンス中です。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "メンテナンス中です"
+    },
+    {
+      "code": 56001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56002,
+      "message": "開催期間外です。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56006,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56203,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56204,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56205,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 56206,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57102,
+      "message": "既に最大まで回復しています。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "挑戦回数回復"
+    },
+    {
+      "code": 57201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57202,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57203,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57204,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57402,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 57403,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 58001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 58002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 58003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 58004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 58005,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 59001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60105,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60106,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60107,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60303,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60304,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60305,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60306,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60307,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60308,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60309,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60310,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60402,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60501,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60502,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60601,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60602,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60603,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60604,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 60605,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62001,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62002,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62003,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62004,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62005,
+      "message": "不正が検知されたため挑戦できません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62101,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62102,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62103,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62104,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62105,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62106,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62201,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62301,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62302,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 62401,
+      "message": "エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 90001,
+      "message": "現在の値よりも低い値は指定できません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 90002,
+      "message": "本番環境では認められていません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91001,
+      "message": "対象のOpsWorks stack が存在しません。メンテナンス設定ファイルを確認してください",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91002,
+      "message": "対象のOpsWorks layer が存在しません。メンテナンス設定ファイルを確認してください",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91003,
+      "message": "対象のOpsWorks instance が存在しません。メンテナンス設定ファイルを確認してください",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91004,
+      "message": "指定した環境にオンラインのインスタンスが存在しません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91005,
+      "message": "コマンドが存在しません。メンテナンス設定ファイルを確認してください",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91009,
+      "message": "実行に失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91010,
+      "message": "AWS CLIがありません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91011,
+      "message": "3への接続が失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91012,
+      "message": "resque-scheduleが起動中の為この処理を行うことができません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91013,
+      "message": "他にお知らせをアップロードしているユーザがいる為この処理を行うことができません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91014,
+      "message": "ファイル生成に失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91015,
+      "message": "redisにkeyをセットできませんでした",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91016,
+      "message": "redisのkeyを削除できませんでした",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91017,
+      "message": "お知らせ一覧のhtmlを生成時にエラーが発生しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91018,
+      "message": "お知らせ詳細のhtmlを生成時にエラーが発生しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91019,
+      "message": "リトライ成功。HTMLファイルをアップロードしました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91020,
+      "message": "ファイルアップロードに失敗しました。バックアップファイルが不明の為再帰処理を行えません",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91021,
+      "message": "HTMLファイルアップロード失敗。前回実行時のバックアップファイルをアップロードしました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91022,
+      "message": "HTMLファイルアップロード失敗。前回実行時のバックアップファイルのアップロードにも失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91023,
+      "message": "CSSファイルの同期に失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91024,
+      "message": "3バケットの生成、設定に失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91025,
+      "message": "有効になっているボトルが取得できませんでした",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91026,
+      "message": "有効になっているパスポートが取得できませんでした",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91027,
+      "message": "補填ツールのステータスが不正です",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 91028,
+      "message": "補填ツールのデータ削除に失敗しました",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901001,
+      "message": "システムエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901002,
+      "message": "システムエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901003,
+      "message": "通信に失敗しました。\n通信設定や電波状況をご確認ください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901004,
+      "message": "通信エラーが発生しました。\nタイトルへ戻ります。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901005,
+      "message": "通信エラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901006,
+      "message": "システムエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901007,
+      "message": "システムエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 901008,
+      "message": "システムエラーが発生しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906001,
+      "message": "購入可能なアイテムがありません。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906002,
+      "message": "購入がキャンセルされました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906003,
+      "message": "コンビニ決済が選択されたため、一時ショップを閉じます。\nコンビニでの支払いを完了するか、Google Playストアで\n購入をキャンセルしてください。",
+      "dialog_color": 2,
+      "error_code_enabled": 2,
+      "error_title": "コンビニ決済"
+    },
+    {
+      "code": 906101,
+      "message": "現在購入ができない状態になっています。\n設定を確認してください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906201,
+      "message": "処理が途中だった「鏡晶石の購入」を再度試みましたが失敗しました。\n購入を中止します。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906202,
+      "message": "ショップのデータを取得できませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906203,
+      "message": "購入することができませんでした。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906301,
+      "message": "購入処理が失敗しました。\nしばらく時間を置いてから再度試してみてください。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 906401,
+      "message": "ショップにエラーが発生しています。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 913001,
+      "message": "データの引き継ぎに失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    },
+    {
+      "code": 913002,
+      "message": "引き継ぎ登録に失敗しました。",
+      "dialog_color": 1,
+      "error_code_enabled": 1,
+      "error_title": "エラー"
+    }
+  ]
+}

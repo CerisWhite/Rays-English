@@ -1,0 +1,485 @@
+{
+  "xhash": "",
+  "mst_rays2_enemy_waves": [
+    {
+      "wave_id": 1,
+      "cost": 1,
+      "base_time": 130,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 1,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 1,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 1,
+      "cost": 1.5,
+      "base_time": 30,
+      "level_adjust": 4
+    },
+    {
+      "wave_id": 1,
+      "cost": 1.75,
+      "base_time": 35,
+      "level_adjust": 6
+    },
+    {
+      "wave_id": 1,
+      "cost": 0.800000011920929,
+      "base_time": 50,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 2,
+      "cost": 0.800000011920929,
+      "base_time": 50,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 51,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 51,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 51,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 51,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 51,
+      "cost": 1.75,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 51,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 52,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 52,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 52,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 52,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 52,
+      "cost": 1.75,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 52,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 53,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 53,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 53,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 53,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 53,
+      "cost": 1.75,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 53,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 41,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 41,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 41,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 41,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 41,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 42,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 42,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 42,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 42,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 42,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 43,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -4
+    },
+    {
+      "wave_id": 43,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 43,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 43,
+      "cost": 1.5,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 43,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 31,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 31,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 31,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 31,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 32,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 32,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 32,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 32,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 33,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 33,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 33,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 33,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 1033,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -1
+    },
+    {
+      "wave_id": 1033,
+      "cost": 1,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 1033,
+      "cost": 1.25,
+      "base_time": 25,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 1033,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 131,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 131,
+      "cost": 1,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 131,
+      "cost": 1.25,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 131,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 132,
+      "cost": 0.800000011920929,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 132,
+      "cost": 1,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 132,
+      "cost": 1.25,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 132,
+      "cost": 0.800000011920929,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 232,
+      "cost": 0.699999988079071,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 232,
+      "cost": 1,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 232,
+      "cost": 1.25,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 232,
+      "cost": 0,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 331,
+      "cost": 0.10000000149011612,
+      "base_time": 20,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 331,
+      "cost": 0,
+      "base_time": 20,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 231,
+      "cost": 0.699999988079071,
+      "base_time": 20,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 231,
+      "cost": 1,
+      "base_time": 25,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 231,
+      "cost": 1.25,
+      "base_time": 30,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 231,
+      "cost": 0,
+      "base_time": 35,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 233,
+      "cost": 0.5,
+      "base_time": 30,
+      "level_adjust": -2
+    },
+    {
+      "wave_id": 233,
+      "cost": 0.75,
+      "base_time": 40,
+      "level_adjust": 0
+    },
+    {
+      "wave_id": 233,
+      "cost": 1,
+      "base_time": 45,
+      "level_adjust": 2
+    },
+    {
+      "wave_id": 233,
+      "cost": 0,
+      "base_time": 35,
+      "level_adjust": 0
+    }
+  ]
+}

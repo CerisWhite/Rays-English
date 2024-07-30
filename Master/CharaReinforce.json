@@ -1,0 +1,5702 @@
+{
+  "xhash": "",
+  "mst_chara_max_lvs": [
+    {
+      "id": 1,
+      "limit_break_phase": 0,
+      "max_lv": 50
+    },
+    {
+      "id": 2,
+      "limit_break_phase": 1,
+      "max_lv": 60
+    },
+    {
+      "id": 3,
+      "limit_break_phase": 2,
+      "max_lv": 70
+    },
+    {
+      "id": 4,
+      "limit_break_phase": 3,
+      "max_lv": 80
+    }
+  ],
+  "mst_chara_reinforce_materials": [
+    {
+      "id": 1001,
+      "name": "精鏡石",
+      "min_lv": 1,
+      "max_lv": 80,
+      "basic_exp": 2000,
+      "flavorText": "秘めた力で使用者を成長させる\n不思議な石。"
+    },
+    {
+      "id": 2001,
+      "name": "精鏡晶",
+      "min_lv": 1,
+      "max_lv": 80,
+      "basic_exp": 25000,
+      "flavorText": "秘めた力で使用者を成長させる\n不思議な結晶。"
+    },
+    {
+      "id": 3001,
+      "name": "精鏡珠",
+      "min_lv": 1,
+      "max_lv": 80,
+      "basic_exp": 300000,
+      "flavorText": "秘めた力で使用者を大きく成長させる\n不思議な宝珠。"
+    }
+  ],
+  "mst_chara_limit_break_materials": [
+    {
+      "id": 101,
+      "name": "イクス/コーキスの鏡映片Ⅰ",
+      "mst_chara_id": 1,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 102,
+      "name": "イクス/コーキスの鏡映片Ⅱ",
+      "mst_chara_id": 1,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 201,
+      "name": "ミリーナの鏡映片Ⅰ",
+      "mst_chara_id": 2,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 202,
+      "name": "ミリーナの鏡映片Ⅱ",
+      "mst_chara_id": 2,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 501,
+      "name": "ルーティの鏡映片Ⅰ",
+      "mst_chara_id": 5,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 502,
+      "name": "ルーティの鏡映片Ⅱ",
+      "mst_chara_id": 5,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 601,
+      "name": "リオンの鏡映片Ⅰ",
+      "mst_chara_id": 6,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 602,
+      "name": "リオンの鏡映片Ⅱ",
+      "mst_chara_id": 6,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 701,
+      "name": "メルディの鏡映片Ⅰ",
+      "mst_chara_id": 7,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 702,
+      "name": "メルディの鏡映片Ⅱ",
+      "mst_chara_id": 7,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 801,
+      "name": "キールの鏡映片Ⅰ",
+      "mst_chara_id": 8,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 802,
+      "name": "キールの鏡映片Ⅱ",
+      "mst_chara_id": 8,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1401,
+      "name": "ルークの鏡映片Ⅰ",
+      "mst_chara_id": 14,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1402,
+      "name": "ルークの鏡映片Ⅱ",
+      "mst_chara_id": 14,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1501,
+      "name": "ジェイドの鏡映片Ⅰ",
+      "mst_chara_id": 15,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1502,
+      "name": "ジェイドの鏡映片Ⅱ",
+      "mst_chara_id": 15,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1901,
+      "name": "ユーリの鏡映片Ⅰ",
+      "mst_chara_id": 19,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1902,
+      "name": "ユーリの鏡映片Ⅱ",
+      "mst_chara_id": 19,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2001,
+      "name": "ラピードの鏡映片Ⅰ",
+      "mst_chara_id": 20,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2002,
+      "name": "ラピードの鏡映片Ⅱ",
+      "mst_chara_id": 20,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2501,
+      "name": "ソフィの鏡映片Ⅰ",
+      "mst_chara_id": 25,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2502,
+      "name": "ソフィの鏡映片Ⅱ",
+      "mst_chara_id": 25,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2701,
+      "name": "ジュードの鏡映片Ⅰ",
+      "mst_chara_id": 27,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2702,
+      "name": "ジュードの鏡映片Ⅱ",
+      "mst_chara_id": 27,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2801,
+      "name": "ミラ=マクスウェルの鏡映片Ⅰ",
+      "mst_chara_id": 28,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2802,
+      "name": "ミラ=マクスウェルの鏡映片Ⅱ",
+      "mst_chara_id": 28,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2901,
+      "name": "エリーゼの鏡映片Ⅰ",
+      "mst_chara_id": 29,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2902,
+      "name": "エリーゼの鏡映片Ⅱ",
+      "mst_chara_id": 29,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3101,
+      "name": "スレイの鏡映片Ⅰ",
+      "mst_chara_id": 31,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3102,
+      "name": "スレイの鏡映片Ⅱ",
+      "mst_chara_id": 31,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3201,
+      "name": "ミクリオの鏡映片Ⅰ",
+      "mst_chara_id": 32,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3202,
+      "name": "ミクリオの鏡映片Ⅱ",
+      "mst_chara_id": 32,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3501,
+      "name": "ティアの鏡映片Ⅰ",
+      "mst_chara_id": 35,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3502,
+      "name": "ティアの鏡映片Ⅱ",
+      "mst_chara_id": 35,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3601,
+      "name": "エドナの鏡映片Ⅰ",
+      "mst_chara_id": 36,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3602,
+      "name": "エドナの鏡映片Ⅱ",
+      "mst_chara_id": 36,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4001,
+      "name": "リッドの鏡映片Ⅰ",
+      "mst_chara_id": 40,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4002,
+      "name": "リッドの鏡映片Ⅱ",
+      "mst_chara_id": 40,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4101,
+      "name": "ファラの鏡映片Ⅰ",
+      "mst_chara_id": 41,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4102,
+      "name": "ファラの鏡映片Ⅱ",
+      "mst_chara_id": 41,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4301,
+      "name": "スタンの鏡映片Ⅰ",
+      "mst_chara_id": 43,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4302,
+      "name": "スタンの鏡映片Ⅱ",
+      "mst_chara_id": 43,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4601,
+      "name": "カイルの鏡映片Ⅰ",
+      "mst_chara_id": 46,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4602,
+      "name": "カイルの鏡映片Ⅱ",
+      "mst_chara_id": 46,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4701,
+      "name": "リアラの鏡映片Ⅰ",
+      "mst_chara_id": 47,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4702,
+      "name": "リアラの鏡映片Ⅱ",
+      "mst_chara_id": 47,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 901,
+      "name": "ロイドの鏡映片Ⅰ",
+      "mst_chara_id": 9,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 902,
+      "name": "ロイドの鏡映片Ⅱ",
+      "mst_chara_id": 9,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1101,
+      "name": "リフィルの鏡映片Ⅰ",
+      "mst_chara_id": 11,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1102,
+      "name": "リフィルの鏡映片Ⅱ",
+      "mst_chara_id": 11,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2101,
+      "name": "リタの鏡映片Ⅰ",
+      "mst_chara_id": 21,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2102,
+      "name": "リタの鏡映片Ⅱ",
+      "mst_chara_id": 21,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4201,
+      "name": "レイヴンの鏡映片Ⅰ",
+      "mst_chara_id": 42,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4202,
+      "name": "レイヴンの鏡映片Ⅱ",
+      "mst_chara_id": 42,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6801,
+      "name": "リヒターの鏡映片Ⅰ",
+      "mst_chara_id": 68,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6802,
+      "name": "リヒターの鏡映片Ⅱ",
+      "mst_chara_id": 68,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3701,
+      "name": "ベルベットの鏡映片Ⅰ",
+      "mst_chara_id": 37,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3702,
+      "name": "ベルベットの鏡映片Ⅱ",
+      "mst_chara_id": 37,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1001,
+      "name": "コレットの鏡映片Ⅰ",
+      "mst_chara_id": 10,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1002,
+      "name": "コレットの鏡映片Ⅱ",
+      "mst_chara_id": 10,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5601,
+      "name": "ガイの鏡映片Ⅰ",
+      "mst_chara_id": 56,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5602,
+      "name": "ガイの鏡映片Ⅱ",
+      "mst_chara_id": 56,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5001,
+      "name": "アリーシャの鏡映片Ⅰ",
+      "mst_chara_id": 50,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5002,
+      "name": "アリーシャの鏡映片Ⅱ",
+      "mst_chara_id": 50,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 301,
+      "name": "クレスの鏡映片Ⅰ",
+      "mst_chara_id": 3,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 302,
+      "name": "クレスの鏡映片Ⅱ",
+      "mst_chara_id": 3,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 401,
+      "name": "チェスターの鏡映片Ⅰ",
+      "mst_chara_id": 4,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 402,
+      "name": "チェスターの鏡映片Ⅱ",
+      "mst_chara_id": 4,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2401,
+      "name": "アスベルの鏡映片Ⅰ",
+      "mst_chara_id": 24,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2402,
+      "name": "アスベルの鏡映片Ⅱ",
+      "mst_chara_id": 24,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3901,
+      "name": "シェリアの鏡映片Ⅰ",
+      "mst_chara_id": 39,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3902,
+      "name": "シェリアの鏡映片Ⅱ",
+      "mst_chara_id": 39,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7101,
+      "name": "エミルの鏡映片Ⅰ",
+      "mst_chara_id": 71,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7102,
+      "name": "エミルの鏡映片Ⅱ",
+      "mst_chara_id": 71,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7201,
+      "name": "マルタの鏡映片Ⅰ",
+      "mst_chara_id": 72,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7202,
+      "name": "マルタの鏡映片Ⅱ",
+      "mst_chara_id": 72,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4801,
+      "name": "カノンノ・Eの鏡映片Ⅰ",
+      "mst_chara_id": 48,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4802,
+      "name": "カノンノ・Eの鏡映片Ⅱ",
+      "mst_chara_id": 48,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6001,
+      "name": "アイゼンの鏡映片Ⅰ",
+      "mst_chara_id": 60,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6002,
+      "name": "アイゼンの鏡映片Ⅱ",
+      "mst_chara_id": 60,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3801,
+      "name": "ライフィセットの鏡映片Ⅰ",
+      "mst_chara_id": 38,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3802,
+      "name": "ライフィセットの鏡映片Ⅱ",
+      "mst_chara_id": 38,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7301,
+      "name": "ミントの鏡映片Ⅰ",
+      "mst_chara_id": 73,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7302,
+      "name": "ミントの鏡映片Ⅱ",
+      "mst_chara_id": 73,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7401,
+      "name": "アーチェの鏡映片Ⅰ",
+      "mst_chara_id": 74,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7402,
+      "name": "アーチェの鏡映片Ⅱ",
+      "mst_chara_id": 74,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4401,
+      "name": "ゼロスの鏡映片Ⅰ",
+      "mst_chara_id": 44,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4402,
+      "name": "ゼロスの鏡映片Ⅱ",
+      "mst_chara_id": 44,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5701,
+      "name": "ジューダスの鏡映片Ⅰ",
+      "mst_chara_id": 57,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5702,
+      "name": "ジューダスの鏡映片Ⅱ",
+      "mst_chara_id": 57,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7001,
+      "name": "コンウェイの鏡映片Ⅰ",
+      "mst_chara_id": 70,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7002,
+      "name": "コンウェイの鏡映片Ⅱ",
+      "mst_chara_id": 70,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3301,
+      "name": "サラの鏡映片Ⅰ",
+      "mst_chara_id": 33,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3302,
+      "name": "サラの鏡映片Ⅱ",
+      "mst_chara_id": 33,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3001,
+      "name": "ルドガーの鏡映片Ⅰ",
+      "mst_chara_id": 30,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3002,
+      "name": "ルドガーの鏡映片Ⅱ",
+      "mst_chara_id": 30,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5901,
+      "name": "ユリウスの鏡映片Ⅰ",
+      "mst_chara_id": 59,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5902,
+      "name": "ユリウスの鏡映片Ⅱ",
+      "mst_chara_id": 59,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8601,
+      "name": "レイアの鏡映片Ⅰ",
+      "mst_chara_id": 86,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8602,
+      "name": "レイアの鏡映片Ⅱ",
+      "mst_chara_id": 86,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8701,
+      "name": "天海春香の鏡映片Ⅰ",
+      "mst_chara_id": 87,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8702,
+      "name": "天海春香の鏡映片Ⅱ",
+      "mst_chara_id": 87,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5501,
+      "name": "セネルの鏡映片Ⅰ",
+      "mst_chara_id": 55,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5502,
+      "name": "セネルの鏡映片Ⅱ",
+      "mst_chara_id": 55,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1201,
+      "name": "ヴェイグの鏡映片Ⅰ",
+      "mst_chara_id": 12,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1202,
+      "name": "ヴェイグの鏡映片Ⅱ",
+      "mst_chara_id": 12,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5201,
+      "name": "エステルの鏡映片Ⅰ",
+      "mst_chara_id": 52,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5202,
+      "name": "エステルの鏡映片Ⅱ",
+      "mst_chara_id": 52,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9401,
+      "name": "カロルの鏡映片Ⅰ",
+      "mst_chara_id": 94,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9402,
+      "name": "カロルの鏡映片Ⅱ",
+      "mst_chara_id": 94,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8301,
+      "name": "エレノアの鏡映片Ⅰ",
+      "mst_chara_id": 83,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8302,
+      "name": "エレノアの鏡映片Ⅱ",
+      "mst_chara_id": 83,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7701,
+      "name": "ロゼの鏡映片Ⅰ",
+      "mst_chara_id": 77,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7702,
+      "name": "ロゼの鏡映片Ⅱ",
+      "mst_chara_id": 77,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7801,
+      "name": "デゼルの鏡映片Ⅰ",
+      "mst_chara_id": 78,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7802,
+      "name": "デゼルの鏡映片Ⅱ",
+      "mst_chara_id": 78,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1601,
+      "name": "アニスの鏡映片Ⅰ",
+      "mst_chara_id": 16,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1602,
+      "name": "アニスの鏡映片Ⅱ",
+      "mst_chara_id": 16,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1701,
+      "name": "ルカの鏡映片Ⅰ",
+      "mst_chara_id": 17,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1702,
+      "name": "ルカの鏡映片Ⅱ",
+      "mst_chara_id": 17,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5101,
+      "name": "イリアの鏡映片Ⅰ",
+      "mst_chara_id": 51,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5102,
+      "name": "イリアの鏡映片Ⅱ",
+      "mst_chara_id": 51,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6701,
+      "name": "ミトスの鏡映片Ⅰ",
+      "mst_chara_id": 67,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6702,
+      "name": "ミトスの鏡映片Ⅱ",
+      "mst_chara_id": 67,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4901,
+      "name": "アルヴィンの鏡映片Ⅰ",
+      "mst_chara_id": 49,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4902,
+      "name": "アルヴィンの鏡映片Ⅱ",
+      "mst_chara_id": 49,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9801,
+      "name": "P・カノンノの鏡映片Ⅰ",
+      "mst_chara_id": 98,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9802,
+      "name": "P・カノンノの鏡映片Ⅱ",
+      "mst_chara_id": 98,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8901,
+      "name": "カナの鏡映片Ⅰ",
+      "mst_chara_id": 89,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8902,
+      "name": "カナの鏡映片Ⅱ",
+      "mst_chara_id": 89,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9901,
+      "name": "セルシウスの鏡映片Ⅰ",
+      "mst_chara_id": 99,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9902,
+      "name": "セルシウスの鏡映片Ⅱ",
+      "mst_chara_id": 99,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8001,
+      "name": "シンクの鏡映片Ⅰ",
+      "mst_chara_id": 80,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8002,
+      "name": "シンクの鏡映片Ⅱ",
+      "mst_chara_id": 80,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7601,
+      "name": "ヒューバートの鏡映片Ⅰ",
+      "mst_chara_id": 76,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7602,
+      "name": "ヒューバートの鏡映片Ⅱ",
+      "mst_chara_id": 76,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2601,
+      "name": "パスカルの鏡映片Ⅰ",
+      "mst_chara_id": 26,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2602,
+      "name": "パスカルの鏡映片Ⅱ",
+      "mst_chara_id": 26,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10101,
+      "name": "レナス・Fの鏡映片Ⅰ",
+      "mst_chara_id": 101,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10102,
+      "name": "レナス・Fの鏡映片Ⅱ",
+      "mst_chara_id": 101,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10001,
+      "name": "ロンドリーネの鏡映片Ⅰ",
+      "mst_chara_id": 100,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10002,
+      "name": "ロンドリーネの鏡映片Ⅱ",
+      "mst_chara_id": 100,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8201,
+      "name": "マギルゥの鏡映片Ⅰ",
+      "mst_chara_id": 82,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8202,
+      "name": "マギルゥの鏡映片Ⅱ",
+      "mst_chara_id": 82,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5401,
+      "name": "アッシュの鏡映片Ⅰ",
+      "mst_chara_id": 54,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5402,
+      "name": "アッシュの鏡映片Ⅱ",
+      "mst_chara_id": 54,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4501,
+      "name": "ナタリアの鏡映片Ⅰ",
+      "mst_chara_id": 45,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4502,
+      "name": "ナタリアの鏡映片Ⅱ",
+      "mst_chara_id": 45,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9301,
+      "name": "クラトスの鏡映片Ⅰ",
+      "mst_chara_id": 93,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9302,
+      "name": "クラトスの鏡映片Ⅱ",
+      "mst_chara_id": 93,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6601,
+      "name": "バルバトスの鏡映片Ⅰ",
+      "mst_chara_id": 66,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6602,
+      "name": "バルバトスの鏡映片Ⅱ",
+      "mst_chara_id": 66,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10501,
+      "name": "シャーリィの鏡映片Ⅰ",
+      "mst_chara_id": 105,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10502,
+      "name": "シャーリィの鏡映片Ⅱ",
+      "mst_chara_id": 105,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11801,
+      "name": "クロエの鏡映片Ⅰ",
+      "mst_chara_id": 118,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11802,
+      "name": "クロエの鏡映片Ⅱ",
+      "mst_chara_id": 118,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10201,
+      "name": "ガイアスの鏡映片Ⅰ",
+      "mst_chara_id": 102,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10202,
+      "name": "ガイアスの鏡映片Ⅱ",
+      "mst_chara_id": 102,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10301,
+      "name": "ミュゼの鏡映片Ⅰ",
+      "mst_chara_id": 103,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10302,
+      "name": "ミュゼの鏡映片Ⅱ",
+      "mst_chara_id": 103,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10901,
+      "name": "キリトの鏡映片Ⅰ",
+      "mst_chara_id": 109,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10902,
+      "name": "キリトの鏡映片Ⅱ",
+      "mst_chara_id": 109,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11001,
+      "name": "アスナの鏡映片Ⅰ",
+      "mst_chara_id": 110,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11002,
+      "name": "アスナの鏡映片Ⅱ",
+      "mst_chara_id": 110,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6201,
+      "name": "カイウスの鏡映片Ⅰ",
+      "mst_chara_id": 62,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6202,
+      "name": "カイウスの鏡映片Ⅱ",
+      "mst_chara_id": 62,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5801,
+      "name": "シングの鏡映片Ⅰ",
+      "mst_chara_id": 58,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5802,
+      "name": "シングの鏡映片Ⅱ",
+      "mst_chara_id": 58,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10701,
+      "name": "ライラの鏡映片Ⅰ",
+      "mst_chara_id": 107,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10702,
+      "name": "ライラの鏡映片Ⅱ",
+      "mst_chara_id": 107,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11901,
+      "name": "ダークかめにんの鏡映片Ⅰ",
+      "mst_chara_id": 119,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11902,
+      "name": "ダークかめにんの鏡映片Ⅱ",
+      "mst_chara_id": 119,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2201,
+      "name": "コハクの鏡映片Ⅰ",
+      "mst_chara_id": 22,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2202,
+      "name": "コハクの鏡映片Ⅱ",
+      "mst_chara_id": 22,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2301,
+      "name": "ヒスイの鏡映片Ⅰ",
+      "mst_chara_id": 23,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2302,
+      "name": "ヒスイの鏡映片Ⅱ",
+      "mst_chara_id": 23,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11101,
+      "name": "カノンノ・Gの鏡映片Ⅰ",
+      "mst_chara_id": 111,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11102,
+      "name": "カノンノ・Gの鏡映片Ⅱ",
+      "mst_chara_id": 111,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12801,
+      "name": "ジーニアスの鏡映片Ⅰ",
+      "mst_chara_id": 128,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12802,
+      "name": "ジーニアスの鏡映片Ⅱ",
+      "mst_chara_id": 128,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12901,
+      "name": "プレセアの鏡映片Ⅰ",
+      "mst_chara_id": 129,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12902,
+      "name": "プレセアの鏡映片Ⅱ",
+      "mst_chara_id": 129,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10601,
+      "name": "スパーダの鏡映片Ⅰ",
+      "mst_chara_id": 106,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10602,
+      "name": "スパーダの鏡映片Ⅱ",
+      "mst_chara_id": 106,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12101,
+      "name": "ヒルダの鏡映片Ⅰ",
+      "mst_chara_id": 121,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12102,
+      "name": "ヒルダの鏡映片Ⅱ",
+      "mst_chara_id": 121,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8501,
+      "name": "クラースの鏡映片Ⅰ",
+      "mst_chara_id": 85,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8502,
+      "name": "クラースの鏡映片Ⅱ",
+      "mst_chara_id": 85,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10401,
+      "name": "ジュディスの鏡映片Ⅰ",
+      "mst_chara_id": 104,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10402,
+      "name": "ジュディスの鏡映片Ⅱ",
+      "mst_chara_id": 104,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13001,
+      "name": "島村　卯月の鏡映片Ⅰ",
+      "mst_chara_id": 130,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13002,
+      "name": "島村　卯月の鏡映片Ⅱ",
+      "mst_chara_id": 130,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13101,
+      "name": "神崎　蘭子の鏡映片Ⅰ",
+      "mst_chara_id": 131,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13102,
+      "name": "神崎　蘭子の鏡映片Ⅱ",
+      "mst_chara_id": 131,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7501,
+      "name": "フレンの鏡映片Ⅰ",
+      "mst_chara_id": 75,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7502,
+      "name": "フレンの鏡映片Ⅱ",
+      "mst_chara_id": 75,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13901,
+      "name": "メルクリアの鏡映片Ⅰ",
+      "mst_chara_id": 139,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13902,
+      "name": "メルクリアの鏡映片Ⅱ",
+      "mst_chara_id": 139,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8101,
+      "name": "ロクロウの鏡映片Ⅰ",
+      "mst_chara_id": 81,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8102,
+      "name": "ロクロウの鏡映片Ⅱ",
+      "mst_chara_id": 81,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13301,
+      "name": "すずの鏡映片Ⅰ",
+      "mst_chara_id": 133,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13302,
+      "name": "すずの鏡映片Ⅱ",
+      "mst_chara_id": 133,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11601,
+      "name": "しいなの鏡映片Ⅰ",
+      "mst_chara_id": 116,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11602,
+      "name": "しいなの鏡映片Ⅱ",
+      "mst_chara_id": 116,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13801,
+      "name": "ヴィクトルの鏡映片Ⅰ",
+      "mst_chara_id": 138,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13802,
+      "name": "ヴィクトルの鏡映片Ⅱ",
+      "mst_chara_id": 138,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6301,
+      "name": "ルビアの鏡映片Ⅰ",
+      "mst_chara_id": 63,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6302,
+      "name": "ルビアの鏡映片Ⅱ",
+      "mst_chara_id": 63,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14101,
+      "name": "アリサ(GEREO)の鏡映片Ⅰ",
+      "mst_chara_id": 141,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14102,
+      "name": "アリサ(GEREO)の鏡映片Ⅱ",
+      "mst_chara_id": 141,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14201,
+      "name": "クレア(GE3)の鏡映片Ⅰ",
+      "mst_chara_id": 142,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14202,
+      "name": "クレア(GE3)の鏡映片Ⅱ",
+      "mst_chara_id": 142,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7901,
+      "name": "ダオスの鏡映片Ⅰ",
+      "mst_chara_id": 79,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7902,
+      "name": "ダオスの鏡映片Ⅱ",
+      "mst_chara_id": 79,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9001,
+      "name": "アレンの鏡映片Ⅰ",
+      "mst_chara_id": 90,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9002,
+      "name": "アレンの鏡映片Ⅱ",
+      "mst_chara_id": 90,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9101,
+      "name": "ゼファーの鏡映片Ⅰ",
+      "mst_chara_id": 91,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9102,
+      "name": "ゼファーの鏡映片Ⅱ",
+      "mst_chara_id": 91,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9701,
+      "name": "ローエンの鏡映片Ⅰ",
+      "mst_chara_id": 97,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9702,
+      "name": "ローエンの鏡映片Ⅱ",
+      "mst_chara_id": 97,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14301,
+      "name": "エルレインの鏡映片Ⅰ",
+      "mst_chara_id": 143,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14302,
+      "name": "エルレインの鏡映片Ⅱ",
+      "mst_chara_id": 143,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6101,
+      "name": "ザビーダの鏡映片Ⅰ",
+      "mst_chara_id": 61,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6102,
+      "name": "ザビーダの鏡映片Ⅱ",
+      "mst_chara_id": 61,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3401,
+      "name": "マークの鏡映片Ⅰ",
+      "mst_chara_id": 34,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3402,
+      "name": "マークの鏡映片Ⅱ",
+      "mst_chara_id": 34,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14401,
+      "name": "フレイの鏡映片Ⅰ",
+      "mst_chara_id": 144,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14402,
+      "name": "フレイの鏡映片Ⅱ",
+      "mst_chara_id": 144,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11301,
+      "name": "ディムロスの鏡映片Ⅰ",
+      "mst_chara_id": 113,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11302,
+      "name": "ディムロスの鏡映片Ⅱ",
+      "mst_chara_id": 113,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12601,
+      "name": "シャルティエの鏡映片Ⅰ",
+      "mst_chara_id": 126,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12602,
+      "name": "シャルティエの鏡映片Ⅱ",
+      "mst_chara_id": 126,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14601,
+      "name": "クロードの鏡映片Ⅰ",
+      "mst_chara_id": 146,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14602,
+      "name": "クロードの鏡映片Ⅱ",
+      "mst_chara_id": 146,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14701,
+      "name": "レナの鏡映片Ⅰ",
+      "mst_chara_id": 147,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14702,
+      "name": "レナの鏡映片Ⅱ",
+      "mst_chara_id": 147,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15601,
+      "name": "コーキスの鏡映片Ⅰ",
+      "mst_chara_id": 156,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15602,
+      "name": "コーキスの鏡映片Ⅱ",
+      "mst_chara_id": 156,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15201,
+      "name": "アニーの鏡映片Ⅰ",
+      "mst_chara_id": 152,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15202,
+      "name": "アニーの鏡映片Ⅱ",
+      "mst_chara_id": 152,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14001,
+      "name": "フェニックスの鏡映片Ⅰ",
+      "mst_chara_id": 140,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14002,
+      "name": "フェニックスの鏡映片Ⅱ",
+      "mst_chara_id": 140,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13401,
+      "name": "ロニの鏡映片Ⅰ",
+      "mst_chara_id": 134,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13402,
+      "name": "ロニの鏡映片Ⅱ",
+      "mst_chara_id": 134,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13501,
+      "name": "ナナリーの鏡映片Ⅰ",
+      "mst_chara_id": 135,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13502,
+      "name": "ナナリーの鏡映片Ⅱ",
+      "mst_chara_id": 135,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13701,
+      "name": "デュークの鏡映片Ⅰ",
+      "mst_chara_id": 137,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13702,
+      "name": "デュークの鏡映片Ⅱ",
+      "mst_chara_id": 137,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15801,
+      "name": "チャットの鏡映片Ⅰ",
+      "mst_chara_id": 158,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15802,
+      "name": "チャットの鏡映片Ⅱ",
+      "mst_chara_id": 158,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15901,
+      "name": "パティの鏡映片Ⅰ",
+      "mst_chara_id": 159,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15902,
+      "name": "パティの鏡映片Ⅱ",
+      "mst_chara_id": 159,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16201,
+      "name": "フィリアの鏡映片Ⅰ",
+      "mst_chara_id": 162,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16202,
+      "name": "フィリアの鏡映片Ⅱ",
+      "mst_chara_id": 162,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16301,
+      "name": "ウッドロウの鏡映片Ⅰ",
+      "mst_chara_id": 163,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16302,
+      "name": "ウッドロウの鏡映片Ⅱ",
+      "mst_chara_id": 163,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14501,
+      "name": "マリクの鏡映片Ⅰ",
+      "mst_chara_id": 145,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14502,
+      "name": "マリクの鏡映片Ⅱ",
+      "mst_chara_id": 145,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5301,
+      "name": "リチャードの鏡映片Ⅰ",
+      "mst_chara_id": 53,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5302,
+      "name": "リチャードの鏡映片Ⅱ",
+      "mst_chara_id": 53,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16001,
+      "name": "グリューネの鏡映片Ⅰ",
+      "mst_chara_id": 160,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16002,
+      "name": "グリューネの鏡映片Ⅱ",
+      "mst_chara_id": 160,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16101,
+      "name": "シュヴァルツの鏡映片Ⅰ",
+      "mst_chara_id": 161,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16102,
+      "name": "シュヴァルツの鏡映片Ⅱ",
+      "mst_chara_id": 161,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16103,
+      "name": "シュヴァルツの鏡映片Ⅲ",
+      "mst_chara_id": 161,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14901,
+      "name": "ベリルの鏡映片Ⅰ",
+      "mst_chara_id": 149,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14902,
+      "name": "ベリルの鏡映片Ⅱ",
+      "mst_chara_id": 149,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1801,
+      "name": "アンジュの鏡映片Ⅰ",
+      "mst_chara_id": 18,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1802,
+      "name": "アンジュの鏡映片Ⅱ",
+      "mst_chara_id": 18,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16701,
+      "name": "ラザリスの鏡映片Ⅰ",
+      "mst_chara_id": 167,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16702,
+      "name": "ラザリスの鏡映片Ⅱ",
+      "mst_chara_id": 167,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16601,
+      "name": "マオの鏡映片Ⅰ",
+      "mst_chara_id": 166,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16602,
+      "name": "マオの鏡映片Ⅱ",
+      "mst_chara_id": 166,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16501,
+      "name": "ユージーンの鏡映片Ⅰ",
+      "mst_chara_id": 165,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16502,
+      "name": "ユージーンの鏡映片Ⅱ",
+      "mst_chara_id": 165,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15301,
+      "name": "クンツァイトの鏡映片Ⅰ",
+      "mst_chara_id": 153,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15302,
+      "name": "クンツァイトの鏡映片Ⅱ",
+      "mst_chara_id": 153,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15401,
+      "name": "リチアの鏡映片Ⅰ",
+      "mst_chara_id": 154,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15402,
+      "name": "リチアの鏡映片Ⅱ",
+      "mst_chara_id": 154,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1301,
+      "name": "ノーマの鏡映片Ⅰ",
+      "mst_chara_id": 13,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1302,
+      "name": "ノーマの鏡映片Ⅱ",
+      "mst_chara_id": 13,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11501,
+      "name": "ミラの鏡映片Ⅰ",
+      "mst_chara_id": 115,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11502,
+      "name": "ミラの鏡映片Ⅱ",
+      "mst_chara_id": 115,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17301,
+      "name": "リッピの鏡映片Ⅰ",
+      "mst_chara_id": 173,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17302,
+      "name": "リッピの鏡映片Ⅱ",
+      "mst_chara_id": 173,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17101,
+      "name": "シゼルの鏡映片Ⅰ",
+      "mst_chara_id": 171,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17102,
+      "name": "シゼルの鏡映片Ⅱ",
+      "mst_chara_id": 171,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17001,
+      "name": "ティルキスの鏡映片Ⅰ",
+      "mst_chara_id": 170,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17002,
+      "name": "ティルキスの鏡映片Ⅱ",
+      "mst_chara_id": 170,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17201,
+      "name": "アーリアの鏡映片Ⅰ",
+      "mst_chara_id": 172,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17202,
+      "name": "アーリアの鏡映片Ⅱ",
+      "mst_chara_id": 172,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12501,
+      "name": "アトワイトの鏡映片Ⅰ",
+      "mst_chara_id": 125,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12502,
+      "name": "アトワイトの鏡映片Ⅱ",
+      "mst_chara_id": 125,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17501,
+      "name": "カーリャ・Nの鏡映片Ⅰ",
+      "mst_chara_id": 175,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17502,
+      "name": "カーリャ・Nの鏡映片Ⅱ",
+      "mst_chara_id": 175,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15701,
+      "name": "クリードの鏡映片Ⅰ",
+      "mst_chara_id": 157,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15702,
+      "name": "クリードの鏡映片Ⅱ",
+      "mst_chara_id": 157,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18701,
+      "name": "坂田銀時の鏡映片Ⅰ",
+      "mst_chara_id": 187,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18702,
+      "name": "坂田銀時の鏡映片Ⅱ",
+      "mst_chara_id": 187,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18801,
+      "name": "神楽の鏡映片Ⅰ",
+      "mst_chara_id": 188,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18802,
+      "name": "神楽の鏡映片Ⅱ",
+      "mst_chara_id": 188,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18901,
+      "name": "土方十四郎の鏡映片Ⅰ",
+      "mst_chara_id": 189,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18902,
+      "name": "土方十四郎の鏡映片Ⅱ",
+      "mst_chara_id": 189,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19001,
+      "name": "沖田総悟の鏡映片Ⅰ",
+      "mst_chara_id": 190,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19002,
+      "name": "沖田総悟の鏡映片Ⅱ",
+      "mst_chara_id": 190,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17901,
+      "name": "リリスの鏡映片Ⅰ",
+      "mst_chara_id": 179,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17902,
+      "name": "リリスの鏡映片Ⅱ",
+      "mst_chara_id": 179,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13601,
+      "name": "リムルの鏡映片Ⅰ",
+      "mst_chara_id": 136,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13602,
+      "name": "リムルの鏡映片Ⅱ",
+      "mst_chara_id": 136,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17801,
+      "name": "コングマンの鏡映片Ⅰ",
+      "mst_chara_id": 178,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17802,
+      "name": "コングマンの鏡映片Ⅱ",
+      "mst_chara_id": 178,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19101,
+      "name": "フィリーネ(GEREO)の鏡映片Ⅰ",
+      "mst_chara_id": 191,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19102,
+      "name": "フィリーネ(GEREO)の鏡映片Ⅱ",
+      "mst_chara_id": 191,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18201,
+      "name": "アリスの鏡映片Ⅰ",
+      "mst_chara_id": 182,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18202,
+      "name": "アリスの鏡映片Ⅱ",
+      "mst_chara_id": 182,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15501,
+      "name": "デクスの鏡映片Ⅰ",
+      "mst_chara_id": 155,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15502,
+      "name": "デクスの鏡映片Ⅱ",
+      "mst_chara_id": 155,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11201,
+      "name": "ハロルドの鏡映片Ⅰ",
+      "mst_chara_id": 112,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11202,
+      "name": "ハロルドの鏡映片Ⅱ",
+      "mst_chara_id": 112,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18401,
+      "name": "リトルクイーンの鏡映片Ⅰ",
+      "mst_chara_id": 184,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18402,
+      "name": "リトルクイーンの鏡映片Ⅱ",
+      "mst_chara_id": 184,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18301,
+      "name": "イオンの鏡映片Ⅰ",
+      "mst_chara_id": 183,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18302,
+      "name": "イオンの鏡映片Ⅱ",
+      "mst_chara_id": 183,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18101,
+      "name": "ユアンの鏡映片Ⅰ",
+      "mst_chara_id": 181,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18102,
+      "name": "ユアンの鏡映片Ⅱ",
+      "mst_chara_id": 181,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18001,
+      "name": "マーテルの鏡映片Ⅰ",
+      "mst_chara_id": 180,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18002,
+      "name": "マーテルの鏡映片Ⅱ",
+      "mst_chara_id": 180,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19301,
+      "name": "マリーの鏡映片Ⅰ",
+      "mst_chara_id": 193,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19302,
+      "name": "マリーの鏡映片Ⅱ",
+      "mst_chara_id": 193,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20001,
+      "name": "シグレの鏡映片Ⅰ",
+      "mst_chara_id": 200,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20002,
+      "name": "シグレの鏡映片Ⅱ",
+      "mst_chara_id": 200,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19701,
+      "name": "キュキュの鏡映片Ⅰ",
+      "mst_chara_id": 197,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19702,
+      "name": "キュキュの鏡映片Ⅱ",
+      "mst_chara_id": 197,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20601,
+      "name": "リカルドの鏡映片Ⅰ",
+      "mst_chara_id": 206,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20602,
+      "name": "リカルドの鏡映片Ⅱ",
+      "mst_chara_id": 206,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9501,
+      "name": "ジョニーの鏡映片Ⅰ",
+      "mst_chara_id": 95,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9502,
+      "name": "ジョニーの鏡映片Ⅱ",
+      "mst_chara_id": 95,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20401,
+      "name": "双葉 杏の鏡映片Ⅰ",
+      "mst_chara_id": 204,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20402,
+      "name": "双葉 杏の鏡映片Ⅱ",
+      "mst_chara_id": 204,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20501,
+      "name": "諸星　きらりの鏡映片Ⅰ",
+      "mst_chara_id": 205,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20502,
+      "name": "諸星　きらりの鏡映片Ⅱ",
+      "mst_chara_id": 205,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10801,
+      "name": "ナーザの鏡映片Ⅰ",
+      "mst_chara_id": 108,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10802,
+      "name": "ナーザの鏡映片Ⅱ",
+      "mst_chara_id": 108,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6901,
+      "name": "ディストの鏡映片Ⅰ",
+      "mst_chara_id": 69,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6902,
+      "name": "ディストの鏡映片Ⅱ",
+      "mst_chara_id": 69,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16801,
+      "name": "ディオの鏡映片Ⅰ",
+      "mst_chara_id": 168,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16802,
+      "name": "ディオの鏡映片Ⅱ",
+      "mst_chara_id": 168,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16901,
+      "name": "メルの鏡映片Ⅰ",
+      "mst_chara_id": 169,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16902,
+      "name": "メルの鏡映片Ⅱ",
+      "mst_chara_id": 169,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11701,
+      "name": "アグリアの鏡映片Ⅰ",
+      "mst_chara_id": 117,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11702,
+      "name": "アグリアの鏡映片Ⅱ",
+      "mst_chara_id": 117,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20701,
+      "name": "サイモンの鏡映片Ⅰ",
+      "mst_chara_id": 207,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20702,
+      "name": "サイモンの鏡映片Ⅱ",
+      "mst_chara_id": 207,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19801,
+      "name": "イネスの鏡映片Ⅰ",
+      "mst_chara_id": 198,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19802,
+      "name": "イネスの鏡映片Ⅱ",
+      "mst_chara_id": 198,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20801,
+      "name": "ウィルの鏡映片Ⅰ",
+      "mst_chara_id": 208,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20802,
+      "name": "ウィルの鏡映片Ⅱ",
+      "mst_chara_id": 208,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22001,
+      "name": "ハセヲの鏡映片Ⅰ",
+      "mst_chara_id": 220,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22002,
+      "name": "ハセヲの鏡映片Ⅱ",
+      "mst_chara_id": 220,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22101,
+      "name": "アトリの鏡映片Ⅰ",
+      "mst_chara_id": 221,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22102,
+      "name": "アトリの鏡映片Ⅱ",
+      "mst_chara_id": 221,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20901,
+      "name": "チェルシーの鏡映片Ⅰ",
+      "mst_chara_id": 209,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20902,
+      "name": "チェルシーの鏡映片Ⅱ",
+      "mst_chara_id": 209,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6401,
+      "name": "ティトレイの鏡映片Ⅰ",
+      "mst_chara_id": 64,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6402,
+      "name": "ティトレイの鏡映片Ⅱ",
+      "mst_chara_id": 64,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19501,
+      "name": "ジェイの鏡映片Ⅰ",
+      "mst_chara_id": 195,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19502,
+      "name": "ジェイの鏡映片Ⅱ",
+      "mst_chara_id": 195,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19401,
+      "name": "モーゼスの鏡映片Ⅰ",
+      "mst_chara_id": 194,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19402,
+      "name": "モーゼスの鏡映片Ⅱ",
+      "mst_chara_id": 194,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21101,
+      "name": "レイスの鏡映片Ⅰ",
+      "mst_chara_id": 211,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21102,
+      "name": "レイスの鏡映片Ⅱ",
+      "mst_chara_id": 211,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21001,
+      "name": "フォッグの鏡映片Ⅰ",
+      "mst_chara_id": 210,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21002,
+      "name": "フォッグの鏡映片Ⅱ",
+      "mst_chara_id": 210,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21401,
+      "name": "リナの鏡映片Ⅰ",
+      "mst_chara_id": 214,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21402,
+      "name": "リナの鏡映片Ⅱ",
+      "mst_chara_id": 214,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21501,
+      "name": "ガウリイの鏡映片Ⅰ",
+      "mst_chara_id": 215,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21502,
+      "name": "ガウリイの鏡映片Ⅱ",
+      "mst_chara_id": 215,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21601,
+      "name": "ゼルガディスの鏡映片Ⅰ",
+      "mst_chara_id": 216,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21602,
+      "name": "ゼルガディスの鏡映片Ⅱ",
+      "mst_chara_id": 216,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21701,
+      "name": "アメリアの鏡映片Ⅰ",
+      "mst_chara_id": 217,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21702,
+      "name": "アメリアの鏡映片Ⅱ",
+      "mst_chara_id": 217,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21801,
+      "name": "獣神官ゼロスの鏡映片Ⅰ",
+      "mst_chara_id": 218,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21802,
+      "name": "獣神官ゼロスの鏡映片Ⅱ",
+      "mst_chara_id": 218,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21803,
+      "name": "獣神官ゼロスの鏡映片Ⅲ",
+      "mst_chara_id": 218,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21301,
+      "name": "イバルの鏡映片Ⅰ",
+      "mst_chara_id": 213,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21302,
+      "name": "イバルの鏡映片Ⅱ",
+      "mst_chara_id": 213,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9601,
+      "name": "リーガルの鏡映片Ⅰ",
+      "mst_chara_id": 96,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9602,
+      "name": "リーガルの鏡映片Ⅱ",
+      "mst_chara_id": 96,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22401,
+      "name": "フォレストの鏡映片Ⅰ",
+      "mst_chara_id": 224,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22402,
+      "name": "フォレストの鏡映片Ⅱ",
+      "mst_chara_id": 224,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22501,
+      "name": "エルマーナの鏡映片Ⅰ",
+      "mst_chara_id": 225,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22502,
+      "name": "エルマーナの鏡映片Ⅱ",
+      "mst_chara_id": 225,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21201,
+      "name": "カルセドニーの鏡映片Ⅰ",
+      "mst_chara_id": 212,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21202,
+      "name": "カルセドニーの鏡映片Ⅱ",
+      "mst_chara_id": 212,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19901,
+      "name": "ガラドの鏡映片Ⅰ",
+      "mst_chara_id": 199,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19902,
+      "name": "ガラドの鏡映片Ⅱ",
+      "mst_chara_id": 199,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22801,
+      "name": "ベルの鏡映片Ⅰ",
+      "mst_chara_id": 228,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22802,
+      "name": "ベルの鏡映片Ⅱ",
+      "mst_chara_id": 228,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22901,
+      "name": "アイズの鏡映片Ⅰ",
+      "mst_chara_id": 229,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22902,
+      "name": "アイズの鏡映片Ⅱ",
+      "mst_chara_id": 229,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23001,
+      "name": "バルドの鏡映片Ⅰ",
+      "mst_chara_id": 230,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23002,
+      "name": "バルドの鏡映片Ⅱ",
+      "mst_chara_id": 230,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22701,
+      "name": "アレクセイの鏡映片Ⅰ",
+      "mst_chara_id": 227,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22702,
+      "name": "アレクセイの鏡映片Ⅱ",
+      "mst_chara_id": 227,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23501,
+      "name": "アスタの鏡映片Ⅰ",
+      "mst_chara_id": 235,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23502,
+      "name": "アスタの鏡映片Ⅱ",
+      "mst_chara_id": 235,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23601,
+      "name": "ユノの鏡映片Ⅰ",
+      "mst_chara_id": 236,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23602,
+      "name": "ユノの鏡映片Ⅱ",
+      "mst_chara_id": 236,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23701,
+      "name": "ヤミの鏡映片Ⅰ",
+      "mst_chara_id": 237,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23702,
+      "name": "ヤミの鏡映片Ⅱ",
+      "mst_chara_id": 237,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23801,
+      "name": "シャーロットの鏡映片Ⅰ",
+      "mst_chara_id": 238,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23802,
+      "name": "シャーロットの鏡映片Ⅱ",
+      "mst_chara_id": 238,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17601,
+      "name": "アリエッタの鏡映片Ⅰ",
+      "mst_chara_id": 176,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17602,
+      "name": "アリエッタの鏡映片Ⅱ",
+      "mst_chara_id": 176,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23901,
+      "name": "リグレットの鏡映片Ⅰ",
+      "mst_chara_id": 239,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23902,
+      "name": "リグレットの鏡映片Ⅱ",
+      "mst_chara_id": 239,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11401,
+      "name": "サレの鏡映片Ⅰ",
+      "mst_chara_id": 114,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11402,
+      "name": "サレの鏡映片Ⅱ",
+      "mst_chara_id": 114,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22201,
+      "name": "ワルターの鏡映片Ⅰ",
+      "mst_chara_id": 222,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22202,
+      "name": "ワルターの鏡映片Ⅱ",
+      "mst_chara_id": 222,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24101,
+      "name": "イエガーの鏡映片Ⅰ",
+      "mst_chara_id": 241,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24102,
+      "name": "イエガーの鏡映片Ⅱ",
+      "mst_chara_id": 241,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24201,
+      "name": "ゴーシュの鏡映片Ⅰ",
+      "mst_chara_id": 242,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24202,
+      "name": "ゴーシュの鏡映片Ⅱ",
+      "mst_chara_id": 242,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24301,
+      "name": "ドロワットの鏡映片Ⅰ",
+      "mst_chara_id": 243,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24302,
+      "name": "ドロワットの鏡映片Ⅱ",
+      "mst_chara_id": 243,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6501,
+      "name": "ヴァンの鏡映片Ⅰ",
+      "mst_chara_id": 65,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6502,
+      "name": "ヴァンの鏡映片Ⅱ",
+      "mst_chara_id": 65,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24801,
+      "name": "ピオニーの鏡映片Ⅰ",
+      "mst_chara_id": 248,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24802,
+      "name": "ピオニーの鏡映片Ⅱ",
+      "mst_chara_id": 248,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25101,
+      "name": "ソルの鏡映片Ⅰ",
+      "mst_chara_id": 251,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25102,
+      "name": "ソルの鏡映片Ⅱ",
+      "mst_chara_id": 251,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25201,
+      "name": "ラムレザルの鏡映片Ⅰ",
+      "mst_chara_id": 252,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25202,
+      "name": "ラムレザルの鏡映片Ⅱ",
+      "mst_chara_id": 252,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25501,
+      "name": "ヘルダルフの鏡映片Ⅰ",
+      "mst_chara_id": 255,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25502,
+      "name": "ヘルダルフの鏡映片Ⅱ",
+      "mst_chara_id": 255,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25301,
+      "name": "アルフェンの鏡映片Ⅰ",
+      "mst_chara_id": 253,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25302,
+      "name": "アルフェンの鏡映片Ⅱ",
+      "mst_chara_id": 253,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25401,
+      "name": "シオンの鏡映片Ⅰ",
+      "mst_chara_id": 254,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25402,
+      "name": "シオンの鏡映片Ⅱ",
+      "mst_chara_id": 254,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13201,
+      "name": "ルキウスの鏡映片Ⅰ",
+      "mst_chara_id": 132,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13202,
+      "name": "ルキウスの鏡映片Ⅱ",
+      "mst_chara_id": 132,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23301,
+      "name": "アルトリウスの鏡映片Ⅰ",
+      "mst_chara_id": 233,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23302,
+      "name": "アルトリウスの鏡映片Ⅱ",
+      "mst_chara_id": 233,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25801,
+      "name": "ロウの鏡映片Ⅰ",
+      "mst_chara_id": 258,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25802,
+      "name": "ロウの鏡映片Ⅱ",
+      "mst_chara_id": 258,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25701,
+      "name": "リンウェルの鏡映片Ⅰ",
+      "mst_chara_id": 257,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25702,
+      "name": "リンウェルの鏡映片Ⅱ",
+      "mst_chara_id": 257,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25001,
+      "name": "モリスンの鏡映片Ⅰ",
+      "mst_chara_id": 250,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25002,
+      "name": "モリスンの鏡映片Ⅱ",
+      "mst_chara_id": 250,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26401,
+      "name": "ワイルドタイガーの鏡映片Ⅰ",
+      "mst_chara_id": 264,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26402,
+      "name": "ワイルドタイガーの鏡映片Ⅱ",
+      "mst_chara_id": 264,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26501,
+      "name": "バーナビーの鏡映片Ⅰ",
+      "mst_chara_id": 265,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26502,
+      "name": "バーナビーの鏡映片Ⅱ",
+      "mst_chara_id": 265,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25901,
+      "name": "キサラの鏡映片Ⅰ",
+      "mst_chara_id": 259,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25902,
+      "name": "キサラの鏡映片Ⅱ",
+      "mst_chara_id": 259,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26001,
+      "name": "テュオハリムの鏡映片Ⅰ",
+      "mst_chara_id": 260,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26002,
+      "name": "テュオハリムの鏡映片Ⅱ",
+      "mst_chara_id": 260,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26801,
+      "name": "クルールの鏡映片Ⅰ",
+      "mst_chara_id": 268,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26802,
+      "name": "クルールの鏡映片Ⅱ",
+      "mst_chara_id": 268,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20201,
+      "name": "テレサの鏡映片Ⅰ",
+      "mst_chara_id": 202,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20202,
+      "name": "テレサの鏡映片Ⅱ",
+      "mst_chara_id": 202,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 103,
+      "name": "イクス/コーキスの鏡映片Ⅲ",
+      "mst_chara_id": 1,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 203,
+      "name": "ミリーナの鏡映片Ⅲ",
+      "mst_chara_id": 2,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 303,
+      "name": "クレスの鏡映片Ⅲ",
+      "mst_chara_id": 3,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 403,
+      "name": "チェスターの鏡映片Ⅲ",
+      "mst_chara_id": 4,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 503,
+      "name": "ルーティの鏡映片Ⅲ",
+      "mst_chara_id": 5,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 603,
+      "name": "リオンの鏡映片Ⅲ",
+      "mst_chara_id": 6,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 703,
+      "name": "メルディの鏡映片Ⅲ",
+      "mst_chara_id": 7,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 803,
+      "name": "キールの鏡映片Ⅲ",
+      "mst_chara_id": 8,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 903,
+      "name": "ロイドの鏡映片Ⅲ",
+      "mst_chara_id": 9,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1003,
+      "name": "コレットの鏡映片Ⅲ",
+      "mst_chara_id": 10,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1103,
+      "name": "リフィルの鏡映片Ⅲ",
+      "mst_chara_id": 11,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1203,
+      "name": "ヴェイグの鏡映片Ⅲ",
+      "mst_chara_id": 12,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1303,
+      "name": "ノーマの鏡映片Ⅲ",
+      "mst_chara_id": 13,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1403,
+      "name": "ルークの鏡映片Ⅲ",
+      "mst_chara_id": 14,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1503,
+      "name": "ジェイドの鏡映片Ⅲ",
+      "mst_chara_id": 15,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1603,
+      "name": "アニスの鏡映片Ⅲ",
+      "mst_chara_id": 16,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1703,
+      "name": "ルカの鏡映片Ⅲ",
+      "mst_chara_id": 17,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1803,
+      "name": "アンジュの鏡映片Ⅲ",
+      "mst_chara_id": 18,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 1903,
+      "name": "ユーリの鏡映片Ⅲ",
+      "mst_chara_id": 19,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2003,
+      "name": "ラピードの鏡映片Ⅲ",
+      "mst_chara_id": 20,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2103,
+      "name": "リタの鏡映片Ⅲ",
+      "mst_chara_id": 21,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2203,
+      "name": "コハクの鏡映片Ⅲ",
+      "mst_chara_id": 22,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2303,
+      "name": "ヒスイの鏡映片Ⅲ",
+      "mst_chara_id": 23,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2403,
+      "name": "アスベルの鏡映片Ⅲ",
+      "mst_chara_id": 24,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2503,
+      "name": "ソフィの鏡映片Ⅲ",
+      "mst_chara_id": 25,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2603,
+      "name": "パスカルの鏡映片Ⅲ",
+      "mst_chara_id": 26,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2703,
+      "name": "ジュードの鏡映片Ⅲ",
+      "mst_chara_id": 27,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2803,
+      "name": "ミラ=マクスウェルの鏡映片Ⅲ",
+      "mst_chara_id": 28,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 2903,
+      "name": "エリーゼの鏡映片Ⅲ",
+      "mst_chara_id": 29,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3003,
+      "name": "ルドガーの鏡映片Ⅲ",
+      "mst_chara_id": 30,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3103,
+      "name": "スレイの鏡映片Ⅲ",
+      "mst_chara_id": 31,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3203,
+      "name": "ミクリオの鏡映片Ⅲ",
+      "mst_chara_id": 32,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3303,
+      "name": "サラの鏡映片Ⅲ",
+      "mst_chara_id": 33,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3403,
+      "name": "マークの鏡映片Ⅲ",
+      "mst_chara_id": 34,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3503,
+      "name": "ティアの鏡映片Ⅲ",
+      "mst_chara_id": 35,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3603,
+      "name": "エドナの鏡映片Ⅲ",
+      "mst_chara_id": 36,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3703,
+      "name": "ベルベットの鏡映片Ⅲ",
+      "mst_chara_id": 37,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3803,
+      "name": "ライフィセットの鏡映片Ⅲ",
+      "mst_chara_id": 38,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 3903,
+      "name": "シェリアの鏡映片Ⅲ",
+      "mst_chara_id": 39,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4003,
+      "name": "リッドの鏡映片Ⅲ",
+      "mst_chara_id": 40,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4103,
+      "name": "ファラの鏡映片Ⅲ",
+      "mst_chara_id": 41,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4203,
+      "name": "レイヴンの鏡映片Ⅲ",
+      "mst_chara_id": 42,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4303,
+      "name": "スタンの鏡映片Ⅲ",
+      "mst_chara_id": 43,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4403,
+      "name": "ゼロスの鏡映片Ⅲ",
+      "mst_chara_id": 44,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4503,
+      "name": "ナタリアの鏡映片Ⅲ",
+      "mst_chara_id": 45,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4603,
+      "name": "カイルの鏡映片Ⅲ",
+      "mst_chara_id": 46,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4703,
+      "name": "リアラの鏡映片Ⅲ",
+      "mst_chara_id": 47,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4803,
+      "name": "カノンノ・Eの鏡映片Ⅲ",
+      "mst_chara_id": 48,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 4903,
+      "name": "アルヴィンの鏡映片Ⅲ",
+      "mst_chara_id": 49,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5003,
+      "name": "アリーシャの鏡映片Ⅲ",
+      "mst_chara_id": 50,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5103,
+      "name": "イリアの鏡映片Ⅲ",
+      "mst_chara_id": 51,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5203,
+      "name": "エステルの鏡映片Ⅲ",
+      "mst_chara_id": 52,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5303,
+      "name": "リチャードの鏡映片Ⅲ",
+      "mst_chara_id": 53,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5403,
+      "name": "アッシュの鏡映片Ⅲ",
+      "mst_chara_id": 54,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5503,
+      "name": "セネルの鏡映片Ⅲ",
+      "mst_chara_id": 55,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5603,
+      "name": "ガイの鏡映片Ⅲ",
+      "mst_chara_id": 56,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5703,
+      "name": "ジューダスの鏡映片Ⅲ",
+      "mst_chara_id": 57,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5803,
+      "name": "シングの鏡映片Ⅲ",
+      "mst_chara_id": 58,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 5903,
+      "name": "ユリウスの鏡映片Ⅲ",
+      "mst_chara_id": 59,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6003,
+      "name": "アイゼンの鏡映片Ⅲ",
+      "mst_chara_id": 60,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6103,
+      "name": "ザビーダの鏡映片Ⅲ",
+      "mst_chara_id": 61,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6203,
+      "name": "カイウスの鏡映片Ⅲ",
+      "mst_chara_id": 62,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6303,
+      "name": "ルビアの鏡映片Ⅲ",
+      "mst_chara_id": 63,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6403,
+      "name": "ティトレイの鏡映片Ⅲ",
+      "mst_chara_id": 64,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6503,
+      "name": "ヴァンの鏡映片Ⅲ",
+      "mst_chara_id": 65,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6603,
+      "name": "バルバトスの鏡映片Ⅲ",
+      "mst_chara_id": 66,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6703,
+      "name": "ミトスの鏡映片Ⅲ",
+      "mst_chara_id": 67,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6803,
+      "name": "リヒターの鏡映片Ⅲ",
+      "mst_chara_id": 68,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 6903,
+      "name": "ディストの鏡映片Ⅲ",
+      "mst_chara_id": 69,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7003,
+      "name": "コンウェイの鏡映片Ⅲ",
+      "mst_chara_id": 70,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7103,
+      "name": "エミルの鏡映片Ⅲ",
+      "mst_chara_id": 71,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7203,
+      "name": "マルタの鏡映片Ⅲ",
+      "mst_chara_id": 72,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7303,
+      "name": "ミントの鏡映片Ⅲ",
+      "mst_chara_id": 73,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7403,
+      "name": "アーチェの鏡映片Ⅲ",
+      "mst_chara_id": 74,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7503,
+      "name": "フレンの鏡映片Ⅲ",
+      "mst_chara_id": 75,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7603,
+      "name": "ヒューバートの鏡映片Ⅲ",
+      "mst_chara_id": 76,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7703,
+      "name": "ロゼの鏡映片Ⅲ",
+      "mst_chara_id": 77,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7803,
+      "name": "デゼルの鏡映片Ⅲ",
+      "mst_chara_id": 78,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 7903,
+      "name": "ダオスの鏡映片Ⅲ",
+      "mst_chara_id": 79,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8003,
+      "name": "シンクの鏡映片Ⅲ",
+      "mst_chara_id": 80,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8103,
+      "name": "ロクロウの鏡映片Ⅲ",
+      "mst_chara_id": 81,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8203,
+      "name": "マギルゥの鏡映片Ⅲ",
+      "mst_chara_id": 82,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8303,
+      "name": "エレノアの鏡映片Ⅲ",
+      "mst_chara_id": 83,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8503,
+      "name": "クラースの鏡映片Ⅲ",
+      "mst_chara_id": 85,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8603,
+      "name": "レイアの鏡映片Ⅲ",
+      "mst_chara_id": 86,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8703,
+      "name": "天海春香の鏡映片Ⅲ",
+      "mst_chara_id": 87,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 8903,
+      "name": "カナの鏡映片Ⅲ",
+      "mst_chara_id": 89,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9003,
+      "name": "アレンの鏡映片Ⅲ",
+      "mst_chara_id": 90,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9103,
+      "name": "ゼファーの鏡映片Ⅲ",
+      "mst_chara_id": 91,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9303,
+      "name": "クラトスの鏡映片Ⅲ",
+      "mst_chara_id": 93,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9403,
+      "name": "カロルの鏡映片Ⅲ",
+      "mst_chara_id": 94,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9503,
+      "name": "ジョニーの鏡映片Ⅲ",
+      "mst_chara_id": 95,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9603,
+      "name": "リーガルの鏡映片Ⅲ",
+      "mst_chara_id": 96,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9703,
+      "name": "ローエンの鏡映片Ⅲ",
+      "mst_chara_id": 97,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9803,
+      "name": "P・カノンノの鏡映片Ⅲ",
+      "mst_chara_id": 98,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 9903,
+      "name": "セルシウスの鏡映片Ⅲ",
+      "mst_chara_id": 99,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10003,
+      "name": "ロンドリーネの鏡映片Ⅲ",
+      "mst_chara_id": 100,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10103,
+      "name": "レナス・Fの鏡映片Ⅲ",
+      "mst_chara_id": 101,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10203,
+      "name": "ガイアスの鏡映片Ⅲ",
+      "mst_chara_id": 102,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10303,
+      "name": "ミュゼの鏡映片Ⅲ",
+      "mst_chara_id": 103,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10403,
+      "name": "ジュディスの鏡映片Ⅲ",
+      "mst_chara_id": 104,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10503,
+      "name": "シャーリィの鏡映片Ⅲ",
+      "mst_chara_id": 105,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10603,
+      "name": "スパーダの鏡映片Ⅲ",
+      "mst_chara_id": 106,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10703,
+      "name": "ライラの鏡映片Ⅲ",
+      "mst_chara_id": 107,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10803,
+      "name": "ナーザの鏡映片Ⅲ",
+      "mst_chara_id": 108,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 10903,
+      "name": "キリトの鏡映片Ⅲ",
+      "mst_chara_id": 109,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11003,
+      "name": "アスナの鏡映片Ⅲ",
+      "mst_chara_id": 110,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11103,
+      "name": "カノンノ・Gの鏡映片Ⅲ",
+      "mst_chara_id": 111,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11203,
+      "name": "ハロルドの鏡映片Ⅲ",
+      "mst_chara_id": 112,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11303,
+      "name": "ディムロスの鏡映片Ⅲ",
+      "mst_chara_id": 113,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11403,
+      "name": "サレの鏡映片Ⅲ",
+      "mst_chara_id": 114,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11503,
+      "name": "ミラの鏡映片Ⅲ",
+      "mst_chara_id": 115,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11603,
+      "name": "しいなの鏡映片Ⅲ",
+      "mst_chara_id": 116,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11703,
+      "name": "アグリアの鏡映片Ⅲ",
+      "mst_chara_id": 117,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11803,
+      "name": "クロエの鏡映片Ⅲ",
+      "mst_chara_id": 118,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 11903,
+      "name": "ダークかめにんの鏡映片Ⅲ",
+      "mst_chara_id": 119,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12103,
+      "name": "ヒルダの鏡映片Ⅲ",
+      "mst_chara_id": 121,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12503,
+      "name": "アトワイトの鏡映片Ⅲ",
+      "mst_chara_id": 125,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12603,
+      "name": "シャルティエの鏡映片Ⅲ",
+      "mst_chara_id": 126,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12803,
+      "name": "ジーニアスの鏡映片Ⅲ",
+      "mst_chara_id": 128,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 12903,
+      "name": "プレセアの鏡映片Ⅲ",
+      "mst_chara_id": 129,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13003,
+      "name": "島村　卯月の鏡映片Ⅲ",
+      "mst_chara_id": 130,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13103,
+      "name": "神崎　蘭子の鏡映片Ⅲ",
+      "mst_chara_id": 131,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13203,
+      "name": "ルキウスの鏡映片Ⅲ",
+      "mst_chara_id": 132,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13303,
+      "name": "すずの鏡映片Ⅲ",
+      "mst_chara_id": 133,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13403,
+      "name": "ロニの鏡映片Ⅲ",
+      "mst_chara_id": 134,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13503,
+      "name": "ナナリーの鏡映片Ⅲ",
+      "mst_chara_id": 135,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13603,
+      "name": "リムルの鏡映片Ⅲ",
+      "mst_chara_id": 136,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13703,
+      "name": "デュークの鏡映片Ⅲ",
+      "mst_chara_id": 137,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13803,
+      "name": "ヴィクトルの鏡映片Ⅲ",
+      "mst_chara_id": 138,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 13903,
+      "name": "メルクリアの鏡映片Ⅲ",
+      "mst_chara_id": 139,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14003,
+      "name": "フェニックスの鏡映片Ⅲ",
+      "mst_chara_id": 140,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14103,
+      "name": "アリサ(GEREO)の鏡映片Ⅲ",
+      "mst_chara_id": 141,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14203,
+      "name": "クレア(GE3)の鏡映片Ⅲ",
+      "mst_chara_id": 142,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14303,
+      "name": "エルレインの鏡映片Ⅲ",
+      "mst_chara_id": 143,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14403,
+      "name": "フレイの鏡映片Ⅲ",
+      "mst_chara_id": 144,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14503,
+      "name": "マリクの鏡映片Ⅲ",
+      "mst_chara_id": 145,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14603,
+      "name": "クロードの鏡映片Ⅲ",
+      "mst_chara_id": 146,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14703,
+      "name": "レナの鏡映片Ⅲ",
+      "mst_chara_id": 147,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 14903,
+      "name": "ベリルの鏡映片Ⅲ",
+      "mst_chara_id": 149,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15203,
+      "name": "アニーの鏡映片Ⅲ",
+      "mst_chara_id": 152,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15303,
+      "name": "クンツァイトの鏡映片Ⅲ",
+      "mst_chara_id": 153,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15403,
+      "name": "リチアの鏡映片Ⅲ",
+      "mst_chara_id": 154,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15503,
+      "name": "デクスの鏡映片Ⅲ",
+      "mst_chara_id": 155,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15603,
+      "name": "コーキスの鏡映片Ⅲ",
+      "mst_chara_id": 156,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15703,
+      "name": "クリードの鏡映片Ⅲ",
+      "mst_chara_id": 157,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15803,
+      "name": "チャットの鏡映片Ⅲ",
+      "mst_chara_id": 158,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 15903,
+      "name": "パティの鏡映片Ⅲ",
+      "mst_chara_id": 159,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16003,
+      "name": "グリューネの鏡映片Ⅲ",
+      "mst_chara_id": 160,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16203,
+      "name": "フィリアの鏡映片Ⅲ",
+      "mst_chara_id": 162,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16303,
+      "name": "ウッドロウの鏡映片Ⅲ",
+      "mst_chara_id": 163,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16503,
+      "name": "ユージーンの鏡映片Ⅲ",
+      "mst_chara_id": 165,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16603,
+      "name": "マオの鏡映片Ⅲ",
+      "mst_chara_id": 166,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16703,
+      "name": "ラザリスの鏡映片Ⅲ",
+      "mst_chara_id": 167,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16803,
+      "name": "ディオの鏡映片Ⅲ",
+      "mst_chara_id": 168,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 16903,
+      "name": "メルの鏡映片Ⅲ",
+      "mst_chara_id": 169,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17003,
+      "name": "ティルキスの鏡映片Ⅲ",
+      "mst_chara_id": 170,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17103,
+      "name": "シゼルの鏡映片Ⅲ",
+      "mst_chara_id": 171,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17203,
+      "name": "アーリアの鏡映片Ⅲ",
+      "mst_chara_id": 172,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17303,
+      "name": "リッピの鏡映片Ⅲ",
+      "mst_chara_id": 173,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17503,
+      "name": "カーリャ・Nの鏡映片Ⅲ",
+      "mst_chara_id": 175,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17603,
+      "name": "アリエッタの鏡映片Ⅲ",
+      "mst_chara_id": 176,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17803,
+      "name": "コングマンの鏡映片Ⅲ",
+      "mst_chara_id": 178,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 17903,
+      "name": "リリスの鏡映片Ⅲ",
+      "mst_chara_id": 179,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18003,
+      "name": "マーテルの鏡映片Ⅲ",
+      "mst_chara_id": 180,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18103,
+      "name": "ユアンの鏡映片Ⅲ",
+      "mst_chara_id": 181,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18203,
+      "name": "アリスの鏡映片Ⅲ",
+      "mst_chara_id": 182,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18303,
+      "name": "イオンの鏡映片Ⅲ",
+      "mst_chara_id": 183,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18403,
+      "name": "リトルクイーンの鏡映片Ⅲ",
+      "mst_chara_id": 184,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18703,
+      "name": "坂田銀時の鏡映片Ⅲ",
+      "mst_chara_id": 187,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18803,
+      "name": "神楽の鏡映片Ⅲ",
+      "mst_chara_id": 188,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 18903,
+      "name": "土方十四郎の鏡映片Ⅲ",
+      "mst_chara_id": 189,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19003,
+      "name": "沖田総悟の鏡映片Ⅲ",
+      "mst_chara_id": 190,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19103,
+      "name": "フィリーネ(GEREO)の鏡映片Ⅲ",
+      "mst_chara_id": 191,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19303,
+      "name": "マリーの鏡映片Ⅲ",
+      "mst_chara_id": 193,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19403,
+      "name": "モーゼスの鏡映片Ⅲ",
+      "mst_chara_id": 194,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19503,
+      "name": "ジェイの鏡映片Ⅲ",
+      "mst_chara_id": 195,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19703,
+      "name": "キュキュの鏡映片Ⅲ",
+      "mst_chara_id": 197,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19803,
+      "name": "イネスの鏡映片Ⅲ",
+      "mst_chara_id": 198,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 19903,
+      "name": "ガラドの鏡映片Ⅲ",
+      "mst_chara_id": 199,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20003,
+      "name": "シグレの鏡映片Ⅲ",
+      "mst_chara_id": 200,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20203,
+      "name": "テレサの鏡映片Ⅲ",
+      "mst_chara_id": 202,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20403,
+      "name": "双葉 杏の鏡映片Ⅲ",
+      "mst_chara_id": 204,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20503,
+      "name": "諸星　きらりの鏡映片Ⅲ",
+      "mst_chara_id": 205,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20603,
+      "name": "リカルドの鏡映片Ⅲ",
+      "mst_chara_id": 206,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20703,
+      "name": "サイモンの鏡映片Ⅲ",
+      "mst_chara_id": 207,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20803,
+      "name": "ウィルの鏡映片Ⅲ",
+      "mst_chara_id": 208,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20903,
+      "name": "チェルシーの鏡映片Ⅲ",
+      "mst_chara_id": 209,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21003,
+      "name": "フォッグの鏡映片Ⅲ",
+      "mst_chara_id": 210,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21103,
+      "name": "レイスの鏡映片Ⅲ",
+      "mst_chara_id": 211,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21203,
+      "name": "カルセドニーの鏡映片Ⅲ",
+      "mst_chara_id": 212,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21303,
+      "name": "イバルの鏡映片Ⅲ",
+      "mst_chara_id": 213,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21403,
+      "name": "リナの鏡映片Ⅲ",
+      "mst_chara_id": 214,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21503,
+      "name": "ガウリイの鏡映片Ⅲ",
+      "mst_chara_id": 215,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21603,
+      "name": "ゼルガディスの鏡映片Ⅲ",
+      "mst_chara_id": 216,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 21703,
+      "name": "アメリアの鏡映片Ⅲ",
+      "mst_chara_id": 217,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22003,
+      "name": "ハセヲの鏡映片Ⅲ",
+      "mst_chara_id": 220,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22103,
+      "name": "アトリの鏡映片Ⅲ",
+      "mst_chara_id": 221,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22203,
+      "name": "ワルターの鏡映片Ⅲ",
+      "mst_chara_id": 222,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22403,
+      "name": "フォレストの鏡映片Ⅲ",
+      "mst_chara_id": 224,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22503,
+      "name": "エルマーナの鏡映片Ⅲ",
+      "mst_chara_id": 225,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22703,
+      "name": "アレクセイの鏡映片Ⅲ",
+      "mst_chara_id": 227,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22803,
+      "name": "ベルの鏡映片Ⅲ",
+      "mst_chara_id": 228,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22903,
+      "name": "アイズの鏡映片Ⅲ",
+      "mst_chara_id": 229,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23003,
+      "name": "バルドの鏡映片Ⅲ",
+      "mst_chara_id": 230,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23303,
+      "name": "アルトリウスの鏡映片Ⅲ",
+      "mst_chara_id": 233,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23503,
+      "name": "アスタの鏡映片Ⅲ",
+      "mst_chara_id": 235,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23603,
+      "name": "ユノの鏡映片Ⅲ",
+      "mst_chara_id": 236,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23703,
+      "name": "ヤミの鏡映片Ⅲ",
+      "mst_chara_id": 237,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23803,
+      "name": "シャーロットの鏡映片Ⅲ",
+      "mst_chara_id": 238,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 23903,
+      "name": "リグレットの鏡映片Ⅲ",
+      "mst_chara_id": 239,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24103,
+      "name": "イエガーの鏡映片Ⅲ",
+      "mst_chara_id": 241,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24203,
+      "name": "ゴーシュの鏡映片Ⅲ",
+      "mst_chara_id": 242,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24303,
+      "name": "ドロワットの鏡映片Ⅲ",
+      "mst_chara_id": 243,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24803,
+      "name": "ピオニーの鏡映片Ⅲ",
+      "mst_chara_id": 248,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25003,
+      "name": "モリスンの鏡映片Ⅲ",
+      "mst_chara_id": 250,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25103,
+      "name": "ソルの鏡映片Ⅲ",
+      "mst_chara_id": 251,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25203,
+      "name": "ラムレザルの鏡映片Ⅲ",
+      "mst_chara_id": 252,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25303,
+      "name": "アルフェンの鏡映片Ⅲ",
+      "mst_chara_id": 253,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25403,
+      "name": "シオンの鏡映片Ⅲ",
+      "mst_chara_id": 254,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25503,
+      "name": "ヘルダルフの鏡映片Ⅲ",
+      "mst_chara_id": 255,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25703,
+      "name": "リンウェルの鏡映片Ⅲ",
+      "mst_chara_id": 257,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25803,
+      "name": "ロウの鏡映片Ⅲ",
+      "mst_chara_id": 258,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 25903,
+      "name": "キサラの鏡映片Ⅲ",
+      "mst_chara_id": 259,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26003,
+      "name": "テュオハリムの鏡映片Ⅲ",
+      "mst_chara_id": 260,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26403,
+      "name": "ワイルドタイガーの鏡映片Ⅲ",
+      "mst_chara_id": 264,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26503,
+      "name": "バーナビーの鏡映片Ⅲ",
+      "mst_chara_id": 265,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26803,
+      "name": "クルールの鏡映片Ⅲ",
+      "mst_chara_id": 268,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26903,
+      "name": "ニケの鏡映片Ⅲ",
+      "mst_chara_id": 269,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27003,
+      "name": "ククリの鏡映片Ⅲ",
+      "mst_chara_id": 270,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26901,
+      "name": "ニケの鏡映片Ⅰ",
+      "mst_chara_id": 269,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 26902,
+      "name": "ニケの鏡映片Ⅱ",
+      "mst_chara_id": 269,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27001,
+      "name": "ククリの鏡映片Ⅰ",
+      "mst_chara_id": 270,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27002,
+      "name": "ククリの鏡映片Ⅱ",
+      "mst_chara_id": 270,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27101,
+      "name": "フィリップの鏡映片Ⅰ",
+      "mst_chara_id": 271,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27102,
+      "name": "フィリップの鏡映片Ⅱ",
+      "mst_chara_id": 271,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27103,
+      "name": "フィリップの鏡映片Ⅲ",
+      "mst_chara_id": 271,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22601,
+      "name": "ミクトランの鏡映片Ⅰ",
+      "mst_chara_id": 226,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22602,
+      "name": "ミクトランの鏡映片Ⅱ",
+      "mst_chara_id": 226,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 22603,
+      "name": "ミクトランの鏡映片Ⅲ",
+      "mst_chara_id": 226,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27501,
+      "name": "桂の鏡映片Ⅰ",
+      "mst_chara_id": 275,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27502,
+      "name": "桂の鏡映片Ⅱ",
+      "mst_chara_id": 275,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27503,
+      "name": "桂の鏡映片Ⅲ",
+      "mst_chara_id": 275,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27601,
+      "name": "高杉の鏡映片Ⅰ",
+      "mst_chara_id": 276,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27602,
+      "name": "高杉の鏡映片Ⅱ",
+      "mst_chara_id": 276,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27603,
+      "name": "高杉の鏡映片Ⅲ",
+      "mst_chara_id": 276,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27701,
+      "name": "オリエの鏡映片Ⅰ",
+      "mst_chara_id": 277,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27702,
+      "name": "オリエの鏡映片Ⅱ",
+      "mst_chara_id": 277,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27703,
+      "name": "オリエの鏡映片Ⅲ",
+      "mst_chara_id": 277,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20101,
+      "name": "オスカーの鏡映片Ⅰ",
+      "mst_chara_id": 201,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20102,
+      "name": "オスカーの鏡映片Ⅱ",
+      "mst_chara_id": 201,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 20103,
+      "name": "オスカーの鏡映片Ⅲ",
+      "mst_chara_id": 201,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28201,
+      "name": "カナタの鏡映片Ⅰ",
+      "mst_chara_id": 282,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28202,
+      "name": "カナタの鏡映片Ⅱ",
+      "mst_chara_id": 282,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28203,
+      "name": "カナタの鏡映片Ⅲ",
+      "mst_chara_id": 282,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28301,
+      "name": "ミゼラの鏡映片Ⅰ",
+      "mst_chara_id": 283,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28302,
+      "name": "ミゼラの鏡映片Ⅱ",
+      "mst_chara_id": 283,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28303,
+      "name": "ミゼラの鏡映片Ⅲ",
+      "mst_chara_id": 283,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27201,
+      "name": "マティウスの鏡映片Ⅰ",
+      "mst_chara_id": 272,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27202,
+      "name": "マティウスの鏡映片Ⅱ",
+      "mst_chara_id": 272,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 27203,
+      "name": "マティウスの鏡映片Ⅲ",
+      "mst_chara_id": 272,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28901,
+      "name": "アリス(SAO)の鏡映片Ⅰ",
+      "mst_chara_id": 289,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28902,
+      "name": "アリス(SAO)の鏡映片Ⅱ",
+      "mst_chara_id": 289,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28903,
+      "name": "アリス(SAO)の鏡映片Ⅲ",
+      "mst_chara_id": 289,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28801,
+      "name": "ユージオの鏡映片Ⅰ",
+      "mst_chara_id": 288,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28802,
+      "name": "ユージオの鏡映片Ⅱ",
+      "mst_chara_id": 288,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28803,
+      "name": "ユージオの鏡映片Ⅲ",
+      "mst_chara_id": 288,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29401,
+      "name": "ビズリーの鏡映片Ⅰ",
+      "mst_chara_id": 294,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29402,
+      "name": "ビズリーの鏡映片Ⅱ",
+      "mst_chara_id": 294,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29403,
+      "name": "ビズリーの鏡映片Ⅲ",
+      "mst_chara_id": 294,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29601,
+      "name": "白蛇のナーガの鏡映片Ⅰ",
+      "mst_chara_id": 296,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29602,
+      "name": "白蛇のナーガの鏡映片Ⅱ",
+      "mst_chara_id": 296,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29603,
+      "name": "白蛇のナーガの鏡映片Ⅲ",
+      "mst_chara_id": 296,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29901,
+      "name": "セレスの鏡映片Ⅰ",
+      "mst_chara_id": 299,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29902,
+      "name": "セレスの鏡映片Ⅱ",
+      "mst_chara_id": 299,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29903,
+      "name": "セレスの鏡映片Ⅲ",
+      "mst_chara_id": 299,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29701,
+      "name": "カーレルの鏡映片Ⅰ",
+      "mst_chara_id": 297,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29702,
+      "name": "カーレルの鏡映片Ⅱ",
+      "mst_chara_id": 297,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29703,
+      "name": "カーレルの鏡映片Ⅲ",
+      "mst_chara_id": 297,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30001,
+      "name": "カサネの鏡映片Ⅰ",
+      "mst_chara_id": 300,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30002,
+      "name": "カサネの鏡映片Ⅱ",
+      "mst_chara_id": 300,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30003,
+      "name": "カサネの鏡映片Ⅲ",
+      "mst_chara_id": 300,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30101,
+      "name": "コダマの鏡映片Ⅰ",
+      "mst_chara_id": 301,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30102,
+      "name": "コダマの鏡映片Ⅱ",
+      "mst_chara_id": 301,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30103,
+      "name": "コダマの鏡映片Ⅲ",
+      "mst_chara_id": 301,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30201,
+      "name": "ヘイズの鏡映片Ⅰ",
+      "mst_chara_id": 302,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30202,
+      "name": "ヘイズの鏡映片Ⅱ",
+      "mst_chara_id": 302,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30203,
+      "name": "ヘイズの鏡映片Ⅲ",
+      "mst_chara_id": 302,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30301,
+      "name": "セイリオスの鏡映片Ⅰ",
+      "mst_chara_id": 303,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30302,
+      "name": "セイリオスの鏡映片Ⅱ",
+      "mst_chara_id": 303,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30303,
+      "name": "セイリオスの鏡映片Ⅲ",
+      "mst_chara_id": 303,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30401,
+      "name": "バルド・ミストルテンの鏡映片Ⅰ",
+      "mst_chara_id": 304,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30402,
+      "name": "バルド・ミストルテンの鏡映片Ⅱ",
+      "mst_chara_id": 304,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30403,
+      "name": "バルド・ミストルテンの鏡映片Ⅲ",
+      "mst_chara_id": 304,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29501,
+      "name": "ヨウ・ビクエの鏡映片Ⅰ",
+      "mst_chara_id": 295,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29502,
+      "name": "ヨウ・ビクエの鏡映片Ⅱ",
+      "mst_chara_id": 295,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 29503,
+      "name": "ヨウ・ビクエの鏡映片Ⅲ",
+      "mst_chara_id": 295,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30601,
+      "name": "アイリスの鏡映片Ⅰ",
+      "mst_chara_id": 306,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30602,
+      "name": "アイリスの鏡映片Ⅱ",
+      "mst_chara_id": 306,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30603,
+      "name": "アイリスの鏡映片Ⅲ",
+      "mst_chara_id": 306,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31001,
+      "name": "カイの鏡映片Ⅰ",
+      "mst_chara_id": 310,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31002,
+      "name": "カイの鏡映片Ⅱ",
+      "mst_chara_id": 310,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31003,
+      "name": "カイの鏡映片Ⅲ",
+      "mst_chara_id": 310,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31101,
+      "name": "ブリジットの鏡映片Ⅰ",
+      "mst_chara_id": 311,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31102,
+      "name": "ブリジットの鏡映片Ⅱ",
+      "mst_chara_id": 311,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31103,
+      "name": "ブリジットの鏡映片Ⅲ",
+      "mst_chara_id": 311,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30501,
+      "name": "リワンナの鏡映片Ⅰ",
+      "mst_chara_id": 305,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30502,
+      "name": "リワンナの鏡映片Ⅱ",
+      "mst_chara_id": 305,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30503,
+      "name": "リワンナの鏡映片Ⅲ",
+      "mst_chara_id": 305,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31301,
+      "name": "ケロロの鏡映片Ⅰ",
+      "mst_chara_id": 313,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31302,
+      "name": "ケロロの鏡映片Ⅱ",
+      "mst_chara_id": 313,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31303,
+      "name": "ケロロの鏡映片Ⅲ",
+      "mst_chara_id": 313,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31401,
+      "name": "日向 夏美の鏡映片Ⅰ",
+      "mst_chara_id": 314,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31402,
+      "name": "日向 夏美の鏡映片Ⅱ",
+      "mst_chara_id": 314,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31403,
+      "name": "日向 夏美の鏡映片Ⅲ",
+      "mst_chara_id": 314,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28401,
+      "name": "ヴィシャスの鏡映片Ⅰ",
+      "mst_chara_id": 284,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28402,
+      "name": "ヴィシャスの鏡映片Ⅱ",
+      "mst_chara_id": 284,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28403,
+      "name": "ヴィシャスの鏡映片Ⅲ",
+      "mst_chara_id": 284,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28501,
+      "name": "イージスの鏡映片Ⅰ",
+      "mst_chara_id": 285,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28502,
+      "name": "イージスの鏡映片Ⅱ",
+      "mst_chara_id": 285,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28503,
+      "name": "イージスの鏡映片Ⅲ",
+      "mst_chara_id": 285,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31201,
+      "name": "アガーテの鏡映片Ⅰ",
+      "mst_chara_id": 312,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31202,
+      "name": "アガーテの鏡映片Ⅱ",
+      "mst_chara_id": 312,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31203,
+      "name": "アガーテの鏡映片Ⅲ",
+      "mst_chara_id": 312,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31501,
+      "name": "ジルファの鏡映片Ⅰ",
+      "mst_chara_id": 315,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31502,
+      "name": "ジルファの鏡映片Ⅱ",
+      "mst_chara_id": 315,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31503,
+      "name": "ジルファの鏡映片Ⅲ",
+      "mst_chara_id": 315,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31801,
+      "name": "ナザミルの鏡映片Ⅰ",
+      "mst_chara_id": 318,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31802,
+      "name": "ナザミルの鏡映片Ⅱ",
+      "mst_chara_id": 318,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31803,
+      "name": "ナザミルの鏡映片Ⅲ",
+      "mst_chara_id": 318,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31901,
+      "name": "KOS-MOSの鏡映片Ⅰ",
+      "mst_chara_id": 319,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31902,
+      "name": "KOS-MOSの鏡映片Ⅱ",
+      "mst_chara_id": 319,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 31903,
+      "name": "KOS-MOSの鏡映片Ⅲ",
+      "mst_chara_id": 319,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24001,
+      "name": "インカローズの鏡映片Ⅰ",
+      "mst_chara_id": 240,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24002,
+      "name": "インカローズの鏡映片Ⅱ",
+      "mst_chara_id": 240,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 24003,
+      "name": "インカローズの鏡映片Ⅲ",
+      "mst_chara_id": 240,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30701,
+      "name": "エルナトの鏡映片Ⅰ",
+      "mst_chara_id": 307,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30702,
+      "name": "エルナトの鏡映片Ⅱ",
+      "mst_chara_id": 307,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 30703,
+      "name": "エルナトの鏡映片Ⅲ",
+      "mst_chara_id": 307,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28601,
+      "name": "ユナの鏡映片Ⅰ",
+      "mst_chara_id": 286,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28602,
+      "name": "ユナの鏡映片Ⅱ",
+      "mst_chara_id": 286,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 28603,
+      "name": "ユナの鏡映片Ⅲ",
+      "mst_chara_id": 286,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 32101,
+      "name": "エル(アスタリア)の鏡映片Ⅰ",
+      "mst_chara_id": 321,
+      "limit_break_phase": 1,
+      "flavorText": "Lv50を限界突破してLv60までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 32102,
+      "name": "エル(アスタリア)の鏡映片Ⅱ",
+      "mst_chara_id": 321,
+      "limit_break_phase": 2,
+      "flavorText": "Lv60を限界突破してLv70までレベル上限を上げる事ができる。鏡映の欠片。"
+    },
+    {
+      "id": 32103,
+      "name": "エル(アスタリア)の鏡映片Ⅲ",
+      "mst_chara_id": 321,
+      "limit_break_phase": 3,
+      "flavorText": "Lv70を限界突破してLv80までレベル上限を上げる事ができる。鏡映の欠片。"
+    }
+  ]
+}

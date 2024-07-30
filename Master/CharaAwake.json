@@ -1,0 +1,19 @@
+{
+  "xhash": "",
+  "mst_chara_awake_phases": [
+    {
+      "id": 1,
+      "awake_phase": 1,
+      "hp_up_point": 500,
+      "mst_chara_awake_material_id": 101,
+      "material_num": 5
+    }
+  ],
+  "mst_chara_awake_materials": [
+    {
+      "id": 101,
+      "name": "目醒めの雫",
+      "flavorText": "秘めたる力を引き出す不思議な雫。"
+    }
+  ]
+}

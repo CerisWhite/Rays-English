@@ -1,0 +1,184 @@
+{
+  "xhash": "",
+  "mst_room_login_bonuses": [
+    {
+      "id": 1,
+      "start_date": "2020-01-17T05:00:00.0000000Z",
+      "end_date": "2020-07-22T19:59:59.0000000Z"
+    },
+    {
+      "id": 200723,
+      "start_date": "2020-07-22T20:00:00.0000000Z",
+      "end_date": "2020-07-31T19:59:59.0000000Z"
+    },
+    {
+      "id": 100002,
+      "start_date": "2020-07-31T20:00:00.0000000Z",
+      "end_date": "2030-01-30T04:59:59.0000000Z"
+    }
+  ],
+  "mst_room_login_bonus_settings": [
+    {
+      "id": 1,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 1,
+      "name": "10万ガルド",
+      "item_frame_effect": false
+    },
+    {
+      "id": 2,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 2,
+      "name": "キラル超結晶(中) ５個",
+      "item_frame_effect": false
+    },
+    {
+      "id": 3,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 3,
+      "name": "ギフト（大）",
+      "item_frame_effect": true
+    },
+    {
+      "id": 4,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 4,
+      "name": "10万ガルド",
+      "item_frame_effect": false
+    },
+    {
+      "id": 5,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 5,
+      "name": "精鏡晶 ３個",
+      "item_frame_effect": false
+    },
+    {
+      "id": 6,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 6,
+      "name": "ギフト（中）",
+      "item_frame_effect": false
+    },
+    {
+      "id": 7,
+      "mst_room_login_bonus_id": 1,
+      "step_count": 7,
+      "name": "プリズム 50個",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007231,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 1,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007232,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 2,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007233,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 3,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007234,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 4,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007235,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 5,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007236,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 6,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 2007237,
+      "mst_room_login_bonus_id": 200723,
+      "step_count": 7,
+      "name": "レイズフェス記念セット",
+      "item_frame_effect": true
+    },
+    {
+      "id": 1000021,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 1,
+      "name": "10万ガルド",
+      "item_frame_effect": false
+    },
+    {
+      "id": 1000022,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 2,
+      "name": "キラル粒子 30000個",
+      "item_frame_effect": false
+    },
+    {
+      "id": 1000023,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 3,
+      "name": "ギフト（大）",
+      "item_frame_effect": true
+    },
+    {
+      "id": 1000024,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 4,
+      "name": "10万ガルド",
+      "item_frame_effect": false
+    },
+    {
+      "id": 1000025,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 5,
+      "name": "精鏡晶 ３個",
+      "item_frame_effect": false
+    },
+    {
+      "id": 1000026,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 6,
+      "name": "ギフト（中）",
+      "item_frame_effect": false
+    },
+    {
+      "id": 1000027,
+      "mst_room_login_bonus_id": 100002,
+      "step_count": 7,
+      "name": "プリズム 50個",
+      "item_frame_effect": true
+    }
+  ],
+  "mst_friend_room_login_bonuses": [
+    {
+      "id": 1,
+      "max_count": 5,
+      "start_date": "2020-01-17T05:00:00.0000000Z",
+      "end_date": "2030-01-30T04:59:59.0000000Z"
+    }
+  ],
+  "mst_friend_room_login_bonus_settings": [
+    {
+      "id": 1,
+      "mst_friend_room_login_bonus_id": 1,
+      "name": "一輪の花"
+    }
+  ]
+}

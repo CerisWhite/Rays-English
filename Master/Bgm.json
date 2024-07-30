@@ -1,0 +1,1058 @@
+{
+  "xhash": "",
+  "mst_bgms": [
+    {
+      "id": 104001,
+      "name": "GLITTERS JOURNEY",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "MAP_Rays_001",
+      "description": ""
+    },
+    {
+      "id": 103001,
+      "name": "FAKE TO THE TRUTH",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "BAT_Rays_001",
+      "description": ""
+    },
+    {
+      "id": 103003,
+      "name": "BROKEN GLASS",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "BOS_Rays_001",
+      "description": ""
+    },
+    {
+      "id": 103004,
+      "name": "HER EMPTYNESS",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "gefion_in_game_LOOP",
+      "description": ""
+    },
+    {
+      "id": 103005,
+      "name": "CRADLE OF CRYSTAL (intro)",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "Mark_Loop_IntroAri",
+      "description": ""
+    },
+    {
+      "id": 103006,
+      "name": "CRADLE OF CRYSTAL (battle)",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "Mark_Loop_IntroNashi",
+      "description": ""
+    },
+    {
+      "id": 103007,
+      "name": "VICTORY!",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays",
+      "cue_name": "RES_Rays_001",
+      "description": ""
+    },
+    {
+      "id": 103008,
+      "name": "FOCUS WARFARE",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "TOWER_BGM",
+      "cue_name": "TOWER_001",
+      "description": ""
+    },
+    {
+      "id": 103009,
+      "name": "REFLECT TO THE TRUTH",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays2",
+      "cue_name": "BAT_Rays2_001",
+      "description": ""
+    },
+    {
+      "id": 103010,
+      "name": "IRREGULAR REFLECTION",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays2",
+      "cue_name": "BOS_Rays2_001",
+      "description": ""
+    },
+    {
+      "id": 105001,
+      "name": "ROD OF CADUCEUS",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "00_TITLE",
+      "description": ""
+    },
+    {
+      "id": 105002,
+      "name": "ENBODIMENT",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "01_MENU",
+      "description": ""
+    },
+    {
+      "id": 105003,
+      "name": "DAYS",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "02_EV_NOMAL",
+      "description": ""
+    },
+    {
+      "id": 105004,
+      "name": "HAPPY",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "03_EV_HAPPY",
+      "description": ""
+    },
+    {
+      "id": 105005,
+      "name": "PRESSURE",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "04_EV_PINCH",
+      "description": ""
+    },
+    {
+      "id": 105006,
+      "name": "TEERDROP",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "05_EV_SAD",
+      "description": ""
+    },
+    {
+      "id": 105007,
+      "name": "HOPE & BRAVE",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "06_EV_BRAVE",
+      "description": ""
+    },
+    {
+      "id": 105008,
+      "name": "BEYOND THE MIRROR",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "07_EV_FANTASY",
+      "description": ""
+    },
+    {
+      "id": 105009,
+      "name": "CRYSTAL OVERLAY",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "01_TITLE",
+      "description": ""
+    },
+    {
+      "id": 105010,
+      "name": "WITH A SMILE",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "EV_S2_NOMAL",
+      "description": ""
+    },
+    {
+      "id": 105011,
+      "name": "HEARTFUL",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "EV_S2_HAPPY",
+      "description": ""
+    },
+    {
+      "id": 105012,
+      "name": "COMICAL",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "EV_S2_COMICAL",
+      "description": ""
+    },
+    {
+      "id": 105013,
+      "name": "STEP OF DEMISE",
+      "open_condition_flag": false,
+      "mst_series_id": 1,
+      "sheet_name": "EV_BGM",
+      "cue_name": "EV_S2_ENEMY",
+      "description": ""
+    },
+    {
+      "id": 204001,
+      "name": "THE SECOND ACT",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "MAP_P_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 204002,
+      "name": "Mysterious Japon",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "MAP_P_005",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 304001,
+      "name": "Unfinished world",
+      "open_condition_flag": true,
+      "mst_series_id": 3,
+      "sheet_name": "03_TOD",
+      "cue_name": "MAP_D_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 404001,
+      "name": "INFERIA MAP",
+      "open_condition_flag": true,
+      "mst_series_id": 4,
+      "sheet_name": "04_TOE",
+      "cue_name": "MAP_E_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 504001,
+      "name": "STEP TO TOMORROW",
+      "open_condition_flag": true,
+      "mst_series_id": 5,
+      "sheet_name": "04_TOD2",
+      "cue_name": "MAP_D2_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 604001,
+      "name": "The land of Sylvarant",
+      "open_condition_flag": true,
+      "mst_series_id": 6,
+      "sheet_name": "05_TOS",
+      "cue_name": "MAP_S_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 604002,
+      "name": "SHINOBI Life ",
+      "open_condition_flag": true,
+      "mst_series_id": 6,
+      "sheet_name": "05_TOS",
+      "cue_name": "MAP_S_006",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 704001,
+      "name": "Icy edge",
+      "open_condition_flag": true,
+      "mst_series_id": 7,
+      "sheet_name": "06_TOR",
+      "cue_name": "MAP_R_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 803001,
+      "name": "鳥は鳴き、僕は歌う",
+      "open_condition_flag": true,
+      "mst_series_id": 8,
+      "sheet_name": "07_TOL",
+      "cue_name": "MAP_L_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 904001,
+      "name": "New world",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "MAP_A_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1004001,
+      "name": "草原",
+      "open_condition_flag": true,
+      "mst_series_id": 10,
+      "sheet_name": "09_TOT",
+      "cue_name": "MAP_T_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1104001,
+      "name": "その歩み、止まることなく",
+      "open_condition_flag": true,
+      "mst_series_id": 11,
+      "sheet_name": "10_TOIR",
+      "cue_name": "MAP_I_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1204001,
+      "name": "RAISING A CURTAIN",
+      "open_condition_flag": true,
+      "mst_series_id": 12,
+      "sheet_name": "05_TOSR",
+      "cue_name": "MAP_SR_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1304001,
+      "name": "気楽な旅路",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "MAP_V_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1304002,
+      "name": "古い民は空を漂う",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "MAP_V_005",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1303001,
+      "name": "火花散らして ",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "BAT_V_004",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 1404001,
+      "name": "今ここにある世界",
+      "open_condition_flag": true,
+      "mst_series_id": 14,
+      "sheet_name": "12_TOHR",
+      "cue_name": "MAP_H_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1504001,
+      "name": "歩みと同じ数の夢",
+      "open_condition_flag": true,
+      "mst_series_id": 15,
+      "sheet_name": "13_TOG",
+      "cue_name": "MAP_G_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1604001,
+      "name": "旅に魅せられて",
+      "open_condition_flag": true,
+      "mst_series_id": 16,
+      "sheet_name": "14_TOX",
+      "cue_name": "MAP_X_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1704001,
+      "name": "異国の大地",
+      "open_condition_flag": true,
+      "mst_series_id": 17,
+      "sheet_name": "14_TOX2",
+      "cue_name": "MAP_X2_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1804001,
+      "name": "心躍る初めての旅",
+      "open_condition_flag": true,
+      "mst_series_id": 18,
+      "sheet_name": "15_TOZ",
+      "cue_name": "MAP_Z_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1904001,
+      "name": "Run into the horizon",
+      "open_condition_flag": true,
+      "mst_series_id": 19,
+      "sheet_name": "16_TOB",
+      "cue_name": "MAP_B_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 1904002,
+      "name": "Rokurou Rangetsu",
+      "open_condition_flag": true,
+      "mst_series_id": 19,
+      "sheet_name": "16_TOB",
+      "cue_name": "BAT_B_004",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2004001,
+      "name": "胸いっぱいの鼓動",
+      "open_condition_flag": true,
+      "mst_series_id": 20,
+      "sheet_name": "50_TOLink",
+      "cue_name": "MAP_Link_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 2304002,
+      "name": "AIBIRD",
+      "open_condition_flag": true,
+      "mst_series_id": 23,
+      "sheet_name": "51_WRM3",
+      "cue_name": "MAP_WRM3_002",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 2404001,
+      "name": "RAISING A CURTAIN（Xver）",
+      "open_condition_flag": true,
+      "mst_series_id": 24,
+      "sheet_name": "02_TOPX",
+      "cue_name": "MAP_PX_001",
+      "description": "かめにんショップで交換"
+    },
+    {
+      "id": 804002,
+      "name": "蛍火",
+      "open_condition_flag": true,
+      "mst_series_id": 8,
+      "sheet_name": "07_TOL",
+      "cue_name": "MAP_L_008",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 203001,
+      "name": "DECISIVE",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "BAT_P_004",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1303002,
+      "name": "決断ぶつかる時に ",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "BOS_V_005",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 503001,
+      "name": "DONA NOBIS PACEM",
+      "open_condition_flag": true,
+      "mst_series_id": 5,
+      "sheet_name": "04_TOD2",
+      "cue_name": "BAT_D2_007",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1203001,
+      "name": "I'll go",
+      "open_condition_flag": true,
+      "mst_series_id": 12,
+      "sheet_name": "05_TOSR",
+      "cue_name": "BAT_SR_003",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1503001,
+      "name": "焦燥の剣",
+      "open_condition_flag": true,
+      "mst_series_id": 15,
+      "sheet_name": "13_TOG",
+      "cue_name": "BOS_G_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2103001,
+      "name": "Sad memory ",
+      "open_condition_flag": true,
+      "mst_series_id": 21,
+      "sheet_name": "51_WRM1",
+      "cue_name": "BOS_WRM1_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2303001,
+      "name": "THEME OF LAZARIS #1",
+      "open_condition_flag": true,
+      "mst_series_id": 23,
+      "sheet_name": "51_WRM3",
+      "cue_name": "MAP_WRM3_003",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 704002,
+      "name": "Icy edge(ブラスバンドver)",
+      "open_condition_flag": true,
+      "mst_series_id": 7,
+      "sheet_name": "06_TOR",
+      "cue_name": "MAP_R_002",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 404002,
+      "name": "FINAL BATTLE",
+      "open_condition_flag": true,
+      "mst_series_id": 4,
+      "sheet_name": "04_TOE",
+      "cue_name": "MAP_E_010",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1403001,
+      "name": "クリード・グラファイト",
+      "open_condition_flag": true,
+      "mst_series_id": 14,
+      "sheet_name": "12_TOHR",
+      "cue_name": "BOS_H_003",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 404003,
+      "name": "CARD GAME",
+      "open_condition_flag": true,
+      "mst_series_id": 4,
+      "sheet_name": "04_TOE",
+      "cue_name": "MAP_E_003",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 503002,
+      "name": "ZEALOT ",
+      "open_condition_flag": true,
+      "mst_series_id": 5,
+      "sheet_name": "04_TOD2",
+      "cue_name": "BAT_D2_004",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 1703001,
+      "name": "最後の“道標”を賭けて",
+      "open_condition_flag": true,
+      "mst_series_id": 17,
+      "sheet_name": "14_TOX2",
+      "cue_name": "BOS_X2_002",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1503002,
+      "name": "夢幻乱舞",
+      "open_condition_flag": true,
+      "mst_series_id": 15,
+      "sheet_name": "13_TOG",
+      "cue_name": "BOS_G_006",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 1904003,
+      "name": "Beat of Rangetsu",
+      "open_condition_flag": true,
+      "mst_series_id": 19,
+      "sheet_name": "16_TOB",
+      "cue_name": "BOS_B_002",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 904002,
+      "name": "Flow when being dammed up",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "MAP_A_006",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 703001,
+      "name": "Scutum - fang",
+      "open_condition_flag": true,
+      "mst_series_id": 7,
+      "sheet_name": "06_TOR",
+      "cue_name": "BOS_R_005",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 803002,
+      "name": "バトル・アーティスト",
+      "open_condition_flag": true,
+      "mst_series_id": 8,
+      "sheet_name": "07_TOL",
+      "cue_name": "BAT_L_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 804001,
+      "name": "melfes ～輝ける青",
+      "open_condition_flag": true,
+      "mst_series_id": 8,
+      "sheet_name": "07_TOL",
+      "cue_name": "MAP_L_006",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1003001,
+      "name": "遭遇",
+      "open_condition_flag": true,
+      "mst_series_id": 10,
+      "sheet_name": "09_TOT",
+      "cue_name": "BAT_T_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1003002,
+      "name": "対決",
+      "open_condition_flag": true,
+      "mst_series_id": 10,
+      "sheet_name": "09_TOT",
+      "cue_name": "BOS_T_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 604003,
+      "name": "Dance in the sunshine",
+      "open_condition_flag": true,
+      "mst_series_id": 6,
+      "sheet_name": "05_TOS",
+      "cue_name": "MAP_S_003",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 303001,
+      "name": "Bare its fangs",
+      "open_condition_flag": true,
+      "mst_series_id": 3,
+      "sheet_name": "03_TOD",
+      "cue_name": "BAT_D_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 503003,
+      "name": "THEME OF BATTLE",
+      "open_condition_flag": true,
+      "mst_series_id": 5,
+      "sheet_name": "04_TOD2",
+      "cue_name": "BAT_D2_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1503003,
+      "name": "抜刀！研ぎ澄ませ",
+      "open_condition_flag": true,
+      "mst_series_id": 15,
+      "sheet_name": "13_TOG",
+      "cue_name": "BAT_G_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1103001,
+      "name": "剣を以って切り拓け",
+      "open_condition_flag": true,
+      "mst_series_id": 11,
+      "sheet_name": "10_TOIR",
+      "cue_name": "BAT_I_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1103002,
+      "name": "剣を以って打ち砕け",
+      "open_condition_flag": true,
+      "mst_series_id": 11,
+      "sheet_name": "10_TOIR",
+      "cue_name": "BOS_I_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 903001,
+      "name": "The arrow was shot",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "BAT_A_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 903002,
+      "name": "Fang which wants blood",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "BOS_A_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 1303003,
+      "name": "さいごの戦い",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "BOS_V_006",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1603001,
+      "name": "生か死か",
+      "open_condition_flag": true,
+      "mst_series_id": 16,
+      "sheet_name": "14_TOX",
+      "cue_name": "BOS_X_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 904003,
+      "name": "Guilt,duty,and…",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "MAP_A_002",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1504002,
+      "name": "命の守り人",
+      "open_condition_flag": true,
+      "mst_series_id": 15,
+      "sheet_name": "13_TOG",
+      "cue_name": "MAP_G_002",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 1903001,
+      "name": "Shout your soul",
+      "open_condition_flag": true,
+      "mst_series_id": 19,
+      "sheet_name": "16_TOB",
+      "cue_name": "BAT_B_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 204003,
+      "name": "THE STREAM OF TIME",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "MAP_P_008",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 404004,
+      "name": "CELESTIA MAP",
+      "open_condition_flag": true,
+      "mst_series_id": 4,
+      "sheet_name": "04_TOE",
+      "cue_name": "MAP_E_002",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1703002,
+      "name": "時歪の因子を砕け",
+      "open_condition_flag": true,
+      "mst_series_id": 17,
+      "sheet_name": "14_TOX2",
+      "cue_name": "BOS_X2_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 403001,
+      "name": "MID BOSS 1",
+      "open_condition_flag": true,
+      "mst_series_id": 4,
+      "sheet_name": "04_TOE",
+      "cue_name": "BOS_E_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 203002,
+      "name": "CONCLUSION",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "BAT_P_003",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1803001,
+      "name": "憑魔強襲",
+      "open_condition_flag": true,
+      "mst_series_id": 18,
+      "sheet_name": "15_TOZ",
+      "cue_name": "BOS_Z_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2303003,
+      "name": "Tide on edge",
+      "open_condition_flag": true,
+      "mst_series_id": 23,
+      "sheet_name": "51_WRM3",
+      "cue_name": "BOS_WRM3_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 703002,
+      "name": "Battle Organization",
+      "open_condition_flag": true,
+      "mst_series_id": 7,
+      "sheet_name": "06_TOR",
+      "cue_name": "BAT_R_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 703003,
+      "name": "Desperate Battle",
+      "open_condition_flag": true,
+      "mst_series_id": 7,
+      "sheet_name": "06_TOR",
+      "cue_name": "BOS_R_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 303002,
+      "name": "Surprise attack！",
+      "open_condition_flag": true,
+      "mst_series_id": 3,
+      "sheet_name": "03_TOD",
+      "cue_name": "BAT_D_005",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 903003,
+      "name": "The edge of a decision",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "BAT_A_002",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 1703003,
+      "name": "護り抜け、鉄槌振りて",
+      "open_condition_flag": true,
+      "mst_series_id": 17,
+      "sheet_name": "14_TOX2",
+      "cue_name": "BAT_X2_002",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1303004,
+      "name": "戦いの火蓋",
+      "open_condition_flag": true,
+      "mst_series_id": 13,
+      "sheet_name": "11_TOV",
+      "cue_name": "BAT_V_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 903004,
+      "name": "Awkward justice",
+      "open_condition_flag": true,
+      "mst_series_id": 9,
+      "sheet_name": "08_TOA",
+      "cue_name": "BOS_A_002",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 203003,
+      "name": "OVERCOME DIFFICULTIES",
+      "open_condition_flag": true,
+      "mst_series_id": 2,
+      "sheet_name": "02_TOP",
+      "cue_name": "BOS_P_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 1030011,
+      "name": "BELIEVE IN YOURSELF",
+      "open_condition_flag": true,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays4",
+      "cue_name": "BOS_Rays4_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 303003,
+      "name": "Nightmare",
+      "open_condition_flag": true,
+      "mst_series_id": 3,
+      "sheet_name": "03_TOD",
+      "cue_name": "BOS_D_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 4003001,
+      "name": "Flame's judgement",
+      "open_condition_flag": true,
+      "mst_series_id": 40,
+      "sheet_name": "17_TOARISE",
+      "cue_name": "BOS_ARISE_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2103002,
+      "name": "Blazing!",
+      "open_condition_flag": true,
+      "mst_series_id": 21,
+      "sheet_name": "51_WRM1",
+      "cue_name": "BAT_WRM1_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 2203001,
+      "name": "Beginning of a battle",
+      "open_condition_flag": true,
+      "mst_series_id": 22,
+      "sheet_name": "51_WRM2",
+      "cue_name": "BAT_WRM2_001",
+      "description": "『君も大海賊になろう！　アイフリードランド開園！』交換所で交換"
+    },
+    {
+      "id": 2003001,
+      "name": "石詠みの闘い",
+      "open_condition_flag": true,
+      "mst_series_id": 20,
+      "sheet_name": "50_TOLink",
+      "cue_name": "BAT_Link_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 103012,
+      "name": "SOMETHING BEYOND THE HOPE",
+      "open_condition_flag": true,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays4",
+      "cue_name": "BAT_Rays4_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 2403001,
+      "name": "TAKE UP THE CROSS（Xver）",
+      "open_condition_flag": true,
+      "mst_series_id": 24,
+      "sheet_name": "02_TOPX",
+      "cue_name": "BAT_PX_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 5403001,
+      "name": "Time to Finish This",
+      "open_condition_flag": true,
+      "mst_series_id": 43,
+      "sheet_name": "54_Crestoria",
+      "cue_name": "BAT_CRE_001",
+      "description": "『精霊装 フィナーレ編』交換所で交換"
+    },
+    {
+      "id": 5303001,
+      "name": "譲れぬ矜持",
+      "open_condition_flag": true,
+      "mst_series_id": 44,
+      "sheet_name": "53_Asteria",
+      "cue_name": "BAT_AST_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 2303004,
+      "name": "The sword sparks",
+      "open_condition_flag": true,
+      "mst_series_id": 23,
+      "sheet_name": "51_WRM3",
+      "cue_name": "BAT_WRM3_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 104002,
+      "name": "TOWARDS THE END",
+      "open_condition_flag": true,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays4",
+      "cue_name": "MAP_Rays4_003",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 103002,
+      "name": "HISTORY TO SPIN",
+      "open_condition_flag": true,
+      "mst_series_id": 1,
+      "sheet_name": "01_TORays5",
+      "cue_name": "BAT_Rays5_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 4004001,
+      "name": "Freezing wind",
+      "open_condition_flag": true,
+      "mst_series_id": 40,
+      "sheet_name": "17_TOARISE",
+      "cue_name": "MAP_ARISE_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 4003002,
+      "name": "Crumbling wish",
+      "open_condition_flag": true,
+      "mst_series_id": 40,
+      "sheet_name": "17_TOARISE",
+      "cue_name": "BOS_ARISE_004",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 2203002,
+      "name": "A Desperate Battle",
+      "open_condition_flag": true,
+      "mst_series_id": 22,
+      "sheet_name": "51_WRM2",
+      "cue_name": "BOS_WRM2_001",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 4403001,
+      "name": "この胸の鼓動は熱く",
+      "open_condition_flag": true,
+      "mst_series_id": 44,
+      "sheet_name": "53_Asteria",
+      "cue_name": "BOS_AST_003",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    },
+    {
+      "id": 4304001,
+      "name": "Dance of the Monsters",
+      "open_condition_flag": true,
+      "mst_series_id": 43,
+      "sheet_name": "54_Crestoria",
+      "cue_name": "MAP_CRE_002",
+      "description": "『ザ レイズ オブ フェスティバル～ザレイズ編～』交換所で交換"
+    }
+  ]
+}

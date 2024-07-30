@@ -1,0 +1,845 @@
+{
+  "xhash": "",
+  "mst_training_enemies": [
+    {
+      "id": 1,
+      "mst_enemy_id": 40017501,
+      "size": "SS"
+    },
+    {
+      "id": 2,
+      "mst_enemy_id": 40017502,
+      "size": "S"
+    },
+    {
+      "id": 3,
+      "mst_enemy_id": 40017503,
+      "size": "M"
+    },
+    {
+      "id": 4,
+      "mst_enemy_id": 40017504,
+      "size": "L"
+    },
+    {
+      "id": 5,
+      "mst_enemy_id": 40017505,
+      "size": "LL"
+    },
+    {
+      "id": 6,
+      "mst_enemy_id": 40017506,
+      "size": "Z"
+    }
+  ],
+  "mst_offline_enemies": [
+    {
+      "id": 1,
+      "mst_enemy_id": 40017501,
+      "size": "SS"
+    },
+    {
+      "id": 2,
+      "mst_enemy_id": 40017502,
+      "size": "S"
+    },
+    {
+      "id": 3,
+      "mst_enemy_id": 40017503,
+      "size": "M"
+    },
+    {
+      "id": 4,
+      "mst_enemy_id": 40017504,
+      "size": "L"
+    },
+    {
+      "id": 5,
+      "mst_enemy_id": 40017505,
+      "size": "LL"
+    },
+    {
+      "id": 6,
+      "mst_enemy_id": 40017506,
+      "size": "Z"
+    },
+    {
+      "id": 11001,
+      "mst_enemy_id": 40067423,
+      "size": "L"
+    },
+    {
+      "id": 11002,
+      "mst_enemy_id": 40065537,
+      "size": "LL"
+    },
+    {
+      "id": 11003,
+      "mst_enemy_id": 40065553,
+      "size": "L"
+    },
+    {
+      "id": 11004,
+      "mst_enemy_id": 40067407,
+      "size": "LL"
+    },
+    {
+      "id": 11005,
+      "mst_enemy_id": 40065517,
+      "size": "LL"
+    },
+    {
+      "id": 11006,
+      "mst_enemy_id": 40065554,
+      "size": "L"
+    },
+    {
+      "id": 11007,
+      "mst_enemy_id": 40065555,
+      "size": "LL"
+    },
+    {
+      "id": 11008,
+      "mst_enemy_id": 40067409,
+      "size": "LL"
+    },
+    {
+      "id": 11009,
+      "mst_enemy_id": 40065556,
+      "size": "L"
+    },
+    {
+      "id": 11010,
+      "mst_enemy_id": 40065557,
+      "size": "LL"
+    },
+    {
+      "id": 11011,
+      "mst_enemy_id": 40065521,
+      "size": "Z"
+    },
+    {
+      "id": 12001,
+      "mst_enemy_id": 40065509,
+      "size": "M"
+    },
+    {
+      "id": 12002,
+      "mst_enemy_id": 40065524,
+      "size": "LL"
+    },
+    {
+      "id": 12003,
+      "mst_enemy_id": 40065558,
+      "size": "L"
+    },
+    {
+      "id": 12004,
+      "mst_enemy_id": 40065559,
+      "size": "LL"
+    },
+    {
+      "id": 12005,
+      "mst_enemy_id": 40065560,
+      "size": "LL"
+    },
+    {
+      "id": 13001,
+      "mst_enemy_id": 40065561,
+      "size": "LL"
+    },
+    {
+      "id": 13002,
+      "mst_enemy_id": 40065507,
+      "size": "L"
+    },
+    {
+      "id": 13003,
+      "mst_enemy_id": 40065562,
+      "size": "LL"
+    },
+    {
+      "id": 13004,
+      "mst_enemy_id": 40065539,
+      "size": "LL"
+    },
+    {
+      "id": 13005,
+      "mst_enemy_id": 40065520,
+      "size": "M"
+    },
+    {
+      "id": 13006,
+      "mst_enemy_id": 40065526,
+      "size": "L"
+    },
+    {
+      "id": 14001,
+      "mst_enemy_id": 40067411,
+      "size": "L"
+    },
+    {
+      "id": 14002,
+      "mst_enemy_id": 40065511,
+      "size": "LL"
+    },
+    {
+      "id": 14003,
+      "mst_enemy_id": 40065546,
+      "size": "L"
+    },
+    {
+      "id": 14004,
+      "mst_enemy_id": 40065547,
+      "size": "Z"
+    },
+    {
+      "id": 14005,
+      "mst_enemy_id": 40065563,
+      "size": "LL"
+    },
+    {
+      "id": 14006,
+      "mst_enemy_id": 40067417,
+      "size": "L"
+    },
+    {
+      "id": 14007,
+      "mst_enemy_id": 40065515,
+      "size": "LL"
+    },
+    {
+      "id": 15001,
+      "mst_enemy_id": 40065564,
+      "size": "LL"
+    },
+    {
+      "id": 15002,
+      "mst_enemy_id": 40065502,
+      "size": "S"
+    },
+    {
+      "id": 15003,
+      "mst_enemy_id": 40065503,
+      "size": "M"
+    },
+    {
+      "id": 21001,
+      "mst_enemy_id": 40065542,
+      "size": "LL"
+    },
+    {
+      "id": 21002,
+      "mst_enemy_id": 40065565,
+      "size": "LL"
+    },
+    {
+      "id": 22001,
+      "mst_enemy_id": 40065508,
+      "size": "LL"
+    },
+    {
+      "id": 23001,
+      "mst_enemy_id": 40065533,
+      "size": "LL"
+    },
+    {
+      "id": 23002,
+      "mst_enemy_id": 40067405,
+      "size": "LL"
+    },
+    {
+      "id": 23003,
+      "mst_enemy_id": 40065566,
+      "size": "Z"
+    },
+    {
+      "id": 23004,
+      "mst_enemy_id": 40065530,
+      "size": "LL"
+    },
+    {
+      "id": 23005,
+      "mst_enemy_id": 40067413,
+      "size": "LL"
+    },
+    {
+      "id": 24001,
+      "mst_enemy_id": 40065532,
+      "size": "M"
+    },
+    {
+      "id": 24002,
+      "mst_enemy_id": 40065567,
+      "size": "Z"
+    },
+    {
+      "id": 25001,
+      "mst_enemy_id": 40067421,
+      "size": "LL"
+    },
+    {
+      "id": 25002,
+      "mst_enemy_id": 40065568,
+      "size": "M"
+    },
+    {
+      "id": 25003,
+      "mst_enemy_id": 40065512,
+      "size": "LL"
+    },
+    {
+      "id": 25004,
+      "mst_enemy_id": 40065506,
+      "size": "LL"
+    },
+    {
+      "id": 31001,
+      "mst_enemy_id": 40065569,
+      "size": "M"
+    },
+    {
+      "id": 31002,
+      "mst_enemy_id": 40067414,
+      "size": "L"
+    },
+    {
+      "id": 31003,
+      "mst_enemy_id": 40065570,
+      "size": "LL"
+    },
+    {
+      "id": 32001,
+      "mst_enemy_id": 40065571,
+      "size": "LL"
+    },
+    {
+      "id": 32002,
+      "mst_enemy_id": 40065551,
+      "size": "LL"
+    },
+    {
+      "id": 32003,
+      "mst_enemy_id": 40065536,
+      "size": "Z"
+    },
+    {
+      "id": 32004,
+      "mst_enemy_id": 40065572,
+      "size": "L"
+    },
+    {
+      "id": 32005,
+      "mst_enemy_id": 40065538,
+      "size": "LL"
+    },
+    {
+      "id": 32006,
+      "mst_enemy_id": 40065527,
+      "size": "SS"
+    },
+    {
+      "id": 32007,
+      "mst_enemy_id": 40065573,
+      "size": "L"
+    },
+    {
+      "id": 33001,
+      "mst_enemy_id": 40065505,
+      "size": "L"
+    },
+    {
+      "id": 33002,
+      "mst_enemy_id": 40067415,
+      "size": "LL"
+    },
+    {
+      "id": 34001,
+      "mst_enemy_id": 40065574,
+      "size": "L"
+    },
+    {
+      "id": 34002,
+      "mst_enemy_id": 40065575,
+      "size": "LL"
+    },
+    {
+      "id": 34003,
+      "mst_enemy_id": 40067406,
+      "size": "L"
+    },
+    {
+      "id": 41001,
+      "mst_enemy_id": 40065598,
+      "size": "L"
+    },
+    {
+      "id": 41002,
+      "mst_enemy_id": 40065550,
+      "size": "Z"
+    },
+    {
+      "id": 41003,
+      "mst_enemy_id": 40065576,
+      "size": "Z"
+    },
+    {
+      "id": 41004,
+      "mst_enemy_id": 40065522,
+      "size": "L"
+    },
+    {
+      "id": 41005,
+      "mst_enemy_id": 40065510,
+      "size": "LL"
+    },
+    {
+      "id": 44001,
+      "mst_enemy_id": 40065577,
+      "size": "L"
+    },
+    {
+      "id": 44002,
+      "mst_enemy_id": 40065599,
+      "size": "LL"
+    },
+    {
+      "id": 44003,
+      "mst_enemy_id": 40065518,
+      "size": "LL"
+    },
+    {
+      "id": 44004,
+      "mst_enemy_id": 40065544,
+      "size": "Z"
+    },
+    {
+      "id": 44005,
+      "mst_enemy_id": 40065516,
+      "size": "LL"
+    },
+    {
+      "id": 44006,
+      "mst_enemy_id": 40065552,
+      "size": "LL"
+    },
+    {
+      "id": 44007,
+      "mst_enemy_id": 40065534,
+      "size": "Z"
+    },
+    {
+      "id": 44008,
+      "mst_enemy_id": 40065578,
+      "size": "LL"
+    },
+    {
+      "id": 44009,
+      "mst_enemy_id": 40067418,
+      "size": "LL"
+    },
+    {
+      "id": 44010,
+      "mst_enemy_id": 40065579,
+      "size": "L"
+    },
+    {
+      "id": 45001,
+      "mst_enemy_id": 40065504,
+      "size": "LL"
+    },
+    {
+      "id": 45002,
+      "mst_enemy_id": 40065528,
+      "size": "M"
+    },
+    {
+      "id": 45003,
+      "mst_enemy_id": 40065580,
+      "size": "M"
+    },
+    {
+      "id": 51001,
+      "mst_enemy_id": 40067420,
+      "size": "LL"
+    },
+    {
+      "id": 51002,
+      "mst_enemy_id": 40065581,
+      "size": "LL"
+    },
+    {
+      "id": 54001,
+      "mst_enemy_id": 40065540,
+      "size": "LL"
+    },
+    {
+      "id": 55001,
+      "mst_enemy_id": 40065535,
+      "size": "M"
+    },
+    {
+      "id": 61001,
+      "mst_enemy_id": 40065582,
+      "size": "LL"
+    },
+    {
+      "id": 61002,
+      "mst_enemy_id": 40065501,
+      "size": "SS"
+    },
+    {
+      "id": 61003,
+      "mst_enemy_id": 40065583,
+      "size": "LL"
+    },
+    {
+      "id": 61004,
+      "mst_enemy_id": 40065529,
+      "size": "LL"
+    },
+    {
+      "id": 62001,
+      "mst_enemy_id": 40065545,
+      "size": "Z"
+    },
+    {
+      "id": 62002,
+      "mst_enemy_id": 40065584,
+      "size": "Z"
+    },
+    {
+      "id": 63001,
+      "mst_enemy_id": 40065523,
+      "size": "M"
+    },
+    {
+      "id": 63002,
+      "mst_enemy_id": 40065531,
+      "size": "M"
+    },
+    {
+      "id": 63003,
+      "mst_enemy_id": 40065513,
+      "size": "LL"
+    },
+    {
+      "id": 63004,
+      "mst_enemy_id": 40065585,
+      "size": "S"
+    },
+    {
+      "id": 63005,
+      "mst_enemy_id": 40065543,
+      "size": "LL"
+    },
+    {
+      "id": 63006,
+      "mst_enemy_id": 40067412,
+      "size": "LL"
+    },
+    {
+      "id": 64001,
+      "mst_enemy_id": 40065514,
+      "size": "LL"
+    },
+    {
+      "id": 64002,
+      "mst_enemy_id": 40065586,
+      "size": "LL"
+    },
+    {
+      "id": 71001,
+      "mst_enemy_id": 40067419,
+      "size": "LL"
+    },
+    {
+      "id": 71002,
+      "mst_enemy_id": 40065548,
+      "size": "LL"
+    },
+    {
+      "id": 71003,
+      "mst_enemy_id": 40065549,
+      "size": "Z"
+    },
+    {
+      "id": 71004,
+      "mst_enemy_id": 40065587,
+      "size": "LL"
+    },
+    {
+      "id": 72001,
+      "mst_enemy_id": 40065588,
+      "size": "Z"
+    },
+    {
+      "id": 72002,
+      "mst_enemy_id": 40065589,
+      "size": "L"
+    },
+    {
+      "id": 72003,
+      "mst_enemy_id": 40067424,
+      "size": "M"
+    },
+    {
+      "id": 75001,
+      "mst_enemy_id": 40067422,
+      "size": "LL"
+    },
+    {
+      "id": 83001,
+      "mst_enemy_id": 40065590,
+      "size": "LL"
+    },
+    {
+      "id": 83002,
+      "mst_enemy_id": 40065591,
+      "size": "Z"
+    },
+    {
+      "id": 83003,
+      "mst_enemy_id": 40065519,
+      "size": "LL"
+    },
+    {
+      "id": 83004,
+      "mst_enemy_id": 40065592,
+      "size": "L"
+    },
+    {
+      "id": 91001,
+      "mst_enemy_id": 40067410,
+      "size": "L"
+    },
+    {
+      "id": 92001,
+      "mst_enemy_id": 40067401,
+      "size": "M"
+    },
+    {
+      "id": 92002,
+      "mst_enemy_id": 40065593,
+      "size": "L"
+    },
+    {
+      "id": 92003,
+      "mst_enemy_id": 40067408,
+      "size": "LL"
+    },
+    {
+      "id": 92004,
+      "mst_enemy_id": 40065594,
+      "size": "L"
+    },
+    {
+      "id": 92005,
+      "mst_enemy_id": 40065595,
+      "size": "L"
+    },
+    {
+      "id": 92006,
+      "mst_enemy_id": 40067403,
+      "size": "LL"
+    },
+    {
+      "id": 92007,
+      "mst_enemy_id": 40067402,
+      "size": "LL"
+    },
+    {
+      "id": 93001,
+      "mst_enemy_id": 40065596,
+      "size": "L"
+    },
+    {
+      "id": 94001,
+      "mst_enemy_id": 40067404,
+      "size": "LL"
+    },
+    {
+      "id": 94002,
+      "mst_enemy_id": 40065541,
+      "size": "L"
+    },
+    {
+      "id": 95001,
+      "mst_enemy_id": 40067416,
+      "size": "M"
+    },
+    {
+      "id": 101001,
+      "mst_enemy_id": 40065525,
+      "size": "L"
+    },
+    {
+      "id": 101002,
+      "mst_enemy_id": 40065597,
+      "size": "L"
+    }
+  ],
+  "mst_offline_maps": [
+    {
+      "id": 1,
+      "mst_map_id": 901001,
+      "bgm_sheet_name": "01_TORays",
+      "bgm_cue_name": "BAT_Rays_001",
+      "recollection": true
+    },
+    {
+      "id": 2,
+      "mst_map_id": 905601,
+      "bgm_sheet_name": "01_TORays4",
+      "bgm_cue_name": "BOS_Rays4_001",
+      "recollection": true
+    },
+    {
+      "id": 3,
+      "mst_map_id": 901702,
+      "bgm_sheet_name": "02_TOP",
+      "bgm_cue_name": "BAT_P_004",
+      "recollection": true
+    },
+    {
+      "id": 4,
+      "mst_map_id": 908011,
+      "bgm_sheet_name": "03_TOD",
+      "bgm_cue_name": "BAT_D_006",
+      "recollection": true
+    },
+    {
+      "id": 5,
+      "mst_map_id": 903601,
+      "bgm_sheet_name": "04_TOE",
+      "bgm_cue_name": "BAT_E_002",
+      "recollection": true
+    },
+    {
+      "id": 6,
+      "mst_map_id": 908002,
+      "bgm_sheet_name": "04_TOD2",
+      "bgm_cue_name": "BOS_D2_003",
+      "recollection": true
+    },
+    {
+      "id": 7,
+      "mst_map_id": 908009,
+      "bgm_sheet_name": "05_TOS",
+      "bgm_cue_name": "BAT_S_004",
+      "recollection": true
+    },
+    {
+      "id": 8,
+      "mst_map_id": 908013,
+      "bgm_sheet_name": "06_TOR",
+      "bgm_cue_name": "BAT_R_003",
+      "recollection": true
+    },
+    {
+      "id": 9,
+      "mst_map_id": 908015,
+      "bgm_sheet_name": "07_TOL",
+      "bgm_cue_name": "BOS_L_004",
+      "recollection": true
+    },
+    {
+      "id": 10,
+      "mst_map_id": 908003,
+      "bgm_sheet_name": "08_TOA",
+      "bgm_cue_name": "BAT_A_003",
+      "recollection": true
+    },
+    {
+      "id": 11,
+      "mst_map_id": 908016,
+      "bgm_sheet_name": "09_TOT",
+      "bgm_cue_name": "BAT_T_001",
+      "recollection": true
+    },
+    {
+      "id": 12,
+      "mst_map_id": 908008,
+      "bgm_sheet_name": "10_TOIR",
+      "bgm_cue_name": "BAT_I_001",
+      "recollection": true
+    },
+    {
+      "id": 13,
+      "mst_map_id": 908012,
+      "bgm_sheet_name": "05_TOSR",
+      "bgm_cue_name": "BOS_SR_002",
+      "recollection": true
+    },
+    {
+      "id": 14,
+      "mst_map_id": 908006,
+      "bgm_sheet_name": "11_TOV",
+      "bgm_cue_name": "BOS_V_001",
+      "recollection": true
+    },
+    {
+      "id": 15,
+      "mst_map_id": 902402,
+      "bgm_sheet_name": "12_TOHR",
+      "bgm_cue_name": "BOS_H_003",
+      "recollection": true
+    },
+    {
+      "id": 16,
+      "mst_map_id": 908001,
+      "bgm_sheet_name": "13_TOG",
+      "bgm_cue_name": "BOS_G_001",
+      "recollection": true
+    },
+    {
+      "id": 17,
+      "mst_map_id": 908017,
+      "bgm_sheet_name": "14_TOX",
+      "bgm_cue_name": "BOS_X_003",
+      "recollection": true
+    },
+    {
+      "id": 18,
+      "mst_map_id": 908007,
+      "bgm_sheet_name": "14_TOX2",
+      "bgm_cue_name": "BAT_X2_004",
+      "recollection": true
+    },
+    {
+      "id": 19,
+      "mst_map_id": 908010,
+      "bgm_sheet_name": "15_TOZ",
+      "bgm_cue_name": "BOS_Z_005",
+      "recollection": true
+    },
+    {
+      "id": 20,
+      "mst_map_id": 908005,
+      "bgm_sheet_name": "16_TOB",
+      "bgm_cue_name": "BOS_B_005",
+      "recollection": true
+    },
+    {
+      "id": 21,
+      "mst_map_id": 908014,
+      "bgm_sheet_name": "17_TOARISE",
+      "bgm_cue_name": "BOS_ARISE_002",
+      "recollection": true
+    },
+    {
+      "id": 22,
+      "mst_map_id": 905701,
+      "bgm_sheet_name": "01_TORays5",
+      "bgm_cue_name": "BAT_Rays5_001",
+      "recollection": true
+    },
+    {
+      "id": 23,
+      "mst_map_id": 906001,
+      "bgm_sheet_name": "01_TORays5",
+      "bgm_cue_name": "BAT_Rays5_001",
+      "recollection": true
+    }
+  ]
+}

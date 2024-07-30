@@ -1,0 +1,3497 @@
+{
+  "xhash": "",
+  "mst_mirrorge_add_charas": [
+    {
+      "id": 30103,
+      "chara_id": 30,
+      "costume": 30998,
+      "attachment": 30001,
+      "weapon": 30998,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 31104,
+      "chara_id": 31,
+      "costume": 31098,
+      "attachment": 31001,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 31104,
+      "chara_id": 32,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 31105,
+      "move_motion": "suijinshorai",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 42104,
+      "chara_id": 42,
+      "costume": 42003,
+      "attachment": 42001,
+      "weapon": 42001,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 130102,
+      "chara_id": 130,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0,
+        -8,
+        -11
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "id": 24104,
+      "chara_id": 24,
+      "costume": 24098,
+      "attachment": 24001,
+      "weapon": 24001,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 138103,
+      "chara_id": 138,
+      "costume": 138998,
+      "attachment": 0,
+      "weapon": 138998,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 10105,
+      "chara_id": 10,
+      "costume": 10001,
+      "attachment": 10001,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 10106,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 10105,
+      "chara_id": 9,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 10106,
+      "move_motion": "marginalseraphim",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 71103,
+      "chara_id": 71,
+      "costume": 71001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 71103,
+      "chara_id": 71,
+      "costume": 71003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 71104,
+      "move_motion": "disintegration1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 73104,
+      "chara_id": 73,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 47104,
+      "chara_id": 143,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 47105,
+      "move_motion": "firstfigment",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 57103,
+      "chara_id": 57,
+      "costume": 57003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 14105,
+      "chara_id": 54,
+      "costume": 54004,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 14106,
+      "move_motion": "koshoshojin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 54104,
+      "chara_id": 14,
+      "costume": 14006,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 54105,
+      "move_motion": "koshoshojin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 158103,
+      "chara_id": 159,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 158104,
+      "move_motion": "vaneltiagrandepatty",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 159103,
+      "chara_id": 158,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 159104,
+      "move_motion": "marvelousfountain2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 105103,
+      "chara_id": 105,
+      "costume": 105004,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 133103,
+      "chara_id": 133,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 133104,
+      "move_motion": "ninpokagebunshin1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 133105,
+      "chara_id": 133,
+      "costume": 133003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 133106,
+      "move_motion": "ninpokagebunshin1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 59104,
+      "chara_id": 59,
+      "costume": 59998,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 7104,
+      "chara_id": 171,
+      "costume": 171002,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 7105,
+      "move_motion": "eternalplacidity",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 49103,
+      "chara_id": 187,
+      "costume": 187001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 49104,
+      "move_motion": "bulletcrossborder",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 36104,
+      "chara_id": 188,
+      "costume": 188001,
+      "attachment": 0,
+      "weapon": 188001,
+      "motion_copy": false,
+      "motion_id": 36105,
+      "move_motion": "venerateours",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 62103,
+      "chara_id": 62,
+      "costume": 62003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 185101,
+      "chara_id": 185,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 185102,
+      "move_motion": "primaljudgement1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 179101,
+      "chara_id": 178,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 179102,
+      "move_motion": "flashback",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 155102,
+      "chara_id": 155,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 155103,
+      "move_motion": "sturmunddrang2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        15.223999977111816,
+        15.223999977111816,
+        15.223999977111816
+      ]
+    },
+    {
+      "id": 182102,
+      "chara_id": 182,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 67104,
+      "chara_id": 192,
+      "costume": 192001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 67105,
+      "move_motion": "halvesblood",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 1107,
+      "chara_id": 2,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 1108,
+      "move_motion": "futurityrays",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 72105,
+      "chara_id": 72,
+      "costume": 72006,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "radiantroar",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 9106,
+      "chara_id": 67,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 9107,
+      "move_motion": "unisonblood",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 36106,
+      "chara_id": 60,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 36107,
+      "move_motion": "dragoonhowling",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 17104,
+      "chara_id": 106,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 17105,
+      "move_motion": "bakurangosetsusho",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 16104,
+      "chara_id": 16,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 20104,
+      "chara_id": 20,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 20105,
+      "move_motion": "zankushokembu2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 207102,
+      "chara_id": 207,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 207103,
+      "move_motion": "dispearvision2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 195102,
+      "chara_id": 195,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 195103,
+      "move_motion": "bakuraiizunaotoshi1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 7106,
+      "chara_id": 150,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 7107,
+      "move_motion": "fringeshadow",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 8104,
+      "chara_id": 219,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 8105,
+      "move_motion": "fringerem",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 77105,
+      "chara_id": 77,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 210102,
+      "chara_id": 210,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 210103,
+      "move_motion": "elementalmaster2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "id": 134104,
+      "chara_id": 145,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 134105,
+      "move_motion": "shintenrekku",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 52105,
+      "chara_id": 162,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 52106,
+      "move_motion": "sacredblame",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 50106,
+      "chara_id": 86,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 50107,
+      "move_motion": "kasshinkonkagura",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 96103,
+      "chara_id": 223,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 96104,
+      "move_motion": "satsugekibukokentonro2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 107104,
+      "chara_id": 107,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 6105,
+      "chara_id": 57,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 6106,
+      "move_motion": "kohasetsujoen_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 28105,
+      "chara_id": 115,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 28106,
+      "move_motion": "overthelive_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 30106,
+      "chara_id": 138,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 30107,
+      "move_motion": "historicalmodifiers",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 33105,
+      "chara_id": 90,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 33106,
+      "move_motion": "shinkiissenamadachi",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 80105,
+      "chara_id": 183,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 80106,
+      "move_motion": "hakkekosho",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 89104,
+      "chara_id": 91,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 89105,
+      "move_motion": "vacantansis",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 235102,
+      "chara_id": 235,
+      "costume": 235002,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 236102,
+      "chara_id": 236,
+      "costume": 236002,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 25106,
+      "chara_id": 184,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 25107,
+      "move_motion": "twinresolver_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 58107,
+      "chara_id": 157,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 58108,
+      "move_motion": "celebratelight",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 81104,
+      "chara_id": 200,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 81105,
+      "move_motion": "herasagi",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 43105,
+      "chara_id": 46,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 43106,
+      "move_motion": "shootenhouyoku_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 24107,
+      "chara_id": 76,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 24108,
+      "move_motion": "hyugagosho_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 175104,
+      "chara_id": 175,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 77106,
+      "chara_id": 77,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 77107,
+      "move_motion": "ikaruga1",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 112103,
+      "chara_id": 112,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 207104,
+      "chara_id": 207,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 207105,
+      "move_motion": "diedtodeath2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 29105,
+      "chara_id": 176,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 29106,
+      "move_motion": "riotgoround_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 39106,
+      "chara_id": 83,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 39107,
+      "move_motion": "trillionexcelion_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 19107,
+      "chara_id": 75,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 19108,
+      "move_motion": "bushinsosenha",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 264102,
+      "chara_id": 265,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 264103,
+      "move_motion": "goodluckmode2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 265102,
+      "chara_id": 264,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 265103,
+      "move_motion": "goodluckmode2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 85104,
+      "chara_id": 261,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 85105,
+      "move_motion": "grindedplute",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 86106,
+      "chara_id": 86,
+      "costume": 86006,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "kankakyokaibu",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 67106,
+      "chara_id": 192,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 67107,
+      "move_motion": "timestop",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 43107,
+      "chara_id": 113,
+      "costume": 113001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 43108,
+      "move_motion": "goumakaijinken",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 5105,
+      "chara_id": 125,
+      "costume": 125001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 5106,
+      "move_motion": "lifedischarge",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 6107,
+      "chara_id": 126,
+      "costume": 126001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 6108,
+      "move_motion": "majinkensetsuga",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 175105,
+      "chara_id": 257,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 175106,
+      "move_motion": "kotikotihammer",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 3107,
+      "chara_id": 253,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 3108,
+      "move_motion": "syusoraizan",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 107106,
+      "chara_id": 254,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 107107,
+      "move_motion": "syakunetunoburn",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 136103,
+      "chara_id": 179,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 136104,
+      "move_motion": "doublethundersword_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 79106,
+      "chara_id": 273,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 79107,
+      "move_motion": "meteorswarm",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 35109,
+      "chara_id": 239,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 35110,
+      "move_motion": "innocentbullet",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 40109,
+      "chara_id": 211,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 40110,
+      "move_motion": "kyokkousousen",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 111106,
+      "chara_id": 167,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 111107,
+      "move_motion": "unchainedresonate_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 108105,
+      "chara_id": 139,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 108106,
+      "move_motion": "sougitenoumekku",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 26104,
+      "chara_id": 112,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 26105,
+      "move_motion": "eisentyoumatsuri",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 22107,
+      "chara_id": 23,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 22108,
+      "move_motion": "oukagououjin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 11105,
+      "chara_id": 128,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 11106,
+      "move_motion": "prismicstars",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 279102,
+      "chara_id": 10,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 279103,
+      "move_motion": "judgementrain",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 280102,
+      "chara_id": 24,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 280103,
+      "move_motion": "kyokuyashuuraiken",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 281102,
+      "chara_id": 36,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 281103,
+      "move_motion": "decidemine",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 55107,
+      "chara_id": 222,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 55108,
+      "move_motion": "majinkenhaiga_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 68104,
+      "chara_id": 71,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 68105,
+      "move_motion": "crossrecurrence",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 18104,
+      "chara_id": 97,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 18105,
+      "move_motion": "deadonstrategy",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 290102,
+      "chara_id": 137,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 290103,
+      "move_motion": "iridescentwing",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 70105,
+      "chara_id": 197,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 70106,
+      "move_motion": "hellsinferno",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 109103,
+      "chara_id": 288,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 109104,
+      "move_motion": "yosorastarburst_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 231102,
+      "chara_id": 42,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 231103,
+      "move_motion": "shukanotairan",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 244102,
+      "chara_id": 9,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 244103,
+      "move_motion": "engasyousouzan",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 245102,
+      "chara_id": 19,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 245103,
+      "move_motion": "ranjinsouhasyou",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 246102,
+      "chara_id": 28,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 246103,
+      "move_motion": "guilticalfate",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 247102,
+      "chara_id": 48,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 247103,
+      "move_motion": "eternalend",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 262102,
+      "chara_id": 3,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 262103,
+      "move_motion": "sensogunguniru",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 267102,
+      "chara_id": 102,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 267103,
+      "move_motion": "anbyakumajinouken",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 1111,
+      "chara_id": 274,
+      "costume": 274002,
+      "attachment": 0,
+      "weapon": 274002,
+      "motion_copy": false,
+      "motion_id": 1112,
+      "move_motion": "gyoukoukyousouken2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 2109,
+      "chara_id": 298,
+      "costume": 298001,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 2110,
+      "move_motion": "seiboukyousoujin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 56105,
+      "chara_id": 259,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 56106,
+      "move_motion": "shioubakusenjin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 118105,
+      "chara_id": 258,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 118106,
+      "move_motion": "hiensoutenkyaku",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 102105,
+      "chara_id": 260,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 102106,
+      "move_motion": "syouhajyumonji",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 116104,
+      "chara_id": 133,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 116105,
+      "move_motion": "benikagero",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 293102,
+      "chara_id": 30,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 293103,
+      "move_motion": "twindestract",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 12106,
+      "chara_id": 121,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 12107,
+      "move_motion": "celsiuscalibur",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 66107,
+      "chara_id": 113,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 66108,
+      "move_motion": "shoumagokusatsushou",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 152104,
+      "chara_id": 165,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 152105,
+      "move_motion": "shoharekkosen_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 64104,
+      "chara_id": 166,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 64105,
+      "move_motion": "gurentensho_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 143104,
+      "chara_id": 171,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 143105,
+      "move_motion": "indignantfinality",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 65103,
+      "chara_id": 227,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 65104,
+      "move_motion": "kouryuujuujishou_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 233103,
+      "chara_id": 255,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 233104,
+      "move_motion": "shinshishisenjinga",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 7108,
+      "chara_id": 8,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 7109,
+      "move_motion": "maxwellrower_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 14109,
+      "chara_id": 54,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 14110,
+      "move_motion": "radiantunite_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 30110,
+      "chara_id": 0,
+      "costume": 30998,
+      "attachment": 30001,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 30111,
+      "move_motion": "bassaizansoubu_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 30110,
+      "chara_id": 59,
+      "costume": 59998,
+      "attachment": 59001,
+      "weapon": 59001,
+      "motion_copy": false,
+      "motion_id": 30111,
+      "move_motion": "bassaizansoubu_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 125103,
+      "chara_id": 126,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 125104,
+      "move_motion": "celestialsword",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 201103,
+      "chara_id": 202,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 201104,
+      "move_motion": "lightningbraver_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 13105,
+      "chara_id": 194,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 13106,
+      "move_motion": "iceroguehunt_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 5108,
+      "chara_id": 6,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 5109,
+      "move_motion": "kuushuukoubakka",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 85106,
+      "chara_id": 185,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 85107,
+      "move_motion": "grindedorigin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 116106,
+      "chara_id": 177,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 116107,
+      "move_motion": "koreishofuthunder",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 71108,
+      "chara_id": 71,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 71109,
+      "move_motion": "maougokuenha2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 155104,
+      "chara_id": 182,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 155105,
+      "move_motion": "wiederbelebung_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 295102,
+      "chara_id": 295,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 1115,
+      "chara_id": 2,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 1116,
+      "move_motion": "featmelityales",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 251103,
+      "chara_id": 251,
+      "costume": 251003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 9111,
+      "chara_id": 128,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 9112,
+      "move_motion": "maouensendan_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 67109,
+      "chara_id": 93,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 67110,
+      "move_motion": "eikakuuhashou",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 180104,
+      "chara_id": 181,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 180105,
+      "move_motion": "engagesorcery",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 55109,
+      "chara_id": 105,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 55110,
+      "move_motion": "moukaisentsuikyaku_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 27107,
+      "chara_id": 28,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 27108,
+      "move_motion": "kogahazanagito",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 45106,
+      "chara_id": 45,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 45107,
+      "move_motion": "nlklkick2_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        11,
+        11,
+        11
+      ]
+    },
+    {
+      "id": 45108,
+      "chara_id": 45,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 45109,
+      "move_motion": "nlklkick2_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        11,
+        11,
+        11
+      ]
+    },
+    {
+      "id": 25109,
+      "chara_id": 317,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 25110,
+      "move_motion": "turarasyuriken",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 94105,
+      "chara_id": 313,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 94106,
+      "move_motion": "osouji",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 314102,
+      "chara_id": 316,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 314103,
+      "move_motion": "ainokidou_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 6110,
+      "chara_id": 6,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 6111,
+      "move_motion": "souryuugenshuuken2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 28109,
+      "chara_id": 28,
+      "costume": 28008,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 28110,
+      "move_motion": "recallmission1_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 60105,
+      "chara_id": 60,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 60106,
+      "move_motion": "twinscraper01_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 21108,
+      "chara_id": 52,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 21109,
+      "move_motion": "mystichammer",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 42106,
+      "chara_id": 104,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 42107,
+      "move_motion": "gekkanoran",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 19111,
+      "chara_id": 20,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 19112,
+      "move_motion": "tenrometsujinga",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 62107,
+      "chara_id": 62,
+      "costume": 62003,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 62107,
+      "chara_id": 63,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 62108,
+      "move_motion": "wildbreaker",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 62109,
+      "chara_id": 62,
+      "costume": 62007,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 258107,
+      "chara_id": 315,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 258108,
+      "move_motion": "kouarougourai",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 259105,
+      "chara_id": 260,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 259106,
+      "move_motion": "dankuutenshousen",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 301103,
+      "chara_id": 302,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 301104,
+      "move_motion": "kekkokubanshoujin",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 26106,
+      "chara_id": 26,
+      "costume": 26099,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 26107,
+      "chara_id": 26,
+      "costume": 26099,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 73108,
+      "chara_id": 79,
+      "costume": 79001,
+      "attachment": 79001,
+      "weapon": 79001,
+      "motion_copy": false,
+      "motion_id": 73109,
+      "move_motion": "neverwither",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 4105,
+      "chara_id": 74,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 4106,
+      "move_motion": "timelesscombination",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 253108,
+      "chara_id": 254,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 253109,
+      "move_motion": "sacrificenobody",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 27109,
+      "chara_id": 27,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0,
+        -0.03500000014901161,
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -0.5,
+        1
+      ]
+    },
+    {
+      "id": 28109,
+      "chara_id": 28,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        1,
+        -1,
+        1
+      ]
+    },
+    {
+      "id": 15106,
+      "chara_id": 69,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 15107,
+      "move_motion": "denergyblast",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 23104,
+      "chara_id": 154,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 23105,
+      "move_motion": "dropbedrock_targetmove",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 85108,
+      "chara_id": 295,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 85109,
+      "move_motion": "frostyhowling",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 209104,
+      "chara_id": 257,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 209105,
+      "move_motion": "jinraifuuretsu",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 24110,
+      "chara_id": 24,
+      "costume": 24098,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 1118,
+      "chara_id": 156,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 1119,
+      "move_motion": "mugenshakkyousen",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 2112,
+      "chara_id": 175,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 2113,
+      "move_motion": "beliefignition",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 34104,
+      "chara_id": 271,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 34105,
+      "move_motion": "ganzansekkaishou",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 25111,
+      "chara_id": 39,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 25112,
+      "move_motion": "senshibankou",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 31111,
+      "chara_id": 31,
+      "costume": 31008,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": true,
+      "motion_id": 0,
+      "move_motion": "",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 31111,
+      "chara_id": 36,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 31112,
+      "move_motion": "chishinshourai",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 33107,
+      "chara_id": 89,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 33108,
+      "move_motion": "iciclecomet",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 48108,
+      "chara_id": 98,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 48109,
+      "move_motion": "sougashuusaigeki",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 111108,
+      "chara_id": 277,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 111109,
+      "move_motion": "akiyurihutae",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 168103,
+      "chara_id": 169,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 168104,
+      "move_motion": "soukyuurenshouha",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 282104,
+      "chara_id": 283,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 282105,
+      "move_motion": "deadendblaze",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 50109,
+      "chara_id": 50,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 50110,
+      "move_motion": "koujinsouushou2",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 303103,
+      "chara_id": 304,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 303104,
+      "move_motion": "hikonjuuaiuchi",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    },
+    {
+      "id": 1120,
+      "chara_id": 2,
+      "costume": 0,
+      "attachment": 0,
+      "weapon": 0,
+      "motion_copy": false,
+      "motion_id": 1121,
+      "move_motion": "tirnanog",
+      "copy_offset": [
+        0
+      ],
+      "copy_offset_rot": [
+        0
+      ],
+      "copy_scale": [
+        0
+      ]
+    }
+  ]
+}

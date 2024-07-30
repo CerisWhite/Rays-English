@@ -1,0 +1,80 @@
+{
+  "xhash": "",
+  "mst_passports": [
+    {
+      "id": 10001,
+      "order": 1,
+      "name": "1日間無料お試しパスポート",
+      "description": "1日間クエストでガルド・経験値・強化素材・信頼度の獲得量が2倍になるパスポート。",
+      "description2": "1日間クエストでガルド・経験値・強化素材・信頼度の獲得量が2倍になるパスポート。"
+    },
+    {
+      "id": 10004,
+      "order": 4,
+      "name": "14日間パスポート",
+      "description": "おまけでプリズム50個、精鏡晶10個、キラル粒子160000個付き！\n<color=#ff4b4b>購入必要数</color>：",
+      "description2": "14日間クエストでガルド・経験値・強化素材・信頼度の獲得量が2倍になるパスポート。"
+    }
+  ],
+  "mst_passport_advantages": [
+    {
+      "id": 1,
+      "name": "ガルド2倍",
+      "icon": 1,
+      "advantage_type": 1,
+      "advantage_value": 2
+    },
+    {
+      "id": 2,
+      "name": "経験値2倍",
+      "icon": 2,
+      "advantage_type": 2,
+      "advantage_value": 2
+    },
+    {
+      "id": 3,
+      "name": "強化素材2倍",
+      "icon": 3,
+      "advantage_type": 3,
+      "advantage_value": 2
+    },
+    {
+      "id": 4,
+      "name": "術技素材2倍",
+      "icon": 4,
+      "advantage_type": 4,
+      "advantage_value": 2
+    },
+    {
+      "id": 5,
+      "name": "信頼度2倍",
+      "icon": 1,
+      "advantage_type": 5,
+      "advantage_value": 2
+    }
+  ],
+  "mst_advantage_items": [],
+  "mst_passport_announce": [
+    {
+      "id": 1999,
+      "name": "初回お試し無料！パスポート機能登場！",
+      "type": 1,
+      "start_date": "2016-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 2999,
+      "name": "ボトル汎用",
+      "type": 2,
+      "start_date": "2016-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    },
+    {
+      "id": 10001,
+      "name": "イベント復刻チケット",
+      "type": 3,
+      "start_date": "2016-12-31T15:00:00.0000000Z",
+      "end_date": "2099-12-31T14:59:59.0000000Z"
+    }
+  ]
+}

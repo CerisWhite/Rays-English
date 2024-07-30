@@ -1,0 +1,575 @@
+{
+  "xhash": "",
+  "mst_rays2_episodes": [
+    {
+      "id": 101,
+      "name": "序章　終わりの始まり　part1"
+    },
+    {
+      "id": 102,
+      "name": "序章　終わりの始まり　part2"
+    },
+    {
+      "id": 10001,
+      "name": "1話　死神来たる　part1"
+    },
+    {
+      "id": 10002,
+      "name": "1話　死神来たる　part2"
+    },
+    {
+      "id": 10003,
+      "name": "1話　死神来たる　part3"
+    },
+    {
+      "id": 10004,
+      "name": "2話　オリジナル・タナトス　part1"
+    },
+    {
+      "id": 10005,
+      "name": "2話　オリジナル・タナトス　part2"
+    },
+    {
+      "id": 10006,
+      "name": "2話　オリジナル・タナトス　part3"
+    },
+    {
+      "id": 10007,
+      "name": "3話　瓦礫にこだます声　part1"
+    },
+    {
+      "id": 10008,
+      "name": "3話　瓦礫にこだます声　part2"
+    },
+    {
+      "id": 10009,
+      "name": "3話　瓦礫にこだます声　part3"
+    },
+    {
+      "id": 10010,
+      "name": "3話　瓦礫にこだます声　part4"
+    },
+    {
+      "id": 10011,
+      "name": "4話　聖地の守護者　part1"
+    },
+    {
+      "id": 10012,
+      "name": "4話　聖地の守護者　part2"
+    },
+    {
+      "id": 10013,
+      "name": "4話　聖地の守護者　part3"
+    },
+    {
+      "id": 10014,
+      "name": "5話　幻の囁き　part1"
+    },
+    {
+      "id": 10015,
+      "name": "5話　幻の囁き　part2"
+    },
+    {
+      "id": 10016,
+      "name": "5話　幻の囁き　part3"
+    },
+    {
+      "id": 10017,
+      "name": "5話　幻の囁き　part4"
+    },
+    {
+      "id": 10018,
+      "name": "6話　想いを秘めし珠　part1"
+    },
+    {
+      "id": 10019,
+      "name": "6話　想いを秘めし珠　part2"
+    },
+    {
+      "id": 10020,
+      "name": "6話　想いを秘めし珠　part3"
+    },
+    {
+      "id": 10021,
+      "name": "7話　時の柱を渡りて　part1"
+    },
+    {
+      "id": 10022,
+      "name": "7話　時の柱を渡りて　part2"
+    },
+    {
+      "id": 10023,
+      "name": "7話　時の柱を渡りて　part3"
+    },
+    {
+      "id": 10024,
+      "name": "8話　不死王の記憶　part1"
+    },
+    {
+      "id": 10025,
+      "name": "8話　不死王の記憶　part2"
+    },
+    {
+      "id": 10026,
+      "name": "8話　不死王の記憶　part3"
+    },
+    {
+      "id": 10027,
+      "name": "8話　不死王の記憶　part4"
+    },
+    {
+      "id": 10028,
+      "name": "9話　誓いの理由　part1"
+    },
+    {
+      "id": 10029,
+      "name": "9話　誓いの理由　part2"
+    },
+    {
+      "id": 10030,
+      "name": "9話　誓いの理由　part3"
+    },
+    {
+      "id": 10031,
+      "name": "10話　虹の宵　part1"
+    },
+    {
+      "id": 10032,
+      "name": "10話　虹の宵　part2"
+    },
+    {
+      "id": 10033,
+      "name": "10話　虹の宵　part3"
+    },
+    {
+      "id": 10034,
+      "name": "10話　虹の宵　part4"
+    },
+    {
+      "id": 10035,
+      "name": "11話　刻むべき責任　part1"
+    },
+    {
+      "id": 10036,
+      "name": "11話　刻むべき責任　part2"
+    },
+    {
+      "id": 10037,
+      "name": "11話　刻むべき責任　part3"
+    },
+    {
+      "id": 10038,
+      "name": "12話　想い出を巡る物語　part1"
+    },
+    {
+      "id": 10039,
+      "name": "12話　想い出を巡る物語　part2"
+    },
+    {
+      "id": 10040,
+      "name": "12話　想い出を巡る物語　part3"
+    },
+    {
+      "id": 10041,
+      "name": "12話　想い出を巡る物語　part4"
+    },
+    {
+      "id": 10042,
+      "name": "12話　想い出を巡る物語　part5"
+    },
+    {
+      "id": 10043,
+      "name": "12話　想い出を巡る物語　part6"
+    },
+    {
+      "id": 10044,
+      "name": "12話　想い出を巡る物語　part7"
+    },
+    {
+      "id": 10045,
+      "name": "12話　想い出を巡る物語　part8"
+    }
+  ],
+  "mst_rays2_scenarios": [
+    {
+      "id": 10101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_000_001_3d.u3d/Msc_R1_000_001_3d"
+    },
+    {
+      "id": 10201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_000_002_2d.u3d/Msc_R1_000_002_2d"
+    },
+    {
+      "id": 1000101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_001_001_2d.u3d/Msc_R1_001_001_2d"
+    },
+    {
+      "id": 1000201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_001_002_2d.u3d/Msc_R1_001_002_2d"
+    },
+    {
+      "id": 1000301,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_001_003_3d.u3d/Msc_R1_001_003_3d"
+    },
+    {
+      "id": 1000401,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_002_001_2d.u3d/Msc_R1_002_001_2d"
+    },
+    {
+      "id": 1000501,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_002_002_3d.u3d/Msc_R1_002_002_3d"
+    },
+    {
+      "id": 1000601,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_002_003_3d.u3d/Msc_R1_002_003_3d"
+    },
+    {
+      "id": 1000701,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_003_001_2d.u3d/Msc_R1_003_001_2d"
+    },
+    {
+      "id": 1000801,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_003_002_2d.u3d/Msc_R1_003_002_2d"
+    },
+    {
+      "id": 1000901,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_003_003_2d.u3d/Msc_R1_003_003_2d"
+    },
+    {
+      "id": 1001001,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_003_004_3d.u3d/Msc_R1_003_004_3d"
+    },
+    {
+      "id": 1001101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_004_001_2d.u3d/Msc_R1_004_001_2d"
+    },
+    {
+      "id": 1001201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_004_002_3d.u3d/Msc_R1_004_002_3d"
+    },
+    {
+      "id": 1001301,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_004_003_3d.u3d/Msc_R1_004_003_3d"
+    },
+    {
+      "id": 1001401,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_005_001_2d.u3d/Msc_R1_005_001_2d"
+    },
+    {
+      "id": 1001501,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_005_002_2d.u3d/Msc_R1_005_002_2d"
+    },
+    {
+      "id": 1001601,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_005_003_2d.u3d/Msc_R1_005_003_2d"
+    },
+    {
+      "id": 1001701,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_005_004_3d.u3d/Msc_R1_005_004_3d"
+    },
+    {
+      "id": 1001801,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_006_001_3d.u3d/Msc_R1_006_001_3d"
+    },
+    {
+      "id": 1001901,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_006_002_3d.u3d/Msc_R1_006_002_3d"
+    },
+    {
+      "id": 1002001,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_006_003_2d.u3d/Msc_R1_006_003_2d"
+    },
+    {
+      "id": 1002101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_007_001_2d.u3d/Msc_R1_007_001_2d"
+    },
+    {
+      "id": 1002201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_007_002_2d.u3d/Msc_R1_007_002_2d"
+    },
+    {
+      "id": 1002301,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_007_003_3d.u3d/Msc_R1_007_003_3d"
+    },
+    {
+      "id": 1002401,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_008_001_2d.u3d/Msc_R1_008_001_2d"
+    },
+    {
+      "id": 1002501,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_008_002_3d.u3d/Msc_R1_008_002_3d"
+    },
+    {
+      "id": 1002601,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_008_003_2d.u3d/Msc_R1_008_003_2d"
+    },
+    {
+      "id": 1002701,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_008_004_2d.u3d/Msc_R1_008_004_2d"
+    },
+    {
+      "id": 1002801,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_009_001_2d.u3d/Msc_R1_009_001_2d"
+    },
+    {
+      "id": 1002901,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_009_002_2d.u3d/Msc_R1_009_002_2d"
+    },
+    {
+      "id": 1003001,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_009_003_3d.u3d/Msc_R1_009_003_3d"
+    },
+    {
+      "id": 1003101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_010_001_3d.u3d/Msc_R1_010_001_3d"
+    },
+    {
+      "id": 1003201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_010_002_2d.u3d/Msc_R1_010_002_2d"
+    },
+    {
+      "id": 1003301,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_010_003_2d.u3d/Msc_R1_010_003_2d"
+    },
+    {
+      "id": 1003401,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_010_004_2d.u3d/Msc_R1_010_004_2d"
+    },
+    {
+      "id": 1003501,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_011_001_2d.u3d/Msc_R1_011_001_2d"
+    },
+    {
+      "id": 1003601,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_011_002_2d.u3d/Msc_R1_011_002_2d"
+    },
+    {
+      "id": 1003701,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_011_003_3d.u3d/Msc_R1_011_003_3d"
+    },
+    {
+      "id": 1003801,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_001_2d.u3d/Msc_R1_012_001_2d"
+    },
+    {
+      "id": 1003901,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_002_2d.u3d/Msc_R1_012_002_2d"
+    },
+    {
+      "id": 1004001,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_003_2d.u3d/Msc_R1_012_003_2d"
+    },
+    {
+      "id": 1004101,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_004_2d.u3d/Msc_R1_012_004_2d"
+    },
+    {
+      "id": 1004201,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_005_3d.u3d/Msc_R1_012_005_3d"
+    },
+    {
+      "id": 1004301,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_006_3d.u3d/Msc_R1_012_006_3d"
+    },
+    {
+      "id": 1004401,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_007_2d.u3d/Msc_R1_012_007_2d"
+    },
+    {
+      "id": 1004501,
+      "scene_type": 1,
+      "play_order": 1,
+      "scenario_prefab_path": "Msc_R1_012_008_2d.u3d/Msc_R1_012_008_2d"
+    }
+  ],
+  "mst_rays2_scenario_banners": [
+    {
+      "id": 230410,
+      "banner_name": "230410",
+      "entrance_banner_name": "230410",
+      "entrance_text": "リコレクションランクアップでコダマたちのストーリーが開放！",
+      "start_date": "2023-04-10T03:00:00.0000000Z",
+      "end_date": "2023-05-10T04:59:59.0000000Z"
+    },
+    {
+      "id": 230510,
+      "banner_name": "230510",
+      "entrance_banner_name": "230510",
+      "entrance_text": "リコレクション本編２話配信！セイリオスが仲間に！",
+      "start_date": "2023-05-10T05:00:00.0000000Z",
+      "end_date": "2023-06-10T14:59:59.0000000Z"
+    },
+    {
+      "id": 230611,
+      "banner_name": "230611",
+      "entrance_banner_name": "230611",
+      "entrance_text": "リコレクション本編3話配信！リワンナが仲間に！",
+      "start_date": "2023-06-10T15:00:00.0000000Z",
+      "end_date": "2023-07-20T04:59:59.0000000Z"
+    },
+    {
+      "id": 230720,
+      "banner_name": "230720",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編4話配信！",
+      "start_date": "2023-07-20T05:00:00.0000000Z",
+      "end_date": "2023-09-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 230911,
+      "banner_name": "237201",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編5話配信！",
+      "start_date": "2023-09-11T05:00:00.0000000Z",
+      "end_date": "2023-10-10T04:59:59.0000000Z"
+    },
+    {
+      "id": 231010,
+      "banner_name": "230410",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編6話配信！",
+      "start_date": "2023-10-10T05:00:00.0000000Z",
+      "end_date": "2023-11-10T04:59:59.0000000Z"
+    },
+    {
+      "id": 231110,
+      "banner_name": "230410",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編7話配信！",
+      "start_date": "2023-11-10T05:00:00.0000000Z",
+      "end_date": "2023-12-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 231211,
+      "banner_name": "231211",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編8話配信！",
+      "start_date": "2023-12-11T05:00:00.0000000Z",
+      "end_date": "2024-01-10T04:59:59.0000000Z"
+    },
+    {
+      "id": 240110,
+      "banner_name": "230410",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編９話配信！",
+      "start_date": "2024-01-10T05:00:00.0000000Z",
+      "end_date": "2024-02-09T04:59:59.0000000Z"
+    },
+    {
+      "id": 240209,
+      "banner_name": "237201",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編１０話配信！",
+      "start_date": "2024-02-09T05:00:00.0000000Z",
+      "end_date": "2024-03-11T04:59:59.0000000Z"
+    },
+    {
+      "id": 240311,
+      "banner_name": "230410",
+      "entrance_banner_name": "230720",
+      "entrance_text": "リコレクション本編１１話配信！",
+      "start_date": "2024-03-11T05:00:00.0000000Z",
+      "end_date": "2024-04-10T05:00:00.0000000Z"
+    },
+    {
+      "id": 240410,
+      "banner_name": "231211",
+      "entrance_banner_name": "230720",
+      "entrance_text": "",
+      "start_date": "2024-04-10T05:00:00.0000000Z",
+      "end_date": "2099-12-30T15:00:00.0000000Z"
+    }
+  ]
+}

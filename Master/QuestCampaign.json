@@ -1,0 +1,105 @@
+{
+  "xhash": "",
+  "mst_campaigns": [
+    {
+      "id": 1,
+      "name": "信頼度2倍キャンペーン中！",
+      "sort_order": 80
+    },
+    {
+      "id": 2,
+      "name": "消費AP半減キャンペーン中！",
+      "sort_order": 50
+    },
+    {
+      "id": 3,
+      "name": "取得ガルド 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 4,
+      "name": "取得Exp 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 5,
+      "name": "消費AP半減キャンペーン中！",
+      "sort_order": 90
+    },
+    {
+      "id": 6,
+      "name": "消費AP 75％OFF！",
+      "sort_order": 0
+    },
+    {
+      "id": 7,
+      "name": "取得ガルド 1.5倍",
+      "sort_order": 0
+    },
+    {
+      "id": 8,
+      "name": "ドロップ確率 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 9,
+      "name": "ドロップ確率 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 10,
+      "name": "ドロップ確率 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 11,
+      "name": "ドロップ確率 2倍",
+      "sort_order": 0
+    },
+    {
+      "id": 100,
+      "name": "信頼度2倍キャンペーン中！",
+      "sort_order": 100
+    },
+    {
+      "id": 101,
+      "name": "スキルクエストAPキャンペーン中！",
+      "sort_order": 99
+    },
+    {
+      "id": 102,
+      "name": "カーニバル開催中！",
+      "sort_order": 98
+    },
+    {
+      "id": 103,
+      "name": "信頼度2倍キャンペーン中！",
+      "sort_order": 100
+    },
+    {
+      "id": 104,
+      "name": "ベストヒーローズ開催中！",
+      "sort_order": 100
+    },
+    {
+      "id": 105,
+      "name": "ミラクル曜日　開催中！",
+      "sort_order": 100
+    },
+    {
+      "id": 106,
+      "name": "消費AP 75％OFF！",
+      "sort_order": 0
+    },
+    {
+      "id": 107,
+      "name": "信頼度5倍キャンペーン中！",
+      "sort_order": 100
+    },
+    {
+      "id": 108,
+      "name": "信頼度10倍キャンペーン中！",
+      "sort_order": 100
+    }
+  ]
+}

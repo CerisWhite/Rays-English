@@ -1,0 +1,9294 @@
+{
+  "xhash": "",
+  "mst_chara_talk": [
+    {
+      "id": 2,
+      "mst_chara_id": 1,
+      "mst_chara_grp": 12,
+      "mst_chara_ids": [
+        1
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 1,
+      "text": "完璧な準備をするためには、\n知識が必要なんだ。\nだから、本は手放せないよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 3,
+      "mst_chara_id": 1,
+      "mst_chara_grp": 13,
+      "mst_chara_ids": [
+        1
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 1,
+      "text": "世界を救うなんて、大変な事だよな",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 4,
+      "mst_chara_id": 1,
+      "mst_chara_grp": 14,
+      "mst_chara_ids": [
+        1
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 1,
+      "text": "この旅は、魔鏡の光に、誘われているんだ…。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 5,
+      "mst_chara_id": 1,
+      "mst_chara_grp": 15,
+      "mst_chara_ids": [
+        1
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 1,
+      "text": "ミリーナは、\n人の世話をするのが好きだよなぁ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 6,
+      "mst_chara_id": 2,
+      "mst_chara_grp": 21,
+      "mst_chara_ids": [
+        2
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 2,
+      "text": "私も役に立てるように頑張らなきゃ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 7,
+      "mst_chara_id": 2,
+      "mst_chara_grp": 22,
+      "mst_chara_ids": [
+        2
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 2,
+      "text": "疲れたら、ちゃんと休んでね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 8,
+      "mst_chara_id": 2,
+      "mst_chara_grp": 23,
+      "mst_chara_ids": [
+        2
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 2,
+      "text": "一緒になら、どこまでも行けるわ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 9,
+      "mst_chara_id": 2,
+      "mst_chara_grp": 24,
+      "mst_chara_ids": [
+        2
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 2,
+      "text": "絶対に、この世界を救おうね。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 10,
+      "mst_chara_id": 2,
+      "mst_chara_grp": 25,
+      "mst_chara_ids": [
+        2
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 2,
+      "text": "イクスは何だかんだ言っても、\nやる時はやってくれるのよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 11,
+      "mst_chara_id": 5,
+      "mst_chara_grp": 51,
+      "mst_chara_ids": [
+        5
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 5,
+      "text": "簡単にがっつりお金が\n手に入る方法ってないかなあ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 12,
+      "mst_chara_id": 5,
+      "mst_chara_grp": 52,
+      "mst_chara_ids": [
+        5
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 5,
+      "text": "なーにしけた顔してんのよ？\n元気出しなさいよ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 13,
+      "mst_chara_id": 5,
+      "mst_chara_grp": 53,
+      "mst_chara_ids": [
+        5
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 5,
+      "text": "今日はなんかいいことがある気がしない？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 14,
+      "mst_chara_id": 5,
+      "mst_chara_grp": 54,
+      "mst_chara_ids": [
+        5
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 5,
+      "text": "おつかれ～！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 15,
+      "mst_chara_id": 5,
+      "mst_chara_grp": 55,
+      "mst_chara_ids": [
+        5
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 5,
+      "text": "スタンって、見ていてやんなきゃって\n気持ちになるのよねぇ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 16,
+      "mst_chara_id": 14,
+      "mst_chara_grp": 141,
+      "mst_chara_ids": [
+        14
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 14,
+      "text": "髪を切って、今までの俺とはさよならしたんだ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 17,
+      "mst_chara_id": 14,
+      "mst_chara_grp": 142,
+      "mst_chara_ids": [
+        14
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 14,
+      "text": "何か、俺にできることないか。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 18,
+      "mst_chara_id": 14,
+      "mst_chara_grp": 143,
+      "mst_chara_ids": [
+        14
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 14,
+      "text": "待ってたぜ、今日はどうするんだ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 19,
+      "mst_chara_id": 14,
+      "mst_chara_grp": 144,
+      "mst_chara_ids": [
+        14
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 14,
+      "text": "旅を通じて、\n少しは変われたのかなって思うんだ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 20,
+      "mst_chara_id": 14,
+      "mst_chara_grp": 145,
+      "mst_chara_ids": [
+        14
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 14,
+      "text": "ティアは俺が変わるのを、\nずっと見ていてくれたんだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 21,
+      "mst_chara_id": 19,
+      "mst_chara_grp": 191,
+      "mst_chara_ids": [
+        19
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 19,
+      "text": "ん？どうかしたか？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 22,
+      "mst_chara_id": 19,
+      "mst_chara_grp": 192,
+      "mst_chara_ids": [
+        19
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 19,
+      "text": "ま、あんまり気を張りすぎるなってこった。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 23,
+      "mst_chara_id": 19,
+      "mst_chara_grp": 193,
+      "mst_chara_ids": [
+        19
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 19,
+      "text": "人生ってのは\n何が起こるかほんとわからねえよな。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 24,
+      "mst_chara_id": 19,
+      "mst_chara_grp": 194,
+      "mst_chara_ids": [
+        19
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 19,
+      "text": "法で裁けない悪党、おまえならどう裁く？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 25,
+      "mst_chara_id": 19,
+      "mst_chara_grp": 195,
+      "mst_chara_ids": [
+        19
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 19,
+      "text": "ラピードのやつは\n誰彼かまわず尻尾を振ったりしねえんだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 26,
+      "mst_chara_id": 20,
+      "mst_chara_grp": 201,
+      "mst_chara_ids": [
+        20
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 20,
+      "text": "ワンワンワン！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 28,
+      "mst_chara_id": 20,
+      "mst_chara_grp": 203,
+      "mst_chara_ids": [
+        20
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 20,
+      "text": "ワオン？…ワフゥ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 29,
+      "mst_chara_id": 20,
+      "mst_chara_grp": 204,
+      "mst_chara_ids": [
+        20
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 20,
+      "text": "ワンワン！ワフッ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 30,
+      "mst_chara_id": 20,
+      "mst_chara_grp": 205,
+      "mst_chara_ids": [
+        20
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 20,
+      "text": "ワン！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 31,
+      "mst_chara_id": 25,
+      "mst_chara_grp": 251,
+      "mst_chara_ids": [
+        25
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 25,
+      "text": "カニタマ…食べに行こう？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 32,
+      "mst_chara_id": 25,
+      "mst_chara_grp": 252,
+      "mst_chara_ids": [
+        25
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 25,
+      "text": "あのね、お花つんだの。\nあなたに似合うと思って…。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 33,
+      "mst_chara_id": 25,
+      "mst_chara_grp": 253,
+      "mst_chara_ids": [
+        25
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 25,
+      "text": "アスベルはカレー、シェリアは焼き鳥丼、\nあなたは何が好き？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 34,
+      "mst_chara_id": 25,
+      "mst_chara_grp": 254,
+      "mst_chara_ids": [
+        25
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 25,
+      "text": "これからお花の種を植えに行くんだ…。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 35,
+      "mst_chara_id": 25,
+      "mst_chara_grp": 255,
+      "mst_chara_ids": [
+        25
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 25,
+      "text": "アスベルが言ってくれた…。\n何があっても守ってくれるって…。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 36,
+      "mst_chara_id": 27,
+      "mst_chara_grp": 271,
+      "mst_chara_ids": [
+        27
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 27,
+      "text": "痛い所があったら、すぐに言ってね。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 37,
+      "mst_chara_id": 27,
+      "mst_chara_grp": 272,
+      "mst_chara_ids": [
+        27
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 27,
+      "text": "僕が力になれることってあるかな？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 38,
+      "mst_chara_id": 27,
+      "mst_chara_grp": 273,
+      "mst_chara_ids": [
+        27
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 27,
+      "text": "自分の手の届く範囲の事を\nしっかりやってみようと思うんだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 39,
+      "mst_chara_id": 27,
+      "mst_chara_grp": 274,
+      "mst_chara_ids": [
+        27
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 27,
+      "text": "困ったことはない？いつでも相談に乗るよ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 40,
+      "mst_chara_id": 27,
+      "mst_chara_grp": 275,
+      "mst_chara_ids": [
+        27
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 27,
+      "text": "やらなきゃ、僕のなすべきことを。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 41,
+      "mst_chara_id": 31,
+      "mst_chara_grp": 311,
+      "mst_chara_ids": [
+        31
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 31,
+      "text": "オレ、行ってみたい遺跡がまだ沢山あるんだ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 42,
+      "mst_chara_id": 31,
+      "mst_chara_grp": 312,
+      "mst_chara_ids": [
+        31
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 31,
+      "text": "古代の歴史には、\n人と天族が幸せに暮らす知識が\n眠ってるって信じてるから。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 43,
+      "mst_chara_id": 31,
+      "mst_chara_grp": 313,
+      "mst_chara_ids": [
+        31
+      ],
+      "chara_face": [
+        4
+      ],
+      "talk_chara_id": 31,
+      "text": "自分で見つけるのが、\n探検の醍醐味じゃないか！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 44,
+      "mst_chara_id": 31,
+      "mst_chara_grp": 314,
+      "mst_chara_ids": [
+        31
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 31,
+      "text": "オレの夢は、伝説の時代みたいに、\n人と天族が幸せに暮らす方法を見つけること。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 45,
+      "mst_chara_id": 31,
+      "mst_chara_grp": 315,
+      "mst_chara_ids": [
+        31
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 31,
+      "text": "はぁ…。ミクリオって意地っ張りなんだよ。\n確かにここぞって時は頼りになるけど…。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 46,
+      "mst_chara_id": 15,
+      "mst_chara_grp": 151,
+      "mst_chara_ids": [
+        15
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 15,
+      "text": "おや、私に何か御用ですか？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 47,
+      "mst_chara_id": 15,
+      "mst_chara_grp": 152,
+      "mst_chara_ids": [
+        15
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 15,
+      "text": "やれやれ、若い方は元気なことですねえ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 48,
+      "mst_chara_id": 15,
+      "mst_chara_grp": 153,
+      "mst_chara_ids": [
+        15
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 15,
+      "text": "何か御用ですか？\n私もそれほど暇ではないので手短に頼みますよ",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 49,
+      "mst_chara_id": 15,
+      "mst_chara_grp": 154,
+      "mst_chara_ids": [
+        15
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 15,
+      "text": "ふむ、話し相手なら私より適した者が\nいそうなものですが…\nまあいいでしょう",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 50,
+      "mst_chara_id": 15,
+      "mst_chara_grp": 155,
+      "mst_chara_ids": [
+        15
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 15,
+      "text": "誰にでも何かしら取り柄はあるものですよ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 51,
+      "mst_chara_id": 35,
+      "mst_chara_grp": 351,
+      "mst_chara_ids": [
+        35
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 35,
+      "text": "どうかした？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 52,
+      "mst_chara_id": 35,
+      "mst_chara_grp": 352,
+      "mst_chara_ids": [
+        35
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 35,
+      "text": "眠れないの？\n眠るのも重要な仕事よ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 53,
+      "mst_chara_id": 35,
+      "mst_chara_grp": 353,
+      "mst_chara_ids": [
+        35
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 35,
+      "text": "考え事をしたいの。\n悪いけど、一人にしてくれないかしら",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 54,
+      "mst_chara_id": 35,
+      "mst_chara_grp": 354,
+      "mst_chara_ids": [
+        35
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 35,
+      "text": "本気で変わりたいと思うなら…\n変われるかもしれないわ。\n…彼のように",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 55,
+      "mst_chara_id": 35,
+      "mst_chara_grp": 355,
+      "mst_chara_ids": [
+        35
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 35,
+      "text": "べ、別に可愛いと思ってファッション誌\n見てたんじゃないの。情報は重要でしょ？\nだから、その…秘密にして…",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 32001,
+      "mst_chara_id": 32,
+      "mst_chara_grp": 321,
+      "mst_chara_ids": [
+        32
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 32,
+      "text": "どこかへ行くならちゃんと食事をとってから\n行くべきだ。\n長丁場になるかもしれないからね",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 32002,
+      "mst_chara_id": 32,
+      "mst_chara_grp": 322,
+      "mst_chara_ids": [
+        32
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 32,
+      "text": "自分が育ったり、今暮らしている場所を大切に\n思う気持ちは、僕らも人間も同じなんだろう",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 32003,
+      "mst_chara_id": 32,
+      "mst_chara_grp": 323,
+      "mst_chara_ids": [
+        32
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 32,
+      "text": "この旅は、興味深いものに溢れている…",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 32004,
+      "mst_chara_id": 32,
+      "mst_chara_grp": 324,
+      "mst_chara_ids": [
+        32
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 32,
+      "text": "遺物の目利きなら、スレイには負けないさ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 32005,
+      "mst_chara_id": 32,
+      "mst_chara_grp": 325,
+      "mst_chara_ids": [
+        32
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 32,
+      "text": "スレイはたまに突飛なことを言うんだ。\nそれを指摘してやるのは、僕の役割だと\n思ってるよ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 36001,
+      "mst_chara_id": 36,
+      "mst_chara_grp": 361,
+      "mst_chara_ids": [
+        36
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 36,
+      "text": "何か用？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 36002,
+      "mst_chara_id": 36,
+      "mst_chara_grp": 362,
+      "mst_chara_ids": [
+        36
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 36,
+      "text": "言っとくわ。\n私は後悔したくないし、させたくもない",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 36003,
+      "mst_chara_id": 36,
+      "mst_chara_grp": 363,
+      "mst_chara_ids": [
+        36
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 36,
+      "text": "忍耐力とかワタシの１３番目に嫌いな言葉ね",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 36004,
+      "mst_chara_id": 36,
+      "mst_chara_grp": 364,
+      "mst_chara_ids": [
+        36
+      ],
+      "chara_face": [
+        6
+      ],
+      "talk_chara_id": 36,
+      "text": "ワタシは人間が嫌い。自分本位で感情的。\n困ったときだけワタシたちに頼ってきて…\nホント面倒",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 36005,
+      "mst_chara_id": 36,
+      "mst_chara_grp": 365,
+      "mst_chara_ids": [
+        36
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 36,
+      "text": "暇つぶしにはなりそうね",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 7001,
+      "mst_chara_id": 7,
+      "mst_chara_grp": 71,
+      "mst_chara_ids": [
+        7
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 7,
+      "text": "はいな！\nメルディが何か用か？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 7002,
+      "mst_chara_id": 7,
+      "mst_chara_grp": 72,
+      "mst_chara_ids": [
+        7
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 7,
+      "text": "クィッキー占いはよく当たるよー！\nやってみるか？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 7003,
+      "mst_chara_id": 7,
+      "mst_chara_grp": 73,
+      "mst_chara_ids": [
+        7
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 7,
+      "text": "メルディ、インフェリアの言葉\nたくさん教えてもらった",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 7004,
+      "mst_chara_id": 7,
+      "mst_chara_grp": 74,
+      "mst_chara_ids": [
+        7
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 7,
+      "text": "お話してよ！\nワクワクのお話！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 7005,
+      "mst_chara_id": 7,
+      "mst_chara_grp": 75,
+      "mst_chara_ids": [
+        7
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 7,
+      "text": "キールはぶっきらぼー。\nでも優しいとこもあるよぅ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 8001,
+      "mst_chara_id": 8,
+      "mst_chara_grp": 81,
+      "mst_chara_ids": [
+        8
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 8,
+      "text": "今度、勉強を教えてやろうか？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 8002,
+      "mst_chara_id": 8,
+      "mst_chara_grp": 82,
+      "mst_chara_ids": [
+        8
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 8,
+      "text": "ぼくは自分の説を、全世界に認めさせてやる！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 8003,
+      "mst_chara_id": 8,
+      "mst_chara_grp": 83,
+      "mst_chara_ids": [
+        8
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 8,
+      "text": "世界を救う為に、不可知なるものを学ぶ。\nこれが、ぼくの役割さ",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 8004,
+      "mst_chara_id": 8,
+      "mst_chara_grp": 84,
+      "mst_chara_ids": [
+        8
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 8,
+      "text": "いつか、この風景が懐かしくなる時も\nくるかもしれないな…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 8005,
+      "mst_chara_id": 8,
+      "mst_chara_grp": 85,
+      "mst_chara_ids": [
+        8
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 8,
+      "text": "メルディはすぐに歌ったり踊ったりして…\n騒がしいやつなんだ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 28001,
+      "mst_chara_id": 28,
+      "mst_chara_grp": 281,
+      "mst_chara_ids": [
+        28
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 28,
+      "text": "私は使命を果たす、どんなことがあろうとも！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 28002,
+      "mst_chara_id": 28,
+      "mst_chara_grp": 282,
+      "mst_chara_ids": [
+        28
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 28,
+      "text": "決断に必要なのは時間や状況ではない。\nお前の意志だ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 28003,
+      "mst_chara_id": 28,
+      "mst_chara_grp": 283,
+      "mst_chara_ids": [
+        28
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 28,
+      "text": "一人一人、様々な個性をみなが持っている。\nだから人間というものは、実に興味深い\n存在なのだ",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 28004,
+      "mst_chara_id": 28,
+      "mst_chara_grp": 284,
+      "mst_chara_ids": [
+        28
+      ],
+      "chara_face": [
+        4
+      ],
+      "talk_chara_id": 28,
+      "text": "どうした？\n元気が無いようだが",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 28005,
+      "mst_chara_id": 28,
+      "mst_chara_grp": 285,
+      "mst_chara_ids": [
+        28
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 28,
+      "text": "ジュードは誠実かつ面倒見の良い性格だ。\nお前もそう思わないか？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 29001,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 291,
+      "mst_chara_ids": [
+        29
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 29,
+      "text": "わたし…\nあの、だいじょうぶ…です",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 29002,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 292,
+      "mst_chara_ids": [
+        29
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 29,
+      "text": "わたしに何か御用でしょうか？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 29003,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 293,
+      "mst_chara_ids": [
+        29
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 29,
+      "text": "子ども扱いされるのは…\n嫌なんです…",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 29004,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 294,
+      "mst_chara_ids": [
+        29
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 29,
+      "text": "わたし…みんなと一緒にいたから、\n友達がなんなのかわかったんです",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 29005,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 295,
+      "mst_chara_ids": [
+        1004,
+        29
+      ],
+      "chara_face": [
+        0,
+        1
+      ],
+      "talk_chara_id": 29,
+      "text": "ローエンはとても頼りになりますよ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 29006,
+      "mst_chara_id": 29,
+      "mst_chara_grp": 295,
+      "mst_chara_ids": [
+        1004,
+        29
+      ],
+      "chara_face": [
+        1,
+        0
+      ],
+      "talk_chara_id": 1004,
+      "text": "ちょ～っと、ボケてる所もあるけどね！",
+      "voice_cue": "14_05S"
+    },
+    {
+      "id": 40001,
+      "mst_chara_id": 40,
+      "mst_chara_grp": 401,
+      "mst_chara_ids": [
+        40
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 40,
+      "text": "ん？ どした？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 40002,
+      "mst_chara_id": 40,
+      "mst_chara_grp": 402,
+      "mst_chara_ids": [
+        40
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 40,
+      "text": "腹減った～。\nそれ食ってもいいか？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 40003,
+      "mst_chara_id": 40,
+      "mst_chara_grp": 403,
+      "mst_chara_ids": [
+        40
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 40,
+      "text": "オレ、怖い話って苦手なんだよな～。\n誰にも言うなよ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 40004,
+      "mst_chara_id": 40,
+      "mst_chara_grp": 404,
+      "mst_chara_ids": [
+        40
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 40,
+      "text": "オレの父さんってどんな男だったんだろう…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 40005,
+      "mst_chara_id": 40,
+      "mst_chara_grp": 405,
+      "mst_chara_ids": [
+        40
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 40,
+      "text": "どんなに練習したって、ファラみたいに\nうまいオムレツは作れねえな",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 41001,
+      "mst_chara_id": 41,
+      "mst_chara_grp": 411,
+      "mst_chara_ids": [
+        41
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 41,
+      "text": "困ったことがあったら何でも言ってね ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 41002,
+      "mst_chara_id": 41,
+      "mst_chara_grp": 412,
+      "mst_chara_ids": [
+        41
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 41,
+      "text": "冒険って大変だけど、\n楽しいこともたくさんあるよね ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 41003,
+      "mst_chara_id": 41,
+      "mst_chara_grp": 413,
+      "mst_chara_ids": [
+        41
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 41,
+      "text": "お料理だったらわたしに任せて ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 41004,
+      "mst_chara_id": 41,
+      "mst_chara_grp": 414,
+      "mst_chara_ids": [
+        41
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 41,
+      "text": "世界のどこかに、わたしが役に立てる場所が\nきっとある…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 41005,
+      "mst_chara_id": 41,
+      "mst_chara_grp": 415,
+      "mst_chara_ids": [
+        41
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 41,
+      "text": "リッドとは生まれた時から\nずっと一緒に育ってきたの",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 43001,
+      "mst_chara_id": 43,
+      "mst_chara_grp": 431,
+      "mst_chara_ids": [
+        43
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 43,
+      "text": "気持ちで負けてたら、勝てるものも勝てないぞ",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 43002,
+      "mst_chara_id": 43,
+      "mst_chara_grp": 432,
+      "mst_chara_ids": [
+        43
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 43,
+      "text": "あきらめずに話しかけていれば、\nいつか仲良くなれるもんさ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 43003,
+      "mst_chara_id": 43,
+      "mst_chara_grp": 433,
+      "mst_chara_ids": [
+        43
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 43,
+      "text": "さあー！ 今日も張り切って行こう！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 43004,
+      "mst_chara_id": 43,
+      "mst_chara_grp": 434,
+      "mst_chara_ids": [
+        43
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 43,
+      "text": "ちゃんとメシ食ってるか？\n食うもん食わないと元気でないぞ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 43005,
+      "mst_chara_id": 43,
+      "mst_chara_grp": 435,
+      "mst_chara_ids": [
+        43
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 43,
+      "text": "腹減ったなぁ…\nルーティ、なんか食べる物持ってないかな？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 6001,
+      "mst_chara_id": 6,
+      "mst_chara_grp": 61,
+      "mst_chara_ids": [
+        6
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 6,
+      "text": "なんだ？\n用があるなら早く言え",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 6002,
+      "mst_chara_id": 6,
+      "mst_chara_grp": 62,
+      "mst_chara_ids": [
+        6
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 6,
+      "text": "僕に構うな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 6003,
+      "mst_chara_id": 6,
+      "mst_chara_grp": 63,
+      "mst_chara_ids": [
+        6
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 6,
+      "text": "邪魔だ、そこをどけ",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 6004,
+      "mst_chara_id": 6,
+      "mst_chara_grp": 64,
+      "mst_chara_ids": [
+        6
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 6,
+      "text": "ふん。\nなぜ僕がこんなことを…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 6005,
+      "mst_chara_id": 6,
+      "mst_chara_grp": 65,
+      "mst_chara_ids": [
+        6
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 6,
+      "text": "…マリアンはどうしているだろうか。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 46002,
+      "mst_chara_id": 46,
+      "mst_chara_grp": 4602,
+      "mst_chara_ids": [
+        46
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 46,
+      "text": "次はどこへ行くんだ ？\n楽しみになってきた ！　",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 46003,
+      "mst_chara_id": 46,
+      "mst_chara_grp": 4603,
+      "mst_chara_ids": [
+        46
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 46,
+      "text": "リアラを護れる力を、手に入れたいんだ… ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 46004,
+      "mst_chara_id": 46,
+      "mst_chara_grp": 4604,
+      "mst_chara_ids": [
+        46
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 46,
+      "text": "剣の修行に付き合ってくれないか ？\n強くなりたいんだ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 46005,
+      "mst_chara_id": 46,
+      "mst_chara_grp": 4605,
+      "mst_chara_ids": [
+        46
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 46,
+      "text": "精神力を鍛えなきゃな。\nスピリッツってやつだよ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 47001,
+      "mst_chara_id": 47,
+      "mst_chara_grp": 4701,
+      "mst_chara_ids": [
+        47
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 47,
+      "text": "カイルは頑張ってる。\n私も……",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 47002,
+      "mst_chara_id": 47,
+      "mst_chara_grp": 4702,
+      "mst_chara_ids": [
+        47
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 47,
+      "text": "この世界の英雄は……貴方なのかな ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 47003,
+      "mst_chara_id": 47,
+      "mst_chara_grp": 4703,
+      "mst_chara_ids": [
+        47
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 47,
+      "text": "いろんな人たちがいるのね ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 47004,
+      "mst_chara_id": 47,
+      "mst_chara_grp": 4704,
+      "mst_chara_ids": [
+        47
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 47,
+      "text": "カイルはカイル。\n無理して背伸びする必要はないんだけどな……",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 47005,
+      "mst_chara_id": 47,
+      "mst_chara_grp": 4705,
+      "mst_chara_ids": [
+        47
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 47,
+      "text": "私が役に立てることがあったら、\nなんでも言ってね ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 9001,
+      "mst_chara_id": 9,
+      "mst_chara_grp": 901,
+      "mst_chara_ids": [
+        9
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 9,
+      "text": "この調子で元気出していこー ！ ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 9002,
+      "mst_chara_id": 9,
+      "mst_chara_grp": 902,
+      "mst_chara_ids": [
+        9
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 9,
+      "text": "まちがえたら、やり直せばいいんじゃないかな ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 9003,
+      "mst_chara_id": 9,
+      "mst_chara_grp": 903,
+      "mst_chara_ids": [
+        9
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 9,
+      "text": "頼りにしてるぜ、おまえのこと ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 9004,
+      "mst_chara_id": 9,
+      "mst_chara_grp": 904,
+      "mst_chara_ids": [
+        9
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 9,
+      "text": "焦らず、少しずつがんばっていこうな ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 9005,
+      "mst_chara_id": 9,
+      "mst_chara_grp": 905,
+      "mst_chara_ids": [
+        9
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 9,
+      "text": "信頼できる仲間がいると、\n安心して戦えるんだぜ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 11001,
+      "mst_chara_id": 11,
+      "mst_chara_grp": 1101,
+      "mst_chara_ids": [
+        11
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 11,
+      "text": "おぉ ！ 面白い物を持っているな。\nどこかの遺跡で発掘された物か ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 11002,
+      "mst_chara_id": 11,
+      "mst_chara_grp": 1102,
+      "mst_chara_ids": [
+        11
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 11,
+      "text": "顔色がいいわ。\n調子がいいようね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 11003,
+      "mst_chara_id": 11,
+      "mst_chara_grp": 1103,
+      "mst_chara_ids": [
+        11
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 11,
+      "text": "幸せって意外と近くにあるものよ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 11004,
+      "mst_chara_id": 11,
+      "mst_chara_grp": 1104,
+      "mst_chara_ids": [
+        11
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 11,
+      "text": "いい天気ね。\nちょっとお散歩に付き合ってくれないかしら。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 11005,
+      "mst_chara_id": 11,
+      "mst_chara_grp": 1105,
+      "mst_chara_ids": [
+        11
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 11,
+      "text": "ジーニアスはああ見えて、\n頼もしいところもあるのよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 21001,
+      "mst_chara_id": 21,
+      "mst_chara_grp": 211,
+      "mst_chara_ids": [
+        21
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 21,
+      "text": "あたしに不可能なんてないんだから ",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 21002,
+      "mst_chara_id": 21,
+      "mst_chara_grp": 212,
+      "mst_chara_ids": [
+        21
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 21,
+      "text": "他の人より出来ちゃうとね、\n物足りないと思う時があるのよ。\n毎日が ",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 21003,
+      "mst_chara_id": 21,
+      "mst_chara_grp": 213,
+      "mst_chara_ids": [
+        21
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 21,
+      "text": "研究邪魔する程なんだから、\nつまんない用なら承知しないわよ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 21004,
+      "mst_chara_id": 21,
+      "mst_chara_grp": 214,
+      "mst_chara_ids": [
+        21
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 21,
+      "text": "食事と研究、どっちか選べって言われたら\n考えるまでもないわ",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 21005,
+      "mst_chara_id": 21,
+      "mst_chara_grp": 215,
+      "mst_chara_ids": [
+        21
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 21,
+      "text": "エステルってお話書くのが趣味なのよね",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 42001,
+      "mst_chara_id": 42,
+      "mst_chara_grp": 421,
+      "mst_chara_ids": [
+        42
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 42,
+      "text": "<size=26>将来性バツグンの子がたくさん\nいるじゃないの～</size>\n<size=18>野郎はどうでもいいわ</size>",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 42002,
+      "mst_chara_id": 42,
+      "mst_chara_grp": 422,
+      "mst_chara_ids": [
+        42
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 42,
+      "text": "たのむぜ大将、あんたにかかってるんだぜ ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 42003,
+      "mst_chara_id": 42,
+      "mst_chara_grp": 423,
+      "mst_chara_ids": [
+        42
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 42,
+      "text": "夢は持ってるか ？\nま、がんばんな",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 42004,
+      "mst_chara_id": 42,
+      "mst_chara_grp": 424,
+      "mst_chara_ids": [
+        42
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 42,
+      "text": "お前も油断するとすぐおっさんになっちゃうぜ ？\n俺はもっとイカすおっさんになってるから心配いらんけどね",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 42005,
+      "mst_chara_id": 42,
+      "mst_chara_grp": 425,
+      "mst_chara_ids": [
+        42
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 42,
+      "text": "男なら秘密のひとつやふたつ、持たなきゃな ？\n言ってみ ？　秘密かどうか判定してやっから",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 68001,
+      "mst_chara_id": 68,
+      "mst_chara_grp": 6801,
+      "mst_chara_ids": [
+        68
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 68,
+      "text": "俺には俺のやり方がある。\n指図を受ける気はない……",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 68002,
+      "mst_chara_id": 68,
+      "mst_chara_grp": 6802,
+      "mst_chara_ids": [
+        68
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 68,
+      "text": "この世界の状況が把握できるまでは\nここにいるつもりだ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 68003,
+      "mst_chara_id": 68,
+      "mst_chara_grp": 6803,
+      "mst_chara_ids": [
+        68
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 68,
+      "text": "世界の破滅を指を咥えて\n見ているわけにはいくまい。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 68004,
+      "mst_chara_id": 68,
+      "mst_chara_grp": 6804,
+      "mst_chara_ids": [
+        68
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 68,
+      "text": "中途半端な慈悲は相手を苦しませるだけだ。\n倒すなら一瞬で済ませろ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 68005,
+      "mst_chara_id": 68,
+      "mst_chara_grp": 6805,
+      "mst_chara_ids": [
+        68
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 68,
+      "text": "エミルは今の状況を把握しているのか ？\nここで過度な干渉をする気はないが……",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 37001,
+      "mst_chara_id": 37,
+      "mst_chara_grp": 3701,
+      "mst_chara_ids": [
+        37
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 37,
+      "text": "しばらくは、手を貸すわ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 37002,
+      "mst_chara_id": 37,
+      "mst_chara_grp": 3702,
+      "mst_chara_ids": [
+        37
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 37,
+      "text": "あたしの力が必要な時は、言いなさい。\n……手を貸すって決めたから。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 37003,
+      "mst_chara_id": 37,
+      "mst_chara_grp": 3703,
+      "mst_chara_ids": [
+        37
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 37,
+      "text": "余計な面倒事は御免よ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 37004,
+      "mst_chara_id": 37,
+      "mst_chara_grp": 3704,
+      "mst_chara_ids": [
+        37
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 37,
+      "text": "武器の手入れを怠らないこと。\n自分の命が大事なら、ね。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 37005,
+      "mst_chara_id": 37,
+      "mst_chara_grp": 3705,
+      "mst_chara_ids": [
+        37
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 37,
+      "text": "ライフィセットを知らない ？\n……あの子ったら。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 10001,
+      "mst_chara_id": 10,
+      "mst_chara_grp": 1001,
+      "mst_chara_ids": [
+        10
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 10,
+      "text": "この間、転んで壁に穴をあけちゃったんだよ…",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 10002,
+      "mst_chara_id": 10,
+      "mst_chara_grp": 1002,
+      "mst_chara_ids": [
+        10
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 10,
+      "text": "みんながみんなを思いやって生きていければいいのにね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 10003,
+      "mst_chara_id": 10,
+      "mst_chara_grp": 1003,
+      "mst_chara_ids": [
+        10
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 10,
+      "text": "無茶しちゃダメだよ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 10004,
+      "mst_chara_id": 10,
+      "mst_chara_grp": 1004,
+      "mst_chara_ids": [
+        10
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 10,
+      "text": "たまにはのんびりしたいね。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 10005,
+      "mst_chara_id": 10,
+      "mst_chara_grp": 1005,
+      "mst_chara_ids": [
+        10
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 10,
+      "text": "この首飾りね、ロイドが作ってくれたんだよ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 56001,
+      "mst_chara_id": 56,
+      "mst_chara_grp": 5601,
+      "mst_chara_ids": [
+        56
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 56,
+      "text": "命を粗末にするんじゃないぞ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 56002,
+      "mst_chara_id": 56,
+      "mst_chara_grp": 5602,
+      "mst_chara_ids": [
+        56
+      ],
+      "chara_face": [
+        6
+      ],
+      "talk_chara_id": 56,
+      "text": "ここは……思いのほか女性が多いようだな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 56003,
+      "mst_chara_id": 56,
+      "mst_chara_grp": 5603,
+      "mst_chara_ids": [
+        56
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 56,
+      "text": "強くなったと思ったときが一番危ないんだぜ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 56004,
+      "mst_chara_id": 56,
+      "mst_chara_grp": 5604,
+      "mst_chara_ids": [
+        56
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 56,
+      "text": "新しい戦場は気合が入る、ってもんだな。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 56005,
+      "mst_chara_id": 56,
+      "mst_chara_grp": 5605,
+      "mst_chara_ids": [
+        56
+      ],
+      "chara_face": [
+        7
+      ],
+      "talk_chara_id": 56,
+      "text": "ルークのやつが迷惑かけてないだろうな。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 50002,
+      "mst_chara_id": 50,
+      "mst_chara_grp": 5002,
+      "mst_chara_ids": [
+        50
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 50,
+      "text": "カーリャといったか。\nあれは……天族なのか？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 50003,
+      "mst_chara_id": 50,
+      "mst_chara_grp": 5003,
+      "mst_chara_ids": [
+        50
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 50,
+      "text": "なかなかの手練れが揃っているようだな。\n私も精進せねば。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 50004,
+      "mst_chara_id": 50,
+      "mst_chara_grp": 5004,
+      "mst_chara_ids": [
+        50
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 50,
+      "text": "この世界のことがわかる書物があったら貸してくれないだろうか。\n趣味と実益を兼ねてな。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 50005,
+      "mst_chara_id": 50,
+      "mst_chara_grp": 5005,
+      "mst_chara_ids": [
+        50
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 50,
+      "text": "辛いことがあったら、誰でもいい。\n打ち明けてみることだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 3001,
+      "mst_chara_id": 3,
+      "mst_chara_grp": 301,
+      "mst_chara_ids": [
+        3
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 3,
+      "text": "僕は絶対にダオスをだおす ！\n…なんてね。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 3002,
+      "mst_chara_id": 3,
+      "mst_chara_grp": 302,
+      "mst_chara_ids": [
+        3
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 3,
+      "text": "やあ ！ 今日もがんばろう ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 3003,
+      "mst_chara_id": 3,
+      "mst_chara_grp": 303,
+      "mst_chara_ids": [
+        3
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 3,
+      "text": "調子はどうだい ？ 僕は絶好調だよ ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 3004,
+      "mst_chara_id": 3,
+      "mst_chara_grp": 304,
+      "mst_chara_ids": [
+        3
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 3,
+      "text": "僕が着けているこのバンダナはね、父さんがくれた物なんだ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 3005,
+      "mst_chara_id": 3,
+      "mst_chara_grp": 305,
+      "mst_chara_ids": [
+        3
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 3,
+      "text": "ミントは物静かだけれど、とても芯の強い女性だよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 4001,
+      "mst_chara_id": 4,
+      "mst_chara_grp": 401,
+      "mst_chara_ids": [
+        4
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 4,
+      "text": "たまには休憩も必要だぜ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 4002,
+      "mst_chara_id": 4,
+      "mst_chara_grp": 402,
+      "mst_chara_ids": [
+        4
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 4,
+      "text": "オレがダオスをだおす！\n…なんてなっ ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 4003,
+      "mst_chara_id": 4,
+      "mst_chara_grp": 403,
+      "mst_chara_ids": [
+        4
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 4,
+      "text": "オレには妹がいたんだよ。\nアミィって言ってな、可愛かったんだぜ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 4004,
+      "mst_chara_id": 4,
+      "mst_chara_grp": 404,
+      "mst_chara_ids": [
+        4
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 4,
+      "text": "生きてるうちは色々あるさ。\n嫌なことがあっても気にすんなよ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 4005,
+      "mst_chara_id": 4,
+      "mst_chara_grp": 405,
+      "mst_chara_ids": [
+        4
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 4,
+      "text": "百年経っても、あいつのがさつさは変わんねぇんだろうな。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 24001,
+      "mst_chara_id": 24,
+      "mst_chara_grp": 2401,
+      "mst_chara_ids": [
+        24
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 24,
+      "text": "おまえには守りたいものがあるか ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 24002,
+      "mst_chara_id": 24,
+      "mst_chara_grp": 2402,
+      "mst_chara_ids": [
+        24
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 24,
+      "text": "カレーが食べたいな。\n一緒にどうだ ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 24003,
+      "mst_chara_id": 24,
+      "mst_chara_grp": 2403,
+      "mst_chara_ids": [
+        24
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 24,
+      "text": "いつもおまえに助けられているよ。\nありがとう。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 24004,
+      "mst_chara_id": 24,
+      "mst_chara_grp": 2404,
+      "mst_chara_ids": [
+        24
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 24,
+      "text": "さっきから俺の顔を見てるけど、何かついてるか ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 24005,
+      "mst_chara_id": 24,
+      "mst_chara_grp": 2405,
+      "mst_chara_ids": [
+        24
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 24,
+      "text": "ソフィはすぐみんなの真似をするから、\n変な事を覚えないか心配だよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 39001,
+      "mst_chara_id": 39,
+      "mst_chara_grp": 3901,
+      "mst_chara_ids": [
+        39
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 39,
+      "text": "危険な場所に行くときは、しっかり準備して行きましょう。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 39002,
+      "mst_chara_id": 39,
+      "mst_chara_grp": 3902,
+      "mst_chara_ids": [
+        39
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 39,
+      "text": "何か、手伝えることはある ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 39003,
+      "mst_chara_id": 39,
+      "mst_chara_grp": 3903,
+      "mst_chara_ids": [
+        39
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 39,
+      "text": "私の力で傷は癒せるけれど、無理をしていい理由にはならないわ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 39004,
+      "mst_chara_id": 39,
+      "mst_chara_grp": 3904,
+      "mst_chara_ids": [
+        39
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 39,
+      "text": "無茶ばっかりしないこと、いい ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 39005,
+      "mst_chara_id": 39,
+      "mst_chara_grp": 3905,
+      "mst_chara_ids": [
+        39
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 39,
+      "text": "ミリーナのこと、しっかり守ってあげるのよ ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 71001,
+      "mst_chara_id": 71,
+      "mst_chara_grp": 7101,
+      "mst_chara_ids": [
+        71
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 71,
+      "text": "何か……用かな ？\n僕に手伝えることがあれば……",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 71002,
+      "mst_chara_id": 71,
+      "mst_chara_grp": 7102,
+      "mst_chara_ids": [
+        71
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 71,
+      "text": "みんな、強そうな人ばかりだな。\n僕は役に立てるのかな……",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 71003,
+      "mst_chara_id": 71,
+      "mst_chara_grp": 7103,
+      "mst_chara_ids": [
+        71
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 71,
+      "text": "戦うのは好きじゃないけど、僕が逃げることで\n不幸になる人を増やしたくはないんだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 71004,
+      "mst_chara_id": 71,
+      "mst_chara_grp": 7104,
+      "mst_chara_ids": [
+        71
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 71,
+      "text": "僕だけの力じゃ勝てないってことは知ってる。\nだから、協力したいんだ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 71005,
+      "mst_chara_id": 71,
+      "mst_chara_grp": 7105,
+      "mst_chara_ids": [
+        71
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 71,
+      "text": "マルタは……僕に勇気をくれたんだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 72001,
+      "mst_chara_id": 72,
+      "mst_chara_grp": 7201,
+      "mst_chara_ids": [
+        72
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 72,
+      "text": "なになに～ ？\nなんでも聞いてよね ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 72002,
+      "mst_chara_id": 72,
+      "mst_chara_grp": 7202,
+      "mst_chara_ids": [
+        72
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 72,
+      "text": "お仕事の時間 ？\nどーんとまかせて ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 72003,
+      "mst_chara_id": 72,
+      "mst_chara_grp": 7203,
+      "mst_chara_ids": [
+        72
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 72,
+      "text": "エミルを見なかった ？\n私を探したりしてた ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 72004,
+      "mst_chara_id": 72,
+      "mst_chara_grp": 7204,
+      "mst_chara_ids": [
+        72
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 72,
+      "text": "今日はちょっと眠いかも。\nお天気がいいからかな ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 72005,
+      "mst_chara_id": 72,
+      "mst_chara_grp": 7205,
+      "mst_chara_ids": [
+        72
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 72,
+      "text": "全員と仲良くできるわけじゃないけど。\nキミだってそうでしょ ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 48001,
+      "mst_chara_id": 48,
+      "mst_chara_grp": 4801,
+      "mst_chara_ids": [
+        48
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 48,
+      "text": "何か、手伝えることはないかな ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 48002,
+      "mst_chara_id": 48,
+      "mst_chara_grp": 4802,
+      "mst_chara_ids": [
+        48
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 48,
+      "text": "こんな大きな剣をどうやって扱っているかって ？\n実はこれ…結構軽いんだよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 48004,
+      "mst_chara_id": 48,
+      "mst_chara_grp": 4804,
+      "mst_chara_ids": [
+        48
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 48,
+      "text": "じゃーん ！ パイナップルご飯を作ったの。\n一緒に食べよ ♪",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 48005,
+      "mst_chara_id": 48,
+      "mst_chara_grp": 4805,
+      "mst_chara_ids": [
+        48
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 48,
+      "text": "私に似た子に……会ったことあるって ？\nふふっ。私の友達だよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 60001,
+      "mst_chara_id": 60,
+      "mst_chara_grp": 6001,
+      "mst_chara_ids": [
+        60
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 60,
+      "text": "戦いにしろ、何にしろ、やるからには覚悟を決めろ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 60002,
+      "mst_chara_id": 60,
+      "mst_chara_grp": 6002,
+      "mst_chara_ids": [
+        60
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 60,
+      "text": "勝負を決めるのは運じゃない。\n実力と……くぐった修羅場の数だな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 60003,
+      "mst_chara_id": 60,
+      "mst_chara_grp": 6003,
+      "mst_chara_ids": [
+        60
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 60,
+      "text": "ちんたらするのは性に合わん。\n用があるならさっさと済ませるぞ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 60004,
+      "mst_chara_id": 60,
+      "mst_chara_grp": 6004,
+      "mst_chara_ids": [
+        60
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 60,
+      "text": "今日の服は昨日と違うんだ。\n…なに ？ 違いが分からないだと ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 60005,
+      "mst_chara_id": 60,
+      "mst_chara_grp": 6005,
+      "mst_chara_ids": [
+        60
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 60,
+      "text": "少しは楽しめそうだな。\n俺を失望させるなよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 38001,
+      "mst_chara_id": 38,
+      "mst_chara_grp": 3801,
+      "mst_chara_ids": [
+        38
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 38,
+      "text": "僕、役に立ててるかな……",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 38003,
+      "mst_chara_id": 38,
+      "mst_chara_grp": 3803,
+      "mst_chara_ids": [
+        38
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 38,
+      "text": "僕に出来ること、精一杯頑張るよ ！\nいつでも頼ってね。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 38004,
+      "mst_chara_id": 38,
+      "mst_chara_grp": 3804,
+      "mst_chara_ids": [
+        38
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 38,
+      "text": "ここは新しい発見がたくさんあって、毎日が楽しいよ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 38005,
+      "mst_chara_id": 38,
+      "mst_chara_grp": 3805,
+      "mst_chara_ids": [
+        38
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 38,
+      "text": "ベルベット見掛けなかった ？\n探してるんだけど…",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 73001,
+      "mst_chara_id": 73,
+      "mst_chara_grp": 7301,
+      "mst_chara_ids": [
+        73
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 73,
+      "text": "誰かのお役に立てることが私の喜びです。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 73002,
+      "mst_chara_id": 73,
+      "mst_chara_grp": 7302,
+      "mst_chara_ids": [
+        73
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 73,
+      "text": "青い空を見ていると、落ち着きませんか ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 73003,
+      "mst_chara_id": 73,
+      "mst_chara_grp": 7303,
+      "mst_chara_ids": [
+        73
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 73,
+      "text": "私が被っている帽子は、母から貰った大切な帽子なのです。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 73004,
+      "mst_chara_id": 73,
+      "mst_chara_grp": 7304,
+      "mst_chara_ids": [
+        73
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 73,
+      "text": "人には得意不得意がありますから、失敗しても他の事で取り戻せばいいと思います。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 73005,
+      "mst_chara_id": 73,
+      "mst_chara_grp": 7305,
+      "mst_chara_ids": [
+        73
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 73,
+      "text": "クレスさんがいなかったら、きっと私はくじけていました。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 74002,
+      "mst_chara_id": 74,
+      "mst_chara_grp": 7402,
+      "mst_chara_ids": [
+        74
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 74,
+      "text": "いろんなメンバーがいるみたいだけど、ほうきで戦ってるのはあたしくらいのもんかな～ ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 74003,
+      "mst_chara_id": 74,
+      "mst_chara_grp": 7403,
+      "mst_chara_ids": [
+        74
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 74,
+      "text": "料理 ？ え、えーっと…フルーツポンチでいいっしょ ！\nお手軽で ！ …料理じゃない ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 74004,
+      "mst_chara_id": 74,
+      "mst_chara_grp": 7404,
+      "mst_chara_ids": [
+        74
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 74,
+      "text": "よし ！ 深く考えるのはナシで ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 74005,
+      "mst_chara_id": 74,
+      "mst_chara_grp": 7405,
+      "mst_chara_ids": [
+        74
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 74,
+      "text": "魔術使いのナンバーワン美少女といえば、やっぱりあたしでしょ～ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 44001,
+      "mst_chara_id": 44,
+      "mst_chara_grp": 4401,
+      "mst_chara_ids": [
+        44
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 44,
+      "text": "用事がなけりゃ、自由行動だよな ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 44002,
+      "mst_chara_id": 44,
+      "mst_chara_grp": 4402,
+      "mst_chara_ids": [
+        44
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 44,
+      "text": "俺さまが力を貸すんだぜ、大船に乗った気でいろよ ？\nあ、乗ってたわ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 44003,
+      "mst_chara_id": 44,
+      "mst_chara_grp": 4403,
+      "mst_chara_ids": [
+        44
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 44,
+      "text": "退屈させるんじゃねえぞ ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 44004,
+      "mst_chara_id": 44,
+      "mst_chara_grp": 4404,
+      "mst_chara_ids": [
+        44
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 44,
+      "text": "俺さまがまぶしいのかい ？\n尊敬してくれていいんだぜ ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 44005,
+      "mst_chara_id": 44,
+      "mst_chara_grp": 4405,
+      "mst_chara_ids": [
+        44
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 44,
+      "text": "俺さま、美女、美女、美女のパーティは組んでくれた ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 57001,
+      "mst_chara_id": 57,
+      "mst_chara_grp": 5701,
+      "mst_chara_ids": [
+        57
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 57,
+      "text": "僕は仮面を外すわけにはいかない。\nすべてを隠して、やりとげなくては…",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 57002,
+      "mst_chara_id": 57,
+      "mst_chara_grp": 5702,
+      "mst_chara_ids": [
+        57
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 57,
+      "text": "人は、過去の過ちを反省し\nよりよい未来を作るために、歴史を学ぶ 。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 57003,
+      "mst_chara_id": 57,
+      "mst_chara_grp": 5703,
+      "mst_chara_ids": [
+        57
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 57,
+      "text": "人はいつか、必ず死ぬ。\nそれが、遅いか早いかの違いだ。\n…そう、割り切るしかないんだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 57004,
+      "mst_chara_id": 57,
+      "mst_chara_grp": 5704,
+      "mst_chara_ids": [
+        57
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 57,
+      "text": "僕から言えるのは、たったひとつだけだ…自分の心に正直になれ 。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 57005,
+      "mst_chara_id": 57,
+      "mst_chara_grp": 5705,
+      "mst_chara_ids": [
+        57
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 57,
+      "text": "カイルは騒がしいが、憎めない奴だな…",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 70001,
+      "mst_chara_id": 70,
+      "mst_chara_grp": 7001,
+      "mst_chara_ids": [
+        70
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 70,
+      "text": "いかなるときも常に冷静でいるよう努めることだよ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 70002,
+      "mst_chara_id": 70,
+      "mst_chara_grp": 7002,
+      "mst_chara_ids": [
+        70
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 70,
+      "text": "本を読むということに、知識を得るだけの気持ちでは\nもったいないよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 70004,
+      "mst_chara_id": 70,
+      "mst_chara_grp": 7004,
+      "mst_chara_ids": [
+        70
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 70,
+      "text": "ボクの力が必要だって ？ 見返りは何があるのかな… ？\nフフッ、冗談だよ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 70005,
+      "mst_chara_id": 70,
+      "mst_chara_grp": 7005,
+      "mst_chara_ids": [
+        70
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 70,
+      "text": "『鏡に護られし創造の世界』か…。\nいや、こっちの話だよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 33001,
+      "mst_chara_id": 33,
+      "mst_chara_grp": 3301,
+      "mst_chara_ids": [
+        33
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 33,
+      "text": "今日も元気に冒険しよう ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 33002,
+      "mst_chara_id": 33,
+      "mst_chara_grp": 3302,
+      "mst_chara_ids": [
+        33
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 33,
+      "text": "私、目の良さには結構自信があるんだ ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 33003,
+      "mst_chara_id": 33,
+      "mst_chara_grp": 3303,
+      "mst_chara_ids": [
+        33
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 33,
+      "text": "…料理…たらこパンあったらいいのになぁ…",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 33004,
+      "mst_chara_id": 33,
+      "mst_chara_grp": 3304,
+      "mst_chara_ids": [
+        33
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 33,
+      "text": "色んな所に旅をするのって、とってもドキドキするね ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 33005,
+      "mst_chara_id": 33,
+      "mst_chara_grp": 3305,
+      "mst_chara_ids": [
+        33
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 33,
+      "text": "私の仲間は、どんな時もくじけない、強くて優しい人なんだ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 30001,
+      "mst_chara_id": 30,
+      "mst_chara_grp": 3001,
+      "mst_chara_ids": [
+        30
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 30,
+      "text": "どうした ？\n俺に何か用でもあるのか ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 30002,
+      "mst_chara_id": 30,
+      "mst_chara_grp": 3002,
+      "mst_chara_ids": [
+        30
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 30,
+      "text": "早く、完済したいな…",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 30003,
+      "mst_chara_id": 30,
+      "mst_chara_grp": 3003,
+      "mst_chara_ids": [
+        30
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 30,
+      "text": "洗濯をしたシャツは伸ばしてから干すんだ ！\nでないとくしゃくしゃになる ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 30004,
+      "mst_chara_id": 30,
+      "mst_chara_grp": 3004,
+      "mst_chara_ids": [
+        30
+      ],
+      "chara_face": [
+        4
+      ],
+      "talk_chara_id": 30,
+      "text": "そうだ、ルルに餌をやらないと…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 30005,
+      "mst_chara_id": 30,
+      "mst_chara_grp": 3005,
+      "mst_chara_ids": [
+        30
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 30,
+      "text": "エルを見かけなかったかな ？\n迷子になってないと良いんだけど。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 59001,
+      "mst_chara_id": 59,
+      "mst_chara_grp": 5901,
+      "mst_chara_ids": [
+        59
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 59,
+      "text": "君はあまり世話がかからなそうだな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 59002,
+      "mst_chara_id": 59,
+      "mst_chara_grp": 5902,
+      "mst_chara_ids": [
+        59
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 59,
+      "text": "資金面は大丈夫なのか ？\n借金はやめておけよ ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 59003,
+      "mst_chara_id": 59,
+      "mst_chara_grp": 5903,
+      "mst_chara_ids": [
+        59
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 59,
+      "text": "事前の情報集め。\n勝敗を分けるのであればこれも立派な戦いといえるだろう ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 59004,
+      "mst_chara_id": 59,
+      "mst_chara_grp": 5904,
+      "mst_chara_ids": [
+        59
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 59,
+      "text": "この世界の技術水準は……\nより深く調べる必要があるな……",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 59005,
+      "mst_chara_id": 59,
+      "mst_chara_grp": 5905,
+      "mst_chara_ids": [
+        59
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 59,
+      "text": "ルドガーともども、世話になるな。\n困った時はいつでも声を掛けてくれ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 86001,
+      "mst_chara_id": 86,
+      "mst_chara_grp": 8601,
+      "mst_chara_ids": [
+        86
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 86,
+      "text": "ジュード見なかった ？\n久しぶりに手合わせしたかったのに。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 86002,
+      "mst_chara_id": 86,
+      "mst_chara_grp": 8602,
+      "mst_chara_ids": [
+        86
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 86,
+      "text": "おいしいものにおいしいものを足したら、\n絶対おいしいに決まってるよねっ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 86003,
+      "mst_chara_id": 86,
+      "mst_chara_grp": 8603,
+      "mst_chara_ids": [
+        86
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 86,
+      "text": "せっかくフルーツやきそば作ったのに\n誰も食べてくれない……なんでだろ ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 86004,
+      "mst_chara_id": 86,
+      "mst_chara_grp": 8604,
+      "mst_chara_ids": [
+        86
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 86,
+      "text": "こう見えても看護師見習いなんだよ、\n怪我したら言ってね。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 86005,
+      "mst_chara_id": 86,
+      "mst_chara_grp": 8605,
+      "mst_chara_ids": [
+        86
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 86,
+      "text": "なせばなる ！\n一緒にがんばろっ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 87001,
+      "mst_chara_id": 87,
+      "mst_chara_grp": 8701,
+      "mst_chara_ids": [
+        87
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 87,
+      "text": "なんだかずっと夢の中にいるみたいです……",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 87002,
+      "mst_chara_id": 87,
+      "mst_chara_grp": 8702,
+      "mst_chara_ids": [
+        87
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 87,
+      "text": "やっぱり夢ですよね ？\nいつもよりも体を大きく動かせるというか……",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 87003,
+      "mst_chara_id": 87,
+      "mst_chara_grp": 8703,
+      "mst_chara_ids": [
+        87
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 87,
+      "text": "みなさんの衣装、すごく凝ってますね ！\n参考にさせてもらってもいいですか ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 87004,
+      "mst_chara_id": 87,
+      "mst_chara_grp": 8704,
+      "mst_chara_ids": [
+        87
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 87,
+      "text": "こ、この刀の小道具、重くないですか…… ？\nえ、本物 ？　",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 87005,
+      "mst_chara_id": 87,
+      "mst_chara_grp": 8705,
+      "mst_chara_ids": [
+        87
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 87,
+      "text": "力の限り、応援させてください ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 55001,
+      "mst_chara_id": 55,
+      "mst_chara_grp": 5501,
+      "mst_chara_ids": [
+        55
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 55,
+      "text": "変えようともしないで、変わらない現実に文句を言うのは、\n卑怯者のすることだ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 55002,
+      "mst_chara_id": 55,
+      "mst_chara_grp": 5502,
+      "mst_chara_ids": [
+        55
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 55,
+      "text": "誰かに言われてやめるくらいなら、\nとっくに諦めはついてるはずだ 。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 55003,
+      "mst_chara_id": 55,
+      "mst_chara_grp": 5503,
+      "mst_chara_ids": [
+        55
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 55,
+      "text": "はじめからダメな場合を考えてると、\n最後の最後で踏み込めなくなるぞ 。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 55004,
+      "mst_chara_id": 55,
+      "mst_chara_grp": 5504,
+      "mst_chara_ids": [
+        55
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 55,
+      "text": "たとえ何であろうと、俺達の大切なものを\n傷つける気なら、許しはしない。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 12001,
+      "mst_chara_id": 12,
+      "mst_chara_grp": 1201,
+      "mst_chara_ids": [
+        12
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 12,
+      "text": "オレに何か用があるのか ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 12002,
+      "mst_chara_id": 12,
+      "mst_chara_grp": 1202,
+      "mst_chara_ids": [
+        12
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 12,
+      "text": "あまり暗い気分にならないほうがいい。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 12003,
+      "mst_chara_id": 12,
+      "mst_chara_grp": 1203,
+      "mst_chara_ids": [
+        12
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 12,
+      "text": "オレは、オレに出来る事をやるだけだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 12004,
+      "mst_chara_id": 12,
+      "mst_chara_grp": 1204,
+      "mst_chara_ids": [
+        12
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 12,
+      "text": "もっと強くならなくては…。\nもっと、もっと強く…",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 12005,
+      "mst_chara_id": 12,
+      "mst_chara_grp": 1205,
+      "mst_chara_ids": [
+        12
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 12,
+      "text": "クレアは今、何をしているのだろう…",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 52001,
+      "mst_chara_id": 52,
+      "mst_chara_grp": 5201,
+      "mst_chara_ids": [
+        52
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 52,
+      "text": "旅が続けば…\nもっと色んな事を知る事ができる…",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 52002,
+      "mst_chara_id": 52,
+      "mst_chara_grp": 5202,
+      "mst_chara_ids": [
+        52
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 52,
+      "text": "本当は戦うの好きじゃないんです…\n人を傷つけるわけですし…",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 52003,
+      "mst_chara_id": 52,
+      "mst_chara_grp": 5203,
+      "mst_chara_ids": [
+        52
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 52,
+      "text": "明日もあなたにとって、いい日でありますように。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 52004,
+      "mst_chara_id": 52,
+      "mst_chara_grp": 5204,
+      "mst_chara_ids": [
+        52
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 52,
+      "text": "ふふっ、どうかしたんです ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 52005,
+      "mst_chara_id": 52,
+      "mst_chara_grp": 5205,
+      "mst_chara_ids": [
+        52
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 52,
+      "text": "ユーリは以前、騎士の格好をしたことが\nあるのですが、かっこよかったですよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 94001,
+      "mst_chara_id": 94,
+      "mst_chara_grp": 9401,
+      "mst_chara_ids": [
+        94
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 94,
+      "text": "ねぇねぇ。\nボクの秘密の特訓に付き合ってくれない ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 94002,
+      "mst_chara_id": 94,
+      "mst_chara_grp": 9402,
+      "mst_chara_ids": [
+        94
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 94,
+      "text": "ここで修行すればカッコイイ新必殺技を\n会得できちゃうかも…… ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 94003,
+      "mst_chara_id": 94,
+      "mst_chara_grp": 9403,
+      "mst_chara_ids": [
+        94
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 94,
+      "text": "ボクぐらいの年のメンバーはいる ？\n引き抜いても恨みっこなしだよ ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 94004,
+      "mst_chara_id": 94,
+      "mst_chara_grp": 9404,
+      "mst_chara_ids": [
+        94
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 94,
+      "text": "ここのみんなすごいね ！\n凛々の明星の名に恥じないよう、\nボクも頑張らなきゃ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 94005,
+      "mst_chara_id": 94,
+      "mst_chara_grp": 9405,
+      "mst_chara_ids": [
+        94
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 94,
+      "text": "斧やハンマーって、マイナー武器なんだね……。\nこんなに大きくて強くてカッコいいのに。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 83001,
+      "mst_chara_id": 83,
+      "mst_chara_grp": 8301,
+      "mst_chara_ids": [
+        83
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 83,
+      "text": "全力で任務に当たります ！\nおまかせください ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 83002,
+      "mst_chara_id": 83,
+      "mst_chara_grp": 8302,
+      "mst_chara_ids": [
+        83
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 83,
+      "text": "一撃必中の気合を、この槍に込めています ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 83003,
+      "mst_chara_id": 83,
+      "mst_chara_grp": 8303,
+      "mst_chara_ids": [
+        83
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 83,
+      "text": "私の他にも槍の使い手がいるとか。\nぜひお手合わせを願いたいものです。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 83004,
+      "mst_chara_id": 83,
+      "mst_chara_grp": 8304,
+      "mst_chara_ids": [
+        83
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 83,
+      "text": "私より若いのに、前線で活躍している方がいるようですね。\nうかうかしていられません ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 83005,
+      "mst_chara_id": 83,
+      "mst_chara_grp": 8305,
+      "mst_chara_ids": [
+        83
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 83,
+      "text": "癒しの力はそれほど得意では……でも、\nいつまでも苦手でいるわけにはいきません ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 10001001,
+      "mst_chara_id": 10001,
+      "mst_chara_grp": 1000101,
+      "mst_chara_ids": [
+        10001
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 10001,
+      "text": "いつだって、油断はできない。\n俺が倒れるわけにはいかないからな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 10001002,
+      "mst_chara_id": 10001,
+      "mst_chara_grp": 1000102,
+      "mst_chara_ids": [
+        10001
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 10001,
+      "text": "本は好きじゃないけどできるだけ読むようにしてる。完璧な準備のためには、知識が必要だからな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 10001003,
+      "mst_chara_id": 10001,
+      "mst_chara_grp": 1000103,
+      "mst_chara_ids": [
+        10001
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 10001,
+      "text": "世界を救う。ミリーナ様を護る。\nどちらも果たす ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 10001004,
+      "mst_chara_id": 10001,
+      "mst_chara_grp": 1000104,
+      "mst_chara_ids": [
+        10001
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 10001,
+      "text": "魔鏡の光を見失わずに、使命をまっとうする ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 10001005,
+      "mst_chara_id": 10001,
+      "mst_chara_grp": 1000105,
+      "mst_chara_ids": [
+        10001
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 10001,
+      "text": "ミリーナ様は、最近あまり人と話さなくなったんだ。\n心配だよ……。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 80001,
+      "mst_chara_id": 80,
+      "mst_chara_grp": 8001,
+      "mst_chara_ids": [
+        80
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 80,
+      "text": "ボクに説教する気じゃないだろうな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 80002,
+      "mst_chara_id": 80,
+      "mst_chara_grp": 8002,
+      "mst_chara_ids": [
+        80
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 80,
+      "text": "ボクの自由を邪魔するようなら、\nすぐに出ていくからな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 80003,
+      "mst_chara_id": 80,
+      "mst_chara_grp": 8003,
+      "mst_chara_ids": [
+        80
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 80,
+      "text": "お前みたいな甘い奴が、\nよく今まで生きてこれたな。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 80004,
+      "mst_chara_id": 80,
+      "mst_chara_grp": 8004,
+      "mst_chara_ids": [
+        80
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 80,
+      "text": "忘れるな、ボクがここにいてやってるんだ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 80005,
+      "mst_chara_id": 80,
+      "mst_chara_grp": 8005,
+      "mst_chara_ids": [
+        80
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 80,
+      "text": "ここは人が多すぎる……。\n人の世話を焼きたがる奴ばっかりだ…… ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 77001,
+      "mst_chara_id": 77,
+      "mst_chara_grp": 7701,
+      "mst_chara_ids": [
+        77
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 77,
+      "text": "理想を追うのもいいけどね、世間は甘くないよ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 77002,
+      "mst_chara_id": 77,
+      "mst_chara_grp": 7702,
+      "mst_chara_ids": [
+        77
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 77,
+      "text": "あたしにはわかる。\nここにいる大半はお人よしでしょ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 77003,
+      "mst_chara_id": 77,
+      "mst_chara_grp": 7703,
+      "mst_chara_ids": [
+        77
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 77,
+      "text": "リーダーが力を示せないと、どうなるかわかんないよ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 77004,
+      "mst_chara_id": 77,
+      "mst_chara_grp": 7704,
+      "mst_chara_ids": [
+        77
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 77,
+      "text": "おばけの仲間が普通にいたりとか、しないよね？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 77005,
+      "mst_chara_id": 77,
+      "mst_chara_grp": 7705,
+      "mst_chara_ids": [
+        77
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 77,
+      "text": "仕事は完璧に果たすけど、\n信頼できるなら次の仕事に繋がるよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 78001,
+      "mst_chara_id": 78,
+      "mst_chara_grp": 7801,
+      "mst_chara_ids": [
+        78
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 78,
+      "text": "俺を退屈させないうちだけだ、ここにいるのは……。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 78002,
+      "mst_chara_id": 78,
+      "mst_chara_grp": 7802,
+      "mst_chara_ids": [
+        78
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 78,
+      "text": "油断ならねえやつがひしめき合っているのは、悪くはねえな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 78003,
+      "mst_chara_id": 78,
+      "mst_chara_grp": 7803,
+      "mst_chara_ids": [
+        78
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 78,
+      "text": "ここにいれば、アイツに遭えるっていうなら、仕方ねえ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 78004,
+      "mst_chara_id": 78,
+      "mst_chara_grp": 7804,
+      "mst_chara_ids": [
+        78
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 78,
+      "text": "俺に干渉するな、怪我したくなければな。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 78005,
+      "mst_chara_id": 78,
+      "mst_chara_grp": 7805,
+      "mst_chara_ids": [
+        78
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 78,
+      "text": "ロゼはここを気に入っているようだな……俺には関係ねえが。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 16001,
+      "mst_chara_id": 16,
+      "mst_chara_grp": 1601,
+      "mst_chara_ids": [
+        16
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 16,
+      "text": "ほえ ？\nアニスちゃんに何か用～ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 16002,
+      "mst_chara_id": 16,
+      "mst_chara_grp": 1602,
+      "mst_chara_ids": [
+        16
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 16,
+      "text": "トクナガに潰せぬものナーシ ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 16003,
+      "mst_chara_id": 16,
+      "mst_chara_grp": 1603,
+      "mst_chara_ids": [
+        16
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 16,
+      "text": "なになに ？\nアニスちゃんに会いたくてしかたなかった ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 16004,
+      "mst_chara_id": 16,
+      "mst_chara_grp": 1604,
+      "mst_chara_ids": [
+        16
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 16,
+      "text": "わはー、今日はいいことありそうな予感 ♪",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 16005,
+      "mst_chara_id": 16,
+      "mst_chara_grp": 1605,
+      "mst_chara_ids": [
+        16
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 16,
+      "text": "大佐が笑顔で近付いて来たら要注意なのです。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 17001,
+      "mst_chara_id": 17,
+      "mst_chara_grp": 1701,
+      "mst_chara_ids": [
+        17
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 17,
+      "text": "今日はいい天気だね。\nこんな日はのんびり勉強したいな……。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 17002,
+      "mst_chara_id": 17,
+      "mst_chara_grp": 1702,
+      "mst_chara_ids": [
+        17
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 17,
+      "text": "この冒険で、僕は変われるかな ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 17003,
+      "mst_chara_id": 17,
+      "mst_chara_grp": 1703,
+      "mst_chara_ids": [
+        17
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 17,
+      "text": "君との冒険で僕も成長してる気がするんだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 17004,
+      "mst_chara_id": 17,
+      "mst_chara_grp": 1704,
+      "mst_chara_ids": [
+        17
+      ],
+      "chara_face": [
+        4
+      ],
+      "talk_chara_id": 17,
+      "text": "え… ？\nホットドッグ…買ってこなくていいの… ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 17005,
+      "mst_chara_id": 17,
+      "mst_chara_grp": 1705,
+      "mst_chara_ids": [
+        17
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 17,
+      "text": "イリアを守れるくらい、強くなりたいんだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 51001,
+      "mst_chara_id": 51,
+      "mst_chara_grp": 5101,
+      "mst_chara_ids": [
+        51
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 51,
+      "text": "あたしになんか用 ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 51002,
+      "mst_chara_id": 51,
+      "mst_chara_grp": 5102,
+      "mst_chara_ids": [
+        51
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 51,
+      "text": "いしししし ！\nいいこと思いついちゃった ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 51003,
+      "mst_chara_id": 51,
+      "mst_chara_grp": 5103,
+      "mst_chara_ids": [
+        51
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 51,
+      "text": "あたしは一度決めた目標は、\nぜーったいにあきらめないんだから ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 51004,
+      "mst_chara_id": 51,
+      "mst_chara_grp": 5104,
+      "mst_chara_ids": [
+        51
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 51,
+      "text": "うーん…、なんか今日はイマイチねぇ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 51005,
+      "mst_chara_id": 51,
+      "mst_chara_grp": 5105,
+      "mst_chara_ids": [
+        51
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 51,
+      "text": "ルカってあたしがいなきゃ、\nなーんにもできないのよね。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 67001,
+      "mst_chara_id": 67,
+      "mst_chara_grp": 6701,
+      "mst_chara_ids": [
+        67
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 67,
+      "text": "ボクが力を貸すことを光栄に思うがいいよ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 67002,
+      "mst_chara_id": 67,
+      "mst_chara_grp": 6702,
+      "mst_chara_ids": [
+        67
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 67,
+      "text": "仲間になったと思われては心外だよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 67003,
+      "mst_chara_id": 67,
+      "mst_chara_grp": 6703,
+      "mst_chara_ids": [
+        67
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 67,
+      "text": "おまえたちには、ボクの気持ちは分らない……",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 67004,
+      "mst_chara_id": 67,
+      "mst_chara_grp": 6704,
+      "mst_chara_ids": [
+        67
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 67,
+      "text": "ボクの気まぐれが続くことを祈るがいいさ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 67005,
+      "mst_chara_id": 67,
+      "mst_chara_grp": 6705,
+      "mst_chara_ids": [
+        67
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 67,
+      "text": "ここにいる全員、簡単に滅ぼすことができることを忘れるなよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 49001,
+      "mst_chara_id": 49,
+      "mst_chara_grp": 4901,
+      "mst_chara_ids": [
+        49
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 49,
+      "text": "しつこい男は嫌われるぜ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 49002,
+      "mst_chara_id": 49,
+      "mst_chara_grp": 4902,
+      "mst_chara_ids": [
+        49
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 49,
+      "text": "よう ！ 調子はどうだ ？",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 49003,
+      "mst_chara_id": 49,
+      "mst_chara_grp": 4903,
+      "mst_chara_ids": [
+        49
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 49,
+      "text": "いい男は身だしなみもきちんとしなくちゃな。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 49004,
+      "mst_chara_id": 49,
+      "mst_chara_grp": 4904,
+      "mst_chara_ids": [
+        49
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 49,
+      "text": "友情、努力、勝利 ！\n人間らしい戦法だろ ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 49005,
+      "mst_chara_id": 49,
+      "mst_chara_grp": 4905,
+      "mst_chara_ids": [
+        49
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 49,
+      "text": "あの優等生は、自分の事より\n人の心配ばかりしてんだよなぁ",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 98001,
+      "mst_chara_id": 98,
+      "mst_chara_grp": 9801,
+      "mst_chara_ids": [
+        98
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 98,
+      "text": "試練は学びのチャンス ！\nどんな苦難でもくじけないよ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 98002,
+      "mst_chara_id": 98,
+      "mst_chara_grp": 9802,
+      "mst_chara_ids": [
+        98
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 98,
+      "text": "私がここに来たからには、\nこの世界を全力で守るよ ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 98003,
+      "mst_chara_id": 98,
+      "mst_chara_grp": 9803,
+      "mst_chara_ids": [
+        98
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 98,
+      "text": "やっぱり、春が暖かくて一番好き。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 98004,
+      "mst_chara_id": 98,
+      "mst_chara_grp": 9804,
+      "mst_chara_ids": [
+        98
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 98,
+      "text": "私は回復術は苦手なんだ。\n……でもその分、この剣で頑張るよ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 98005,
+      "mst_chara_id": 98,
+      "mst_chara_grp": 9805,
+      "mst_chara_ids": [
+        98
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 98,
+      "text": "お昼寝できるスポットを探してるんだけど、\nあなたは知らない ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 89001,
+      "mst_chara_id": 89,
+      "mst_chara_grp": 8901,
+      "mst_chara_ids": [
+        89
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 89,
+      "text": "悪事を見過ごすことはできないわ ！\nむんっ、成敗よ ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 89002,
+      "mst_chara_id": 89,
+      "mst_chara_grp": 8902,
+      "mst_chara_ids": [
+        89
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 89,
+      "text": "私にどんな力が眠ってるかわからないけど、\nみんなの力になりたいの。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 89003,
+      "mst_chara_id": 89,
+      "mst_chara_grp": 8903,
+      "mst_chara_ids": [
+        89
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 89,
+      "text": "何もない所でよく転ぶって ？\n私も困ってるの。どうにかならないかしらね、これ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 89004,
+      "mst_chara_id": 89,
+      "mst_chara_grp": 8904,
+      "mst_chara_ids": [
+        89
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 89,
+      "text": "今日は絶好調 ！\nなんでも頼って ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 89005,
+      "mst_chara_id": 89,
+      "mst_chara_grp": 8905,
+      "mst_chara_ids": [
+        89
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 89,
+      "text": "いまね、今日もみんなが幸せに過ごせますようにって、女神様にお祈りしてたのよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 99001,
+      "mst_chara_id": 99,
+      "mst_chara_grp": 9901,
+      "mst_chara_ids": [
+        99
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 99,
+      "text": "わたしは氷の精霊……気遣いは、無用よ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 99002,
+      "mst_chara_id": 99,
+      "mst_chara_grp": 9902,
+      "mst_chara_ids": [
+        99
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 99,
+      "text": "暑苦しい男とは、相性が悪い。\nこればっかりは、どうにもならないわ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 99003,
+      "mst_chara_id": 99,
+      "mst_chara_grp": 9903,
+      "mst_chara_ids": [
+        99
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 99,
+      "text": "わたしに、涼む目的で近づいてくる者が\nいるのだけど、どうにかしてくれない？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 99004,
+      "mst_chara_id": 99,
+      "mst_chara_grp": 9904,
+      "mst_chara_ids": [
+        99
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 99,
+      "text": "わたしの存在が、この世界のバランスに\n多少なりとも影響を与えるかも知れないわね。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 99005,
+      "mst_chara_id": 99,
+      "mst_chara_grp": 9905,
+      "mst_chara_ids": [
+        99
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 99,
+      "text": "わたしの力が必要な時はいつでも言って。\n喜んで協力するわ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 76001,
+      "mst_chara_id": 76,
+      "mst_chara_grp": 7601,
+      "mst_chara_ids": [
+        76
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 76,
+      "text": "ぼくの剣術を漫画で見た ？\nど、独学ですよ。文献を元に再現したまでです。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 76002,
+      "mst_chara_id": 76,
+      "mst_chara_grp": 7602,
+      "mst_chara_ids": [
+        76
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 76,
+      "text": "ここは、軍隊とはまったく違う集まりのようですね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 76003,
+      "mst_chara_id": 76,
+      "mst_chara_grp": 7603,
+      "mst_chara_ids": [
+        76
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 76,
+      "text": "無作為に特攻する者のせいで、\n全員が危機に陥ることを忘れてはいけませんよ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 76004,
+      "mst_chara_id": 76,
+      "mst_chara_grp": 7604,
+      "mst_chara_ids": [
+        76
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 76,
+      "text": "世話を焼かせる人間が一人や二人じゃない ！\nいったい、何なんですか ？ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 76005,
+      "mst_chara_id": 76,
+      "mst_chara_grp": 7605,
+      "mst_chara_ids": [
+        76
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 76,
+      "text": "オムライスのように、組み合わせることで新たな\n可能性が見いだされることもあるんですよ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 26001,
+      "mst_chara_id": 26,
+      "mst_chara_grp": 2601,
+      "mst_chara_ids": [
+        26
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 26,
+      "text": "トロピカルヤッホ～ゥイ ！\nごきげんいかが～ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 26002,
+      "mst_chara_id": 26,
+      "mst_chara_grp": 2602,
+      "mst_chara_ids": [
+        26
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 26,
+      "text": "暇なんだよね～。\nかまって～。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 26003,
+      "mst_chara_id": 26,
+      "mst_chara_grp": 2603,
+      "mst_chara_ids": [
+        26
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 26,
+      "text": "何事も前向きが一番 ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 26004,
+      "mst_chara_id": 26,
+      "mst_chara_grp": 2604,
+      "mst_chara_ids": [
+        26
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 26,
+      "text": "やっぱり旅は道連れだよね ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 26005,
+      "mst_chara_id": 26,
+      "mst_chara_grp": 2605,
+      "mst_chara_ids": [
+        26
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 26,
+      "text": "弟くん知らない ？\nちょっと手伝ってもらいたい事があるんだよね～。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 101001,
+      "mst_chara_id": 101,
+      "mst_chara_grp": 10101,
+      "mst_chara_ids": [
+        101
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 101,
+      "text": "私には帰るべき場所がある……\nだが、今はともに往こう。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 101002,
+      "mst_chara_id": 101,
+      "mst_chara_grp": 10102,
+      "mst_chara_ids": [
+        101
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 101,
+      "text": "神を冒涜した者の罪は重い。\nゆめゆめ、忘れぬことだ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 101004,
+      "mst_chara_id": 101,
+      "mst_chara_grp": 10104,
+      "mst_chara_ids": [
+        101
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 101,
+      "text": "アーティファクトには手を触れぬことだ。\n分不相応な力は身を焦がす……",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 101005,
+      "mst_chara_id": 101,
+      "mst_chara_grp": 10105,
+      "mst_chara_ids": [
+        101
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 101,
+      "text": "根性などという運否天賦に\n身を委ねるつもりはない。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 100001,
+      "mst_chara_id": 100,
+      "mst_chara_grp": 10001,
+      "mst_chara_ids": [
+        100
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 100,
+      "text": "困ったことがあったら、私に相談してみてね ？\nお姉さん、力になるよ ♪",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 100002,
+      "mst_chara_id": 100,
+      "mst_chara_grp": 10002,
+      "mst_chara_ids": [
+        100
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 100,
+      "text": "どこで何があるのがわからないのが、\n旅のいいところだね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 100003,
+      "mst_chara_id": 100,
+      "mst_chara_grp": 10003,
+      "mst_chara_ids": [
+        100
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 100,
+      "text": "時間は無駄にしちゃダメだよ ？\n後悔してからじゃ、遅いから…",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 100004,
+      "mst_chara_id": 100,
+      "mst_chara_grp": 10004,
+      "mst_chara_ids": [
+        100
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 100,
+      "text": "私に興味があるのは分かるけど、詮索は\nあまりしないこと。\n女の子に嫌われちゃうぞ ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 100005,
+      "mst_chara_id": 100,
+      "mst_chara_grp": 10005,
+      "mst_chara_ids": [
+        100
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 100,
+      "text": "おいしい料理ができたら味見してあげるから、\nいつでも呼んでね ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 82001,
+      "mst_chara_id": 82,
+      "mst_chara_grp": 8201,
+      "mst_chara_ids": [
+        82
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 82,
+      "text": "曲者ぞろいのマギルゥ奇術団、\nお主も入団せぬか ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 82002,
+      "mst_chara_id": 82,
+      "mst_chara_grp": 8202,
+      "mst_chara_ids": [
+        82
+      ],
+      "chara_face": [
+        6
+      ],
+      "talk_chara_id": 82,
+      "text": "マギンプイ ！\nどーでもいいことが、どーでもよくなる魔法じゃよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 82003,
+      "mst_chara_id": 82,
+      "mst_chara_grp": 8203,
+      "mst_chara_ids": [
+        82
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 82,
+      "text": "ベルベットはこの世界に具現化されて\nどう思っておるのかのう ？ ま、どーでもいいがの。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 82004,
+      "mst_chara_id": 82,
+      "mst_chara_grp": 8204,
+      "mst_chara_ids": [
+        82
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 82,
+      "text": "お主らといると退屈せんのう、\nありがたい限りじゃ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 82005,
+      "mst_chara_id": 82,
+      "mst_chara_grp": 8205,
+      "mst_chara_ids": [
+        82
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 82,
+      "text": "ゆくぞ ！ 笑いの扉をこじ開けに ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 54001,
+      "mst_chara_id": 54,
+      "mst_chara_grp": 5401,
+      "mst_chara_ids": [
+        54
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 54,
+      "text": "グズグズするな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 54002,
+      "mst_chara_id": 54,
+      "mst_chara_grp": 5402,
+      "mst_chara_ids": [
+        54
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 54,
+      "text": "闘いが怖いなら剣なんか棄てちまいな ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 54003,
+      "mst_chara_id": 54,
+      "mst_chara_grp": 5403,
+      "mst_chara_ids": [
+        54
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 54,
+      "text": "俺の足を引っ張るんじゃねえ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 54004,
+      "mst_chara_id": 54,
+      "mst_chara_grp": 5404,
+      "mst_chara_ids": [
+        54
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 54,
+      "text": "なんだ ？ 話があるなら早く言え。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 54005,
+      "mst_chara_id": 54,
+      "mst_chara_grp": 5405,
+      "mst_chara_ids": [
+        54
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 54,
+      "text": "今の自分の居場所をせいぜい大事にするんだな。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 45001,
+      "mst_chara_id": 45,
+      "mst_chara_grp": 4501,
+      "mst_chara_ids": [
+        45
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 45,
+      "text": "空気を入れ替えてもよいかしら ？\nここ、開きませんの ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 45002,
+      "mst_chara_id": 45,
+      "mst_chara_grp": 4502,
+      "mst_chara_ids": [
+        45
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 45,
+      "text": "緊張なさっているの ？\n楽にしていただいてかまいませんわ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 45003,
+      "mst_chara_id": 45,
+      "mst_chara_grp": 4503,
+      "mst_chara_ids": [
+        45
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 45,
+      "text": "貴方の決断が\n人の生死を分けることもありますわ。\n勇気をお持ちなさい。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 45004,
+      "mst_chara_id": 45,
+      "mst_chara_grp": 4504,
+      "mst_chara_ids": [
+        45
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 45,
+      "text": "皆の力を合わせれば、必ず乗り越えられますわ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 45005,
+      "mst_chara_id": 45,
+      "mst_chara_grp": 4505,
+      "mst_chara_ids": [
+        45
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 45,
+      "text": "弓の鍛錬をしたいのですけれど、\nよい場所はありまして ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 93001,
+      "mst_chara_id": 93,
+      "mst_chara_grp": 9301,
+      "mst_chara_ids": [
+        93
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 93,
+      "text": "私の力をいつまでもあてにするようでは、\n自らの成長は望めんぞ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 93002,
+      "mst_chara_id": 93,
+      "mst_chara_grp": 9302,
+      "mst_chara_ids": [
+        93
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 93,
+      "text": "剣の稽古をしてほしいだと ？\n他を当たるんだな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 93003,
+      "mst_chara_id": 93,
+      "mst_chara_grp": 9303,
+      "mst_chara_ids": [
+        93
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 93,
+      "text": "斬られる覚悟がないなら、人を斬ろうと\n思わぬことだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 93004,
+      "mst_chara_id": 93,
+      "mst_chara_grp": 9304,
+      "mst_chara_ids": [
+        93
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 93,
+      "text": "ここはずいぶんと騒々しいな。\n……いや、私に構わなければ気にせずともいい。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 93005,
+      "mst_chara_id": 93,
+      "mst_chara_grp": 9305,
+      "mst_chara_ids": [
+        93
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 93,
+      "text": "ロイドを甘やかす必要はない。\n力尽きるなら……それまでというだけだ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 66001,
+      "mst_chara_id": 66,
+      "mst_chara_grp": 6601,
+      "mst_chara_ids": [
+        66
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 66,
+      "text": "寝首をかかれぬよう、\nせいぜい気をつけるがいい。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 66002,
+      "mst_chara_id": 66,
+      "mst_chara_grp": 6602,
+      "mst_chara_ids": [
+        66
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 66,
+      "text": "貴様らはすぐに人を信用する。\nそして裏切られるのだ……。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 66003,
+      "mst_chara_id": 66,
+      "mst_chara_grp": 6603,
+      "mst_chara_ids": [
+        66
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 66,
+      "text": "この俺を飼いならした気でいるのか ？\nおめでたい奴らだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 66004,
+      "mst_chara_id": 66,
+      "mst_chara_grp": 6604,
+      "mst_chara_ids": [
+        66
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 66,
+      "text": "俺に立ちふさがる奴は、\nどんな手を使っても排除してやる。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 66005,
+      "mst_chara_id": 66,
+      "mst_chara_grp": 6605,
+      "mst_chara_ids": [
+        66
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 66,
+      "text": "この俺に恐怖を感じないというのか ？\n面白い、今すぐ教えてやろう……。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 105001,
+      "mst_chara_id": 105,
+      "mst_chara_grp": 10501,
+      "mst_chara_ids": [
+        105
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 105,
+      "text": "種族の壁があっても、わたしはわたし……\nそう言ってくれたお兄ちゃんを信じています。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 105002,
+      "mst_chara_id": 105,
+      "mst_chara_grp": 10502,
+      "mst_chara_ids": [
+        105
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 105,
+      "text": "争う事に力を使う位なら、人を信じる事に\n力を使いたい……私はそう思います。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 105003,
+      "mst_chara_id": 105,
+      "mst_chara_grp": 10503,
+      "mst_chara_ids": [
+        105
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 105,
+      "text": "相手の気持ちを思いやっても、いさかいは\n無くならないのでしょうか……。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 105004,
+      "mst_chara_id": 105,
+      "mst_chara_grp": 10504,
+      "mst_chara_ids": [
+        105
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 105,
+      "text": "料理なら得意です ！\nなんでもリクエストしてくださいね ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 105005,
+      "mst_chara_id": 105,
+      "mst_chara_grp": 10505,
+      "mst_chara_ids": [
+        105
+      ],
+      "chara_face": [
+        5
+      ],
+      "talk_chara_id": 105,
+      "text": "このペンですか ？ 別に小説を書いているとか、\nそういうのではないです……。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 118001,
+      "mst_chara_id": 118,
+      "mst_chara_grp": 11801,
+      "mst_chara_ids": [
+        118
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 118,
+      "text": "練習試合を所望したい。\n練習とはいえ、真剣勝負で頼む。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 118002,
+      "mst_chara_id": 118,
+      "mst_chara_grp": 11802,
+      "mst_chara_ids": [
+        118
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 118,
+      "text": "これほどの強者たちが集まっているとは……\n世界は広いな。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 118003,
+      "mst_chara_id": 118,
+      "mst_chara_grp": 11803,
+      "mst_chara_ids": [
+        118
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 118,
+      "text": "苦手なものは克服しなければ……\nわかってはいるんだが……。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 118004,
+      "mst_chara_id": 118,
+      "mst_chara_grp": 11804,
+      "mst_chara_ids": [
+        118
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 118,
+      "text": "戦う女性はやはり、男性から見ると魅力的では\nないのだろうか……いや、独り言だ。\n気にしないでくれ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 118005,
+      "mst_chara_id": 118,
+      "mst_chara_grp": 11805,
+      "mst_chara_ids": [
+        118
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 118,
+      "text": "私はこの剣に命を預ける。\n……だが、依存してはいけない。わかるか ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 102001,
+      "mst_chara_id": 102,
+      "mst_chara_grp": 10201,
+      "mst_chara_ids": [
+        102
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 102,
+      "text": "見せてもらおうか。\nお前が世界を託すに足る人間か。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 102002,
+      "mst_chara_id": 102,
+      "mst_chara_grp": 10202,
+      "mst_chara_ids": [
+        102
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 102,
+      "text": "強さが全てではない。\nだが、強くなくては守れないものもある。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 102003,
+      "mst_chara_id": 102,
+      "mst_chara_grp": 10203,
+      "mst_chara_ids": [
+        102
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 102,
+      "text": "壁が立ちふさがることもあるだろう。\nだが、決して諦めないことだ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 102004,
+      "mst_chara_id": 102,
+      "mst_chara_grp": 10204,
+      "mst_chara_ids": [
+        102
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 102,
+      "text": "機は熟したな……\nさあ、行くぞ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 102005,
+      "mst_chara_id": 102,
+      "mst_chara_grp": 10205,
+      "mst_chara_ids": [
+        102
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 102,
+      "text": "男子三日会わざれば刮目して見よ……とは、\nよく言ったものだな。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 103001,
+      "mst_chara_id": 103,
+      "mst_chara_grp": 10301,
+      "mst_chara_ids": [
+        103
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 103,
+      "text": "はーい♪\n元気してる～ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 103002,
+      "mst_chara_id": 103,
+      "mst_chara_grp": 10302,
+      "mst_chara_ids": [
+        103
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 103,
+      "text": "言いたいことは素直に口にしちゃうたちなの。\n気にしないでね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 103003,
+      "mst_chara_id": 103,
+      "mst_chara_grp": 10303,
+      "mst_chara_ids": [
+        103
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 103,
+      "text": "うふふ♪\n青春っていいわね～",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 103004,
+      "mst_chara_id": 103,
+      "mst_chara_grp": 10304,
+      "mst_chara_ids": [
+        103
+      ],
+      "chara_face": [
+        3
+      ],
+      "talk_chara_id": 103,
+      "text": "ここの人たちは精霊なんて、\n親戚くらいのレア度なのね。\nビックリしてくれなくてつまらない～",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 103005,
+      "mst_chara_id": 103,
+      "mst_chara_grp": 10305,
+      "mst_chara_ids": [
+        103
+      ],
+      "chara_face": [
+        2
+      ],
+      "talk_chara_id": 103,
+      "text": "ちょっとあなたたち、最近ミラばっかり\nちやほやしてない ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 109001,
+      "mst_chara_id": 109,
+      "mst_chara_grp": 10901,
+      "mst_chara_ids": [
+        109
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 109,
+      "text": "アスナは優秀なパートナーだ。\nクエストがあればチームを組ませてくれ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 109002,
+      "mst_chara_id": 109,
+      "mst_chara_grp": 10902,
+      "mst_chara_ids": [
+        109
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 109,
+      "text": "『術技の強化』は『強化クエスト』で\n素材集めだろ ？ 基本だよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 109003,
+      "mst_chara_id": 109,
+      "mst_chara_grp": 10903,
+      "mst_chara_ids": [
+        109
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 109,
+      "text": "『プリズム』で好きな装備と交換できるのか。\n積極的に交換していこう。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 109004,
+      "mst_chara_id": 109,
+      "mst_chara_grp": 10904,
+      "mst_chara_ids": [
+        109
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 109,
+      "text": "『始祖久遠の塔』をソロプレイするのは、\n少々骨が折れそうだな。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 109005,
+      "mst_chara_id": 109,
+      "mst_chara_grp": 10905,
+      "mst_chara_ids": [
+        109
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 109,
+      "text": "パーティの組み合わせによって戦術も\n変わっていくからな。もっとメンバーの\nことを教えてほしい。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 110001,
+      "mst_chara_id": 110,
+      "mst_chara_grp": 11001,
+      "mst_chara_ids": [
+        110
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 110,
+      "text": "細剣のソードスキルはかわされたら危険\nだから、命中精度を極める必要があるの。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 110002,
+      "mst_chara_id": 110,
+      "mst_chara_grp": 11002,
+      "mst_chara_ids": [
+        110
+      ],
+      "chara_face": [
+        6
+      ],
+      "talk_chara_id": 110,
+      "text": "油断は命とりよ。\n万全の体勢でクエストに臨まなきゃ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 110003,
+      "mst_chara_id": 110,
+      "mst_chara_grp": 11003,
+      "mst_chara_ids": [
+        110
+      ],
+      "chara_face": [
+        1
+      ],
+      "talk_chara_id": 110,
+      "text": "料理は得意だから、私にまかせてみて ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 110004,
+      "mst_chara_id": 110,
+      "mst_chara_grp": 11004,
+      "mst_chara_ids": [
+        110
+      ],
+      "chara_face": [
+        6
+      ],
+      "talk_chara_id": 110,
+      "text": "スキルの限界は……人に\n決められるものじゃないわ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 110005,
+      "mst_chara_id": 110,
+      "mst_chara_grp": 11005,
+      "mst_chara_ids": [
+        110
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 110,
+      "text": "任務があったら任せて。キリトくんと\n一緒なら、なんだってこなしてみせるわ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 62001,
+      "mst_chara_id": 62,
+      "mst_chara_grp": 6201,
+      "mst_chara_ids": [
+        62
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 62,
+      "text": "オレの剣技はまだ未熟かもしれないけど、\nそれって伸びしろがあるってことだろ ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 62002,
+      "mst_chara_id": 62,
+      "mst_chara_grp": 6202,
+      "mst_chara_ids": [
+        62
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 62,
+      "text": "オレにまかせてくれれば、なんとかなるって ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 62003,
+      "mst_chara_id": 62,
+      "mst_chara_grp": 6203,
+      "mst_chara_ids": [
+        62
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 62,
+      "text": "ここだとマーボーカレーはメジャーな料理みたいだ。\nへへっ、食べれるのが楽しみだな ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 62004,
+      "mst_chara_id": 62,
+      "mst_chara_grp": 6204,
+      "mst_chara_ids": [
+        62
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 62,
+      "text": "教わった剣技がホンモノだってこと、\nオレが証明してやるんだ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 62005,
+      "mst_chara_id": 62,
+      "mst_chara_grp": 6205,
+      "mst_chara_ids": [
+        62
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 62,
+      "text": "剣で倒せるなら、なんだって怖くない ！ …剣が\n効かないオバケは……どうすりゃいいんだ ？",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 58001,
+      "mst_chara_id": 58,
+      "mst_chara_grp": 5801,
+      "mst_chara_ids": [
+        58
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 58,
+      "text": "なんだい ？ オレに何か用 ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 58002,
+      "mst_chara_id": 58,
+      "mst_chara_grp": 5802,
+      "mst_chara_ids": [
+        58
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 58,
+      "text": "いい天気で良かったよね ！\n旅がしやすいじゃないか。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 58003,
+      "mst_chara_id": 58,
+      "mst_chara_grp": 5803,
+      "mst_chara_ids": [
+        58
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 58,
+      "text": "『ピーナッツの小さな男』って、\nどういう意味なんだろう ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 58004,
+      "mst_chara_id": 58,
+      "mst_chara_grp": 5804,
+      "mst_chara_ids": [
+        58
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 58,
+      "text": "誰かと想いをわかちあえればどんな暗闇から\nだって抜け出す道はあるんだ ！ ",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 58005,
+      "mst_chara_id": 58,
+      "mst_chara_grp": 5805,
+      "mst_chara_ids": [
+        58
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 58,
+      "text": "コハクってあんなに可愛いのに、すっごく\n強いんだよ。びっくりだよね。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 107001,
+      "mst_chara_id": 107,
+      "mst_chara_grp": 10701,
+      "mst_chara_ids": [
+        107
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 107,
+      "text": "私の力が必要であれば、誠意を込めて、\n精一杯、対処しましょう。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 107002,
+      "mst_chara_id": 107,
+      "mst_chara_grp": 10702,
+      "mst_chara_ids": [
+        107
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 107,
+      "text": "非常事態でも落ち着いて行動してください。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 107003,
+      "mst_chara_id": 107,
+      "mst_chara_grp": 10703,
+      "mst_chara_ids": [
+        107
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 107,
+      "text": "これだけの人数を率いるのは大変かと\n思いますが、頑張ってくださいね。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 107004,
+      "mst_chara_id": 107,
+      "mst_chara_grp": 10704,
+      "mst_chara_ids": [
+        107
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 107,
+      "text": "言葉は文字の羅列でなく、言霊となって\n力を持つのです。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 107005,
+      "mst_chara_id": 107,
+      "mst_chara_grp": 10705,
+      "mst_chara_ids": [
+        107
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 107,
+      "text": "天族と言っても、人と同じように接していただいて\nかまいませんわ。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 119001,
+      "mst_chara_id": 119,
+      "mst_chara_grp": 11901,
+      "mst_chara_ids": [
+        119
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 119,
+      "text": "金の切れ目が縁の切れ目……\nつまりずっと貢いでくれっす ！",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 119002,
+      "mst_chara_id": 119,
+      "mst_chara_grp": 11902,
+      "mst_chara_ids": [
+        119
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 119,
+      "text": "ここにはビジネスチャンスがあるっす。\nガルドラッシュっす ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 119003,
+      "mst_chara_id": 119,
+      "mst_chara_grp": 11903,
+      "mst_chara_ids": [
+        119
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 119,
+      "text": "ちょくちょく交換所にくるっす。\n今のうちに根こそぎ交換するっす。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 119004,
+      "mst_chara_id": 119,
+      "mst_chara_grp": 11904,
+      "mst_chara_ids": [
+        119
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 119,
+      "text": "よろずもめごとなんでも請け負うっす。\n料金は遠慮せず先払いでかまわないっす。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 119005,
+      "mst_chara_id": 119,
+      "mst_chara_grp": 11905,
+      "mst_chara_ids": [
+        119
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 119,
+      "text": "１ガルドに笑う者は１ガルドでツボにはまるっす。\n笑うのはいいことっす。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 22001,
+      "mst_chara_id": 22,
+      "mst_chara_grp": 2201,
+      "mst_chara_ids": [
+        22
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 22,
+      "text": "わたしのマイミソ、分けてあげようか ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 22002,
+      "mst_chara_id": 22,
+      "mst_chara_grp": 2202,
+      "mst_chara_ids": [
+        22
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 22,
+      "text": "明日もいい日になるといいね ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 22003,
+      "mst_chara_id": 22,
+      "mst_chara_grp": 2203,
+      "mst_chara_ids": [
+        22
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 22,
+      "text": "暗い所って怖いよね…",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 22004,
+      "mst_chara_id": 22,
+      "mst_chara_grp": 2204,
+      "mst_chara_ids": [
+        22
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 22,
+      "text": "絆の力は止められないよ ！",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 22005,
+      "mst_chara_id": 22,
+      "mst_chara_grp": 2205,
+      "mst_chara_ids": [
+        22
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 22,
+      "text": "お兄ちゃんの過保護っぷり、イヤってわけじゃ\nないんだけどちょっと控えてほしいな……",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 23001,
+      "mst_chara_id": 23,
+      "mst_chara_grp": 2301,
+      "mst_chara_ids": [
+        23
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 23,
+      "text": "コハクに余計なちょっかい、出してねぇだろうな ？",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 23002,
+      "mst_chara_id": 23,
+      "mst_chara_grp": 2302,
+      "mst_chara_ids": [
+        23
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 23,
+      "text": "苦しい時ほど笑ってみせるのがかっこいい男\n――いや、かっこいい人間なんだよ ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 23003,
+      "mst_chara_id": 23,
+      "mst_chara_grp": 2303,
+      "mst_chara_ids": [
+        23
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 23,
+      "text": "いつでも相手してやっから、気合いいれて\n強くなりやがれッ ！",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 23004,
+      "mst_chara_id": 23,
+      "mst_chara_grp": 2304,
+      "mst_chara_ids": [
+        23
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 23,
+      "text": "若いうちから楽な生活夢見てっと\nロクな人間に育たねぇぞ ？",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 23005,
+      "mst_chara_id": 23,
+      "mst_chara_grp": 2305,
+      "mst_chara_ids": [
+        23
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 23,
+      "text": "この食い物うまいなあ。\n後でコハクに持って行ってやるか.。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 111001,
+      "mst_chara_id": 111,
+      "mst_chara_grp": 11101,
+      "mst_chara_ids": [
+        111
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 111,
+      "text": "食べ物から命をもらうから「いただきます」って\n言うんだよ。素敵な言葉だよね。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 111002,
+      "mst_chara_id": 111,
+      "mst_chara_grp": 11102,
+      "mst_chara_ids": [
+        111
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 111,
+      "text": "みんなで未来を創って行こうね。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 111003,
+      "mst_chara_id": 111,
+      "mst_chara_grp": 11103,
+      "mst_chara_ids": [
+        111
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 111,
+      "text": "絵を描くのが好きなんだ。\nあなたのことも描いてあげようか ？",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 111004,
+      "mst_chara_id": 111,
+      "mst_chara_grp": 11104,
+      "mst_chara_ids": [
+        111
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 111,
+      "text": "ロックスの作ってくれるおやつは、\nどれもとってもおいしいんだよ ♪",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 111005,
+      "mst_chara_id": 111,
+      "mst_chara_grp": 11105,
+      "mst_chara_ids": [
+        111
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 111,
+      "text": "辛くても、明日を守るためなら、\n決して逃げたりしない ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 128001,
+      "mst_chara_id": 128,
+      "mst_chara_grp": 12801,
+      "mst_chara_ids": [
+        128
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 128,
+      "text": "よくこの人数を統率できるね……。\n何だか学校みたいだな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 128002,
+      "mst_chara_id": 128,
+      "mst_chara_grp": 12802,
+      "mst_chara_ids": [
+        128
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 128,
+      "text": "ボクを子供扱いすると、痛い目を見るよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 128003,
+      "mst_chara_id": 128,
+      "mst_chara_grp": 12803,
+      "mst_chara_ids": [
+        128
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 128,
+      "text": "姉さんはいつまでたっても口うるさいんだ。\n子供扱いしないで欲しいよ。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 128004,
+      "mst_chara_id": 128,
+      "mst_chara_grp": 12804,
+      "mst_chara_ids": [
+        128
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 128,
+      "text": "ここでもハーフエルフは珍しいの ？　え ？\nそもそも知らない ？　何だか不思議な感じだな。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 128005,
+      "mst_chara_id": 128,
+      "mst_chara_grp": 12805,
+      "mst_chara_ids": [
+        128
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 128,
+      "text": "プレセアはボクが守ってあげるんだ ！",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 129001,
+      "mst_chara_id": 129,
+      "mst_chara_grp": 12901,
+      "mst_chara_ids": [
+        129
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 129,
+      "text": "任務があるなら、早速向かいましょう。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 129002,
+      "mst_chara_id": 129,
+      "mst_chara_grp": 12902,
+      "mst_chara_ids": [
+        129
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 129,
+      "text": "自分のことは自分でやれます。\n気を使わないでください。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 129003,
+      "mst_chara_id": 129,
+      "mst_chara_grp": 12903,
+      "mst_chara_ids": [
+        129
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 129,
+      "text": "この斧は、木を切るのに最適です。\n……そういえば、最近木を切っていません。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 129004,
+      "mst_chara_id": 129,
+      "mst_chara_grp": 12904,
+      "mst_chara_ids": [
+        129
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 129,
+      "text": "生きてきた時間と今の姿も乖離しているのに、\n元の世界まで遠くなってしまった……。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 129005,
+      "mst_chara_id": 129,
+      "mst_chara_grp": 12905,
+      "mst_chara_ids": [
+        129
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 129,
+      "text": "ここにも素晴らしい肉球の持ち主がいて\n嬉しいです……。",
+      "voice_cue": "14_05_b"
+    },
+    {
+      "id": 106001,
+      "mst_chara_id": 106,
+      "mst_chara_grp": 10601,
+      "mst_chara_ids": [
+        106
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 106,
+      "text": "腕が立つ奴らがゴロゴロしてやがる。\n本気だしていかねえとな。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 106002,
+      "mst_chara_id": 106,
+      "mst_chara_grp": 10602,
+      "mst_chara_ids": [
+        106
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 106,
+      "text": "士道訓五箇条が一つ ！\n『心に剣を持ち、誰かの楯となれ』ってな ！",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 106003,
+      "mst_chara_id": 106,
+      "mst_chara_grp": 10603,
+      "mst_chara_ids": [
+        106
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 106,
+      "text": "稀代の剣豪スパーダ様に\n断てぬもの、なし ！　ってな",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 106004,
+      "mst_chara_id": 106,
+      "mst_chara_grp": 10604,
+      "mst_chara_ids": [
+        106
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 106,
+      "text": "ルカの奴は一見、気は小さいが、いざってときには\n頼りになるぜ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 106005,
+      "mst_chara_id": 106,
+      "mst_chara_grp": 10605,
+      "mst_chara_ids": [
+        106
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 106,
+      "text": "結構二刀流の使い手がいるな。\nいっちょ実技訓練でもしてみるか。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 121001,
+      "mst_chara_id": 121,
+      "mst_chara_grp": 12101,
+      "mst_chara_ids": [
+        121
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 121,
+      "text": "私は今の状況を楽観的に受け止める気はないわ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 121002,
+      "mst_chara_id": 121,
+      "mst_chara_grp": 12102,
+      "mst_chara_ids": [
+        121
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 121,
+      "text": "占って欲しいのかしら ？\n私は嘘はつけないわよ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 121003,
+      "mst_chara_id": 121,
+      "mst_chara_grp": 12103,
+      "mst_chara_ids": [
+        121
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 121,
+      "text": "ここは騒がしいわね……\n一人でもうんざりしていたのに。",
+      "voice_cue": "14_03"
+    },
+    {
+      "id": 121004,
+      "mst_chara_id": 121,
+      "mst_chara_grp": 12104,
+      "mst_chara_ids": [
+        121
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 121,
+      "text": "他の人が不幸だったからって、\n楽になれるような性格ではないの。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 121005,
+      "mst_chara_id": 121,
+      "mst_chara_grp": 12105,
+      "mst_chara_ids": [
+        121
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 121,
+      "text": "未来の予言を都合のいいように受け止める……\nそれも大事なことかしらね。",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 85001,
+      "mst_chara_id": 85,
+      "mst_chara_grp": 8501,
+      "mst_chara_ids": [
+        85
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 85,
+      "text": "召喚は便利な道具などではない。\n精霊との信頼関係が大切なんだ。",
+      "voice_cue": "14_01"
+    },
+    {
+      "id": 85002,
+      "mst_chara_id": 85,
+      "mst_chara_grp": 8502,
+      "mst_chara_ids": [
+        85
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 85,
+      "text": "契約には『召喚具』という媒体が必要だ。\nそれを介して現世で力を行使できる、というわけさ。",
+      "voice_cue": "14_02"
+    },
+    {
+      "id": 85004,
+      "mst_chara_id": 85,
+      "mst_chara_grp": 8504,
+      "mst_chara_ids": [
+        85
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 85,
+      "text": "魔術とは本来、エルフが行使するものでね。\n私はそれでも魔術の力を得るため、様々な研究をしてきたんだ。",
+      "voice_cue": "14_04"
+    },
+    {
+      "id": 85005,
+      "mst_chara_id": 85,
+      "mst_chara_grp": 8505,
+      "mst_chara_ids": [
+        85
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 85,
+      "text": "ミラルドはこちらに来ていないのか ？\n……まいったな、研究の続きをしたいんだが……",
+      "voice_cue": "14_05"
+    },
+    {
+      "id": 85006,
+      "mst_chara_id": 85,
+      "mst_chara_grp": 8506,
+      "mst_chara_ids": [
+        85
+      ],
+      "chara_face": [
+        0
+      ],
+      "talk_chara_id": 85,
+      "text": "そうか、召喚士というものが珍しいんだな。",
+      "voice_cue": "14_06"
+    }
+  ],
+  "mst_chara_behaviour": [
+    {
+      "id": 1,
+      "mst_chara_id": 1,
+      "motion_grp_id": 1001,
+      "emotion_grp_id": 1001,
+      "height": 178,
+      "relative_height": 10
+    },
+    {
+      "id": 2,
+      "mst_chara_id": 2,
+      "motion_grp_id": 1002,
+      "emotion_grp_id": 1002,
+      "height": 162,
+      "relative_height": 15
+    },
+    {
+      "id": 3,
+      "mst_chara_id": 5,
+      "motion_grp_id": 1005,
+      "emotion_grp_id": 1005,
+      "height": 157,
+      "relative_height": 20
+    },
+    {
+      "id": 4,
+      "mst_chara_id": 14,
+      "motion_grp_id": 1014,
+      "emotion_grp_id": 1014,
+      "height": 171,
+      "relative_height": 10
+    },
+    {
+      "id": 5,
+      "mst_chara_id": 19,
+      "motion_grp_id": 1019,
+      "emotion_grp_id": 1019,
+      "height": 180,
+      "relative_height": 10
+    },
+    {
+      "id": 6,
+      "mst_chara_id": 20,
+      "motion_grp_id": 1020,
+      "emotion_grp_id": 1020,
+      "height": 60,
+      "relative_height": 60
+    },
+    {
+      "id": 7,
+      "mst_chara_id": 25,
+      "motion_grp_id": 1025,
+      "emotion_grp_id": 1025,
+      "height": 148,
+      "relative_height": 20
+    },
+    {
+      "id": 8,
+      "mst_chara_id": 27,
+      "motion_grp_id": 1027,
+      "emotion_grp_id": 1027,
+      "height": 163,
+      "relative_height": 10
+    },
+    {
+      "id": 9,
+      "mst_chara_id": 31,
+      "motion_grp_id": 1031,
+      "emotion_grp_id": 1031,
+      "height": 175,
+      "relative_height": 15
+    },
+    {
+      "id": 10,
+      "mst_chara_id": 15,
+      "motion_grp_id": 1015,
+      "emotion_grp_id": 1015,
+      "height": 186,
+      "relative_height": 10
+    },
+    {
+      "id": 11,
+      "mst_chara_id": 35,
+      "motion_grp_id": 1035,
+      "emotion_grp_id": 1035,
+      "height": 162,
+      "relative_height": 10
+    },
+    {
+      "id": 32001,
+      "mst_chara_id": 32,
+      "motion_grp_id": 1032,
+      "emotion_grp_id": 1032,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 36001,
+      "mst_chara_id": 36,
+      "motion_grp_id": 1036,
+      "emotion_grp_id": 1036,
+      "height": 145,
+      "relative_height": 10
+    },
+    {
+      "id": 7001,
+      "mst_chara_id": 7,
+      "motion_grp_id": 1007,
+      "emotion_grp_id": 1007,
+      "height": 157,
+      "relative_height": 10
+    },
+    {
+      "id": 8001,
+      "mst_chara_id": 8,
+      "motion_grp_id": 1008,
+      "emotion_grp_id": 1008,
+      "height": 174,
+      "relative_height": 10
+    },
+    {
+      "id": 28001,
+      "mst_chara_id": 28,
+      "motion_grp_id": 1028,
+      "emotion_grp_id": 1028,
+      "height": 168,
+      "relative_height": 10
+    },
+    {
+      "id": 29001,
+      "mst_chara_id": 29,
+      "motion_grp_id": 1029,
+      "emotion_grp_id": 1029,
+      "height": 145,
+      "relative_height": 10
+    },
+    {
+      "id": 40001,
+      "mst_chara_id": 40,
+      "motion_grp_id": 1040,
+      "emotion_grp_id": 1040,
+      "height": 178,
+      "relative_height": 10
+    },
+    {
+      "id": 41001,
+      "mst_chara_id": 41,
+      "motion_grp_id": 1041,
+      "emotion_grp_id": 1041,
+      "height": 161,
+      "relative_height": 10
+    },
+    {
+      "id": 43001,
+      "mst_chara_id": 43,
+      "motion_grp_id": 1043,
+      "emotion_grp_id": 1043,
+      "height": 172,
+      "relative_height": 10
+    },
+    {
+      "id": 6001,
+      "mst_chara_id": 6,
+      "motion_grp_id": 106,
+      "emotion_grp_id": 106,
+      "height": 159,
+      "relative_height": 10
+    },
+    {
+      "id": 46001,
+      "mst_chara_id": 46,
+      "motion_grp_id": 10046,
+      "emotion_grp_id": 10046,
+      "height": 160,
+      "relative_height": 10
+    },
+    {
+      "id": 47001,
+      "mst_chara_id": 47,
+      "motion_grp_id": 10047,
+      "emotion_grp_id": 10047,
+      "height": 155,
+      "relative_height": 10
+    },
+    {
+      "id": 9001,
+      "mst_chara_id": 9,
+      "motion_grp_id": 1009,
+      "emotion_grp_id": 1009,
+      "height": 173,
+      "relative_height": 10
+    },
+    {
+      "id": 11001,
+      "mst_chara_id": 11,
+      "motion_grp_id": 10011,
+      "emotion_grp_id": 10011,
+      "height": 166,
+      "relative_height": 10
+    },
+    {
+      "id": 21001,
+      "mst_chara_id": 21,
+      "motion_grp_id": 1021,
+      "emotion_grp_id": 1021,
+      "height": 150,
+      "relative_height": 10
+    },
+    {
+      "id": 42001,
+      "mst_chara_id": 42,
+      "motion_grp_id": 1042,
+      "emotion_grp_id": 1042,
+      "height": 170,
+      "relative_height": 10
+    },
+    {
+      "id": 68001,
+      "mst_chara_id": 68,
+      "motion_grp_id": 10068,
+      "emotion_grp_id": 10068,
+      "height": 1,
+      "relative_height": 10
+    },
+    {
+      "id": 37001,
+      "mst_chara_id": 37,
+      "motion_grp_id": 10037,
+      "emotion_grp_id": 10037,
+      "height": 170,
+      "relative_height": 10
+    },
+    {
+      "id": 10001,
+      "mst_chara_id": 10,
+      "motion_grp_id": 10010,
+      "emotion_grp_id": 10010,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 56001,
+      "mst_chara_id": 56,
+      "motion_grp_id": 10056,
+      "emotion_grp_id": 10056,
+      "height": 184,
+      "relative_height": 10
+    },
+    {
+      "id": 50001,
+      "mst_chara_id": 50,
+      "motion_grp_id": 10050,
+      "emotion_grp_id": 10050,
+      "height": 161,
+      "relative_height": 10
+    },
+    {
+      "id": 3001,
+      "mst_chara_id": 3,
+      "motion_grp_id": 1003,
+      "emotion_grp_id": 1003,
+      "height": 170,
+      "relative_height": 10
+    },
+    {
+      "id": 4001,
+      "mst_chara_id": 4,
+      "motion_grp_id": 1004,
+      "emotion_grp_id": 1004,
+      "height": 175,
+      "relative_height": 10
+    },
+    {
+      "id": 24001,
+      "mst_chara_id": 24,
+      "motion_grp_id": 10024,
+      "emotion_grp_id": 10024,
+      "height": 175,
+      "relative_height": 10
+    },
+    {
+      "id": 39001,
+      "mst_chara_id": 39,
+      "motion_grp_id": 10039,
+      "emotion_grp_id": 10039,
+      "height": 160,
+      "relative_height": 10
+    },
+    {
+      "id": 71001,
+      "mst_chara_id": 71,
+      "motion_grp_id": 10071,
+      "emotion_grp_id": 10071,
+      "height": 169,
+      "relative_height": 10
+    },
+    {
+      "id": 72001,
+      "mst_chara_id": 72,
+      "motion_grp_id": 10072,
+      "emotion_grp_id": 10072,
+      "height": 153,
+      "relative_height": 10
+    },
+    {
+      "id": 48001,
+      "mst_chara_id": 48,
+      "motion_grp_id": 10048,
+      "emotion_grp_id": 10048,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 60001,
+      "mst_chara_id": 60,
+      "motion_grp_id": 10060,
+      "emotion_grp_id": 10060,
+      "height": 187,
+      "relative_height": 10
+    },
+    {
+      "id": 38001,
+      "mst_chara_id": 38,
+      "motion_grp_id": 10038,
+      "emotion_grp_id": 10038,
+      "height": 120,
+      "relative_height": 10
+    },
+    {
+      "id": 73001,
+      "mst_chara_id": 73,
+      "motion_grp_id": 10073,
+      "emotion_grp_id": 10073,
+      "height": 162,
+      "relative_height": 10
+    },
+    {
+      "id": 74001,
+      "mst_chara_id": 74,
+      "motion_grp_id": 10074,
+      "emotion_grp_id": 10074,
+      "height": 157,
+      "relative_height": 10
+    },
+    {
+      "id": 44001,
+      "mst_chara_id": 44,
+      "motion_grp_id": 10044,
+      "emotion_grp_id": 10044,
+      "height": 179,
+      "relative_height": 10
+    },
+    {
+      "id": 57001,
+      "mst_chara_id": 57,
+      "motion_grp_id": 10057,
+      "emotion_grp_id": 10057,
+      "height": 159,
+      "relative_height": 10
+    },
+    {
+      "id": 70001,
+      "mst_chara_id": 70,
+      "motion_grp_id": 10070,
+      "emotion_grp_id": 10070,
+      "height": 175,
+      "relative_height": 10
+    },
+    {
+      "id": 33001,
+      "mst_chara_id": 33,
+      "motion_grp_id": 10033,
+      "emotion_grp_id": 10033,
+      "height": 157,
+      "relative_height": 10
+    },
+    {
+      "id": 30001,
+      "mst_chara_id": 30,
+      "motion_grp_id": 10030,
+      "emotion_grp_id": 10030,
+      "height": 170,
+      "relative_height": 10
+    },
+    {
+      "id": 59001,
+      "mst_chara_id": 59,
+      "motion_grp_id": 10059,
+      "emotion_grp_id": 10059,
+      "height": 180,
+      "relative_height": 10
+    },
+    {
+      "id": 86001,
+      "mst_chara_id": 86,
+      "motion_grp_id": 10086,
+      "emotion_grp_id": 10086,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 87001,
+      "mst_chara_id": 87,
+      "motion_grp_id": 10087,
+      "emotion_grp_id": 10087,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 55001,
+      "mst_chara_id": 55,
+      "motion_grp_id": 10055,
+      "emotion_grp_id": 10055,
+      "height": 171,
+      "relative_height": 10
+    },
+    {
+      "id": 12001,
+      "mst_chara_id": 12,
+      "motion_grp_id": 10012,
+      "emotion_grp_id": 10012,
+      "height": 183,
+      "relative_height": 10
+    },
+    {
+      "id": 52001,
+      "mst_chara_id": 52,
+      "motion_grp_id": 10052,
+      "emotion_grp_id": 10052,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 94001,
+      "mst_chara_id": 94,
+      "motion_grp_id": 10094,
+      "emotion_grp_id": 10094,
+      "height": 135,
+      "relative_height": 10
+    },
+    {
+      "id": 83001,
+      "mst_chara_id": 83,
+      "motion_grp_id": 10083,
+      "emotion_grp_id": 10083,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 10001001,
+      "mst_chara_id": 10001,
+      "motion_grp_id": 10010001,
+      "emotion_grp_id": 10010001,
+      "height": 168,
+      "relative_height": 10
+    },
+    {
+      "id": 80001,
+      "mst_chara_id": 80,
+      "motion_grp_id": 10080,
+      "emotion_grp_id": 10080,
+      "height": 168,
+      "relative_height": 10
+    },
+    {
+      "id": 77001,
+      "mst_chara_id": 77,
+      "motion_grp_id": 10077,
+      "emotion_grp_id": 10077,
+      "height": 160,
+      "relative_height": 10
+    },
+    {
+      "id": 78001,
+      "mst_chara_id": 78,
+      "motion_grp_id": 10078,
+      "emotion_grp_id": 10078,
+      "height": 185,
+      "relative_height": 10
+    },
+    {
+      "id": 16001,
+      "mst_chara_id": 16,
+      "motion_grp_id": 10016,
+      "emotion_grp_id": 10016,
+      "height": 152,
+      "relative_height": 10
+    },
+    {
+      "id": 17001,
+      "mst_chara_id": 17,
+      "motion_grp_id": 10017,
+      "emotion_grp_id": 10017,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 51001,
+      "mst_chara_id": 51,
+      "motion_grp_id": 10051,
+      "emotion_grp_id": 10051,
+      "height": 162,
+      "relative_height": 10
+    },
+    {
+      "id": 67001,
+      "mst_chara_id": 67,
+      "motion_grp_id": 10067,
+      "emotion_grp_id": 10067,
+      "height": 153,
+      "relative_height": 10
+    },
+    {
+      "id": 49001,
+      "mst_chara_id": 49,
+      "motion_grp_id": 10049,
+      "emotion_grp_id": 10049,
+      "height": 182,
+      "relative_height": 10
+    },
+    {
+      "id": 98001,
+      "mst_chara_id": 98,
+      "motion_grp_id": 10098,
+      "emotion_grp_id": 10098,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 89001,
+      "mst_chara_id": 89,
+      "motion_grp_id": 10089,
+      "emotion_grp_id": 10089,
+      "height": 150,
+      "relative_height": 10
+    },
+    {
+      "id": 99001,
+      "mst_chara_id": 99,
+      "motion_grp_id": 10099,
+      "emotion_grp_id": 10099,
+      "height": 1.6100000143051147,
+      "relative_height": 10
+    },
+    {
+      "id": 76001,
+      "mst_chara_id": 76,
+      "motion_grp_id": 10076,
+      "emotion_grp_id": 10076,
+      "height": 171,
+      "relative_height": 10
+    },
+    {
+      "id": 26001,
+      "mst_chara_id": 26,
+      "motion_grp_id": 10026,
+      "emotion_grp_id": 10026,
+      "height": 155,
+      "relative_height": 10
+    },
+    {
+      "id": 101001,
+      "mst_chara_id": 101,
+      "motion_grp_id": 100101,
+      "emotion_grp_id": 100101,
+      "height": 164,
+      "relative_height": 10
+    },
+    {
+      "id": 100001,
+      "mst_chara_id": 100,
+      "motion_grp_id": 100100,
+      "emotion_grp_id": 100100,
+      "height": 160,
+      "relative_height": 10
+    },
+    {
+      "id": 82001,
+      "mst_chara_id": 82,
+      "motion_grp_id": 10082,
+      "emotion_grp_id": 10082,
+      "height": 160,
+      "relative_height": 10
+    },
+    {
+      "id": 54001,
+      "mst_chara_id": 54,
+      "motion_grp_id": 10054,
+      "emotion_grp_id": 10054,
+      "height": 171,
+      "relative_height": 10
+    },
+    {
+      "id": 45001,
+      "mst_chara_id": 45,
+      "motion_grp_id": 10045,
+      "emotion_grp_id": 10045,
+      "height": 168,
+      "relative_height": 10
+    },
+    {
+      "id": 93001,
+      "mst_chara_id": 93,
+      "motion_grp_id": 10093,
+      "emotion_grp_id": 10093,
+      "height": 186,
+      "relative_height": 10
+    },
+    {
+      "id": 66001,
+      "mst_chara_id": 66,
+      "motion_grp_id": 10066,
+      "emotion_grp_id": 10066,
+      "height": 187,
+      "relative_height": 10
+    },
+    {
+      "id": 105001,
+      "mst_chara_id": 105,
+      "motion_grp_id": 100105,
+      "emotion_grp_id": 100105,
+      "height": 154,
+      "relative_height": 10
+    },
+    {
+      "id": 118001,
+      "mst_chara_id": 118,
+      "motion_grp_id": 100118,
+      "emotion_grp_id": 100118,
+      "height": 167,
+      "relative_height": 10
+    },
+    {
+      "id": 102001,
+      "mst_chara_id": 102,
+      "motion_grp_id": 100102,
+      "emotion_grp_id": 100102,
+      "height": 185,
+      "relative_height": 10
+    },
+    {
+      "id": 103001,
+      "mst_chara_id": 103,
+      "motion_grp_id": 100103,
+      "emotion_grp_id": 100103,
+      "height": 168,
+      "relative_height": 10
+    },
+    {
+      "id": 109001,
+      "mst_chara_id": 109,
+      "motion_grp_id": 100109,
+      "emotion_grp_id": 100109,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 110001,
+      "mst_chara_id": 110,
+      "motion_grp_id": 100110,
+      "emotion_grp_id": 100110,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 62001,
+      "mst_chara_id": 62,
+      "motion_grp_id": 10062,
+      "emotion_grp_id": 10062,
+      "height": 165,
+      "relative_height": 10
+    },
+    {
+      "id": 58001,
+      "mst_chara_id": 58,
+      "motion_grp_id": 10058,
+      "emotion_grp_id": 10058,
+      "height": 167,
+      "relative_height": 10
+    },
+    {
+      "id": 107001,
+      "mst_chara_id": 107,
+      "motion_grp_id": 100107,
+      "emotion_grp_id": 100107,
+      "height": 172,
+      "relative_height": 10
+    },
+    {
+      "id": 119001,
+      "mst_chara_id": 119,
+      "motion_grp_id": 100119,
+      "emotion_grp_id": 100119,
+      "height": 1.2999999523162842,
+      "relative_height": 10
+    },
+    {
+      "id": 22001,
+      "mst_chara_id": 22,
+      "motion_grp_id": 10022,
+      "emotion_grp_id": 10022,
+      "height": 1.5800000429153442,
+      "relative_height": 10
+    },
+    {
+      "id": 23001,
+      "mst_chara_id": 23,
+      "motion_grp_id": 10023,
+      "emotion_grp_id": 10023,
+      "height": 184,
+      "relative_height": 10
+    },
+    {
+      "id": 111001,
+      "mst_chara_id": 111,
+      "motion_grp_id": 100111,
+      "emotion_grp_id": 100111,
+      "height": 158,
+      "relative_height": 10
+    },
+    {
+      "id": 128001,
+      "mst_chara_id": 128,
+      "motion_grp_id": 100128,
+      "emotion_grp_id": 100128,
+      "height": 1,
+      "relative_height": 10
+    },
+    {
+      "id": 129001,
+      "mst_chara_id": 129,
+      "motion_grp_id": 100129,
+      "emotion_grp_id": 100129,
+      "height": 1,
+      "relative_height": 10
+    },
+    {
+      "id": 106001,
+      "mst_chara_id": 106,
+      "motion_grp_id": 100106,
+      "emotion_grp_id": 100106,
+      "height": 1,
+      "relative_height": 10
+    },
+    {
+      "id": 121001,
+      "mst_chara_id": 121,
+      "motion_grp_id": 100121,
+      "emotion_grp_id": 100121,
+      "height": 1,
+      "relative_height": 10
+    },
+    {
+      "id": 85001,
+      "mst_chara_id": 85,
+      "motion_grp_id": 10085,
+      "emotion_grp_id": 10085,
+      "height": 1,
+      "relative_height": 10
+    }
+  ],
+  "mst_chara_motion": [
+    {
+      "motion_grp_id": 1001,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1001,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1002,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1002,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1005,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1005,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.5,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1014,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1014,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1019,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1019,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1020,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2.066999912261963,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1020,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 10,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1025,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1025,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1027,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1027,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1031,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1031,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1015,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1015,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1035,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1035,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1032,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1032,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1036,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1036,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.333000183105469,
+      "cross_fade_time": 0.20000000298023224
+    },
+    {
+      "motion_grp_id": 1007,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1007,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 3,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1008,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1008,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1028,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1028,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1029,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1029,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 7,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1040,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1040,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1041,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1041,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1043,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1043,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 106,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 106,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10046,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10046,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10047,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10047,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1009,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1009,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10011,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10011,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1021,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1021,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1042,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1042,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.632999897003174,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10068,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10068,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10037,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10037,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10010,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10010,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6.933000087738037,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10056,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10056,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.882999897003174,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10050,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10050,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1003,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1003,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1004,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 1004,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 7.5329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10024,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10024,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.829999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10039,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10039,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10071,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10071,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10072,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10072,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 2.7730000019073486,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10048,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10048,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10060,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10060,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6.166999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10038,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10038,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 2.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10073,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10073,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.659999847412109,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10074,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10074,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10044,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10044,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10057,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10057,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10070,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10070,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10033,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10033,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 7,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10030,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10030,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10059,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10059,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10086,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10086,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10087,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10087,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10055,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10055,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10012,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10012,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10052,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10052,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10094,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10094,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.333000183105469,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10083,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10083,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10010001,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10010001,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10080,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10080,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10077,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10077,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 3.6670000553131104,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10078,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10078,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.833000183105469,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10016,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10016,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.333000183105469,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10017,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10017,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10051,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10051,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10067,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10067,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.333000183105469,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10049,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10049,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10098,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10098,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 3.6670000553131104,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10089,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10089,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.099999904632568,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10099,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10099,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 3.6670000553131104,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10076,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10076,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10026,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10026,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100101,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100101,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.329999923706055,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100100,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100100,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10082,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10082,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 6.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10054,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10054,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10045,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10045,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.666999816894531,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10093,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10093,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10066,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10066,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100105,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100105,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100118,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100118,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5.5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100102,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100102,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100103,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100103,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 5,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100109,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100109,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100110,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100110,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 99,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10062,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10062,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10058,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10058,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100107,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100107,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100119,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100119,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 3.3299999237060547,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10022,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10022,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10023,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10023,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100111,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100111,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 4,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100128,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100128,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100129,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100129,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100106,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100106,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100121,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 100121,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10085,
+      "motion_name": "IDLE",
+      "exec_probability": 70,
+      "play_time": 2,
+      "cross_fade_time": 1
+    },
+    {
+      "motion_grp_id": 10085,
+      "motion_name": "ACTION01",
+      "exec_probability": 30,
+      "play_time": 1,
+      "cross_fade_time": 1
+    }
+  ],
+  "mst_chara_emotion": [
+    {
+      "emotion_grp_id": 1001,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1002,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 1005,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.5
+    },
+    {
+      "emotion_grp_id": 1014,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1019,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 1020,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 10
+    },
+    {
+      "emotion_grp_id": 1025,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.666999816894531
+    },
+    {
+      "emotion_grp_id": 1027,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1031,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.666999816894531
+    },
+    {
+      "emotion_grp_id": 1015,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1035,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1032,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1036,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1007,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1008,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1028,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1029,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1040,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 1041,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6.666999816894531
+    },
+    {
+      "emotion_grp_id": 1043,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 106,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10046,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6
+    },
+    {
+      "emotion_grp_id": 10047,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6
+    },
+    {
+      "emotion_grp_id": 1009,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.5
+    },
+    {
+      "emotion_grp_id": 10011,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.5
+    },
+    {
+      "emotion_grp_id": 1021,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.666999816894531
+    },
+    {
+      "emotion_grp_id": 1042,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.632999897003174
+    },
+    {
+      "emotion_grp_id": 10068,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 1
+    },
+    {
+      "emotion_grp_id": 10037,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 6.5
+    },
+    {
+      "emotion_grp_id": 10010,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6.933000087738037
+    },
+    {
+      "emotion_grp_id": 10056,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.882999897003174
+    },
+    {
+      "emotion_grp_id": 10050,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.666999816894531
+    },
+    {
+      "emotion_grp_id": 1003,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.666999816894531
+    },
+    {
+      "emotion_grp_id": 1004,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 7.5329999923706055
+    },
+    {
+      "emotion_grp_id": 10024,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.829999923706055
+    },
+    {
+      "emotion_grp_id": 10039,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10071,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10072,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 2.7730000019073486
+    },
+    {
+      "emotion_grp_id": 10048,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10060,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 6.166999816894531
+    },
+    {
+      "emotion_grp_id": 10038,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 2.5
+    },
+    {
+      "emotion_grp_id": 10073,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.659999847412109
+    },
+    {
+      "emotion_grp_id": 10074,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10044,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.666999816894531
+    },
+    {
+      "emotion_grp_id": 10057,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10070,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10033,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 7
+    },
+    {
+      "emotion_grp_id": 10030,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 10059,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.329999923706055
+    },
+    {
+      "emotion_grp_id": 10086,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10087,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10055,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10012,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6
+    },
+    {
+      "emotion_grp_id": 10052,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10094,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.333000183105469
+    },
+    {
+      "emotion_grp_id": 10083,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.5
+    },
+    {
+      "emotion_grp_id": 10010001,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10080,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10077,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 3.6670000553131104
+    },
+    {
+      "emotion_grp_id": 10078,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.833000183105469
+    },
+    {
+      "emotion_grp_id": 10016,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.333000183105469
+    },
+    {
+      "emotion_grp_id": 10017,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10051,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.329999923706055
+    },
+    {
+      "emotion_grp_id": 10067,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.333000183105469
+    },
+    {
+      "emotion_grp_id": 10049,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.329999923706055
+    },
+    {
+      "emotion_grp_id": 10098,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 3.6670000553131104
+    },
+    {
+      "emotion_grp_id": 10089,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.099999904632568
+    },
+    {
+      "emotion_grp_id": 10099,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 3.6670000553131104
+    },
+    {
+      "emotion_grp_id": 10076,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.329999923706055
+    },
+    {
+      "emotion_grp_id": 10026,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.5
+    },
+    {
+      "emotion_grp_id": 100101,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.329999923706055
+    },
+    {
+      "emotion_grp_id": 100100,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 10082,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 6.666999816894531
+    },
+    {
+      "emotion_grp_id": 10054,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10045,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4.666999816894531
+    },
+    {
+      "emotion_grp_id": 10093,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10066,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Silence",
+      "voice_cue": "",
+      "time": 4.5
+    },
+    {
+      "emotion_grp_id": 100105,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 100118,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 5.5
+    },
+    {
+      "emotion_grp_id": 100102,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100103,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Heart",
+      "voice_cue": "",
+      "time": 5
+    },
+    {
+      "emotion_grp_id": 100109,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100110,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 99
+    },
+    {
+      "emotion_grp_id": 10062,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10058,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100107,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100119,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 3.3299999237060547
+    },
+    {
+      "emotion_grp_id": 10022,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 10023,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100111,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100128,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100129,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 4
+    },
+    {
+      "emotion_grp_id": 100106,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 1
+    },
+    {
+      "emotion_grp_id": 100121,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 1
+    },
+    {
+      "emotion_grp_id": 10085,
+      "motion_name": "ACTION01",
+      "emotion_name": "Icon_Notice",
+      "voice_cue": "",
+      "time": 1
+    }
+  ]
+}
